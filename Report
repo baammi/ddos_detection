@@ -1,10 +1,19 @@
 1-Introduction
-  DDos Atacks overview
-    Amplification
-    Reflection
-    GRE
-  Mirai introduction
-    Krebsonsecurity
+  1.1-DDos Atacks overview
+    *Amplification
+    *Reflection
+    *GRE
+  1.2-Mirai introduction
+    *Krebsonsecurity 
+    20.09.2016
+    620 Gbps DDoS attack.
+    the DDoS mitigation services provided by Akamai.
+    Akamai had to “black-hole” all traffic to Krebs site into 127.0.0.1 and to disconnect Krebs site.
+    traffic being mitigated was causing performance losses to other customers.
+    it would have costed millions of dollars to continue mitigating the attack.
+    it flooded his site with generic routing encapsulation (GRE) packets , SYN, GET, and POST, which require a legitimate connection and cannot be easily spoofed
+    *OVH
+    *Dyn
 2-Problem in Nutshell
 3-Malware Reverse Engineering
 4-Malware Static Analysis
