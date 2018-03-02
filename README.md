@@ -1,1 +1,3 @@
-# ddos_detection
+# Detecting DDoS code or logic in malware
+
+- Starting static analysis
