@@ -1,0 +1,816 @@
+id;bits;arch;bintype;class;crypto;endian;lang;machine;nx;os;static;stripped;subsys;va;strings
+6d84dd1dc846b42d4be9f39721d1c2126fb4700a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:2|kill:5|udp:1|random:10|socket:6|dns:2|host:27|connect:12|getpid:4
+252485f5b88a53c8203e551a7b8869a8d5fa84c4;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;udp:1|random:10|kill:5|ping:2|getpid:3|socket:8|dns:2|connect:11|host:27
+cfcf076006c1bf6b9ae0abaf6df1f7a62efcbd62;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:14|random:10|kill:9|ping:2|getpid:4|dns:2|socket:7|connect:11|host:19
+ecc17b1916445b94fbb749b6f52e018322696bc6;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:3|socket:8|dns:2|host:30|connect:16|udp:1|random:11|kill:11|ping:2|tcp:2
+1c463dd75eb17d1d1e58a7cb2a13b7770691eb73;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:9|connect:11|host:19|random:10|udp:14|kill:9|ping:2
+37ddbb50f6e7608ae6d7b55849ca4d762cee31fd;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:9|dns:2|connect:11|host:19|getpid:4|ping:2|udp:14|random:10|kill:9
+dbcfdf8b9ccb5ff498ba5272b524d8833b657970;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:2|socket:6|host:27|connect:12|udp:1|random:10|kill:5|ping:2
+17386b3e14e5e3371ee6ef9f03f04c175b23ebfb;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|host:30|connect:16|dns:2|socket:10|tcp:2|udp:1|kill:11|random:11|ping:2
+cb0475ce1053d4b730ac3378a97b2ffd7fe4441e;32;arm;elf;ELF32;0;little;c;ARM;1;linux;0;1;linux;1;
+7a16d77312ab646468db0064f2bb00b895761e77;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;0;1;linux;1;
+7b458073946cd5223dbecccc2f65a33f54293225;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;dns:2|socket:8|host:30|connect:17|getpid:4|ping:2|kill:11|udp:1|random:11|tcp:2
+76594eca9fbb266e07ce2c8f385f77beff27b022;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;tcp:2|udp:1|kill:11|random:11|ping:2|getpid:4|host:30|connect:17|socket:8|dns:2
+280754ac855023891d23f432686eadfd317a90c0;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;socket:7|dns:2|host:19|connect:11|getpid:4|ping:2|udp:14|random:10|kill:9
+1511db8261419f951ed5ec9e1a00c8dc9d3f9dc8;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:4|connect:11|host:19|dns:2|socket:7|random:10|kill:9|udp:14|ping:2
+0aa0042194ee937a9299ded0ff57fa47f9a3b07e;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|socket:8|dns:2|host:30|connect:17|tcp:2|udp:1|kill:11|random:11|ping:2
+be59b201556835a28c83f86a94171f6047d8d4f7;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|host:30|connect:17|dns:2|socket:8|udp:1|random:11|kill:11|ping:2|tcp:2
+05b29c704724dca9cc8d292c10be4c63e67d0614;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;ping:2|random:11|udp:1|kill:11|tcp:2|dns:2|socket:10|connect:16|host:30|getpid:4
+60bf2222087f6e018170bccb364f1933c411a905;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;0;1;linux;1;socket:1|connect:1|getpid:1|tcp:2|kill:4|random:1|udp:2
+881bf62a7664925526e557ff1529cc9cd49ed96d;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;random:10|udp:14|kill:9|ping:2|getpid:4|host:19|connect:11|dns:2|socket:7
+23ab8148734ac12f107977745b1b151455fa92ee;64;mips;elf;ELF64;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|host:30|connect:17|dns:2|socket:8|udp:1|kill:11|random:11|ping:2|tcp:2
+04f05c86c0dc0f179921364d4e1bad386063a8e7;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:9|random:10|udp:14|ping:2|getpid:4|connect:11|host:19|dns:2|socket:7
+6e65ffa83130664b6f20ef7b6d0c97b1c9bec7af;64;mips;elf;ELF64;0;big;c;MIPS R3000;0;linux;1;0;linux;1;udp:1|random:10|kill:5|ping:2|getpid:4|dns:2|socket:6|host:27|connect:12
+5fb727593acc0d64670ad1a6ccd28cbc57eba828;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|host:27|connect:12|dns:2|socket:6|udp:1|kill:5|random:10|ping:2
+d6e6c47846e2d3d2a5c11c9c75350d48457430cd;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|dns:2|socket:9|host:19|connect:11|random:10|udp:14|kill:10|ping:2
+1fe2b1379ef3226907cebda93a94f774e7e625f2;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;ping:2|kill:11|udp:1|random:11|tcp:2|socket:8|dns:2|host:30|connect:17|getpid:4
+cce0d42ffe9fe15d83f0a7a9e35f81a91a54a057;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+f7e1b9adde5f38a56112c52842474275c20457ee;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+b8b96c70e07874100f2d5505626c4e6242b86e07;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+ddf35bf29f901154cb89563bb7bcc93999d37c8d;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+8112a6eb7021b6c974daa8c269d04709d368c96a;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+13f276de8f9ddff7f84be7922e6967af74e3bd23;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+08316e762f1c3337df4e50b12d4c0ced1b45c701;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+564ee75e74f60567a405c2a23d1473e89a07319d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+122e5a8a8b8b3ee16f7e78c332173302825d3504;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+230cbae41483c55758649e44b21d977bd41c8462;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+1edca6403cb2fa5c2e3e51be09ca35f539a5b4ca;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;ping:1|random:13|udp:1|kill:4|tcp:2|socket:8|connect:14|host:3|getpid:4
+4af91377c14f894f1325f73cb639adcebf2e8a55;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|socket:6|host:3|connect:14|udp:1|kill:4|random:13|ping:1|tcp:2
+e53da2f0d1b30501f5976382ecc40c85cfb4d0e1;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|socket:6|host:3|connect:14|tcp:2|udp:1|random:13|kill:4|ping:1
+2f928d9b7f29fd86a0a8d5d7892a4b98311c2cee;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1|tcp:1
+0cd55e8226e43598ddb891ad430b57a451602054;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+14047769459f5bd633f9f2932c19102befc22e73;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;0;linux;1;0;linux;1;
+700a963f9bf2c17e97f52351fed5298055246181;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:2|kill:31|random:17|udp:18|icmp:1|tcp:10|host:42|connect:17|dns:12|socket:19|getpid:4
+551a66c784fa4af1873a458c7b0bfc533d03e2ea;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:2|udp:18|kill:31|random:17|icmp:1|tcp:11|connect:17|host:42|dns:12|socket:21|getpid:4
+cc59b2fab2414a0d4ffc224fed94994c337feb2e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|connect:17|host:42|dns:12|socket:21|kill:31|udp:18|random:17|ping:2|icmp:1|tcp:10
+b8db1c6e503f1880b05f8b681fa64fae45236c10;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;icmp:1|tcp:10|kill:31|random:17|udp:18|ping:2|getpid:4|connect:17|host:42|dns:12|socket:19
+e3f04440e8e070cb4a9f30898d9087705767d9e3;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;host:42|connect:17|socket:21|dns:12|getpid:4|ping:2|udp:18|kill:31|random:17|icmp:1|tcp:10
+ab1216a83b6176b359a184953f01053ae6180026;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;dns:12|socket:19|connect:17|host:42|getpid:4|tcp:10|icmp:1|ping:2|kill:31|udp:18|random:17
+15fd4935619852b8e4314df73f03fe2a5cab079f;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+99f4261d353bab381ac71e0469df8ad22533e1d8;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:8|dns:2|host:16|connect:13|getpid:4|kill:3|random:10
+b8fd24b808c72d65ec276cc8f6f2d7dbd67311aa;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;
+ca58b383ab282a0adaddb51efcd40ee3908e1d0c;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;tcp:1|host:1
+a3e8be6ebfbe5a28efc7cb1ee706de34e0a4596b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;tcp:1|host:1
+83f7863916dfa4d78982b80a8ba10d2b0977aa80;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:1|host:1
+47a061ec789187ed1cbde9a28449001540c8c431;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+f72ba2eaea9fab871bdb5c3640f691bf29b2b060;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;tcp:1|host:1
+f332f343ff796dff17dd4023214b8e1022bdddde;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|tcp:1|socket:1|host:1|connect:1|getpid:1
+75018c4b601c99ab3d64f3609bb5d19f5c831c10;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+023907607c0376bf417f2f543b32eb392a1a755d;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+dfa56106aef31c4581be7462058671c0fc6701c4;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1|tcp:1
+52656e08de7855f70766f6f3e6ae3c955a5d3a0d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+dc50f470a2eee8a066e97fcdc83bc73c6bf24339;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:5|kill:11|udp:6|getpid:4|dns:1|socket:3|connect:7|host:1
+d165426e2a6cf92925a8501b7dfac4f42f602a30;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;socket:8|dns:2|host:16|connect:13|getpid:4|kill:3|random:10
+da006a0be8ce0bc05191ced7cf133f7e08ef80c1;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|host:16|connect:13|dns:2|socket:8|kill:4|random:10
+be7794391ed7676f58fb1142fb05351a4f8042e1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:6|dns:2|host:16|connect:13|getpid:4|kill:3|random:10
+37fe9f537d79093645b8103f3a9924ded295f6bf;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;random:10|kill:3|socket:6|dns:2|host:16|connect:13|getpid:4
+2a6ef6c69a0701fb0ec8e649ffad67c8b3329386;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;random:10|kill:3|getpid:4|dns:2|socket:8|connect:13|host:16
+0b9db2e9ae952db6c16fa8aad24bf4d71eda6edb;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;random:10|kill:3|getpid:4|dns:2|socket:8|host:16|connect:13
+dcce6663bae019f553375175981403c55d145333;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;socket:6|dns:2|host:16|connect:13|getpid:4|kill:3|random:10
+e361270e101cfd07b6874a63057954849cb99279;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;random:10|kill:3|getpid:4|connect:13|host:16|dns:2|socket:6
+e138b35822d01a97f6bc46412d08970313f47f9e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;kill:3|random:10|getpid:4|dns:2|socket:8|connect:13|host:16
+bb892aee5ceb490005093f643c10a9248a6da214;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;random:10|kill:3|getpid:4|dns:2|socket:6|host:16|connect:13
+f0b6fd9250de28bd61214e7ea2ef4d8dfebc6e4a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:6|dns:2|connect:13|host:25|getpid:3|kill:3|random:10
+40bc3bd1e64b65bd5b9db284b14a93934684c897;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:14|host:25|socket:6|dns:2|getpid:4|random:10|kill:3
+1ea71919dd9a3cf5f4bba1f8295fb24eecc8182a;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1
+294906bba66b9dbc44d1f3ce77a537a9e955e7a9;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+d3ae921b9687f1a4a0cb04e1bd4b064a407e723b;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+4fb3eec528dbd204326cc9f3352be31549a8afe7;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+8b0d165f7da040ee4fa4a0b47a042c813b7f5196;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+6c94d0f1af09c070e742542db9ba40b21f11a83d;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;tcp:3|ping:2|udp:2|random:15|kill:10|connect:15|host:17|socket:10|dns:2|getpid:4
+a36288e6711d8238b97cf0238f79ff7baa4f7942;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|connect:15|host:17|tcp:3|random:15|udp:2|kill:10|ping:2
+2ffebb1de6762b54fdc204958e6029e38ce6c716;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;socket:10|dns:2|host:17|connect:15|getpid:4|tcp:3|ping:2|random:15|udp:2|kill:8
+8ed857ba527189dc91e497ce3d6a6c3e43addf9e;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:17|connect:15|tcp:3|random:15|udp:2|kill:10|ping:2
+868756f3fbe688c4adab0016798da0330d251d90;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:3|random:15|udp:2|kill:8|ping:2|getpid:4|host:17|connect:15|dns:2|socket:10
+be92e31eeae2d354fdde8a4bc5a90da76f66f356;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;ping:2|random:15|kill:10|udp:2|tcp:3|connect:15|host:17|socket:8|dns:2|getpid:4
+0dbaa867c7cc042cb808fc3c605aaf67147104d8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:15|host:26|socket:8|dns:2|getpid:3|tcp:3|ping:2|udp:2|random:15|kill:10
+a7fadde1f4fa78ed78ac44f5f588df95add2a140;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;udp:2|random:15|kill:8|ping:2|tcp:3|getpid:4|connect:15|host:17|dns:2|socket:8
+80604fe1ebe560a78b5924ba6d39807c22e61fab;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:8|dns:2|connect:15|host:17|getpid:4|tcp:3|ping:2|random:15|udp:2|kill:10
+406a2a4b0da407bf7686b4e3f222f29e28ae71e7;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;socket:10|dns:2|host:17|connect:15|getpid:4|ping:2|udp:2|random:15|kill:8|tcp:3
+09e45cf271b2ea7a13b0da9c06e16977c493df95;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;connect:15|host:17|socket:10|dns:2|getpid:4|ping:2|kill:9|random:15|udp:2|tcp:3
+6903b55b644c2d4a368dc17e0235e73224c14538;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+f9859e0e645cacc5da1ca52ff112a1a85380ee7c;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:9|host:18|connect:16|udp:1|random:13|kill:3|ping:1|tcp:2
+ee3caa8a9d441c5a3a59b91d2fe87fc698ae2088;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;connect:16|host:18|socket:7|dns:2|getpid:4|ping:1|kill:3|udp:1|random:13|tcp:2
+c68353da8256ea753d6337eb874243bafceadcbb;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;ping:1|kill:3|udp:1|random:13|tcp:2|dns:2|socket:7|host:18|connect:16|getpid:4
+842f6452c1e4802541bafd5755a31d3d778400c4;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:1|kill:3|udp:1|random:13|tcp:2|socket:9|dns:2|host:18|connect:16|getpid:4
+14e51f43c9cc58b53e5c86b7c0fd947588c8a963;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:2|socket:7|host:18|connect:16|tcp:2|udp:1|kill:3|random:13|ping:1
+f3efee3d5eea12c43e354e249ef2bbf762b31ebc;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|socket:7|dns:2|connect:16|host:27|udp:1|kill:3|random:13|ping:1|tcp:2
+8d3308e759562910d1b46058ca96030897ab0aa1;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;socket:7|dns:2|host:18|connect:16|getpid:4|tcp:2|ping:1|random:13|udp:1|kill:3
+4b2d9e7e8b696edcf0182f7e7095d977e47cd4fe;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:3|random:13|ping:1|tcp:2|getpid:4|host:18|connect:16|socket:7|dns:2
+5bab038036b571111de80eab74148198df0471b1;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;getpid:4|connect:16|host:18|dns:2|socket:9|udp:1|random:13|kill:3|ping:1|tcp:2
+cfb138dc1d6f7789ea4b8af9b5543efb8a1d9fcd;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|dns:2|socket:9|connect:16|host:18|tcp:2|udp:1|kill:4|random:13|ping:1
+ea6e66ef132c1f6d510071f2275faa66b05b222c;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+0616c6fa28a31fd90364ac69ba5160434404bdcf;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+1089a63ab161fb356aef103f250d752f48237a40;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+5972e2ec9295081087c32507ecb00a1851920ffc;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+859cd27125c8321267c34463170a83d7e17c6851;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1
+a27377f8e0e154b87b0c26edffdd171cb9cc0003;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;getpid:4|dns:1|socket:5|connect:6|host:1|udp:6|kill:11|tcp:5
+23c933b2bdc4b50abda4f45d682453ec984697a5;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:6|udp:6|kill:12|getpid:4|dns:1|socket:3|host:1|connect:6
+9c97c5c6bd326b9181b27ae0097824f7805bb876;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+c25b165b30aec6baff2958161dcfaf6ed23b6de8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+ed959ffddeb82301ffc6617e8d7f0c8ebf00cc44;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+cb4c638e0fa927c1021a2905eecaa08db59e9fa6;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+3f29c1b920021174722c3f3ada5f5fd28f3419d2;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+4012ca2e0a127a357b1bf906a0fd28b30bf4ed6b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+08305eea2dde7eee051ae2a09232bac50d1043eb;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+6c408f599ef15f40481b084a14b5e4604e1afc09;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+634d11df2039faccc2030dd7577f8c9e65926dd8;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+6907e6dd2c84f76ec92d2012f53d315def4498df;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1
+160c795330cebe20e16c98a62c6776a9767db7cb;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+e466293f424901e6d904abbf88a736d9d1b6263e;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1
+007d875b4ba9bc6b178fbff3a57ba4281acc46da;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1
+2880e7e2948014c48aed387ee4ff508ef26db7b5;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+6edeccd69ffa555a0c48e36bc97b84ca9c46447f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+802f362b4a4b6cdab5b2ad715381501f6b598c99;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:5|kill:11|udp:6|socket:3|dns:1|connect:7|host:1|getpid:4
+ff50c8bac0bb4bcf174b3b100da5404ccf801f8c;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1
+224e94f9a67d467a9e88380573700c048675031c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+67e000098151c0a982d6bac879eda53b38191a83;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+958f22b17835be98360855234b01a97dcc6b8198;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|socket:1|host:1|connect:1|kill:1
+84db5a811f4967e8182b56e45fb5c6e188f5f926;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1
+8a8b88104c751395705703aeb5e4fba24d35c30e;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;ping:4|tcp:3|host:3|connect:3
+c826532f346902cf46186d3b05ba7a71628a86f1;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;
+d657c3375dd3b09e2a4f5b70a43594cd8dae9538;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+af1593b881f8c3da506ba9c7ce265fa4bf6b8c51;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;connect:13|host:16|socket:8|dns:2|getpid:4|kill:3|random:10
+c2e2b46ca10dac7677ad5bccee0a70bdb3961ab7;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+9257ee508470ba3dfbdfa574025378aa40738aa1;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1|tcp:1
+d572a26f0b206039a952eda8506389a4e2327098;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;
+192dfd2854fe28bdca29278796bd318b0641830b;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1|tcp:1
+c6171bb7104f004c0997e28e0048177e42b6b905;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:17|connect:16|random:15|kill:11|udp:2|ping:4|tcp:3
+c71aee9dca27c6eaf81da103143ada51c3638011;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|host:17|connect:16|random:15|udp:2|kill:11|ping:4|tcp:3
+e34d4bd19416dc722105efaa3c9cf0677f4cac85;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|host:17|connect:16|dns:2|socket:10|random:15|udp:2|kill:9|ping:4|tcp:3
+f8a9d4ec1d6e8516a282e35af1f70e2274aa03d3;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:10|dns:2|host:17|connect:16|getpid:4|tcp:3|ping:4|udp:2|random:15|kill:11
+541213a25d1bc8d64f97c596bc015119b418a731;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|ping:4|kill:9|random:15|udp:2|tcp:3
+1fec1cc4bc9044d38a80c45d74ab796179ea7ec2;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;kill:11|random:15|udp:2|ping:4|tcp:3|getpid:4|dns:2|socket:8|host:17|connect:16
+01a1a5d41cbe4440cc0d0bb35caac0ee696cb973;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:4|kill:11|random:15|udp:2|tcp:3|host:26|connect:16|socket:8|dns:2|getpid:3
+2d6a8e98e452bf2d94d00ce9696c1a19ccdd887d;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:4|udp:2|random:15|kill:9|tcp:3|host:17|connect:16|socket:8|dns:2|getpid:4
+ffbf8a67c0692c0c83deb3e448d9e0f70f765ef9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;random:15|kill:11|udp:2|ping:4|tcp:3|getpid:4|connect:16|host:17|dns:2|socket:8
+9144301c05c4f02eec3e393226fa9c4185bd9455;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|tcp:3|ping:4|random:15|udp:2|kill:9
+5a71c1663342718f450e34ee8c37f99e973aabba;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:3|kill:11|random:15|udp:2|ping:4|getpid:4|dns:2|socket:8|host:17|connect:16
+58d1610c1b555aebd2dff36aa3850351c9361544;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|host:17|connect:16|dns:2|socket:10|tcp:3|kill:10|random:15|udp:2|ping:4
+320914ad6226001ebec26a6b69a5cf63f2e9969d;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:1|socket:3|connect:7|host:1|udp:6|kill:11|tcp:5
+25eca028d4adabe99cb8ad2e99b246025250677b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;tcp:1|host:1
+4aea74a08d20d74bbc4710b7e34532b115250596;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+b3badf5e58c3975800bb9c77c58d47115c849803;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+b9e8de476a391aa41738356b1e44b746b1f9833d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+7aba9300f4a57126b7954d02daa6e8b8e430e315;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+7915450c9f2351236e3fc1cdf46e221526072193;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:25|connect:13|socket:6|dns:2|getpid:3|kill:3|random:10
+611c68a28198f3a2dda58488f61ea31a336a7aa4;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|getpid:1|socket:1|connect:1
+8a44a65cbf77e0fc4fbaf95ed810b1a5597178ac;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+83012823d09338ffcaf7be7dd4a8dc39ce47192b;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+312c8346ccb5ad6ed7ace9ce1e569300619697e3;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:1|socket:3|connect:7|kill:9|udp:5|tcp:5
+2433a61159fb50a0a06f7e80f8547e2a7f8137e6;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+6c78f26fde757f3d93334aa4a132f46d32c57e07;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+e6667e6055a3ebda196c6105572556a0ee2314da;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+2c143be35ec4cc0aae07e7949771832e6a5f3f1a;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+f531c1778cc8c0717de7b6eac95ddfc7882d287c;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+bfcddbdafb8543e5f9cd5f66d9f069f9c58f9f91;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|getpid:1|socket:1|connect:1
+da29e174f9eab31d007219b3eafbf3b8c99cd6e8;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+baa203983282e7a5c37cc98b631156e0e36e6994;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+cbb3765cbe6557a29e57d2c81d4e39bc886d3dc1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+6971580197e762769506d61784052c3be0c72c09;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:10|udp:6|tcp:6|connect:7|socket:3|dns:1|getpid:4
+7738be78619d4db96000d256fcfd5b54b6ed9f60;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+c1914d681b92f9749cf621f4a7e88347fefe4341;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+245334c0b0398a1777986ae79d282a0b941e77f9;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+c756e3b33249cf33336e5b53f8ecdc960be4dea4;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+bd31b42b53d9009ead4838ce0ad584a7daa1b867;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+992bc180e388de91f1ff3d947e6018776b991721;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+0f609b25f12e8aa9c489ee4d8a6acea16a7b0f3a;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;tcp:1|host:1
+1d7b9a50b38281355789f864655936d5914ed3e3;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+d0cabda3d4e7f74908d1954e56c518d8f9254ec3;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+631fab5710de1b5f7001295c0c12ee18f8a31880;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;ping:2|kill:3|random:15|udp:2|tcp:3|socket:8|dns:2|host:18|connect:15|getpid:4
+5baa51298c5ed289ed88fc1ee46c6f3bdb343ecf;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|connect:15|host:18|dns:2|socket:8|tcp:3|kill:3|udp:2|random:15|ping:2
+9d18fb061e4b2c6ea8b3966536e7ab2727cec902;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;tcp:3|udp:2|kill:4|random:15|ping:2|getpid:4|connect:15|host:18|dns:2|socket:10
+a50af645bd803c9672b4f9b1551c8c053e549de3;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:2|kill:3|random:15|udp:2|tcp:3|host:18|connect:15|socket:8|dns:2|getpid:4
+1502071cd9ac12860483a77e40c0e6bcca551df0;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;socket:10|dns:2|host:18|connect:15|getpid:4|tcp:3|ping:2|random:15|kill:3|udp:2
+3d1f1f42271d5766285738ead37baa04325aed91;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;connect:15|host:18|socket:8|dns:2|getpid:4|tcp:3|ping:2|random:15|kill:3|udp:2
+344d12e864610baf1c2498bac5a376b04340f02a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:3|udp:2|kill:3|random:15|ping:2|getpid:3|host:27|connect:15|dns:2|socket:8
+428b8b9ca6d09868dfcd53d1ead96b3ae263df14;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;ping:2|kill:3|udp:2|random:15|tcp:3|socket:10|dns:2|host:18|connect:15|getpid:4
+97003a05b3b501ec31572e7b21b7f95b515e7b3b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;tcp:3|udp:2|kill:3|random:15|ping:2|getpid:4|dns:2|socket:10|connect:15|host:18
+9efcfeb65526cba6d7199f04b2344913a5f1f01b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;tcp:3|random:15|kill:3|udp:2|ping:2|getpid:4|dns:2|socket:10|host:18|connect:15
+809bfebbf668ca3d60785b90375a6efb4e5c6d10;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:3|random:15|kill:3|udp:2|ping:2|getpid:4|dns:2|socket:10|host:18|connect:15
+636c9e2325856a259e6006d4b899e1d87136c745;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:21|connect:16|tcp:2|udp:1|random:11|kill:10|ping:2
+5734d1ce6ed6104571fc9be743b6bec95744fc78;32;arm;elf;ELF32;0;big;c;ARM;0;linux;1;0;linux;1;tcp:2|udp:1|kill:10|random:11|ping:2|getpid:3|dns:2|socket:8|connect:16|host:30
+e3b5079e7fc38c24596ec63719c7e587c321f294;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;connect:16|host:21|dns:2|socket:10|getpid:4|tcp:2|ping:2|kill:10|udp:1|random:11
+abb42b6ed4db359c843ef26c904e7cedacd6b096;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;connect:16|host:21|socket:10|dns:2|getpid:4|ping:2|random:11|udp:1|kill:10|tcp:2
+16ae7bbe138e381e9f5822b7e75b73e034f2bd19;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:21|connect:16|socket:8|dns:2|getpid:4|tcp:2|ping:2|random:11|udp:1|kill:10
+1bae56533a6ba9c2690b85dd27438c3b20a916c6;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:2|udp:1|random:11|kill:10|ping:2|getpid:4|socket:10|dns:2|connect:16|host:21
+af0f2f9d5aa61d74f90a5c724be770d9b349fd56;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;udp:1|random:11|kill:10|ping:2|tcp:2|getpid:4|dns:2|socket:10|connect:16|host:21
+9e89cc7c84c4492de9ffab07fb1ff8f790b4b9d0;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;tcp:2|udp:1|kill:10|random:11|ping:2|getpid:4|dns:2|socket:8|host:21|connect:16
+46d023fb937e3558d33d517b4610e962a8967c22;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|socket:8|dns:2|host:30|connect:16|tcp:2|udp:1|random:11|kill:10|ping:2
+f05bfce56a70b830497e0d246c11c3eaa4c40595;64;mips;elf;ELF64;0;big;c;MIPS R3000;0;linux;1;0;linux;1;connect:16|host:30|dns:2|socket:8|getpid:3|ping:2|random:11|udp:1|kill:10|tcp:2
+370fe2edcc9ad9bda46188e207196a3a0129cee4;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;udp:1|random:11|kill:10|ping:2|tcp:2|getpid:4|socket:8|dns:2|host:21|connect:16
+de800b14f90196f98d12676fca5adcb5da82ede7;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|udp:1|kill:10|random:11|ping:2|getpid:3|dns:2|socket:8|connect:16|host:30
+14e0708e8f5d3f482c86a6e481e11105c54a303d;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;udp:1|kill:10|random:11|ping:2|tcp:2|getpid:4|connect:16|host:21|socket:8|dns:2
+7cedb0560b40d2b832c4ad65f39dcb883ba169db;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|udp:1|kill:10|random:11|ping:2|getpid:4|dns:2|socket:8|connect:17|host:30
+1bf887ad464834062f92aa32c43f1dcb069cb0a9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:2|random:11|udp:1|kill:10|tcp:2|socket:8|dns:2|host:21|connect:16|getpid:4
+859584578ec1afa890d351dd1b5b5f959fb4b64e;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;ping:2|kill:11|udp:1|random:11|tcp:2|dns:2|socket:10|host:21|connect:16|getpid:4
+44a1d9f3017e6da8a2af7cb316cdfbc3c98062fb;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;random:10|kill:3|socket:6|dns:2|connect:13|host:16|getpid:4
+80db06fb763d18b8d479b6c9cbff87ae976233ee;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:10|connect:16|host:17|tcp:3|kill:11|random:15|udp:2|ping:4
+8b0fc1e96cb7a985b82f86e32e43cbf02f9c2017;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;tcp:3|kill:11|random:15|udp:2|ping:4|getpid:4|dns:2|socket:8|connect:16|host:17
+035ea2271bc4d0965fb7f7633fb976766f57cd1c;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|ping:4|kill:9|random:15|udp:2|tcp:3
+6390b692fd251a6213f6e9d4633799ddb46d09df;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:10|dns:2|connect:16|host:17|getpid:4|tcp:4|ping:4|random:15|kill:11|udp:2
+56cc271b2a8d22f032eb4196cd342cd479952d27;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|tcp:3|ping:4|kill:9|random:15|udp:2
+c6a0bf583e700165706ca4d8d2a6f668d24fab98;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;ping:4|random:15|udp:2|kill:11|tcp:3|connect:16|host:17|socket:8|dns:2|getpid:4
+5a6dd7066d9a76a364ec129c3d7cb6e7079a393f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|dns:2|socket:8|connect:16|host:26|tcp:3|udp:2|random:15|kill:11|ping:4
+b1f6f074c3f7b71df9ad5bea190287d34ccbbc7f;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:4|random:15|udp:2|kill:9|tcp:3|connect:16|host:17|socket:8|dns:2|getpid:4
+3d162d9d02bb5da6c73f11983f9b55ffccb6164c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:17|connect:16|socket:8|dns:2|getpid:4|ping:4|random:15|udp:2|kill:11|tcp:3
+98b755e4caa698f8ac158b2351dc401952e2b0b4;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|ping:4|random:15|kill:9|udp:2|tcp:3
+e865fb33ece91bef7aa264522c52aca7dcd646e8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|connect:16|host:17|dns:2|socket:8|tcp:3|kill:11|random:15|udp:2|ping:4
+dee7224baaa1ccb4e1b1dd50aa822f1df7721083;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|connect:16|host:17|random:15|kill:10|udp:2|ping:4|tcp:3
+8bb5b1e790d99b80388d71f3888c1c41b3bbc5d4;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+8938d0a4bfb402306bfa58d94496c7943550c52e;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+473cc947c3660aa94cfcc53f990d0cb99a8488e3;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+95d242bac6b16198712fad29e4b5ff9e3e25cf30;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+4ce8b4a7ada96b4dd0fae455e9fad6ae3e1751df;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;ping:1|udp:3|kill:6|connect:9|host:7|socket:4
+8a91fb5799a402bc83b29aa7f68a13f88ffe2a0a;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;udp:3|kill:6|ping:1|host:8|connect:9|socket:4
+fbbedece647b89933fc60555fe75ffeb933730dc;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:4|connect:9|host:8|ping:1|kill:6|udp:3
+63f2bb70d462f36d6901bb852ae78035b2904131;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;socket:4|connect:9|host:8|kill:6|udp:3|ping:1
+b19e7ace0716f771a36b0f56048faa05b073a8d9;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;socket:4|connect:9|host:8|udp:3|kill:6|ping:1
+ba8f4e9a73f44ae896d5984ce0a52c2e7aada980;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:8|connect:9|socket:4|ping:1|udp:3|kill:6
+077aaaf9bc453d3c11ec6ba44f6d72fb0848a2fb;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;socket:4|connect:9|host:8|ping:1|kill:6|udp:3
+f28141ddee5d3b036bf9eab4ff26f91b673fa07c;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;socket:4|connect:9|host:8|kill:6|udp:3|ping:1
+e17598aabccb388f615398b39a32c69291e41806;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;connect:9|host:8|socket:4|udp:3|kill:6|ping:1
+73edfe46ffad4274c4636357f15e546efccb0e41;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;ping:1|kill:6|udp:3|socket:4|host:8|connect:9
+23460027e655350430bfe470e32ba878fe37fec1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:8|connect:9|socket:4|kill:6|udp:3|ping:1
+b2c324894e20cc19d2fc0ec0fd74382de546e94b;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;ping:1|udp:3|kill:6|host:8|connect:9|socket:4
+1e6fa1647ab9b3da6ab26fb96325897ca925395d;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;socket:4|connect:9|host:8|udp:3|kill:6|ping:1
+ef2e9fe8440ac46806fc3eb7f0769262d446eaf3;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|tcp:3|ping:4|random:15|udp:2|kill:11
+7169fd7fda95653d5d06ec4651dfc9ab4b826ca1;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;tcp:3|random:15|kill:11|udp:2|ping:4|getpid:4|dns:2|socket:8|connect:16|host:17
+f8f431bb9e5598e67dc7ff50abec9f90d8ee3794;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:17|connect:16|tcp:3|random:15|kill:9|udp:2|ping:4
+2cd80efd2a943dde20a8fc2671ac684e9553847d;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:17|connect:16|random:15|kill:11|udp:2|ping:4|tcp:4
+2735b3938dd81a58ebf5f9e676a4ec272e974453;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;host:17|connect:16|socket:10|dns:2|getpid:4|ping:4|udp:2|random:15|kill:9|tcp:3
+017ddbe8a623a45b07f9af5e2870d3ca3ef9cfc4;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;ping:4|kill:11|random:15|udp:2|tcp:3|host:17|connect:16|socket:8|dns:2|getpid:4
+a22b483486b3782fd03f1b1a31226963ea094e6e;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:4|udp:2|random:15|kill:11|tcp:3|connect:16|host:26|socket:8|dns:2|getpid:3
+1992e2559731e0c66037cfbdb88f82bc2c6c1778;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;tcp:3|ping:4|random:15|udp:2|kill:9|socket:8|dns:2|host:17|connect:16|getpid:4
+74ba02ad361471288443f4d070eb62413c496657;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|host:17|connect:16|random:15|udp:2|kill:11|ping:4|tcp:3
+6520ece4b9df4d6fe317b4e3625e538c0f7054e1;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;ping:4|random:15|udp:2|kill:9|tcp:3|host:17|connect:16|socket:10|dns:2|getpid:4
+46e61c2066d775f6e191942201bf43374f8edd6c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:8|dns:2|connect:16|host:17|getpid:4|ping:4|kill:11|random:15|udp:2|tcp:3
+b4feec742c243f3538bddd555b9fcbe908bf9374;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;socket:10|dns:2|connect:16|host:17|getpid:4|ping:4|udp:2|random:15|kill:10|tcp:3
+a90799b6175250530353805cd92755dc08b55a5d;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+2bac8a71b02a335509195bf9da5f78e11a89b94b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+677c8c38578771e700dd29225fb29015956012bb;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+6a2e08f4e3bf4124accf9381ac92a7455b8dc50e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1|tcp:1
+ad34b8695a4307c1a92d651b92d0dd8f70660b90;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:2|socket:6|host:16|connect:13|kill:3|random:10
+b4219ed933f79943e3a05addeb9ab3e6e0c0f0e0;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+1b56a8fc742334c67ecbb72fcffbd07b97c98be4;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;udp:1|random:13|kill:4|ping:1|tcp:2|getpid:4|dns:2|socket:9|host:18|connect:15
+315f9a34d73be5899698ac52c61f57df82fff1da;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;connect:15|host:18|dns:2|socket:7|getpid:4|ping:1|random:13|udp:1|kill:4|tcp:2
+0fa1516714546998c360a143389614bf449ba2ac;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:1|kill:4|udp:1|random:13|tcp:2|dns:2|socket:9|host:18|connect:15|getpid:4
+f94494945733a81be502a953ddb1ec2146f61a0f;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|dns:2|socket:9|connect:15|host:18|udp:1|kill:4|random:13|ping:1|tcp:2
+4de7b8415e391435bc8182d1e8309d3e4bb0f05e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:2|ping:1|random:13|udp:1|kill:4|socket:9|dns:2|connect:15|host:18|getpid:4
+1977f47d680c822dc697d7935ed06b3a8ae7f0cc;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;tcp:2|ping:1|random:13|udp:1|kill:4|host:18|connect:15|dns:2|socket:7|getpid:4
+e8abdbf498d6601068855ab6394272fc86dca851;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|udp:1|random:13|kill:4|ping:1|getpid:3|dns:2|socket:7|host:27|connect:15
+a32243e1ed4093ef58f8be6ef5cc1dda582e89db;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:1|kill:4|udp:1|random:13|tcp:2|host:18|connect:15|socket:7|dns:2|getpid:4
+6ca97e1e4468d4b81ff8e076fa76789871181f7a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|ping:1|kill:4|udp:1|random:13|socket:7|dns:2|connect:15|host:18|getpid:4
+cc94ce2930bcd33c6130d7669e78b7ee39aa6f06;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;getpid:4|host:18|connect:15|socket:9|dns:2|udp:1|kill:4|random:13|ping:1|tcp:2
+5db8c01df0a1b620ccc0024ee463107860253478;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|host:18|connect:15|dns:2|socket:7|tcp:2|udp:1|kill:4|random:13|ping:1
+78d0671fff7385fa4e134bfd6beaa5044cf267e8;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;socket:9|dns:2|host:18|connect:15|getpid:4|tcp:2|ping:1|kill:5|udp:1|random:13
+227a5bb2787759f03d4ae4519edb4195eacdb7a1;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+4292b8f3d0d079c5dae286f3545d089d91725b0c;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+9e79e52d4856d19ce489d4dd09afdc0aae5226ed;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1|tcp:1
+2948f6f1ecba7c3c677747729d020faef315dcb1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:2|socket:6|host:25|connect:14|random:10|kill:3
+b417800fbf8a2f682050cffac5c996e697166b1c;32;ppc;elf;ELF32;0;big;c;PowerPC;0;linux;1;0;linux;1;
+29495a0e5a15c0f1e8e3af330f13947dc8540233;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:4|connect:13|host:16|dns:2|socket:6|kill:3|random:10
+8a942db441285e8c668ca0d88db132a0d55b67bd;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+fcffaf0bc260f9cffeaa41dac67b4f9d5d88e730;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|socket:1|connect:1|kill:1
+65d5865f054f7c9ca8f2baf38f2afc54c31f8b33;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+7e4ade2a48efbbc22640ac0ebe733dd4ab23a7ab;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+8764cea4414c3f58a0f773ced36608e443e73a19;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:3|dns:1|connect:7|getpid:4|tcp:5|kill:9|udp:5
+58e418818db0daec24e309d6d9d62da0d896df4f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+c8e6bc309d424c63ecab1eb27a82a90dd2c65aa4;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+e8eca13735b2a391700d25fca494ee48b4e75566;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+5e3d91efdaaafcf2cff2e6c43f841307cff4f781;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+4703b5d24b3b5d62b06bc7e90a3a9cd125c371a7;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+4854c56ebf3523f80d1a873ce8b6c01f1bdb8ae2;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:5|kill:11|udp:6|getpid:4|connect:7|host:1|dns:1|socket:3
+a342180b316b9fdcbf5dbb4e1f0e65c44061b602;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+5e64d9a328bf235bf08bc37e55a2a0c14820ad3b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1
+abaf18f11c493fd28c92f4d65a53f8e3e04ccd8b;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+f9f9a8fdd2fb79e4691ff7801ba81c6067edb857;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|host:1|connect:7|dns:1|socket:3|tcp:5|kill:11|udp:6
+fe44bc9e54a8b89314e8f6714375d52fccd4af27;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;tcp:1|host:1
+c09d0376edab65a9b1ab1504a3a990a2f0acf8ab;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:5|udp:6|kill:11|getpid:4|dns:1|socket:5|host:1|connect:6
+c2d409565a97c507bc80227646b6930f1934385a;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+eefa553a1435c9a008d34f66b6decc0c290bbc15;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1
+813e9ca533f820d8b5892e84f1afb8f9e4f18fe3;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+a38bc202f0dfd2ab6d8782f0f57157ad029ac975;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+441e938cdb1dd6707a069b9f91dd1e2aa99bd12f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+3d23ca9eaecb86f51188710373bc45d92bd6240d;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;tcp:3|ping:4|kill:11|random:15|udp:2|socket:10|dns:2|host:17|connect:16|getpid:4
+5ce0be8349b8d34dd5a0e8bc819aba10ff4299ad;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;tcp:3|ping:4|random:15|udp:2|kill:11|connect:16|host:17|socket:8|dns:2|getpid:4
+afef378e9236166fd1cf3636807cd18baae53438;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;kill:9|random:15|udp:2|ping:4|tcp:3|getpid:4|dns:2|socket:10|connect:16|host:17
+3d34c42463d7a0d21fce25f3dc7221ff058de918;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:10|dns:2|host:17|connect:16|getpid:4|tcp:3|ping:4|random:15|udp:2|kill:11
+8a53059c3d6977343a0e63f1041a972e2438b234;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;connect:16|host:17|socket:10|dns:2|getpid:4|tcp:3|ping:4|kill:9|random:15|udp:2
+7293375fc2e4e072c6117a23fa181296f7c36ef5;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;ping:4|random:15|kill:11|udp:2|tcp:3|socket:8|dns:2|host:17|connect:16|getpid:4
+16a5b22937f848914fbcf214f3f604ee681bb733;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|host:26|connect:16|dns:2|socket:8|random:15|kill:11|udp:2|ping:4|tcp:3
+2fd3440b16e7fb5890984c25e5aaae2ff51a8823;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;udp:2|random:15|kill:9|ping:4|tcp:3|getpid:4|connect:16|host:17|dns:2|socket:8
+51d528a58169e14d09cdb42028a45cb507291a64;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|connect:16|host:17|random:15|udp:2|kill:11|ping:4|tcp:3
+d3032eb6534a741a29216203f9d9f12e96f93fae;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;getpid:4|connect:16|host:17|dns:2|socket:10|kill:9|random:15|udp:2|ping:4|tcp:3
+a5ecf9ab7217e3f294e2007339bccb01fe00748f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:2|random:15|kill:11|ping:4|tcp:3|getpid:4|connect:16|host:17|dns:2|socket:8
+5d1033a20dcb2f2a9683bde1b74a3844371b8cb5;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;tcp:3|random:15|udp:2|kill:10|ping:4|getpid:4|connect:16|host:17|dns:2|socket:10
+8d27b3a01b9fe8dadadc3c19f9fc8d118ee3b6f9;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+d24dd8398aaf4b6bdc76e8fb67276ebafd7c8783;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;tcp:1|host:1
+5fe2d9cd1e488f3e8e102a09f12f0e136ac5b200;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:1|host:1
+0d082b169e100c5055d4dc82925afb65abe5e6e4;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+059e029010e43fc6cfb66541a4e8ba0297dd9ff3;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1|tcp:1
+8ac84976108461fce2189050edf600aef6b518f2;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;host:1|connect:1|socket:1|getpid:1|kill:1|tcp:1
+2f6a83eb8f8d19f358a395e612a81abe03fdf991;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+683430344dae7a2c8c3aef73a774b235ccf25eab;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+19af12a5b4b26db2a358a42cd1c31af076df6a54;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:1|host:1
+4d5cc250b0e3717d1a1c1b9edf009415801b1885;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+ca087e03c02d589059eac03a23d0cc1fa85b3783;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+0b58be9e7005882a44107395e507ecd248446790;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:2|kill:8|udp:1|random:10|host:17|connect:11|dns:2|socket:8|getpid:4
+45085c28f6585ae2dc10257595e82ee4d7f1d2a0;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;connect:11|host:17|socket:6|dns:2|getpid:4|ping:2|random:10|udp:1|kill:9
+09a5f54af36d2668df1c7ff6af41929e8b85a564;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:4|host:17|connect:11|dns:2|socket:6|udp:1|random:10|kill:8|ping:2
+63388e853fecad1a66e60522b6f9fed0ec8e93af;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;host:17|connect:11|socket:8|dns:2|getpid:4|ping:2|kill:9|udp:1|random:10
+bcce9a06e2e7b2ff3638fa88c8c4cf63faf36d39;64;mips;elf;ELF64;0;big;c;MIPS R3000;0;linux;1;0;linux;1;connect:12|host:26|socket:6|dns:2|getpid:4|ping:2|kill:9|udp:1|random:10
+5bd38c0328ea3b250bc29a4514bb4e0b12517637;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;udp:1|kill:7|random:10|ping:2|getpid:4|connect:11|host:17|dns:2|socket:8
+6a21d9d83462c48003bb8a89eb941376ccc157f1;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;ping:2|random:10|udp:1|kill:9|dns:2|socket:8|connect:11|host:17|getpid:4
+35b6330d7bf24c259cd8b7f274acbef164ece7b6;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|dns:2|socket:8|host:17|connect:11|udp:1|random:10|kill:9|ping:2
+f6ec9f342add99f8201e728002244cf42d79f06a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:8|ping:2|getpid:2|connect:8|host:12|socket:8|dns:3
+38a5ea27674adc8ac59561e3125e1470b0bb514b;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:2|socket:8|dns:3|host:12|connect:8|udp:1|kill:8|ping:2
+a4795fd8714fe060fe6639259e040eece078d480;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;udp:1|random:10|kill:8|ping:2|getpid:4|host:17|connect:11|dns:2|socket:8
+2f0e933b9bef72d110fbfb4c19cb8d9ab79ad572;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|socket:8|dns:2|connect:11|host:17|udp:1|random:10|kill:9|ping:2
+f2dde36fc2993643790878ca349eaef7d7b75154;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:2|kill:9|udp:1|random:10|host:26|connect:12|dns:2|socket:6|getpid:4
+00ae708f8575f4507327d58ccb56de4449074e2e;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:8|ping:2|getpid:2|host:12|connect:8|dns:3|socket:8
+4bca3d8e18054aa9812a8a21bb07a6cbf6499a2f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:6|connect:11|host:17|udp:1|random:10|kill:9|ping:2
+a1eed9aecf20bc6c9a67635982cd87c1fac1fea0;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:11|host:17|socket:6|dns:2|getpid:4|ping:2|kill:9|udp:1|random:10
+6947cef193eabaabc4713a1c1dabc9b77afa1174;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:9|random:10|ping:2|getpid:4|connect:11|host:17|socket:6|dns:2
+3faf3d7adf00125200138a02f54f207b81fa847b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+b9b570fae492c181927573a80a9a0d271b35ecc3;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+913de6125f59fc77bfc7e8f6b06b57aa2b8bef31;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;kill:3|random:10|getpid:4|connect:13|host:16|dns:2|socket:8
+120cc483dff57454f6f2c7b41101d4e1401e85f4;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+3f497dfd5e7f7d05922f454beade8d6aec26be12;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+e50ad2e5fd37d7d7231d61bd631bf1aca9d031a3;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+cca1d4666d572281182c22c4d9f47ca667758d09;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+e214c77febbbfddf7e14dd6577126b659d2ce3f6;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+dbc25202777db6326c24c6b58e02c10c0b46f8e5;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+1120b910c766b37ea7afe12dd25312033f802266;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|socket:1|connect:1|kill:1
+90396ba972167236486f43f84f9664e851db03fd;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+12f30b5a3daf07f274b2b63ab32b6071ccedcadd;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+4094c9cf2f6edf64bb448460babcb316f6e563ab;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+30e08c8be8365c6ad48e37b8ce0f788464fe0625;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+e774b4fd06ca30e760b8429bc97a9428ccca3965;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+e019faf6272538d7e173c9d7966a2a3313a0ecd6;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1
+de3f7660dfb092004bdeceb4b343b8f807e7ae97;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+12f650ad8f51fd2023df910783daef16ce467413;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:3|dns:1|connect:7|host:1|getpid:4|tcp:5|kill:11|udp:6
+a0e1264efbad06856d773ccc9cfe4e4e0a434d17;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+ed50ae9330fc1a5fbfadad37c2414e5d992eecf6;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;ping:1|kill:3|udp:1|random:13|tcp:2|socket:7|dns:2|host:18|connect:15|getpid:4
+f9a5aa0f149a95c87ba17de90b34e65ab537b49f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:3|random:13|ping:1|tcp:2|getpid:4|socket:7|dns:2|host:18|connect:15
+13c0ddbcd139d91669b94099dafb748be2f722e8;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|socket:9|dns:2|connect:15|host:18|udp:1|random:13|kill:4|ping:1|tcp:2
+caef49c55ea51a8d8f045a14742b7c65d13f4132;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:1|random:13|udp:1|kill:3|tcp:2|connect:15|host:18|socket:7|dns:2|getpid:4
+719e0fef413c73b233020d163a87beeddcc2dfa2;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;connect:15|host:18|socket:9|dns:2|getpid:4|tcp:2|ping:1|kill:3|udp:1|random:13
+af8a3fbc6ae0e80b1b79e96bc62a51798bfde394;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;ping:1|random:13|udp:1|kill:3|tcp:2|socket:7|dns:2|connect:15|host:18|getpid:4
+acf362164c1b9f8646c418ef6149ff34dba7ed89;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|socket:7|dns:2|host:27|connect:15|tcp:2|udp:1|kill:3|random:13|ping:1
+871194ba2bdfed06f288abb30134993f6be6b568;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:2|udp:1|random:13|kill:3|ping:1|getpid:4|host:18|connect:15|socket:9|dns:2
+bc527adfeadfe3748e9cc94681ef544fd6b964f8;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;udp:1|random:13|kill:3|ping:1|tcp:2|getpid:4|dns:2|socket:9|connect:15|host:18
+a3c6a13e44375e62701d0421997f1c78dfb3c643;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;socket:9|dns:2|host:18|connect:15|getpid:4|tcp:2|ping:1|kill:3|udp:1|random:13
+13d74ea350aa821decd459a35ef0c38538837953;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|connect:15|host:18|socket:9|dns:2|tcp:2|udp:1|kill:3|random:13|ping:1
+872b717fbbfb6e87f903b6e19e817d96ad4a2c48;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;connect:14|host:3|socket:8|getpid:4|ping:1|random:13|udp:1|kill:4|tcp:2
+b62e8a336cf55be1d76c49126cdb92af0be98e40;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;connect:14|host:3|socket:6|getpid:4|tcp:2|ping:1|kill:4|udp:1|random:13
+4715338c9a5985788dd1bf8977febd6ea2ce2ab8;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:2|ping:1|kill:4|udp:1|random:13|host:3|connect:14|socket:8|getpid:4
+22e9747e5e945932542b68d812ef5e2faaf445cf;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;host:3|connect:14|socket:8|getpid:4|ping:1|kill:4|udp:1|random:13|tcp:2
+da3a2afcf2eaff155e88b2cb0eddef2d51174640;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;connect:14|host:3|socket:8|getpid:4|tcp:2|ping:1|kill:4|udp:1|random:13
+6536560d039df6626f242f5e41a8ff32cb284b8b;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;tcp:2|ping:1|random:13|udp:1|kill:4|connect:14|host:3|socket:6|getpid:4
+18d4be0d1f9912629496204aea273914d609a4e9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|random:13|kill:4|ping:1|tcp:2|getpid:3|socket:6|connect:14|host:3
+427069dcbe5451a3c94f1191a5a290597229947d;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:4|socket:6|connect:14|host:3|tcp:2|udp:1|random:13|kill:4|ping:1
+e547439f87a48e056264fc296d611886fe79c576;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:1|random:13|udp:1|kill:4|tcp:2|socket:6|host:3|connect:14|getpid:4
+b0e45b2f27be1fbeff440586b4947815e0dcc81b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;socket:8|connect:14|host:3|getpid:4|tcp:2|ping:1|kill:4|udp:1|random:13
+70374ef5f0c1edc2218bf2d8e6f5710a98a039ba;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|ping:1|kill:4|udp:1|random:13|socket:6|host:3|connect:14|getpid:4
+1e58f470ab760be9119dfad90fb6240dd4a091aa;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;host:3|connect:14|socket:8|getpid:4|tcp:2|ping:1|kill:5|udp:1|random:13
+5c446dc332ed3ac2fc9f8d432bf9b3c097734b92;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+5f7a7891c9e7ea1b7dc341eda4c4b4a1d70b43f2;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1|tcp:1
+e5f1fc8a95ea011834a6b122fc341b539f439344;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+cc405452e3a261cb53a70e48906aa44cc76caadc;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+821eff5abde8da0bf4cd6da24e2492826f90158e;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+f9b97eeb713765ded6f80001d471c2edcb7bf984;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+da502e9fdf93be727898af6ec251e80bcc718877;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+07a2e69701467dbbe8ab207c0c20c5a21bb75d8c;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+ca10c4fb3a821341c35e562caf940ca19e74efe1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;ping:1|kill:1|socket:3|connect:8|host:2
+68abf565c87c9119ef4600d4b1d9b8506a9530c4;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;ping:1|kill:1|socket:3|connect:8|host:2
+406878ed724639f483bbb21bde0a327a7c6033ca;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;connect:8|host:2|socket:3|ping:1|kill:1
+509b577042372a9a1b8d430318528435165d99da;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;ping:1|kill:1|socket:3|connect:8|host:2
+f376023e534e6b578c0efb873d6c934791e2f168;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:2|connect:8|socket:3|kill:1|ping:1
+559ba7bceded567138301a7231f338f53228a584;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;socket:3|host:2|connect:8|kill:1|ping:1
+1034207b116984d3dac9b2d0003fc0875219a37b;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;kill:1|ping:1|socket:3|host:2|connect:8
+de68e4e8404be3084f4c7859e8de2d0f13c1e648;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;ping:1|kill:1|socket:3|connect:8|host:2
+e25bbc517e744eefd190b3c6e4eb76cdda11edb7;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;kill:1|ping:1|host:2|connect:8|socket:3
+8216e5f8fe008d16da7ab535f9eb9deec5c163d9;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;ping:1|kill:1|socket:3|connect:8|host:2
+314dc656a17e7f9f9de55dbe334e5bb06fbd0f01;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:3|connect:8|host:2|ping:1|kill:1
+d8f6338ce10a8e727a29e0876c62ee292a500a6f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;socket:3|host:2|connect:8|kill:1|ping:1
+2416a8e3a458849ea94ce379a4fe3a6bc0bd2b4d;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;ping:1|kill:1|connect:8|host:2|socket:3
+8401ad5ea561f62c2e9092b5f3839f6f633797db;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1|tcp:1
+c7899cecfbeaced1ba0cdf3df8a9349ba995611b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+edfc47b5e3c57a534d8dae4cfb0f3f4e8b4e64ff;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;tcp:3|ping:4|connect:3|host:3
+1e4b7ceff8bb178a73baff0364e5334d22aac904;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:1|host:1
+0236a8f385e5178780ec4bddc325e42ab6cf4246;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+52a2cc1b66a9597f9ef3392f9a6be0fd2a217940;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1|tcp:1
+98188764b4dcf9733828df8b7288bf00d09bb1d6;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;tcp:1|host:1
+8bb36121f4e25f6894473deb4f100269f4525c43;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1|tcp:1
+8636a92abbe054c5d3b16a4342edba968db19b90;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+a864295c40691d2ef574948453298c912b5c30a2;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|host:1|connect:1|socket:1|tcp:1|kill:1
+fcefc839969c3ca61f603333e4c5cf02c68ffbfa;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+9443f47ceb2c1bc6953ef0c86d6cbe9a29d59260;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+710fbc7b0f907f77a0a68904261754b6c3ea1d2f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+a96b9e6e789de9dc5d048e7d87f936651a036c51;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:5|udp:6|kill:11|socket:3|dns:1|connect:7|host:1|getpid:4
+e2f348afef65c51178a650c4b0f5205d94887281;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:1|host:1
+74c9a50920c3cfc47efc93df038fe2b4df49e000;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1|tcp:1
+cda0c0381232af031dfd8f58aec1683f69ecb407;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+807ae1cbf9bd8917e9c1a4d63005d3c55b574eb2;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+8801b3c4f33ab92332346b7bd0f1005c824a802f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;tcp:3|ping:4|connect:3|host:3
+d5a724c6755ae78cf1f892a2d3734f4e3ae14a8f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:1|socket:3|connect:7|host:1|kill:11|udp:6|tcp:5
+0653eaaf877b047463ba1d2aa85ee3ed2ba0f711;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+2215a50711c4f09c296dbf0d9b689d0734671808;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+e640c0fb6c2f20eb2e9868519b3da7f57d03961c;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+36a509b04652f1ec07cee5f2d912549b66ac9405;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+9a3549c8943b375feb4fa6c1c0f7aa48ea4d2e6d;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+2e90673c9e9066b228cc1ad1b8497ec43be0bdc9;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+e11c2132d365cfe9a6185267cc1e63f2f5ffc5d6;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+9d33314197d3ad462c24f5dd426b0e8fc1b894a9;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;socket:8|dns:2|host:16|connect:13|getpid:4|kill:3|random:10
+dee26abd7ed80ff567bfd867fb063a0fff965b97;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+1909a47e40cb5a1b168805e93912fd135ec855f9;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1
+6dea3106a901a13b10e3bfffd770647c79254bf9;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+0a496758f642f0718bf27a33c5da7520a012cd26;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:1|host:1
+2fa5b7acb314ab50b8b689f645d748bec6440b66;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+e07f9838dc357e3678e073a1f7d10006a5c675ab;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;connect:13|host:25|socket:8|dns:2|getpid:3|kill:3|random:10
+93e33041366e33d4dc9b3607155c5adbd66b221d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;tcp:1|kill:1|getpid:1|socket:1|host:1|connect:1
+c82d0d7859c14f33f0ea91047345425ed1d9f9ab;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;connect:16|host:21|dns:2|socket:10|getpid:4|tcp:2|ping:2|random:11|udp:1|kill:10
+6927769f329d005c0b246a2a52268ab8157849a9;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;udp:1|random:11|kill:10|ping:2|tcp:2|getpid:4|host:21|connect:16|dns:2|socket:8
+f1a201edc884b8d44e992239bb5cf3c3bca2e618;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:2|kill:10|udp:1|random:11|tcp:2|host:21|connect:16|dns:2|socket:10|getpid:4
+6877d6eb79c65d59d9adf54b455d35035f249c41;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:3|ping:2|random:11|udp:1|kill:10|connect:16|host:21|dns:2|socket:10|getpid:4
+947a0e7b61278b54c0303807ea1664de122839c6;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;socket:10|dns:2|connect:16|host:21|getpid:4|ping:2|random:11|udp:1|kill:10|tcp:2
+c5e13d9647db1c0104707c1245ffa244daf8554b;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;ping:2|kill:10|udp:1|random:11|tcp:2|dns:2|socket:8|host:21|connect:16|getpid:4
+6c85dc8d17edbdd216a136c4cef22513db3888a0;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|ping:2|kill:10|udp:1|random:11|host:30|connect:16|socket:8|dns:2|getpid:3
+8819a3bc7949099306efd1743ddaabcb666ed63a;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:2|kill:10|udp:1|random:11|tcp:2|socket:8|dns:2|connect:16|host:21|getpid:4
+438c3f7d92845105da31a8706c2758d330e4e052;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|host:21|connect:16|dns:2|socket:8|udp:1|kill:10|random:11|ping:2|tcp:2
+dc614ae12141b892e7c4a61d2b0fb6a6a6899a26;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;ping:2|kill:10|udp:1|random:11|tcp:2|connect:16|host:21|socket:10|dns:2|getpid:4
+c6932635ac13062a1324d6882d6cfcf95a809c16;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;host:21|connect:16|dns:2|socket:10|getpid:4|ping:2|kill:11|udp:1|random:11|tcp:2
+fdabb415356cad792bf6ae103911c65b7326845b;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+b35ec82e1e53e7224f406d4a033d4143d0816abe;64;mips;elf;ELF64;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:6|host:25|connect:14|kill:3|random:10
+24384c8e4cd421e992aeef1e7ea3db6024703170;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+c0706f23daa8812bd4cbb63a9a512f6064568e12;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+0b4d9813ec8dbb3ea5128993190cf09cff6d6d34;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:7|socket:3|dns:1|getpid:4|tcp:5|kill:9|udp:5
+7bcc09b58655fccd00c50a4f3c6fda835355ef47;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+1c4d5f9e848fd8356a6984d87790b38370595654;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+1cac592b28a2662969751bde58a631867187c837;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:3|host:6|connect:9|kill:5|ping:1
+0b14639c1c2a06166b64bd8b03083a7e695921c7;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;kill:3|ping:1|connect:9|host:7|socket:3
+c112280957a16576571f97091fc73e094d2d509b;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:7|connect:9|socket:3|kill:5|ping:1
+56e9c5e50a03b12f73a19bb00bb60062eddac02e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;kill:3|ping:1|socket:3|host:7|connect:9
+497f718afde356f1c83c173a9ec0cde69410f043;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;ping:1|kill:3|socket:3|connect:9|host:7
+27372a456be4750371eb4da3514bc527e2c0241b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;kill:5|ping:1|socket:3|connect:9|host:7
+2f5bb3e1ccf89946c67fab010e3a4c2baceaac76;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;connect:9|host:7|socket:3|kill:5|ping:1
+e7710b7c42deeafca846135dee096e66c697ebae;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:7|connect:9|socket:3|kill:3|ping:1
+e4f50944fe68548cf570d1d2800f33a6517261c0;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;ping:1|kill:3|socket:3|connect:9|host:7
+a32c2336df47b905e291345265efe08c722276b4;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:7|connect:9|socket:3|ping:1|kill:5
+b950cc546bab248c5d1fc821c89d1a7a5273b35a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:3|host:7|connect:9|ping:1|kill:5
+db477da9f3fe9d83af506a75cf40060433943cd0;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;ping:1|kill:5|host:7|connect:9|socket:3
+e8016b68c6b30b3afbc8f45ae1e65e6e14537d9f;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;ping:1|kill:5|host:7|connect:9|socket:3
+6b03ca11ae2cbc01978060ceef6f8b8485c5bc8d;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+7a9a31c2015fc9455ee17a304c08f512306d0335;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1|tcp:1
+da473abd941a6fa5d6616828e6cec701bf44917f;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:1|host:1
+d35f23989c136b6658bbfea9ab7d92fe88c802b2;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|getpid:1|connect:1|socket:1
+0ca85445c0c7ec9f970343dae26abc894c7cef96;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+ffaa21c9ba6c25e15991903f813f609a5a302dcd;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+2feea008bef5dd59c06f84e0eab55162098e49cd;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:3|dns:1|connect:7|getpid:4|kill:9|udp:5|tcp:5
+30c23634d91d1b379d404582facabd1ac5cb0216;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+f8504a5c4c15f1989197f53c32cc42e8fda61c7a;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+3d29fe9bcb348a9cc10e21bbde1c1cbf3733d0e7;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+6893e8307bdeafb2bd23868b44160ecd010d4588;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+650fdd83ee4828ae5fe72552408b1bf189cc7fe6;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+e85245083ce0ea1321bf8120ed1c4e74e45bcf4f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:5|kill:9|tcp:5|connect:7|socket:3|dns:1|getpid:4
+3e6549fb99217346a40bc524bad987c740623ae6;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+4c51e9e4f209996fd8ff3d92cf9d4e8810fb9dda;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;ping:2|random:10|kill:15|udp:16|socket:10|dns:2|connect:13|host:21|getpid:4
+404ad141b20ff5948937b6b35e118ba3ace279ed;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:1|ping:2|random:10|udp:16|kill:15|host:21|connect:13|socket:10|dns:2|getpid:4
+a8e39be1a67fd03f8252a72c7b27f9b6e018e2d9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|dns:2|socket:7|connect:13|host:29|kill:11|random:10|udp:3|ping:2
+4089099f2b1bcd44bb6d4507af10ef9a14cecd15;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|connect:13|host:21|random:10|kill:15|udp:16|ping:2
+a1ea560767afb453637f76ad737519ca99ad3e3d;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;connect:13|host:21|socket:8|dns:2|getpid:4|ping:2|kill:15|random:10|udp:16
+a79b7ec1c2bf8458a0d40c3627e6f409140146dc;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|connect:13|host:21|udp:16|random:10|kill:15|ping:2
+e306f79fe9e5fb48d14981508759581943fa79e2;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;socket:10|dns:2|connect:13|host:21|getpid:4|ping:2|kill:16|random:10|udp:16
+69d31833c6d0900365c12dcf40f8d83b7e6b04fa;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;ping:2|random:10|kill:15|udp:16|socket:10|dns:2|host:21|connect:13|getpid:4
+c2002721fdcb16682009e4c467598d34329b1f23;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:2|random:10|kill:15|udp:16|host:21|connect:13|socket:10|dns:2|getpid:4
+de8693b9410ace3bb641d08a76cb15b69c9977ae;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1
+478f2ec61b130511bd62c41202e75ef2b59cd577;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+bb86767ffb877ccf39b73c319b303e7bb3a085b9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+74545d35895572e5cabc2f13c73d3f44a878cef1;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+93d2db4ce40077b9139d961b8ef8d2a4f939a044;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+b08152441058db042aa86f2bbe5d6d6522d0edde;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:1|host:1
+c0708347435fea857ec0017241a14fcc11479d8e;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:1|host:1
+479d4fd64bbab6ccb1e7d22eac7b281590d2bf05;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+40e3b8fcf2aceabfc9f1fe2ccc77a9e2c4394c3c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:9|udp:5|tcp:5|getpid:4|dns:1|socket:3|connect:7
+eb994f010f03863da76c3ede28c9b5d778150bb8;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;tcp:1|host:1
+6345ef768b19af6245a32d9128a3d111e7c0514b;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:3|connect:3|ping:4|tcp:3
+b3b6fe215c5edd5930c892b249940600189722d4;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+0dd18b6f392eec4f8b7f9c9be53fec96ab56bc66;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;socket:1|connect:1|getpid:1|kill:1
+36eae9b881af69cb92e1129608866825085742be;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+d754b694b88f2abf19542fb85f29a7b3985ea281;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+babbb38fabe5aa0cbb2fe9f24d041c87f65b99f3;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+917c3858de2ca7e87cf2708bbb09196659daeac6;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:10|udp:6|tcp:6|getpid:4|dns:1|socket:3|connect:7
+1d59f49bcaed166e6f75b6a5399aa5e26b6dd250;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+5162fc12f6e146ac2213da33dbb38a0ec036c30d;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+18ccd2742c877e601e9c39ed33c49da3e7a430f2;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+ab28d0858fb372e075d7905b24f088e3895b68b5;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+c5b6bc4dc7d8010dd8d5a855d480096d8e515d5f;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+8023e2d11a27a6598875e4dea73f92de7f3e8b74;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;tcp:2|ping:1|random:13|udp:1|kill:4|connect:15|host:18|socket:9|dns:2|getpid:4
+9c84248c530ae23852e3f0b45a7545023f6d8ad5;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;dns:2|socket:7|connect:15|host:18|getpid:4|tcp:2|ping:1|kill:4|udp:1|random:13
+0ec2b08830e49ed9705edd85b6e7f0650ce68137;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;ping:1|random:13|udp:1|kill:4|tcp:2|connect:15|host:18|dns:2|socket:9|getpid:4
+26e3c54630ddd809f27b2108342ec6571da4a5c3;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;ping:1|kill:4|udp:1|random:13|tcp:2|socket:9|dns:2|host:18|connect:15|getpid:4
+80b60a1fe54f87b0f0238e9da326e4c89c7a00dc;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|socket:9|dns:2|connect:15|host:18|udp:1|kill:4|random:13|ping:1|tcp:2
+3abf5262d78cb1230583dec7250f9f4536615afb;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;socket:7|dns:2|host:18|connect:15|getpid:4|ping:1|kill:4|udp:1|random:13|tcp:2
+f5bb6d3c8e3a578a7d094c832f42a57a3b98ab23;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;dns:2|socket:7|host:27|connect:15|getpid:3|tcp:2|ping:1|random:13|udp:1|kill:4
+dc336ee7fbc4a3607c49efefb77eb4fccd38990a;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:1|random:13|udp:1|kill:4|tcp:2|dns:2|socket:7|host:18|connect:15|getpid:4
+642ab295f9193c6897a289c96ba4112648e271b3;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|host:18|connect:15|dns:2|socket:7|tcp:2|udp:1|kill:4|random:13|ping:1
+56d34f54eb603a568275ecd572c618195f3fae7f;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;tcp:2|udp:1|kill:4|random:13|ping:1|getpid:4|socket:9|dns:2|connect:15|host:18
+775eb0f3116d5dc690dca08be8e124c69a64edf0;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:4|random:13|ping:1|tcp:2|getpid:4|dns:2|socket:7|connect:15|host:18
+10d0efc40c87052c2029d2ca6984954e92b0ba80;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;tcp:2|ping:1|kill:5|udp:1|random:13|socket:9|dns:2|host:18|connect:15|getpid:4
+4412ed969bfdc2dcd3e04450ea474e33678bf1ca;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;tcp:1|host:1
+23eb2a1244cc7a2866bf841a6d3d6f961a260151;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1
+a63e9d336d88209c78a3da5579d384970eaacc4d;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+671e89e9dd11fd5019cb346cab77c6d164afaf06;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+cd45250bafab8d230b58a1bc249333a47f682b6a;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+1d480fb7b5840bcc8cc1d60ec74263e05520c4d3;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+5f7a4bfaccf58656fea7b757254357e23ed5e5a7;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+263fe18982c3581c8ef3fade1a51474cab69fbbc;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:7|socket:3|dns:1|getpid:4|tcp:5|udp:5|kill:9
+86c459c0c1a713b028adabb9af8c27c281b63c9e;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;socket:1|connect:1|getpid:1|kill:1
+52b9a73a9be9407ee5e4c4de4224183adae04a0e;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+df3533a98fa69b2dfa69d87c724cdca39c065a88;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+84669f1028a81b2afedd88ebdd8ce70ca8700156;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|connect:15|host:18|dns:2|socket:8|tcp:3|kill:3|random:15|udp:2|ping:2
+27914bb7193652a8ec58846f2b8ab8b68979b5b6;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|connect:15|host:18|dns:2|socket:8|random:15|kill:3|udp:2|ping:2|tcp:3
+3be0e026463ccdfae3e0f73869e579a8cb295617;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|host:18|connect:15|dns:2|socket:10|random:15|kill:4|udp:2|ping:2|tcp:3
+6d61f16de7fbc1bbc2e2ed885a72b9f725cb7bcc;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:4|host:18|connect:15|dns:2|socket:8|random:15|kill:3|udp:2|ping:2|tcp:3
+bd886a6d64bef5a33c67c942c413be725e53c49a;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;kill:3|udp:2|random:15|ping:2|tcp:3|getpid:4|connect:15|host:18|dns:2|socket:10
+ea8f034a86cee2503e5b4a376a0e7f1affcbc7bd;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;host:18|connect:15|socket:8|dns:2|getpid:4|ping:2|udp:2|kill:3|random:15|tcp:3
+72dbf7608619221213321f76f567cfd4810dc0a4;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:8|dns:2|connect:15|host:27|getpid:3|tcp:3|ping:2|random:15|kill:3|udp:2
+4ca1ac75c3b50d5dbd3e593e8fb44ebdd530b91e;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:3|udp:2|kill:3|random:15|ping:2|getpid:4|dns:2|socket:10|host:18|connect:15
+290d7a60403548b942661afd5e50e56b6e97dce1;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;ping:2|kill:3|random:15|udp:2|tcp:3|host:18|connect:15|socket:10|dns:2|getpid:4
+bd5a619fbc8706ee3a9fa670a199c62788528747;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:18|connect:15|tcp:3|kill:3|random:15|udp:2|ping:2
+152202d12c0d218455dcbd45436fd97d8fda0427;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;host:18|connect:15|socket:10|dns:2|getpid:4|tcp:3|ping:2|random:15|kill:3|udp:2
+3d21aec77bb60d6a819d490d7165f73125087674;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;tcp:1|host:1
+b00464a992ff84e20acc707497a7455ccbc12cc8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;tcp:1|kill:1|getpid:1|socket:1|host:1|connect:1
+d02b5c117ffd21c44fb3758764a657f5ee2a872d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1|tcp:1
+c32d945b1a4b876a998116369af079eb20f4dcf7;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+fc4a0849a31d6b2866ef1110e2755564891868c8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|connect:1|host:1|socket:1|kill:1|tcp:1
+df748f9dc141c7c9cb239c0a5e5b02bafb2b6217;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;random:10|kill:3|getpid:4|connect:13|host:16|dns:2|socket:8
+b5f7f7d1ca40a21bd628f30854660f7e78dac803;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+dbe91a03888c09038b818a2b291a3bf144d13ff4;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1|tcp:1
+202eae7f6fff244cc4cc7c839d66a38f80cd2629;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+0bf6424a4bd0dcbfc2a5dc2af75d24da62502677;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:1|host:1
+d2cf337609c02d0c231b15239d4b1f8da15f3500;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;tcp:1|host:1
+9d6258095768b9aa9444c518061c33872b66488d;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1|tcp:1
+ba38f03f5db2ca9aef385e2537ca88a19022a1cd;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+d26411d766119762bc7eb94e33d2cdaf1ff71a7a;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1|tcp:1
+a8d59a2f69e0cef8723e6a437a42d06f1937b758;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;tcp:1|kill:1|getpid:1|socket:1|host:1|connect:1
+397645c46a20ae231863ea91882850dd3ba25ea7;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+d0351e23197c043d4c4e0033cd197a1c999c0455;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+242a1305b6d523f5ecad4f77ee8128d5c7fb2b12;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1|tcp:1
+5b5e6e151f6fe2755db55c489d2ca95a3e1d493c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+0c1675bf83c5031b3df8db0cba04400af169d9a6;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+5168c01600b33aaf26e1923f58551675425b77d4;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:4|connect:9|host:7|udp:3|kill:6|ping:1
+b934684acbddd90bac44d8d7368ccb50091555e9;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;connect:9|host:8|socket:4|ping:1|udp:3|kill:6
+18f56bbbe89d92bc5b75447e403c0b3468f7d399;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:4|host:8|connect:9|ping:1|udp:3|kill:6
+3f41d6ef9e8ed1bc163990e8891379c0398d98b1;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;ping:1|kill:6|udp:3|socket:4|connect:9|host:8
+b2c9fbc15cb30e9111cd16285252631c7a2e96c1;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;kill:6|udp:3|ping:1|socket:4|host:8|connect:9
+ccf75fe6cb9a3a65a00cd2078ca512838eb07c74;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;socket:4|host:8|connect:9|udp:3|kill:6|ping:1
+8e38cf4a3d20b92056b37146783771b7622fe1d3;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;socket:4|host:8|connect:9|ping:1|kill:6|udp:3
+30507817fd44b7a2652d0e696df2eed2e9e4609e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;socket:4|connect:9|host:8|ping:1|kill:6|udp:3
+aff7d5c8d69fc970e48610f23d03db7975b88569;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;socket:4|connect:9|host:8|ping:1|kill:6|udp:3
+bb1f4d1534ed7c4c43b97ef99fae4910a985fc6a;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;socket:4|host:8|connect:9|ping:1|kill:6|udp:3
+16b95df50baa1b781eb71ac39dac7f587301dff9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:8|connect:9|socket:4|kill:6|udp:3|ping:1
+d98050eff81eb97d04a7bb166801a8ec286d98b2;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;ping:1|kill:6|udp:3|socket:4|connect:9|host:8
+4022ddf23ae3816f2038b4fbde6186f6c6b593b8;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;ping:1|udp:3|kill:6|socket:4|host:8|connect:9
+b52f83e3ebac93493261b8fd223e0af8dba90c5b;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;tcp:1|host:1
+6b832718ab9a43bbcd8bae4bb9a6e364deae571d;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+9754663577b2c3801f83cff9aa6f5ef0aeeb2966;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+46bb0a9597ef1a30309efb361ae701c422f91a69;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+13dc91d511cc61d569d90291ec08275ad6ec3286;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+0f6330ce70337e33f697323e07eae461edaecace;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|socket:1|connect:1|kill:1
+4db7a4cdafc0b0c840713e6077adcff6b66f19e1;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+d0b10a5d45d1e8b585eb79bd90e78e2f83615ae5;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+dbd029b481cd78fbbaa4a4e0663cc45c187eb4db;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+d93614f124407a36cf512ee642ac013136eab6ab;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|connect:7|dns:1|socket:3|tcp:6|kill:10|udp:6
+2b2339f4a4cd623681135596e9ba8ce32c780287;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+b4df56140d2f588fad44fbdca271a5e8c27d2194;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+b13e3a57dd03eda7a6bc62347e03721bf67de4ae;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+b912f792d4a20c24e5ac88f534f2cead893ce63a;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+68991bca30529c622f5191a77497784047473fcd;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+81516ff48fa5fb0e78f6acf0a59f529d620d8e4d;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+48038c5262371374bc0d4faea7c99a29c0907b95;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;host:1|tcp:1
+cde31f8c96e9d69725c79674752e5c7e37e481e5;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+02cae1a2e2efed10379f6b19910f136cf0defdd9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+11cb7ed19e2adaab52a9aae1b6a366f2b0de91aa;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:3|host:3|tcp:3|ping:4
+02cd02292ef795cf808e155b49cd550968bde49e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;socket:8|dns:2|connect:13|host:16|getpid:4|kill:3|random:10
+568563e2388dac9fba51d85d61b03e84846cb8e9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;ping:1|udp:35|random:4|kill:31|icmp:8|tcp:28|host:5|connect:16|socket:33|dns:20|getpid:4
+4c64aafe0c8cc4eefd61b6f0e8aaab166642f077;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|connect:7|dns:1|socket:3|udp:5|kill:9|tcp:5
+464f8640afaed74d6e3d358169229db782aeaf8f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:3|connect:3|ping:4|tcp:3
+256fe4a12b5385f5832059acb74b31e5f74bea55;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1
+65b97feef6be8f00fd513e6f5a905cccf46a2a74;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+cf709e1ce75636f71278581c60e8a8d794c91ad4;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:1|socket:3|connect:7|tcp:6|udp:6|kill:10
+579dc755f2fe3c5447033391eee83c7957287171;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+6e217f7504f492508c50ed4bdb620712b2de9f34;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;host:1|connect:7|socket:3|dns:1|getpid:4|udp:6|kill:11|tcp:5
+c2a63f03b5d04ed0ac2c3748d752dc8adcd3f7e6;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;socket:6|dns:2|connect:13|host:16|getpid:4|kill:3|random:10
+64dff8d734cf1ae3fcfb74af46b9aafdc68aa95c;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;host:16|connect:13|socket:6|dns:2|getpid:4|kill:3|random:10
+385b7f774a0848d77b48d11cec530ba350ae2445;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;connect:13|host:16|socket:8|dns:2|getpid:4|kill:4|random:10
+c911185920aef58ac20faa79b6c3c9b47d6a3600;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;connect:14|host:3|socket:8|getpid:4|tcp:2|ping:1|kill:4|udp:1|random:13
+6f19d4513e1543ea4677c7999ae30d41e06e73b7;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|socket:6|host:3|connect:14|tcp:2|udp:1|kill:4|random:13|ping:1
+65877054b95762dc4ee2f702518953f7fd3b3375;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|socket:8|host:3|connect:14|tcp:2|udp:1|random:13|kill:4|ping:1
+5fb87d5195a5b4e726e87558ec091c67f529d818;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:8|host:3|connect:14|getpid:4|tcp:2|ping:1|random:13|udp:1|kill:4
+aae2c8177e45bcd53405b43815a3c208c9d519c2;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|connect:14|host:3|socket:8|tcp:2|udp:1|kill:4|random:13|ping:1
+16bb1062a8888d5fbf3a68fc88a787b4ed9392a3;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;tcp:2|udp:1|kill:4|random:13|ping:1|getpid:4|host:3|connect:14|socket:6
+d385b141410edb78c227501e1ba88532d90a1391;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:4|random:13|ping:1|tcp:2|getpid:3|connect:14|host:3|socket:6
+a557ea8477f874ffb0c482a4a88d5652bb0aa9ca;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;udp:1|kill:4|random:13|ping:1|tcp:2|getpid:4|connect:14|host:3|socket:6
+19c47ad35897cc314d8aa967372a97c70fa1c45f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:1|kill:4|random:13|ping:1|tcp:2|getpid:4|connect:14|host:3|socket:6
+a5ab0db8270ee9a3c6cbbeb2ada8a5291679f09e;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;ping:1|kill:4|udp:1|random:13|tcp:2|socket:8|connect:14|host:3|getpid:4
+8b181f44a7d09607396b71efb5a3838fba2211c2;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:6|connect:14|host:3|getpid:4|tcp:2|ping:1|random:13|udp:1|kill:4
+35a2941cba0bc819fb616b4628db5092977b6a50;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;getpid:4|connect:14|host:3|socket:8|udp:1|kill:5|random:13|ping:1|tcp:2
+dacb72b628b1e7b4b3a48a1694eb21154a8ba08c;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:1|host:1
+1200791e40c68d0c4c7746f32fff7a1fd93e5f79;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+28140091f2e654271bdb2120bd788ea9c43c7b8f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:6|socket:3|dns:1|getpid:4|tcp:6|kill:11|udp:6
+30898fff8084667bb0a0d5c69dc568cdb2c438ad;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+307fc36ba169ec523fddff2f2606411a7807d90f;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1
+6c5a615cd2361c7b557f2fe015631d6d1272bef7;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+e736e9c00d5fdce6d4ced02373864bdf5a13d5ff;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:10|connect:16|host:18|kill:10|random:15|udp:2|ping:2|tcp:3
+71d5dc86569395a9f93d697a7178811095677f8a;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|dns:2|socket:8|host:18|connect:16|kill:10|random:15|udp:2|ping:2|tcp:3
+6c5e6c158e3e91691ede9f01b2b63279381ac286;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|host:18|connect:16|dns:2|socket:10|tcp:3|random:15|kill:8|udp:2|ping:2
+4f54219188f52fc890628bc700990b1ff686d8d6;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:18|connect:16|socket:8|dns:2|getpid:4|ping:2|kill:10|random:15|udp:2|tcp:3
+c6f79ae0a59a983bd22d468a5f30eabb7927df6b;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|connect:16|host:18|udp:2|random:15|kill:10|ping:2|tcp:3
+12bb8b546342d45c458f3124d9355b4fc8c8fb30;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:3|udp:2|random:15|kill:8|ping:2|getpid:4|dns:2|socket:10|connect:16|host:18
+40de69a347072047a8e2bed9870d35334f39950a;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;tcp:3|ping:2|random:15|udp:2|kill:10|connect:16|host:18|socket:8|dns:2|getpid:4
+2a7c74d92f7ded3419c954a68f8758c3ee8f1570;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|dns:2|socket:8|host:27|connect:16|tcp:3|random:15|udp:2|kill:10|ping:2
+6dd538a1a7ed5ce57d982b2b557bb725e1c3751d;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;tcp:3|ping:2|udp:2|random:15|kill:8|socket:8|dns:2|connect:16|host:18|getpid:4
+45460ceeac009f9f40cb6ee2164cb966f7a7c364;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;socket:8|dns:2|host:18|connect:16|getpid:4|ping:2|kill:10|random:15|udp:2|tcp:3
+6ab3c1720bb83fd1c2f9f4395ba9d3bbd5ef9d01;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;kill:8|random:15|udp:2|ping:2|tcp:3|getpid:4|host:18|connect:16|dns:2|socket:10
+30c8780b8553466146b0fbd020ca0b9b69caf58e;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;connect:16|host:18|socket:10|dns:2|getpid:4|tcp:3|ping:2|random:15|kill:9|udp:2
+c4e4dbe5f43cd32d1adbc14e0cf3ed7cd8cdd255;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+38b3c43d4b37eb25f8e0c8de859ad6ef69634c1e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+a530559831618f96be2e8f0db40ff01fabf52b7b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1|tcp:1
+e08cfdab7fad99c14cf824c498497a32b95e00dc;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1|tcp:1
+08c7153d156fbf8b7f8eaef58cf44fe5ae285405;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:1|host:1
+5b926c30966895891a92982c7f14cf5ba2105b4d;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+3aa8499afef049d1b0d4377924797ccd4aaf7a49;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+5d0d26a6ada2af785f76e231c9106eecd921c663;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+972e8c446db011dc8099cf97fc7bcfb6b2292771;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1|tcp:1
+d4de7c186aceef43855eeb4c3d3584c7db423f48;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+4f127100c1f82bec2e6d35bdd79ab9dec975b996;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+ede2e5bc7aa6aac492ccc98602a6cf95e31f9a5b;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;host:1
+96ab481232e4fec25ed0987006b801eda33e58d0;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;ping:4|kill:11|random:15|udp:2|tcp:3|host:17|connect:15|socket:10|dns:2|getpid:4
+dc6b390fb74b67ad9736e9d86b4adbe3fd46ca86;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;tcp:3|random:15|kill:10|udp:2|ping:4|getpid:4|connect:15|host:17|dns:2|socket:10
+d381c079b028824071d1ecb5bd3b466d7078db94;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:17|connect:15|socket:8|dns:2|getpid:4|tcp:3|ping:4|udp:2|random:15|kill:11
+797d276abae39c8615a589e13cb6f7934c1c3135;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;random:15|kill:11|udp:2|ping:4|tcp:3|getpid:4|dns:2|socket:8|host:17|connect:15
+9601127ac0e1eeae8295ee802e9697e81e256415;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:3|dns:2|socket:8|connect:15|host:26|tcp:3|udp:2|random:15|kill:11|ping:4
+d80c97e6dbac99b2012da58786fb7de77209039f;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;getpid:4|host:17|connect:15|dns:2|socket:8|udp:2|random:15|kill:9|ping:4|tcp:3
+80c070b6e9946e892f445f85afe1d41b9fdae837;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;host:17|connect:15|socket:8|dns:2|getpid:4|ping:4|kill:11|random:15|udp:2|tcp:3
+b3796fc05839fa63c29dcd16b1b68bd4a1b4bb0b;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|host:17|connect:15|dns:2|socket:8|tcp:3|kill:11|random:15|udp:2|ping:4
+9924f9992f89844a80127b6babe261f94b550137;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;host:17|connect:15|socket:10|dns:2|getpid:4|tcp:3|ping:4|random:15|udp:2|kill:9
+db208c0c7225b2c8c853b8a6015ff45923902d56;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;socket:10|dns:2|host:17|connect:15|getpid:4|ping:4|kill:9|random:15|udp:2|tcp:3
+e2e5cc2ad1d40767e45c9af01b79f6c2a23bc289;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:3|ping:4|kill:11|random:15|udp:2|socket:10|dns:2|connect:15|host:17|getpid:4
+bcc6faabfb8da1f660f907fa9d614be6f793c9a3;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;getpid:4|dns:2|socket:10|host:17|connect:15|random:15|kill:9|udp:2|ping:4|tcp:3
+c90b716c0c0fa75045430d3b409d74ba70f32733;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:9|host:21|connect:16|tcp:2|random:12|kill:9|ping:1
+fc15eb0afced6cd4ed04b41545f09db8b2a0384a;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;dns:2|socket:7|connect:16|host:21|getpid:4|ping:1|kill:9|random:12|tcp:2
+9f23f8e273bc17f70ed3d00687a70e94e38def85;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:2|ping:1|random:12|kill:7|host:21|connect:16|socket:9|dns:2|getpid:4
+782b8ce95908a125d736918e5ed51e768c192fb0;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;tcp:2|kill:9|random:12|ping:1|getpid:4|connect:16|host:21|dns:2|socket:9
+3a0ac3b736c86424c61dff99aa70c5b4cf230225;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;dns:2|socket:9|host:21|connect:16|getpid:4|ping:1|random:12|kill:7|tcp:2
+b711f7790ee40b04406d278ee0c47dc301f0875b;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;tcp:2|ping:1|random:12|kill:9|socket:7|dns:2|host:21|connect:16|getpid:4
+ec4bd414eaa6cccff7384d4f1ff66676dd37d6b1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:16|host:30|dns:2|socket:7|getpid:3|ping:1|random:12|kill:9|tcp:2
+75773297bf2911ce5fa505907b8075803a426ce6;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;socket:7|dns:2|host:21|connect:16|getpid:4|tcp:2|ping:1|random:12|kill:7
+8915750324c116697131c921f44bf7ed92ee64af;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:2|random:12|kill:9|ping:1|getpid:4|connect:16|host:21|dns:2|socket:7
+d6ca4628dcce10674aff94c961a864cb9f4af502;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;0;linux;1;socket:9|dns:2|host:21|connect:16|getpid:4|tcp:2|ping:1|random:12|kill:7
+50bfb6e62a55fb0eb641966262c8b100613fa46d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:9|random:12|ping:1|tcp:2|getpid:4|host:21|connect:16|socket:7|dns:2
+ba362366af4677693a4e56f940dbd531148c17fa;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;0;linux;1;tcp:2|random:12|kill:8|ping:1|getpid:4|dns:2|socket:9|host:21|connect:16
+f4a614208972d7187f4e230acd2a0f6ecbfea895;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:6|kill:11|tcp:6|connect:6|socket:3|dns:1|getpid:4
+578f5949b9f791705e3a8bdb8463ac813f094baa;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;ping:2|random:10|kill:15|udp:16|host:21|connect:13|socket:8|dns:2|getpid:4
+2a8dc05cca7da24e5feb3b00bffaeeafc069891a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;random:10|udp:3|kill:11|ping:2|getpid:3|dns:2|socket:7|host:29|connect:13
+117a101c3af8cb13acf8c2b3b0e4f5480dc456a5;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;getpid:4|connect:18|host:42|dns:13|socket:13|udp:20|kill:27|random:17|ping:2|icmp:1|tcp:14
+858dbf566e44f0e2df4b43dc28acd78d009f554f;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;random:10|udp:16|kill:15|ping:2|tcp:1|getpid:4|dns:2|socket:10|connect:13|host:21
+cff522591d7ea7213b3d9758c0a4296291fdbb9f;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;0;linux;1;getpid:4|dns:2|socket:10|connect:13|host:21|random:10|kill:15|udp:16|ping:2
+a0e35b04f3c50dc7d582fa400e89d9206ba719a3;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;0;0;linux;1;kill:10|udp:3|ping:2|getpid:2|socket:3|host:7|connect:4
+ea5692d9d69f24ae662f1e76f1cf47d4aaf18fb1;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;socket:10|dns:2|connect:13|host:21|getpid:4|ping:2|kill:15|random:10|udp:16
+a32c6bb67ca1f8e9599fa4654bca4162ce77a3d5;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;0;linux;1;ping:2|random:10|udp:16|kill:15|socket:8|dns:2|host:21|connect:13|getpid:4
+f9b6add83464071eedad2aa3f9597440b618edb6;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;socket:13|dns:13|connect:18|host:42|getpid:4|ping:2|kill:27|udp:20|random:17|tcp:14|icmp:1
+d1f5133444b8124a8319de7b987bbbc4dc92cf2b;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;socket:13|dns:13|connect:18|host:42|getpid:4|ping:2|kill:27|udp:20|random:17|tcp:15|icmp:1
+6f39c2bb6464dd734992895e8b6e96c3a7d44387;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;0;linux;1;tcp:14|icmp:1|ping:2|udp:20|kill:27|random:17|socket:13|dns:13|host:42|connect:18|getpid:4
+026960ec0a8527df987ed5255e43db2197078f36;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;0;0;linux;1;tcp:10|icmp:1|ping:3|udp:5|kill:26|random:9|dns:10|socket:14|host:18|connect:8|getpid:2
+fefe3653e2b7488eae6ae8fa6761c126f18c07a4;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;kill:15|random:10|udp:16|ping:2|getpid:4|dns:2|socket:8|host:21|connect:13
+e8ecf8b972a0852cdcaf70f51bb04e045fc520ac;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:18|host:48|dns:13|socket:11|getpid:3|ping:2|kill:29|random:17|udp:20|icmp:1|tcp:14
+c1437be57a81f3cf4d0079eb745aaa91da632c5a;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+02912f6bc39635799f0ff64c3c03b67a1af52368;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:4|udp:6|tcp:5|connect:7|socket:3|dns:1|getpid:4
+628d1130ac05e4d7d3d173f42bbe87e7bb1a28e8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+8bcdac7f0febdcafc98b483541fb99644025683a;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+fa0d94471f6fbf1425894007cfd81e93130ca0e1;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+e235f648ccbdf140b71deb64335ec65ae78f0f03;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;tcp:1|host:1
+f3c4dde761f91a2bcaec1192e3a67f54e02a2641;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+d201814be43676d9e84a92ef968d8d1dcd21ff81;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+9ed433d191375fbaa97c40c1bdcf250625060c3e;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;getpid:1|connect:1|socket:1|kill:1
+60250c9141fad0809220866fa51e940e70390121;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+bf47085a379609d0ca049a4b80320dda965159de;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+b5facc5a135690abc916bfe1d7877b9d86131bec;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+385d85121dcc4f7d3301e8b835868f1e8c03e9b8;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+e89651cca3edada0627f2d17d5060943ed0326ba;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+94dfdbb4d34029b095c664be35bc07d17cd047e9;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+f5a87ec1cc26f06548d0f4f28094a6dcbf68acbe;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+9b6245be8bca48e77b17bf20f0254abd67d30b44;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+55277a282dc8f3f5e6f1ff20955a5284e7b17e0b;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:27|connect:22|socket:10|dns:5|tcp:1|ping:12|random:6
+ee9dd371b7fb4a78adb3ac9335f9ed5d6d3220bc;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+d628d93d62745ec3f9c148680e7ae6be4372da32;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+73495820cd7f1dd533f5ca7d3e41d948eb714abf;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;socket:1|connect:1|host:1|getpid:1|tcp:1|kill:1
+1a2695b56379bef4e53ee903eff9c8c4156a8646;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;connect:4|host:4|ping:3|tcp:3
+a2364ae4acf5a7264cd23bbeed174924771f01a0;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+0808bd6d4591e43812d91fce89d557d188ddfca1;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+36ea3cd8be7d7827a7868b105a7f0eb8ce72e6b2;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+a2e68c388e93869d4aafaed4b1a29cc235eb8063;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;tcp:3|ping:3|connect:4|host:4
+ec0ec61c9ff98f927aaf85a2efad495ff01b7fa9;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+33b01196e3184b5b68e80f8cdc5ace34c0ed58a4;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+32a24a52cb65d806b326a0f04e98b885be3ffe86;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+f3771af84ba72d055db7cf82c6e4c5efc78891ec;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;connect:4|host:4|ping:3|tcp:3
+e456c95b0b33d44bbb805abf05dff7957119d021;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+07a7e1ec5697b78c5ff04e7586dda5359531f391;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+d7ec9c70769fb47bbe2d5740ea5bd6d4c3ecd016;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|getpid:1|socket:1|connect:1
+7aaa16a28500c69dfd5ebdf8242b3cf62fc573c6;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+0258bee8c5ea6d3823c61449fdf2a0aca192cd9f;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;socket:10|dns:5|host:26|connect:19|ping:10|random:6|tcp:2
+ed4495464be5faf6b808f19181b0d318d1ec860a;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;
+02fae19667796e24c462c76aa3a368ec60eaa208;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+29ed5fa9050bafa663b11d814e48f7ac9fc23948;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+09f4fecf8b7f6b43d4eea4f974de0c7df3ec7c40;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;socket:14|dns:5|connect:20|host:23|tcp:2|ping:11|random:6|udp:1
+3400ae858ab1a1bfb420a6cc3e6e8c18e8982d2e;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+32e6d76ad16a77bbb8430c97d1975d68c5a6e301;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|connect:6|dns:1|socket:3|kill:11|udp:6|tcp:6
+0b2af9053ef2b5261c5ef451a4fd843614b3063a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:6|kill:11|tcp:5|getpid:4|host:1|connect:7|dns:1|socket:3
+cf3b9ae6686dbce0709e666688df3c82f92977e0;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+b6ede24097c8d626045b6c8d7840df4d6ae297d5;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;kill:1|connect:1|socket:1|getpid:1
+0b45a141987028f442f1bb14fec38b5d2c5c9fc3;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:1|socket:3|connect:7|host:1|tcp:5|kill:11|udp:6
+3e614328e8f03987a78959c35dc210dd0410c89c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;ping:3|tcp:3|host:4|connect:4
+9fe034cad9c3d934fef7e97b1c03c505fc424431;32;sh;elf;ELF32;0;little;c;Hitachi SH;0;linux;1;1;linux;1;
+59a53412594d233e60e332f49ab888bfaf98793f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+eeaaebdc57707d1f2df3e2c22d4cee89b161a814;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;host:1|connect:7|socket:3|dns:1|getpid:4|udp:6|kill:11|tcp:5
+214d9d17bd5514fd49ac41bbcf542d1b13f61e5b;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+ea956ac6c832a64dbec0e209402253ec8a4869b8;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+45e1d9f0a897a810f933dc504dbd5afe8de82bb0;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+51471ce77db93495c3662a769c2ba2eead126aa1;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+62a6ba232885ebf99bd41097a7c4b67ae54bb4f0;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+e525b59ef82e18677c17faba674e91895f6ec3e8;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;kill:11|udp:6|tcp:5|socket:3|dns:1|host:1|connect:7|getpid:4
+4c88311a6c4c6d910eb7bebcb7b4145ab2d6a1c7;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+5baf264ade4870abe5479fd38655600e2c448c0a;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1
+9e0723a01e120c8b22ef1497f9bc2017ecc8f4c7;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+0bba19ec2644e6a46c3508b5fd03c274efb7429d;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;socket:3|connect:7|host:4|kill:1
+3a3093e3039c76339d054a8d053a09de96a1752e;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+0d4f59523b8c8397ebb5a8b825db9ac1388db686;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+a2c032b27290bb87cb9db755d71abc56784cb6d0;64;x86;elf;ELF64;0;little;go;AMD x86-64 architecture;1;linux;0;0;linux;1;kill:17|udp:98|random:67|ping:21|tcp:170|icmp:2|socket:28|dns:520|host:170|connect:71
+bde0387f1ede90d4690fe453f00051256d525fa7;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+aacf9d00edac6948392dd6f0d185cf77c3243d43;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+7ebcfcacbec4a013a8bd61c8c86d931281ea500a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+e5fe9d3dd274d76fed1b9ae3f3ff83a46146771e;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1
+cd9e273ae2a54ed96fd8ce725f5c41e659d0ca33;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+6bf766667c2e0f958e894c373608f3af77f67a92;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+2cbf8930f4bcdc79bcf076fabfda7dfbc3ff8ad7;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;tcp:3|ping:3|connect:4|host:4
+bac3ae74734a1d8e9e8e58484894bb85a77681a6;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;tcp:3|ping:3|connect:4|host:4
+4fdf64c6616f819cf490880e9e82b4462bb14a4d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+240dccd24f800421efca22ee0d32640674aa7d5a;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+2b649dfdb041915629528795d644fe1ee4519df0;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+5ccd9c083767f56efc5cc431c8077ccbd7e3ad7a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+a1d4008c8c5aabbc1e7a42c53616cfdf42eda681;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;0;linux;1;kill:11|udp:6|tcp:5|getpid:4|host:1|connect:7|dns:1|socket:3
+b7ff0c28fcaee6048359914778b4b9a3ecf1d14f;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+bdfc45f805826e06e108db9ca7f56fe06f3fce5a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+3e0dc8ae3f25055a0ea61fdc3b9f18da05ccf5ae;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:4|dns:1|socket:3|connect:7|tcp:5|kill:4|udp:6
+51d833ed3a83f0dc7699cfe2ef887b3393b5ba3f;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+6494527cd46f395981f90a35fa0686b76339b132;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;
+e3a76d22af5f299377588c0faaa17f683f7befca;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+06a0712e954c51573ed52153ee360a256f335fa8;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;0;1;linux;1;kill:1|tcp:1|getpid:1|connect:1|host:1|socket:1
+53396fea432f1db29fff049124ba5e986785e570;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;udp:6|kill:11|tcp:5|getpid:4|dns:1|socket:3|host:1|connect:7
+e1f13ddc8fb3ad407b1788a2a74ae78a2e6ad18e;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;0;linux;1;
+b497a147dc75b6670de408e6952a24968e2e3338;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+843355f248a1da805bab5e52407b3265380faa32;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;
+527b47ef3dc4034fd4af161a73ca6cd2ab763fcf;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:27|connect:21|socket:10|dns:5|tcp:1|ping:11|random:6
+2be71064a37adea7288bbe4b53688e7af6ea907e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+1e5bc68251a15ea1fb72fbcc023c437602106174;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:5|kill:9|udp:5|getpid:4|connect:6|dns:1|socket:3
+16f8fd5935d74e69e91e3eb1f82f575afddb4ea5;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;tcp:1|host:11|connect:10
+e861ef8c1b092f6e445099d69ff109e104987031;64;mips;elf;ELF64;0;big;c;MIPS R3000;0;linux;1;0;linux;1;getpid:4|connect:7|host:1|dns:1|socket:3|kill:11|udp:6|tcp:5
+3d527332ebb97e6df591331ef0a1f9c82e104a6d;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+9fa473e12d425491c6e38e7aef8a28536c3d0326;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+304ddd5e821c485ebc9a733060b41bd5cb03c6db;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+68afe68dc036d1f163017741bc0e041ad28b939d;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+f4217823c0fed112a94b251192ae1b8e2c771a52;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+6f8606d56405193773bda562ee7397ac521a57c6;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;host:1
+c121788c2b4bbb10162888edc773be779f110b93;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;ping:11|random:6|tcp:1|host:27|connect:21|socket:10|dns:5
+b3d00159cd41f03b2a737f2570914d2258d811e3;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+c00f280fa47a671f759808c696608e6e4679541f;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;0;1;linux;1;kill:8|udp:5|tcp:5|dns:1|socket:1|connect:2|host:1|getpid:1
+11a26fc1f8b89ed0c9b5b444e98360b5cfe7af43;32;mips;elf;ELF32;0;big;c;MIPS R3000;0;linux;1;1;linux;1;host:1
+0c7cb2f3e0ebefe13a6edc39876e958577d62a3a;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+e9bd72bcdc74ea8c641416587ca3c0d7de37ff78;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+d90c2121c695a0e87e001227e4c9e81079792179;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+6f013d0304c86605cd9a45a88e61639f126e3311;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+056c256ede2df3e137922df9aa7ae21b107029dd;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:1|host:1
+df2cbdc05e6e759693f1b8c4741aae0980c2e1fd;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;kill:5|random:13|ping:4|tcp:1|getpid:2|socket:11|dns:2|host:8|connect:34
+90063b2739bc7c64d37442996c988d41ec54d9ef;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;getpid:1|socket:1|connect:1|kill:1
+dee917fd2dceb46ebadd1c2fe0afb140154d6d7c;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|connect:1|host:1|socket:1|getpid:1
+ed0d94681f8680f96c2b449d5b6dd581e6b88586;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;connect:6|host:1|socket:3|dns:1|getpid:4|udp:6|kill:12|tcp:6
+ea2641fc0b89a0b4d9822ad578c69320af6cf519;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+6716b9753f8dcd47d4e637162de0873c7a9eaf48;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;
+138349f9d742adf7917c066ed26dd18b2c709c9e;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;host:1
+9589263339e831fd18c32b603a97cedbe4baa006;32;ppc;elf;ELF32;0;big;c;PowerPC;1;linux;1;1;linux;1;
+22cba06a602d91e9161445a205ed595c80da5e68;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;1;linux;1;host:1|tcp:1
+f944ade9e5569606cf2864845634df9e81d8a164;32;arm;elf;ELF32;0;little;c;ARM;0;linux;0;1;linux;1;kill:1|socket:1|connect:1|getpid:1
+91a38f12b7997760097c2c17d33920df1ee75657;64;x86;elf;ELF64;0;little;c;AMD x86-64 architecture;1;linux;1;0;linux;1;
+2206f6dffd6a41fc6edcf9007a1e811bea53e5ad;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;host:1
+3ae3885fa0ef8d4250581d340ec5347920a2f295;32;x86;elf;ELF32;0;little;c;Intel 80386;1;linux;1;1;linux;1;
+76f5827563656bf2b09e4b0f78416931c36c3a9e;32;sparc;elf;ELF32;0;big;c;SUN SPARC;1;linux;1;1;linux;1;tcp:3|ping:3|host:4|connect:4
+eaa4a7fc1438d2e5b2b83dbb6facd1faf81251ac;32;mips;elf;ELF32;0;little;c;MIPS R3000;0;linux;1;1;linux;1;
+a94f3c3401c820128e8226de776992da931564ef;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:6|udp:6|kill:11|connect:6|socket:3|dns:1|getpid:4
+0e794a487361f12dca65f95b7183acec11d2d974;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+fcfb35f1ca4ae86281f9547177852ba5bfde083a;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;
+431f153845ff8789f3b12d3f730f0955bd6f4f69;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+1e3df9ddbf855bb8e1bbf8559c6d5379465e2aa0;32;m68k;elf;ELF32;0;big;c;Motorola m68k family;1;linux;1;1;linux;1;
+25f275cb6ec41b303c1c4ca719b439043ac7b19f;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;1;linux;1;host:1
+88853501873bf0343948d9fe777201213835b062;32;arm;elf;ELF32;0;little;c;ARM;0;linux;1;0;linux;1;tcp:5|kill:9|udp:5|connect:7|socket:3|dns:1|getpid:4

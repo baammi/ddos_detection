@@ -1,0 +1,12 @@
+socket
+tcp
+udp
+dns
+kill
+random
+getpid
+get_pid
+connect
+host
+ping
+icmp
