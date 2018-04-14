@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cat /dev/null > ./import_disc.txt
+cat /dev/null > ./retdec.exception
 
 for f in $(find $1 -type f)
 do	
@@ -9,7 +10,7 @@ do
 	sha1=$(sha1sum $f | awk -F' ' '{print $1}')
 	if [[ -n $arch ]]
 	then
-		if [[ $(grep $sha1 ./DATA/master.txt) ]]
+		if [[ $(grep $sha1 ./master.txt) ]]
 		then
 			echo "SKIPPING:sha1:$sha1|file:$f => [already exists]"
 		else
@@ -22,6 +23,12 @@ do
 			echo "$sha1|$(date '+%Y-%m-%d %H:%M:%S')|$f|$new_f" >> ./master.txt
 			rabin2 -Ij $new_f > $new_f.INF.json
 			rabin2 -zzj $new_f > $new_f.STR.json
+			if $HOME/Project/retdec/bin/retdec-decompiler.sh -k --backend-aggressive-opts --backend-keep-library-funcs  --fileinfo-verbose --backend-find-patterns all --backend-emit-cg $new_f
+			then
+				grep -E "{|}|\w\(" $new_f.c > $new_f.simple.c
+			else
+				echo $new_f >> ./retdec.exception
+			fi
 		fi
 		#rabin2 -Ij $f > $f.json
 	else
