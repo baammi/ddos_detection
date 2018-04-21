@@ -29,7 +29,7 @@ while (my $word = <$lsth>){
 close $lsth;
 
 open(my $fh_csv ,">" , $fin.".csv");
-print $fh_csv 'id;size;bits;arch;bintype;class;crypto;endian;lang;machine;nx;os;static;stripped;subsys;va;decompiled;sections;strings;source file'."\n";
+print $fh_csv 'id;size;bits;arch;bintype;class;crypto;endian;lang;machine;nx;os;static;stripped;subsys;va;decompiled;strings;source file'."\n";
 
 open(my $fh, $fin)
   or die "Could not open file $fin $!";
@@ -111,7 +111,7 @@ while (my $row = <$fh>) {
 	.$data_inf->{'info'}{'subsys'}.";"
 	.$data_inf->{'info'}{'va'}.";"
 	.$decompiled.";"
-	.join ('|',@out_section ).";"
+	#.join ('|',@out_section ).";"
 	.join ('|',@out_line ).";"
 	.$file2."\n"; 
 	#print $id.';'.join ('|',@word_list )."\n"; 
