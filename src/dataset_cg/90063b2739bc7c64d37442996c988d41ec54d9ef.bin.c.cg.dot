@@ -1,0 +1,10 @@
+digraph "Call graph of the module." {
+  label="Call graph of the module.";
+  node [shape=record];
+
+  Node_function_8be4 [label="{function_8be4}"];
+  Node_entry_point [label="{entry_point}"];
+  Node_unknown_0 [color="gray50", fontcolor="gray50", label="{unknown_0}"];
+  Node_function_8be4 -> Node_unknown_0;
+  Node_entry_point -> Node_function_8be4;
+}

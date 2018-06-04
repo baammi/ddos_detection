@@ -1,0 +1,5 @@
+{
+  "response_code": 0,
+  "resource": "84804e7d570e9c8f958db55961ba4384fe8a9f15112b423929de389c756f4a32",
+  "verbose_msg": "The requested resource is not among the finished, queued or pending scans"
+}

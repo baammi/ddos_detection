@@ -150,7 +150,7 @@ foreach my $st (keys %strings) {
 		#$bin_str.=" $bin".' :('."$strings{$st}{ids}{$bin}".')';
 
 	}
-	print $fh_str '"'.$st.'";'.$strings{$st}{"count"}.";"."$cnt"."\n"
+	print $fh_str '"'.$st.'"¶'.$strings{$st}{"count"}."¶"."$cnt"."\n"
 
 }
 

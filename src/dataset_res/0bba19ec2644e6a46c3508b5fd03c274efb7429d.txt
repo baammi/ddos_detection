@@ -1,0 +1,165 @@
+=============================================================================
+========	BINARY ID :0bba19ec2644e6a46c3508b5fd03c274efb7429d==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :7400
+SUPSCPECTED LINES COUNT :118
+SUPSCPECTED STRINGS COUNT (DISTINCT) :20
+SUPSCPECTED STRINGS WEIGHT :70
+SUSPECT STRING SCORE : [70 / 150] 46%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+dumb-init v%sUsage: %s [option] command [[arg] ...]\n\ndumb-init is a simple process supervisor that forwards signals to children.\nIt is designed to run as PID1 in minimal container environments.\n\nOptional arguments:\n   -c, --single-child   Run in single-child mode.\n                        In this mode, signals are only proxied to the\n                        direct child and not any of its descendants.\n   -v, --verbose        Print debugging information to stderr.\n   -h, --help           Print this help message and exit.\n   -V, --version        Print the current version and exit.\n\nFull help is available online at https://github.com/Yelp/dumb-init\n
+[dumb-init] Unable to fork. Exiting.\n
+[dumb-init] Child spawned with PID %d.\n
+[dumb-init] A child with PID %d exited with exit status %d.\n
+unexpected reloc type in static binary
+cannot set %fs base address for thread-local storage
+/usr/share/locale
+/usr/share/locale
+/proc/self/maps
+invalid fastbin entry (free)
+system bytes     = %10u\n
+(((unsigned long)(((void*)((char*)(p) + 2*(sizeof(size_t))))) & ((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) == 0)
+</sizes>\n<total type="fast" count="%zu" size="%zu"/>\n<total type="rest" count="%zu" size="%zu"/>\n<system type="current" size="%zu"/>\n<system type="max" size="%zu"/>\n
+new_size > 0 && new_size < (long) (2 * (unsigned long)((((__builtin_offsetof (struct malloc_chunk, fd_nextsize))+((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) & ~((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1))))
+/proc/sys/vm/overcommit_memory
+malloc(): smallbin double linked list corrupted
+((size_t) ((void*)((char*)(mm) + 2*(sizeof(size_t)))) & ((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) == 0
+(old_top == (((mbinptr) (((char *) &((av)->bins[((1) - 1) * 2])) - __builtin_offsetof (struct malloc_chunk, fd)))) && old_size == 0) || ((unsigned long) (old_size) >= (unsigned long)((((__builtin_offsetof (struct malloc_chunk, fd_nextsize))+((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) & ~((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1))) && ((old_top)->size & 0x1) && ((unsigned long) old_end & pagemask) == 0)
+(unsigned long) (old_size) < (unsigned long) (nb + (unsigned long)((((__builtin_offsetof (struct malloc_chunk, fd_nextsize))+((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) & ~((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1))))
+((unsigned long) ((void*)((char*)(brk) + 2*(sizeof(size_t)))) & ((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) == 0
+!victim || ((((mchunkptr)((char*)(victim) - 2*(sizeof(size_t)))))->size & 0x2) || ar_ptr == (((((mchunkptr)((char*)(victim) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(victim) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+!p || ((((mchunkptr)((char*)(p) - 2*(sizeof(size_t)))))->size & 0x2) || ar_ptr == (((((mchunkptr)((char*)(p) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(p) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+!newp || ((((mchunkptr)((char*)(newp) - 2*(sizeof(size_t)))))->size & 0x2) || ar_ptr == (((((mchunkptr)((char*)(newp) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(newp) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+!mem || ((((mchunkptr)((char*)(mem) - 2*(sizeof(size_t)))))->size & 0x2) || av == (((((mchunkptr)((char*)(mem) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(mem) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+<total type="fast" count="%zu" size="%zu"/>\n<total type="rest" count="%zu" size="%zu"/>\n<system type="current" size="%zu"/>\n<system type="max" size="%zu"/>\n<aspace type="total" size="%zu"/>\n<aspace type="mprotect" size="%zu"/>\n</malloc>\n
+../nptl/sysdeps/unix/sysv/linux/x86_64/../fork.c
+({ __typeof (self->tid) __value; if (sizeof (__value) == 1) asm volatile ("movb %%fs:%P2,%b0" : "=q" (__value) : "0" (0), "i" (__builtin_offsetof (struct pthread, tid))); else if (sizeof (__value) == 4) asm volatile ("movl %%fs:%P1,%0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); else { if (sizeof (__value) != 8) abort (); asm volatile ("movq %%fs:%P1,%q0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); } __value; }) != ppid
+({ __typeof (({ struct pthread *__self; asm ("mov %%fs:%c1,%0" : "=r" (__self) : "i" (__builtin_offsetof (struct pthread, header.self))); __self;})->tid) __value; if (sizeof (__value) == 1) asm volatile ("movb %%fs:%P2,%b0" : "=q" (__value) : "0" (0), "i" (__builtin_offsetof (struct pthread, tid))); else if (sizeof (__value) == 4) asm volatile ("movl %%fs:%P1,%0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); else { if (sizeof (__value) != 8) abort (); asm volatile ("movq %%fs:%P1,%q0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); } __value; }) == ppid
+__libc_fork
+/bin/sh
+/usr/lib/getconf
+/proc/sys/kernel/rtsig-max
+/proc/sys/kernel/ngroups_max
+/bin:/usr/bin
+/sys/devices/system/cpu/online
+/proc/meminfo
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+HOSTALIASES
+LOCALDOMAIN
+RESOLV_HOST_CONF
+LD_BIND_NOW
+LD_BIND_NOT
+\nWARNING: Unsupported flag value(s) of 0x%x in DT_FLAGS_1.\n
+/proc/sys/kernel/osrelease
+/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+LC_MONETARY
+findlocale.c
+locale_codeset != ((void *)0)
+_nl_find_locale
+/usr/lib/locale
+loadlocale.c
+cnt < (sizeof (_nl_value_type_LC_MONETARY) / sizeof (_nl_value_type_LC_MONETARY[0]))
+_nl_intern_locale_data
+_nl_load_locale_from_archive
+/usr/lib/locale/locale-archive
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZto_outpunct
+s->_flags2 & 4
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Socket type not supported
+Network is down
+Network is unreachable
+Connection reset by peer
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Network dropped connection on reset
+Software caused connection abort
+Transport endpoint is already connected
+Transport endpoint is not connected
+Operation not possible due to RF-kill
+status == __GCONV_OK || status == __GCONV_EMPTY_INPUT || status == __GCONV_ILLEGAL_INPUT || status == __GCONV_INCOMPLETE_INPUT || status == __GCONV_FULL_OUTPUT
+/etc/localtime
+__extension__ ({ size_t __s1_len, __s2_len; (__builtin_constant_p (&zone_names[info->idx]) && __builtin_constant_p (__tzname[tp->tm_isdst]) && (__s1_len = __builtin_strlen (&zone_names[info->idx]), __s2_len = __builtin_strlen (__tzname[tp->tm_isdst]), (!((size_t)(const void *)((&zone_names[info->idx]) + 1) - (size_t)(const void *)(&zone_names[info->idx]) == 1) || __s1_len >= 4) && (!((size_t)(const void *)((__tzname[tp->tm_isdst]) + 1) - (size_t)(const void *)(__tzname[tp->tm_isdst]) == 1) || __s2_len >= 4)) ? __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst]) : (__builtin_constant_p (&zone_names[info->idx]) && ((size_t)(const void *)((&zone_names[info->idx]) + 1) - (size_t)(const void *)(&zone_names[info->idx]) == 1) && (__s1_len = __builtin_strlen (&zone_names[info->idx]), __s1_len < 4) ? (__builtin_constant_p (__tzname[tp->tm_isdst]) && ((size_t)(const void *)((__tzname[tp->tm_isdst]) + 1) - (size_t)(const void *)(__tzname[tp->tm_isdst]) == 1) ? __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst]) : (__extension__ ({ const unsigned char *__s2 = (const unsigned char *) (const char *) (__tzname[tp->tm_isdst]); int __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[0] - __s2[0]); if (__s1_len > 0 && __result == 0) { __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[1] - __s2[1]); if (__s1_len > 1 && __result == 0) { __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[2] - __s2[2]); if (__s1_len > 2 && __result == 0) __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[3] - __s2[3]); } } __result; }))) : (__builtin_constant_p (__tzname[tp->tm_isdst]) && ((size_t)(const void *)((__tzname[tp->tm_isdst]) + 1) - (size_t)(const void *)(__tzname[tp->tm_isdst]) == 1) && (__s2_len = __builtin_strlen (__tzname[tp->tm_isdst]), __s2_len < 4) ? (__builtin_constant_p (&zone_names[info->idx]) && ((size_t)(const void *)((&zone_names[info->idx]) + 1) - (size_t)(const void *)(&zone_names[info->id
+x]) == 1) ? __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst]) : (- (__extension__ ({ const unsigned char *__s2 = (const unsigned char *) (const char *) (&zone_names[info->idx]); int __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[0] - __s2[0]); if (__s2_len > 0 && __result == 0) { __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[1] - __s2[1]); if (__s2_len > 1 && __result == 0) { __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[2] - __s2[2]); if (__s2_len > 2 && __result == 0) __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[3] - __s2[3]); } } __result; })))) : __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst])))); }) == 0
+/usr/share/zoneinfo
+system search path
+  dynamic: 0x%0*lx  base: 0x%0*lx   size: 0x%0*Zx\n    entry: 0x%0*lx  phdr: 0x%0*lx  phnum:   %*u\n\n
+/usr/lib/x86_64-linux-gnu/
+/usr/lib/
+version == ((void *)0) || (flags & ~(DL_LOOKUP_ADD_DEPENDENCY | DL_LOOKUP_GSCOPE_LOCK)) == 0
+binding file %s [%lu] to %s [%lu]: %s symbol `%s'
+\nrelocation processing: %s%s\n
+pid >= 0 && sizeof (pid_t) <= 4
+/proc/self/exe
+invalid target namespace in dlmopen()
+imap->l_type == lt_loaded && (imap->l_flags_1 & 0x00000008) == 0
+TLS generation counter wrapped!  Please report as described in <http://www.debian.org/Bugs/>.\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789abcdefghijklmnopqrstuvwxyz
+vfscanf.c
+_IO_vfscanf_internal
+lead_zero <= (base == 16 ? (uintmax_t) (9223372036854775807L) / 4 : (uintmax_t) (9223372036854775807L))
+lead_zero <= (base == 16 ? ((uintmax_t) exponent - (uintmax_t) (-9223372036854775807L-1)) / 4 : ((uintmax_t) exponent - (uintmax_t) (-9223372036854775807L-1)))
+int_no <= (uintmax_t) (exponent < 0 ? ((9223372036854775807L) - bits + 1) / 4 : ((9223372036854775807L) - exponent - bits + 1) / 4)
+/locale.
+/usr/libH
+/usr/libA
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/self/maps
+/proc/sys/vm/overcommit_memory
+/proc/sys/kernel/rtsig-max
+/proc/sys/kernel/ngroups_max
+/proc/meminfo
+/proc/stat
+/proc/cpuinfo
+/proc/sys/kernel/osrelease
+/proc/self/exe
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

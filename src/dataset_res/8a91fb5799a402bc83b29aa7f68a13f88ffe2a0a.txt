@@ -1,0 +1,136 @@
+=============================================================================
+========	BINARY ID :8a91fb5799a402bc83b29aa7f68a13f88ffe2a0a==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :681
+SUPSCPECTED LINES COUNT :95
+SUPSCPECTED STRINGS COUNT (DISTINCT) :23
+SUPSCPECTED STRINGS WEIGHT :85
+SUSPECT STRING SCORE : [85 / 150] 56%
+USER AGENTS STRINGS COUNT :1
+STATIC IPs STRINGS COUNT :1
+DYNAMIC IPs STRINGS COUNT :1
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+NOTICE %s :Unable to comply.\n
+/usr/dict/words
+NOTICE %s :GET <host> <save as>\n
+NOTICE %s :Unable to create socket.\n
+http://
+NOTICE %s :Unable to resolve address.\n
+NOTICE %s :Unable to connect to http.\n
+GET /%s HTTP/1.0\r\nConnection: Keep-Alive\r\nUser-Agent: Mozilla/4.75 [en] (X11; U; Linux 2.2.16-3 i686)\r\nHost: %s:80\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*\r\nAccept-Encoding: gzip\r\nAccept-Language: en\r\nAccept-Charset: iso-8859-1,*,utf-8\r\n\r\n
+NOTICE %s :Receiving file.\n
+NOTICE %s :Saved as %s\n
+NOTICE %s :Spoofs: %d.%d.%d.%d\n
+NOTICE %s :Spoofs: %d.%d.%d.%d - %d.%d.%d.%d\n
+NOTICE %s :Kaiten wa goraku\n
+NOTICE %s :NICK <nick>\n
+NOTICE %s :Nick cannot be larger than 9 characters.\n
+NOTICE %s :DISABLE <pass>\n
+NOTICE %s :Current status is: %s.\n
+NOTICE %s :Already disabled.\n
+NOTICE %s :Password too long! > 254\n
+NOTICE %s :Disable sucessful.\n
+NOTICE %s :ENABLE <pass>\n
+NOTICE %s :Already enabled.\n
+NOTICE %s :Wrong password\n
+NOTICE %s :Password correct.\n
+NOTICE %s :Removed all spoofs\n
+NOTICE %s :What kind of subnet address is that? Do something like: 169.40\n
+NOTICE %s :Unable to resolve %s\n
+NOTICE %s :UDP <target> <port> <secs>\n
+NOTICE %s :Packeting %s.\n
+NOTICE %s :PAN <target> <port> <secs>\n
+NOTICE %s :Panning %s.\n
+NOTICE %s :TSUNAMI <target> <secs>\n
+NOTICE %s :Tsunami heading for %s.\n
+NOTICE %s :UNKNOWN <target> <secs>\n
+NOTICE %s :Unknowning %s.\n
+NOTICE %s :MOVE <server>\n
+NOTICE %s :TSUNAMI <target> <secs>                          = Special packeter that wont be blocked by most firewalls\n
+NOTICE %s :PAN <target> <port> <secs>                       = An advanced syn flooder that will kill most network drivers\n
+NOTICE %s :UDP <target> <port> <secs>                       = A udp flooder\n
+NOTICE %s :UNKNOWN <target> <secs>                          = Another non-spoof udp flooder\n
+NOTICE %s :NICK <nick>                                      = Changes the nick of the client\n
+NOTICE %s :SERVER <server>                                  = Changes servers\n
+NOTICE %s :GETSPOOFS                                        = Gets the current spoofing\n
+NOTICE %s :SPOOFS <subnet>                                  = Changes spoofing to a subnet\n
+NOTICE %s :DISABLE                                          = Disables all packeting from this client\n
+NOTICE %s :ENABLE                                           = Enables all packeting from this client\n
+NOTICE %s :KILL                                             = Kills the client\n
+NOTICE %s :GET <http address> <save as>                     = Downloads a file off the web and saves it onto the hd\n
+NOTICE %s :VERSION                                          = Requests version of client\n
+NOTICE %s :KILLALL                                          = Kills all current packeting\n
+NOTICE %s :HELP                                             = Displays this\n
+NOTICE %s :IRC <command>                                    = Sends this command to the server\n
+NOTICE %s :SH <command>                                     = Executes a command\n
+NOTICE %s :Killing pid %d.\n
+GETSPOOFS
+SPOOFS
+KILL
+KILLALL
+export PATH=/bin:/sbin:/usr/bin:/usr/local/bin:/usr/sbin;%s
+NOTICE %s :%s\n
+NOTICE %s :I'm having a problem resolving my host, someone will have to SPOOFS me manually.\n
+PRIVMSG
+PING
+/etc/rc.d/rc.local
+NICK %s\nUSER %s localhost localhost :%s\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+/bin/sh
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+/etc/config/hosts
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+GET /%s HTTP/1.0\r\nConnection: Keep-Alive\r\nUser-Agent: Mozilla/4.75 [en] (X11; U; Linux 2.2.16-3 i686)\r\nHost: %s:80\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*\r\nAccept-Encoding: gzip\r\nAccept-Language: en\r\nAccept-Charset: iso-8859-1,*,utf-8\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+212.109.222.122
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+NOTICE %s :Spoofs: %d.%d.%d.%d\n
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

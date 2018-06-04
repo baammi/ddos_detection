@@ -1,0 +1,15 @@
+digraph "Call graph of the module." {
+  label="Call graph of the module.";
+  node [shape=record];
+
+  Node___pseudo_call [color="gray50", fontcolor="gray50", label="{__pseudo_call}"];
+  Node___pseudo_cond_branch [color="gray50", fontcolor="gray50", label="{__pseudo_cond_branch}"];
+  Node_entry_point [label="{entry_point}"];
+  Node_function_400324 [label="{function_400324}"];
+  Node_unknown_a0004102 [color="gray50", fontcolor="gray50", label="{unknown_a0004102}"];
+  Node_unknown_40b80e0 [color="gray50", fontcolor="gray50", label="{unknown_40b80e0}"];
+  Node_entry_point -> Node___pseudo_call;
+  Node_function_400324 -> Node___pseudo_cond_branch;
+  Node_function_400324 -> Node_unknown_a0004102;
+  Node_function_400324 -> Node_unknown_40b80e0;
+}

@@ -1,0 +1,38 @@
+digraph "Call graph of the module." {
+  label="Call graph of the module.";
+  node [shape=record];
+
+  Node___pseudo_branch [color="gray50", fontcolor="gray50", label="{__pseudo_branch}"];
+  Node___pseudo_cond_branch [color="gray50", fontcolor="gray50", label="{__pseudo_cond_branch}"];
+  Node_function_80c0 [label="{function_80c0}"];
+  Node_function_80e4 [label="{function_80e4}"];
+  Node_function_8104 [label="{function_8104}"];
+  Node_function_8124 [label="{function_8124}"];
+  Node_function_8150 [label="{function_8150}"];
+  Node_function_8180 [label="{function_8180}"];
+  Node_function_81ac [label="{function_81ac}"];
+  Node_function_81d8 [label="{function_81d8}"];
+  Node_function_8208 [label="{function_8208}"];
+  Node_entry_point [label="{entry_point}"];
+  Node_function_83b0 [label="{function_83b0}"];
+  Node_function_8410 [label="{function_8410}"];
+  Node_function_80e4 -> Node_function_83b0;
+  Node_function_8104 -> Node_function_83b0;
+  Node_function_8124 -> Node_function_83b0;
+  Node_function_8150 -> Node_function_83b0;
+  Node_function_8180 -> Node_function_83b0;
+  Node_function_81ac -> Node_function_83b0;
+  Node_function_81d8 -> Node_function_83b0;
+  Node_function_8208 -> Node___pseudo_cond_branch;
+  Node_function_8208 -> Node_function_80c0;
+  Node_function_8208 -> Node_function_80e4;
+  Node_function_8208 -> Node_function_8104;
+  Node_function_8208 -> Node_function_8124;
+  Node_function_8208 -> Node_function_8150;
+  Node_function_8208 -> Node_function_8180;
+  Node_function_8208 -> Node_function_81ac;
+  Node_function_8208 -> Node_function_81d8;
+  Node_entry_point -> Node_function_8208;
+  Node_function_83b0 -> Node_function_8410;
+  Node_function_8410 -> Node___pseudo_branch;
+}

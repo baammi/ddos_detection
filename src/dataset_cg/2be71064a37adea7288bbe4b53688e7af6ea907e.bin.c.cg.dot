@@ -1,0 +1,36 @@
+digraph "Call graph of the module." {
+  label="Call graph of the module.";
+  node [shape=record];
+
+  Node_function_8048094 [label="{function_8048094}"];
+  Node_function_80480dc [label="{function_80480dc}"];
+  Node_function_80480f1 [label="{function_80480f1}"];
+  Node_function_8048103 [label="{function_8048103}"];
+  Node_function_804811b [label="{function_804811b}"];
+  Node_function_8048142 [label="{function_8048142}"];
+  Node_function_804815a [label="{function_804815a}"];
+  Node_function_8048172 [label="{function_8048172}"];
+  Node_function_8048199 [label="{function_8048199}"];
+  Node_entry_point [label="{entry_point}"];
+  Node_function_804832c [label="{function_804832c}"];
+  Node_function_8048373 [label="{function_8048373}"];
+  Node_int80_syscall [color="gray50", fontcolor="gray50", label="{int80_syscall}"];
+  Node_function_80480dc -> Node_function_804832c;
+  Node_function_80480f1 -> Node_function_804832c;
+  Node_function_8048103 -> Node_function_804832c;
+  Node_function_804811b -> Node_function_804832c;
+  Node_function_8048142 -> Node_function_804832c;
+  Node_function_804815a -> Node_function_804832c;
+  Node_function_8048172 -> Node_function_804832c;
+  Node_function_8048199 -> Node_function_8048094;
+  Node_function_8048199 -> Node_function_80480dc;
+  Node_function_8048199 -> Node_function_80480f1;
+  Node_function_8048199 -> Node_function_8048103;
+  Node_function_8048199 -> Node_function_804811b;
+  Node_function_8048199 -> Node_function_8048142;
+  Node_function_8048199 -> Node_function_804815a;
+  Node_function_8048199 -> Node_function_8048172;
+  Node_entry_point -> Node_function_8048199;
+  Node_function_804832c -> Node_function_8048373;
+  Node_function_804832c -> Node_int80_syscall;
+}

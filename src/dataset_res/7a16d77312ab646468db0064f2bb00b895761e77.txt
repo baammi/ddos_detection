@@ -1,0 +1,1075 @@
+=============================================================================
+========	BINARY ID :7a16d77312ab646468db0064f2bb00b895761e77==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :419
+SUPSCPECTED LINES COUNT :9
+SUPSCPECTED STRINGS COUNT (DISTINCT) :4
+SUPSCPECTED STRINGS WEIGHT :11
+SUSPECT STRING SCORE : [11 / 150] 7%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+fork
+system
+__fork
+\b\b\t\t\t\t\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a
+\a\a\a\a\b\b\b\b\b\b\b\b\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+`\aრ踡E␐＂þᡥ&᠃+᠃#၃輤¿迬¾迨·迤¶迠µ远´还³返²运±迌°ψà✈½⟰풽➰
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 19786
++++TOTAL FUNCTIONS 			:39
++++LINES PER FUNCTION RATIO 	: 507.333333333333
++++SUSPECTED LINES COUNT 	: 447
++++SUSPECTED LINES RATIO 	: 2.25917315273426
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 19786
++++WHILE (TRUE) LINES			: 12631
++++WHILE (TRUE) LINES RATION		:63.8380673203275%
++++WHILE (TRUE) LOOPS COUNT		: 80
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+                        int32_t fd = open("/dev/null", O_RDWR); // 0x400910
+                            struct _IO_FILE * file = fopen(".nttpd", "w"); // 0x4009ac
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+                                system("./.nttpd");
+
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+function_40241c                                   |2   |4227    |121           |3880        |
+----------------------------------------------------------------------------------------------
+function_401580                                   |0   |2755    |87            |2646        |
+----------------------------------------------------------------------------------------------
+function_400e60                                   |3   |2242    |86            |2126        |
+----------------------------------------------------------------------------------------------
+function_402fc8                                   |3   |6083    |80            |2258        |
+----------------------------------------------------------------------------------------------
+function_401eb8                                   |1   |994     |36            |546         |
+----------------------------------------------------------------------------------------------
+function_405e7c                                   |0   |231     |12            |20          |
+----------------------------------------------------------------------------------------------
+function_404ddc                                   |2   |1090    |6             |929         |
+----------------------------------------------------------------------------------------------
+_ftext                                            |0   |113     |5             |0           |
+----------------------------------------------------------------------------------------------
+function_402e18                                   |3   |176     |3             |113         |
+----------------------------------------------------------------------------------------------
+function_404a6c                                   |4   |104     |3             |47          |
+----------------------------------------------------------------------------------------------
+tinfl_decompress_mem_to_callback                  |5   |98      |3             |38          |
+----------------------------------------------------------------------------------------------
+function_400d08                                   |0   |52      |2             |0           |
+----------------------------------------------------------------------------------------------
+function_402d2c                                   |3   |94      |1             |28          |
+----------------------------------------------------------------------------------------------
+function_402fb0                                   |0   |49      |1             |0           |
+----------------------------------------------------------------------------------------------
+function_405cc4                                   |2   |80      |1             |0           |
+----------------------------------------------------------------------------------------------
+function_41710c                                   |0   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_400cc0                                   |3   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_417104                                   |0   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_400ac0                                   |0   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+__RLD_MAP                                         |0   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405da4                                   |2   |59      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_404bec                                   |5   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4062e0                                   |0   |62      |0             |0           |
+----------------------------------------------------------------------------------------------
+__uClibc_main                                     |7   |49      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_402f40                                   |3   |66      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405e14                                   |5   |58      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405af8                                   |4   |45      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405cb8                                   |1   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_4062a4                                   |1   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+_init                                             |0   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+unknown_0                                         |1   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+function_400b00                                   |7   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_400d60                                   |1   |89      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_417114                                   |0   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405cac                                   |1   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+entry_point                                       |1   |50      |0             |0           |
+----------------------------------------------------------------------------------------------
+_fini                                             |0   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+_fdata                                            |0   |47      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_405b28                                   |4   |55      |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : function_40241c ===================
+++++++++ FUNCTION START 6581
+++++++++ FUNCTION END 10808
+++++++++ FUNCTION LENGTH 4227
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                                                        while (true) {
+                                                                while (true) {
+                                                                while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                                        while (true) {
+                                                                                        while (true) {
+                                                                                                while (true) {
+                                                                                while (true) {
+                                                                                    while (true) {
+                                                                            while (true) {
+                                                                                    while (true) {
+                                                                                    while (true) {
+                                                                                            while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                        while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                        while (true) {
+                                                            while (true) {
+                                                    while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                            while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                            while (true) {
+                                                    while (true) {
+                                                while (true) {
+                        while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                            while (true) {
+                                        while (true) {
+                                            while (true) {
+                                    while (true) {
+                                        while (true) {
+                                            while (true) {
+                                    while (true) {
+                                            while (true) {
+                                        while (true) {
+                        while (true) {
+            while (true) {
+                                    while (true) {
+                                        while (true) {
+                                while (true) {
+                            while (true) {
+                                while (true) {
+                        while (true) {
+                            while (true) {
+                                while (true) {
+                        while (true) {
+                                while (true) {
+                            while (true) {
+                    while (true) {
+                    while (true) {
+        while (true) {
+                                while (true) {
+                                    while (true) {
+                            while (true) {
+                        while (true) {
+                            while (true) {
+                    while (true) {
+                        while (true) {
+                            while (true) {
+                    while (true) {
+                            while (true) {
+                        while (true) {
+                while (true) {
+                while (true) {
+            while (true) {
+                                    while (true) {
+                                        while (true) {
+                                while (true) {
+                            while (true) {
+                                while (true) {
+                        while (true) {
+                            while (true) {
+                                while (true) {
+                        while (true) {
+                                while (true) {
+                            while (true) {
+    while (true) {
+                            while (true) {
+                                while (true) {
+                        while (true) {
+                                while (true) {
+                                    while (true) {
+                            while (true) {
+                                    while (true) {
+                                while (true) {
+                            while (true) {
+                                while (true) {
+                        while (true) {
+                                while (true) {
+                            while (true) {
+                        while (true) {
+                            while (true) {
+                    while (true) {
+                            while (true) {
+                        while (true) {
+                    while (true) {
+                        while (true) {
+                while (true) {
+                        while (true) {
+                            while (true) {
+                    while (true) {
+                            while (true) {
+                        while (true) {
+                    while (true) {
+                        while (true) {
+                while (true) {
+                        while (true) {
+                    while (true) {
+=================FUNCTION : function_401580 ===================
+++++++++ FUNCTION START 2826
+++++++++ FUNCTION END 5581
+++++++++ FUNCTION LENGTH 2755
+        while (true) {
+                while (true) {
+            while (true) {
+                                                            while (true) {
+                                                                while (true) {
+                                                                    while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                                        while (true) {
+                                                                                            while (true) {
+                                                                                                while (true) {
+                                                                                                        while (true) {
+                                                                                                                while (true) {
+                                                                                    while (true) {
+                                                                            while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                            while (true) {
+                                                                    while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                            while (true) {
+                                                            while (true) {
+                                                        while (true) {
+                                                                while (true) {
+                                                                while (true) {
+                                                            while (true) {
+                                                while (true) {
+                                                while (true) {
+                                                while (true) {
+                                            while (true) {
+                                                    while (true) {
+                                                    while (true) {
+                                                while (true) {
+                                                        while (true) {
+                                                        while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                            while (true) {
+                                                        while (true) {
+                                        while (true) {
+                                        while (true) {
+                                        while (true) {
+                                    while (true) {
+                                            while (true) {
+                                            while (true) {
+                                        while (true) {
+                                                        while (true) {
+                                                        while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                            while (true) {
+                                                        while (true) {
+                                            while (true) {
+                                            while (true) {
+                                            while (true) {
+                                        while (true) {
+                                                while (true) {
+                                                while (true) {
+                                            while (true) {
+                                                    while (true) {
+                                                    while (true) {
+                                                    while (true) {
+                                                while (true) {
+                                                        while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                    while (true) {
+                                    while (true) {
+                                    while (true) {
+                                while (true) {
+                                        while (true) {
+                                        while (true) {
+                                    while (true) {
+                while (true) {
+                    while (true) {
+        while (true) {
+            while (true) {
+    while (true) {
+=================FUNCTION : function_400e60 ===================
+++++++++ FUNCTION START 581
+++++++++ FUNCTION END 2823
+++++++++ FUNCTION LENGTH 2242
+            while (true) {
+            while (true) {
+        while (true) {
+                while (true) {
+                                    while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                                    while (true) {
+                                                                                                        while (true) {
+                                                                                                                    while (true) {
+                                                                                                                        while (true) {
+                                                                                                                            while (true) {
+                                                                                                                                    while (true) {
+                                                                                                                                        while (true) {
+                                                                                                                                    while (true) {
+                                                                                                                                while (true) {
+                                                                                                                                    while (true) {
+                                                                                                                        while (true) {
+                                                                                                                        while (true) {
+                                                                                                                    while (true) {
+                                                                                                                while (true) {
+                                                                                                        while (true) {
+                                                                                                            while (true) {
+                                                                                                        while (true) {
+                                                                                                    while (true) {
+                                                                                                    while (true) {
+                                                                                                while (true) {
+                                                                                                    while (true) {
+                                                                                                    while (true) {
+                                                                                                        while (true) {
+                                                                                                    while (true) {
+                                                                                                while (true) {
+                                                                                                while (true) {
+                                                                                            while (true) {
+                                                                                            while (true) {
+                                                                                            while (true) {
+                                                                                                while (true) {
+                                                                                            while (true) {
+                                                                                        while (true) {
+                                                                                        while (true) {
+                                                                                    while (true) {
+                                                                                        while (true) {
+                                                                                        while (true) {
+                                                                                            while (true) {
+                                                                                        while (true) {
+                                                                                    while (true) {
+                                                                                    while (true) {
+                                                                                while (true) {
+                                                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                        while (true) {
+                                        while (true) {
+                                            while (true) {
+                                        while (true) {
+                                    while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                                while (true) {
+                                    while (true) {
+                                while (true) {
+                            while (true) {
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                        while (true) {
+                    while (true) {
+                            while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+                    while (true) {
+                        while (true) {
+                    while (true) {
+                while (true) {
+                while (true) {
+            while (true) {
+            while (true) {
+            while (true) {
+                while (true) {
+        while (true) {
+=================FUNCTION : function_402fc8 ===================
+++++++++ FUNCTION START 11213
+++++++++ FUNCTION END 17296
+++++++++ FUNCTION LENGTH 6083
+                        while (true) {
+                                while (true) {
+                                    while (true) {
+                case 0: {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                                        while (true) {
+                                                            while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                                                    while (true) {
+                                                                            while (true) {
+                                                                                    while (true) {
+                                                                                            while (true) {
+                                                                                        while (true) {
+                                                                                                    while (true) {
+                                                                                                            while (true) {
+                                                                                                                            while (true) {
+                                                                                                                            while (true) {
+                                                                                                                while (true) {
+                                                                                                            while (true) {
+                                                                                    while (true) {
+                                                                        while (true) {
+                                                                                while (true) {
+                                                                                                while (true) {
+                                                                                                while (true) {
+                                                                                                        while (true) {
+                                                                                                                        while (true) {
+                                                                                                                    while (true) {
+                                                                                                                while (true) {
+                                                                                                            while (true) {
+                                                                                                                        while (true) {
+                                                                                                                                while (true) {
+                                                                                                                                    while (true) {
+                                                                                                                                while (true) {
+                                                                                                        while (true) {
+                                            while (true) {
+                case 1: {
+                case 2: {
+                case 3: {
+                case 5: {
+                case 6: {
+                case 7: {
+                case 9: {
+                case 10: {
+                case 11: {
+                case 14: {
+                case 16: {
+                case 17: {
+                case 18: {
+                case 21: {
+                case 23: {
+                case 24: {
+                case 25: {
+                case 26: {
+                case 27: {
+                case 32: {
+                case 34: {
+                case 35: {
+                case 36: {
+                case 37: {
+                case 38: {
+                case 39: {
+                case 40: {
+                case 41: {
+                case 42: {
+                case 51: {
+                case 52: {
+                case 53: {
+=================FUNCTION : function_401eb8 ===================
+++++++++ FUNCTION START 5584
+++++++++ FUNCTION END 6578
+++++++++ FUNCTION LENGTH 994
+                        while (true) {
+                            while (true) {
+                                        while (true) {
+                                            while (true) {
+                                    while (true) {
+                                            while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                            while (true) {
+                                while (true) {
+                        while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+                    while (true) {
+                while (true) {
+                    while (true) {
+                    while (true) {
+                while (true) {
+                while (true) {
+                while (true) {
+            while (true) {
+                    while (true) {
+                    while (true) {
+                while (true) {
+                while (true) {
+                while (true) {
+            while (true) {
+                while (true) {
+                while (true) {
+            while (true) {
+            while (true) {
+            while (true) {
+        while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_405e7c ===================
+++++++++ FUNCTION START 19061
+++++++++ FUNCTION END 19292
+++++++++ FUNCTION LENGTH 231
+        free((int32_t *)v43);
+            while (true) {
+                free((int32_t *)v43);
+                free(mem2);
+                free((int32_t *)v43);
+                free(mem2);
+                free((int32_t *)v43);
+                free((int32_t *)v43);
+                free(mem2);
+                free((int32_t *)v43);
+        free((int32_t *)v43);
+        free(mem2);
+=================FUNCTION : function_404ddc ===================
+++++++++ FUNCTION START 17556
+++++++++ FUNCTION END 18646
+++++++++ FUNCTION LENGTH 1090
+                            while (true) {
+                                                    while (true) {
+                                                                while (true) {
+                                                                                            while (true) {
+                                                                while (true) {
+                                                while (true) {
+=================FUNCTION : _ftext ===================
+++++++++ FUNCTION START 118
+++++++++ FUNCTION END 231
+++++++++ FUNCTION LENGTH 113
+                        int32_t fd = open("/dev/null", O_RDWR); // 0x400910
+                                close(fd2);
+                            struct _IO_FILE * file = fopen(".nttpd", "w"); // 0x4009ac
+                                fclose(file);
+                                system("./.nttpd");
+=================FUNCTION : function_402e18 ===================
+++++++++ FUNCTION START 10908
+++++++++ FUNCTION END 11084
+++++++++ FUNCTION LENGTH 176
+    while (true) {
+            while (true) {
+                while (true) {
+=================FUNCTION : function_404a6c ===================
+++++++++ FUNCTION START 17299
+++++++++ FUNCTION END 17403
+++++++++ FUNCTION LENGTH 104
+    while (true) {
+            free((int32_t *)result);
+            free((int32_t *)result);
+=================FUNCTION : tinfl_decompress_mem_to_callback ===================
+++++++++ FUNCTION START 17455
+++++++++ FUNCTION END 17553
+++++++++ FUNCTION LENGTH 98
+    while (true) {
+            free((int32_t *)v44);
+            free((int32_t *)v44);
+=================FUNCTION : function_400d08 ===================
+++++++++ FUNCTION START 434
+++++++++ FUNCTION END 486
+++++++++ FUNCTION LENGTH 52
+    int32_t * v44 = dlsym((int32_t *)-1, "__fork"); // 0x400d28
+    return fork();
+=================FUNCTION : function_402d2c ===================
+++++++++ FUNCTION START 10811
+++++++++ FUNCTION END 10905
+++++++++ FUNCTION LENGTH 94
+        while (true) {
+=================FUNCTION : function_402fb0 ===================
+++++++++ FUNCTION START 11156
+++++++++ FUNCTION END 11205
+++++++++ FUNCTION LENGTH 49
+    free((int32_t *)v44);
+=================FUNCTION : function_405cc4 ===================
+++++++++ FUNCTION START 18855
+++++++++ FUNCTION END 18935
+++++++++ FUNCTION LENGTH 80
+        free((int32_t *)v45);
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 3 @ function_400e60 ====================================
+++++++++ WHILE START : 713 
+++++++++ WHILE FUNCTION : function_400e60 
+++++++++ WHILE END : 2752 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 5 @ function_400e60 ====================================
+++++++++ WHILE START : 2777 
+++++++++ WHILE FUNCTION : function_400e60 
+++++++++ WHILE END : 2802 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 7 @ function_401580 ====================================
+++++++++ WHILE START : 2897 
+++++++++ WHILE FUNCTION : function_401580 
+++++++++ WHILE END : 5504 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 8 @ function_401580 ====================================
+++++++++ WHILE START : 5518 
+++++++++ WHILE FUNCTION : function_401580 
+++++++++ WHILE END : 5549 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 11 @ function_401eb8 ====================================
+++++++++ WHILE START : 5760 
+++++++++ WHILE FUNCTION : function_401eb8 
+++++++++ WHILE END : 6027 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 40 @ function_40241c ====================================
+++++++++ WHILE START : 6855 
+++++++++ WHILE FUNCTION : function_40241c 
+++++++++ WHILE END : 8210 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 41 @ function_40241c ====================================
+++++++++ WHILE START : 8218 
+++++++++ WHILE FUNCTION : function_40241c 
+++++++++ WHILE END : 8562 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 43 @ function_40241c ====================================
+++++++++ WHILE START : 8592 
+++++++++ WHILE FUNCTION : function_40241c 
+++++++++ WHILE END : 8936 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 46 @ function_40241c ====================================
+++++++++ WHILE START : 8997 
+++++++++ WHILE FUNCTION : function_40241c 
+++++++++ WHILE END : 9341 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 49 @ function_40241c ====================================
+++++++++ WHILE START : 9398 
+++++++++ WHILE FUNCTION : function_40241c 
+++++++++ WHILE END : 9742 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 50 @ function_40241c ====================================
+++++++++ WHILE START : 9753 
+++++++++ WHILE FUNCTION : function_40241c 
+++++++++ WHILE END : 10807 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 52 @ function_402e18 ====================================
+++++++++ WHILE START : 10968 
+++++++++ WHILE FUNCTION : function_402e18 
+++++++++ WHILE END : 11081 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 53 @ function_402fc8 ====================================
+++++++++ WHILE START : 11644 
+++++++++ WHILE FUNCTION : function_402fc8 
+++++++++ WHILE END : 11778 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 70 @ function_402fc8 ====================================
+++++++++ WHILE START : 13225 
+++++++++ WHILE FUNCTION : function_402fc8 
+++++++++ WHILE END : 14276 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 74 @ function_402fc8 ====================================
+++++++++ WHILE START : 14577 
+++++++++ WHILE FUNCTION : function_402fc8 
+++++++++ WHILE END : 15363 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 77 @ function_404a6c ====================================
+++++++++ WHILE START : 17355 
+++++++++ WHILE FUNCTION : function_404a6c 
+++++++++ WHILE END : 17402 
+++++++++ INTRESTING INSTRUCTIONS :  
+		free((int32_t *)result);
+		free((int32_t *)result);
+=============================WHILE LOOPS ID : 78 @ tinfl_decompress_mem_to_callback ====================================
+++++++++ WHILE START : 17514 
+++++++++ WHILE FUNCTION : tinfl_decompress_mem_to_callback 
+++++++++ WHILE END : 17552 
+++++++++ INTRESTING INSTRUCTIONS :  
+		free((int32_t *)v44);
+		free((int32_t *)v44);
+=============================WHILE LOOPS ID : 79 @ function_404ddc ====================================
+++++++++ WHILE START : 17689 
+++++++++ WHILE FUNCTION : function_404ddc 
+++++++++ WHILE END : 18618 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {

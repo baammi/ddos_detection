@@ -1,0 +1,369 @@
+{
+  "scans": {
+    "Bkav": {
+      "detected": false,
+      "version": "1.3.0.9466",
+      "result": null,
+      "update": "20180402"
+    },
+    "MicroWorld-eScan": {
+      "detected": false,
+      "version": "14.0.297.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "nProtect": {
+      "detected": false,
+      "version": "2018-04-02.02",
+      "result": null,
+      "update": "20180402"
+    },
+    "CMC": {
+      "detected": false,
+      "version": "1.1.0.977",
+      "result": null,
+      "update": "20180402"
+    },
+    "CAT-QuickHeal": {
+      "detected": false,
+      "version": "14.00",
+      "result": null,
+      "update": "20180402"
+    },
+    "McAfee": {
+      "detected": true,
+      "version": "6.0.6.653",
+      "result": "RDN/Generic BackDoor",
+      "update": "20180402"
+    },
+    "Malwarebytes": {
+      "detected": false,
+      "version": "2.1.1.1115",
+      "result": null,
+      "update": "20180402"
+    },
+    "Zillya": {
+      "detected": true,
+      "version": "2.0.0.3525",
+      "result": "Backdoor.Mirai.Linux.4791",
+      "update": "20180330"
+    },
+    "SUPERAntiSpyware": {
+      "detected": false,
+      "version": "5.6.0.1032",
+      "result": null,
+      "update": "20180402"
+    },
+    "TheHacker": {
+      "detected": false,
+      "version": "6.8.0.5.2591",
+      "result": null,
+      "update": "20180330"
+    },
+    "K7GW": {
+      "detected": false,
+      "version": "10.43.26685",
+      "result": null,
+      "update": "20180402"
+    },
+    "K7AntiVirus": {
+      "detected": false,
+      "version": "10.43.26690",
+      "result": null,
+      "update": "20180402"
+    },
+    "Baidu": {
+      "detected": false,
+      "version": "1.0.0.2",
+      "result": null,
+      "update": "20180402"
+    },
+    "Cyren": {
+      "detected": true,
+      "version": "5.4.30.7",
+      "result": "ELF/Trojan.RLUA-6",
+      "update": "20180402"
+    },
+    "Symantec": {
+      "detected": true,
+      "version": "1.5.0.0",
+      "result": "Trojan.Gen.NPE.2",
+      "update": "20180402"
+    },
+    "ESET-NOD32": {
+      "detected": true,
+      "version": "17156",
+      "result": "a variant of Linux/Mirai.AT",
+      "update": "20180402"
+    },
+    "TrendMicro-HouseCall": {
+      "detected": true,
+      "version": "9.950.0.1006",
+      "result": "ELF_MIRAI.SMT32",
+      "update": "20180402"
+    },
+    "Avast": {
+      "detected": true,
+      "version": "18.2.3827.0",
+      "result": "ELF:Mirai-HU [Trj]",
+      "update": "20180402"
+    },
+    "ClamAV": {
+      "detected": false,
+      "version": "0.99.2.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "Kaspersky": {
+      "detected": true,
+      "version": "15.0.1.13",
+      "result": "HEUR:Backdoor.Linux.Mirai.ba",
+      "update": "20180402"
+    },
+    "BitDefender": {
+      "detected": false,
+      "version": "7.2",
+      "result": null,
+      "update": "20180402"
+    },
+    "NANO-Antivirus": {
+      "detected": true,
+      "version": "1.0.100.22043",
+      "result": "Trojan.Unix.Mirai.exrgnp",
+      "update": "20180402"
+    },
+    "AegisLab": {
+      "detected": true,
+      "version": "4.2",
+      "result": "Elf.Mirai.Hu!c",
+      "update": "20180402"
+    },
+    "Tencent": {
+      "detected": true,
+      "version": "1.0.0.1",
+      "result": "Linux.Backdoor.Mirai.Ehrm",
+      "update": "20180402"
+    },
+    "Ad-Aware": {
+      "detected": false,
+      "version": "3.0.5.370",
+      "result": null,
+      "update": "20180402"
+    },
+    "Emsisoft": {
+      "detected": false,
+      "version": "4.0.2.899",
+      "result": null,
+      "update": "20180402"
+    },
+    "Comodo": {
+      "detected": false,
+      "version": "28791",
+      "result": null,
+      "update": "20180402"
+    },
+    "F-Secure": {
+      "detected": false,
+      "version": "11.0.19100.45",
+      "result": null,
+      "update": "20180402"
+    },
+    "DrWeb": {
+      "detected": true,
+      "version": "7.0.28.2020",
+      "result": "Linux.Mirai.793",
+      "update": "20180402"
+    },
+    "VIPRE": {
+      "detected": false,
+      "version": "65698",
+      "result": null,
+      "update": "20180402"
+    },
+    "TrendMicro": {
+      "detected": true,
+      "version": "9.862.0.1074",
+      "result": "TROJ_GEN.F04JC00AP18",
+      "update": "20180402"
+    },
+    "McAfee-GW-Edition": {
+      "detected": true,
+      "version": "v2015",
+      "result": "RDN/Generic BackDoor",
+      "update": "20180402"
+    },
+    "Sophos": {
+      "detected": true,
+      "version": "4.98.0",
+      "result": "Mal/Generic-S",
+      "update": "20180402"
+    },
+    "F-Prot": {
+      "detected": false,
+      "version": "4.7.1.166",
+      "result": null,
+      "update": "20180402"
+    },
+    "Jiangmin": {
+      "detected": true,
+      "version": "16.0.100",
+      "result": "Backdoor.Linux.anjr",
+      "update": "20180402"
+    },
+    "Avira": {
+      "detected": true,
+      "version": "8.3.3.6",
+      "result": "LINUX/Mirai.rwsix",
+      "update": "20180402"
+    },
+    "Fortinet": {
+      "detected": true,
+      "version": "5.4.247.0",
+      "result": "ELF/Mirai.AT!tr",
+      "update": "20180402"
+    },
+    "Antiy-AVL": {
+      "detected": true,
+      "version": "3.0.0.1",
+      "result": "Trojan[Backdoor]/Linux.Mirai.b",
+      "update": "20180402"
+    },
+    "Kingsoft": {
+      "detected": false,
+      "version": "2013.8.14.323",
+      "result": null,
+      "update": "20180402"
+    },
+    "Arcabit": {
+      "detected": false,
+      "version": "1.0.0.831",
+      "result": null,
+      "update": "20180402"
+    },
+    "ViRobot": {
+      "detected": false,
+      "version": "2014.3.20.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "AhnLab-V3": {
+      "detected": false,
+      "version": "3.12.0.20130",
+      "result": null,
+      "update": "20180402"
+    },
+    "ZoneAlarm": {
+      "detected": true,
+      "version": "1.0",
+      "result": "HEUR:Backdoor.Linux.Mirai.ba",
+      "update": "20180402"
+    },
+    "Avast-Mobile": {
+      "detected": true,
+      "version": "180402-00",
+      "result": "ELF:Mirai-ID [Trj]",
+      "update": "20180402"
+    },
+    "Microsoft": {
+      "detected": true,
+      "version": "1.1.14600.4",
+      "result": "Backdoor:Linux/Mirai!rfn",
+      "update": "20180402"
+    },
+    "TotalDefense": {
+      "detected": false,
+      "version": "37.1.62.1",
+      "result": null,
+      "update": "20180402"
+    },
+    "ALYac": {
+      "detected": false,
+      "version": "1.1.1.5",
+      "result": null,
+      "update": "20180402"
+    },
+    "AVware": {
+      "detected": false,
+      "version": "1.5.0.42",
+      "result": null,
+      "update": "20180402"
+    },
+    "MAX": {
+      "detected": false,
+      "version": "2017.11.15.1",
+      "result": null,
+      "update": "20180402"
+    },
+    "VBA32": {
+      "detected": false,
+      "version": "3.12.28.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "WhiteArmor": {
+      "detected": false,
+      "version": null,
+      "result": null,
+      "update": "20180324"
+    },
+    "Zoner": {
+      "detected": false,
+      "version": "1.0",
+      "result": null,
+      "update": "20180401"
+    },
+    "Rising": {
+      "detected": false,
+      "version": "25.0.0.1",
+      "result": null,
+      "update": "20180402"
+    },
+    "Yandex": {
+      "detected": false,
+      "version": "5.5.1.3",
+      "result": null,
+      "update": "20180331"
+    },
+    "Ikarus": {
+      "detected": true,
+      "version": "0.1.5.2",
+      "result": "Trojan.Linux.Mirai",
+      "update": "20180402"
+    },
+    "GData": {
+      "detected": true,
+      "version": "A:25.16590B:25.11939",
+      "result": "Linux.Trojan.Agent.FRSGMP",
+      "update": "20180402"
+    },
+    "AVG": {
+      "detected": true,
+      "version": "18.2.3827.0",
+      "result": "ELF:Mirai-HU [Trj]",
+      "update": "20180402"
+    },
+    "Panda": {
+      "detected": false,
+      "version": "4.6.4.2",
+      "result": null,
+      "update": "20180402"
+    },
+    "Qihoo-360": {
+      "detected": true,
+      "version": "1.0.0.1120",
+      "result": "Win32/Trojan.78f",
+      "update": "20180402"
+    }
+  },
+  "scan_id": "9d49a96819af5ef4d40420c3aa4b2033b9b4261119d0cd8facc32cf75b350aa2-1522684405",
+  "sha1": "29ed5fa9050bafa663b11d814e48f7ac9fc23948",
+  "resource": "9d49a96819af5ef4d40420c3aa4b2033b9b4261119d0cd8facc32cf75b350aa2",
+  "response_code": 1,
+  "scan_date": "2018-04-02 15:53:25",
+  "permalink": "https://www.virustotal.com/file/9d49a96819af5ef4d40420c3aa4b2033b9b4261119d0cd8facc32cf75b350aa2/analysis/1522684405/",
+  "verbose_msg": "Scan finished, information embedded",
+  "total": 59,
+  "positives": 26,
+  "sha256": "9d49a96819af5ef4d40420c3aa4b2033b9b4261119d0cd8facc32cf75b350aa2",
+  "md5": "ffa2d5402cb1d4b3ca7be53c25687c40"
+}

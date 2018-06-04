@@ -51,6 +51,10 @@ foreach my $id (sort keys $master_data) {
 	my @user_agent;
 	my @static_ip_list;
 	my @dynamic_ip_list;
+	my @history_strings;
+	my @system_files;
+	my @proc_strings;
+	my @auto_install_strings;
 	my $total_strings;
 	foreach my $sec (sort keys $master_data->{$id}{'strings'}){
 		#print "++++++++++++++++++++++  SECTION : $sec  +++++++++++++++++++++++\n";
@@ -66,10 +70,18 @@ foreach my $id (sort keys $master_data) {
 			push @suspect_lines , $str if ($print_st==1);
 
 
+
 			if ( $str =~ m/\/proc\/net\/tcp/ || $str =~ m/\/proc\/net\/udp/ || 
 				$str =~  m/etc.*hosts/ || $str =~ m/etc.*resolv.*conf/ || $str =~ m/proc.*net.*route/ ){
 				push @net_conf_files , $str ;
 				$master_data->{$id}{'strings_net_files'}++;
+
+			}
+
+			if ( $str =~ m/\/etc/ || $str =~ m/\/proc/ || $str =~ m/\/usr/ || $str =~ m/\/dev/ || $str =~ m/\/bin/ || $str =~ m/\/var/ || 
+				$str =~ m/\/tmp/ || $str =~ m/\/sys/ || $str =~ m/\/root/ || $str =~ m/\/boot/|| $str =~ m/\/opt/|| $str =~ m/\/home/){
+				push @system_files , $str ;
+				$master_data->{$id}{'strings_system_files'}++;
 
 			}
 
@@ -91,6 +103,21 @@ foreach my $id (sort keys $master_data) {
 			if ( $str =~ m/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/ && length $str < 40 ){
 				push @static_ip_list , $str ;
 				$master_data->{$id}{'strings_static_ip'}++;	
+			}
+
+			if ( $str =~ m/\/proc\// ){
+				push @proc_strings , $str ;
+				$master_data->{$id}{'strings_proc_files'}++;	
+			}
+
+			if ( $str =~ m/history / || $str =~ m/bash_history/ || $str =~ m/clearhistory/i ){
+				push @history_strings , $str ;
+				$master_data->{$id}{'strings_use_sys_history'}++;	
+			}
+
+			if ( $str =~ m/cd.*chmod.*rm/ ){
+				push @auto_install_strings , $str ;
+				$master_data->{$id}{'strings_auto_install'}++;	
 			}
 
 		}
@@ -122,14 +149,34 @@ foreach my $id (sort keys $master_data) {
 	print $fh_res "================================================================================\n";
 	print $fh_res "========	STRINGS DETAILS : =====================================================\n";
 	print $fh_res "================================================================================\n";
-	print $fh_res "++++++++	SUSPECTED STRINGS\n";
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	SUSPECTED STRINGS : =====================================================\n";
+	print $fh_res "================================================================================\n";
 	foreach my $itm (@suspect_lines) {print $fh_res $itm."\n";}
-	print $fh_res "++++++++	USER AGENTS STRINGS\n";
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	USER AGENTS STRINGS : =====================================================\n";
+	print $fh_res "================================================================================\n";
 	foreach my $itm (@user_agent) {print $fh_res $itm."\n";}
-	print $fh_res "++++++++	STATIC IP ADRESSES\n";
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	STATIC IP ADRESSES : =====================================================\n";
+	print $fh_res "================================================================================\n";
 	foreach my $itm (@static_ip_list) {print $fh_res $itm."\n";}
-	print $fh_res "++++++++	DYNAMIC IP MASKS\n"; 
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	DYNAMIC IP MASKS : =====================================================\n";
+	print $fh_res "================================================================================\n";
 	foreach my $itm (@dynamic_ip_list) {print $fh_res $itm."\n";}
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	/proc FOLDER ACCESS : =====================================================\n";
+	print $fh_res "================================================================================\n";
+	foreach my $itm (@proc_strings) {print $fh_res $itm."\n";}
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	HISTORY TEMPERING : =====================================================\n";
+	print $fh_res "================================================================================\n";
+	foreach my $itm (@history_strings) {print $fh_res $itm."\n";}
+	print $fh_res "================================================================================\n";
+	print $fh_res "========	AUTOINSTALL COMMANDS : =====================================================\n";
+	print $fh_res "================================================================================\n";
+	foreach my $itm (@auto_install_strings) {print $fh_res $itm."\n";}
 
 	close($fh_res);
 

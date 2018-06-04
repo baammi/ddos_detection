@@ -1,0 +1,270 @@
+=============================================================================
+========	BINARY ID :1c463dd75eb17d1d1e58a7cb2a13b7770691eb73==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :3378
+SUPSCPECTED LINES COUNT :231
+SUPSCPECTED STRINGS COUNT (DISTINCT) :28
+SUPSCPECTED STRINGS WEIGHT :102
+SUSPECT STRING SCORE : [102 / 150] 68%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :1
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+NOTICE %s :Unable to resolve %s\n
+NOTICE %s :Unable to comply.\n
+/usr/dict/words
+PRIVMSG %s :>bot +std <target> <port> <secs>\n
+PRIVMSG %s :[STD]Hitting %s!\n
+PRIVMSG %s :[STD]Done hitting %s!\n
+PRIVMSG %s :Killing pid %d.\n
+PRIVMSG %s :>bot +unknown <target> <secs>\n
+PRIVMSG %s :[UNK]Hitting %s!\n
+PRIVMSG %s :[UNK]Done hitting %s!\n
+PRIVMSG %s :Nice try...\n
+NOTICE %s :I'm having a problem resolving my host, someone will have to SPOOFS me manually.\n
+PRIVMSG
+PING
+/etc/rc.d/rc.local
+STD IRC Bot
+NICK %s\nUSER %s localhost localhost :%s\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+/bin/sh
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+uclntudp_create: out of memory\n
+__get_myaddress: socket
+/etc/hosts
+/etc/config/hosts
+RPC: Procedure unavailable
+RPC: Remote system error
+RPC: Unknown host
+ptfork.c
+pthread_atfork_lock
+pthread_atfork_child
+pthread_atfork_prepare
+pthread_atfork_parent
+pthread_onexit_process
+pthread_handle_sigrestart
+pthread_kill_all_threads
+fork_generation
+fork.c
+fsync.c
+getpid.c
+getppid.c
+kill.c
+msync.c
+sigprocmask.c
+waitpid.c
+spec_flags.4024
+_string_syserrmsgs.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname_r.c
+bind.c
+connect.c
+recvmsg.c
+sendmsg.c
+socket.c
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+system.c
+libc/sysdeps/linux/sh/vfork.S
+__socketcall.c
+clnt_udp.c
+clntudp_geterr
+clntudp_freeres
+clntudp_abort
+clntudp_control
+udp_ops
+clntudp_destroy
+clntudp_call
+__rpc_lrand48_data
+inet_aton.c
+dnslookup.c
+get_hosts_byname_r.c
+lrand48_r.c
+nrand48_r.c
+srand48_r.c
+cmsg_nxthdr.c
+bindresvport.c
+inet_pton4
+inet_ntop4
+read_etc_hosts_r.c
+drand48-iter.c
+rpc_errstr
+auth_errstr
+__read_etc_hosts_r
+__socketcall
+waitpid
+__libc_fsync
+random
+lrand48_r
+connect
+numpids
+inet_pton
+pthread_condattr_setpshared
+__GI_random_r
+getpid
+killsec
+__libc_getpid
+mfork
+__pthread_mutexattr_setpshared
+system
+__open_etc_hosts
+__dns_lookup
+random_r
+gethostbyname_r
+socket
+pthread_kill_other_threads_np
+_string_syserrmsgs
+svcerr_noproc
+__pthread_kill_other_threads_np
+__GI_clntudp_create
+nrand48_r
+__libc_drand48_data
+srandom_r
+__GI_xdr_replymsg
+__GI_lrand48_r
+__GI_srandom_r
+spoofs
+xdr_netobj
+udpTry
+kill
+bind
+svcerr_systemerr
+__GI_sigprocmask
+inet_addr
+__GI_clntudp_bufcreate
+__pthread_once_fork_child
+spoofsm
+__GI_kill
+rand
+pthread_kill
+sendmsg
+clntudp_create
+__cmsg_nxthdr
+xdr_replymsg
+__GI_gethostbyname_r
+_PRIVMSG
+__GI_inet_ntop
+__GI_nrand48_r
+fork
+pthread_mutexattr_getpshared
+__GI_bindresvport
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+pthread_condattr_getpshared
+__GI_socket
+srand
+getppid
+__libc_system
+pthread_mutexattr_setpshared
+host2ip
+__get_hosts_byname_r
+__libc_recvmsg
+__GI_inet_pton
+gethostbyname
+__vfork
+msync
+__libc_waitpid
+__GI_waitpid
+vfork
+__pthread_once_fork_parent
+srandom
+__libc_fork
+fsync
+__pthread_once_fork_prepare
+__GI_recvmsg
+__drand48_iterate
+bindresvport
+msgs
+__GI_connect
+__GI_sendmsg
+inet_ntop
+pthread_atfork
+__libc_sendmsg
+__GI_inet_aton
+_PING
+__pthread_mutexattr_getpshared
+__GI_bind
+__pthread_offsetof_pid
+__GI___cmsg_nxthdr
+__fork
+__GI_vfork
+__GI_srand48_r
+__GI_inet_addr
+__libc_msync
+recvmsg
+flooders
+clntudp_bufcreate
+__libc_connect
+srand48_r
+pids
+sigprocmask
+\t\tǔ@懣燰償戓爁懣燰儞搣攓텔䄋\t 褙懣燰儞愐愜℘褎懣燰儞戓爁懣燰償搓攣텉䄋\t 褃Ḗꀂ\tḦ僦ḁꁽ\t懣燰償戓爁懣燰儞搣攓턽䄋\t 褙懣燰儞愐愜℘褎懣燰儞戓爁懣燰償搓攣턲䄋\t 褃ḗꀂ\tḧ僧ḁꁎ\t懣燰儞愐愜℘褏懣燰償戓爁懣燰儞焁搣攓턡䄋\t 褃Ḙꀂ\tḨ僨ḁꀭ\t懣燰償愐愜搓턘䄋\t栃懣燰儞愐愜搓턓䄋\t㠀謏懣燰償戓爁懣燰儞焁搣攓턊䄋\t 褃ḙꀂ\tḩ僩ḁ僡縰濣伦滶棶\v\tǔ@肠@
+/áቮሔᄤ୮ऀု䋠ᡑġn୮ऀ/୮ऀ/୮ऀ/áቮ୮ऀįᛡѮᚍ壠ĥ⚏à୮ऀ蘀堯匯≨ݏቮ䀁ၱᡡᐡڋঠሀ䌁ᝥ
+\t\tਆ䨲ꀏ琐剂Ē㈐輠允䄕較燿ᐑꀙ琐ጒ퀍䀋\tꀑ剂Ē㈐輌兄℘贈ጒꀁ琐琐턅䄋\t濣伦滶\v\t燄@爘@퐃턄
+\t\tฆ䰴턗琐ꀢ兂ऒ㆐謅允焁ᐑꀛ\t턐琐䄋斓ᢒ᠑ꀒ兂ऒ㆐贌琐턊䄋斓ᢒꀆ턇琐䄋\t濣伦滶槶棶\v\t灘@炀@퐃턄
+\t\t\t\t\t\tꀈ\t\t\t\t\t\t愃\t琼䑢䐓䐢⓶ⓦⓖⓆⒶ⒦⒖⒆툃윃㈌퀃.䀫怓\tᚈ
+\t\t\t\t\t\t\t恣⁋⁛♨贘젃恃ぬ贵㕈ㅧ痿輑捓䘁Ŝ輄珿♨贆—Ŝȼ䘐—迺․\v\t\v恃젃贅⌉䌐Ŝ盿迻—甁挃恓적輋㙳贄젂贬怳ꂪ\t赈怳ꂶ\t젂趃怳꾡\t\t捓ㅧ痼謻䘉䘁Ş輄珸♨贆‖ŞȾ䘐‖迺…\v\t\t\t\t\t\t\t\t\t\t\t\t痼权Ş看☨捓贂珼‖ŞȾぶ‖跺…甃㐀矶褃Ŝぶ跼—\v\t\t\t\t\t\t\t痼挃⌙扃〰爟贏∙Ş전晓盼贄猈젘贆‖Şݮ〰‖迺⁶⾆㔌⾖愃⾦痤⾶偐燠卑噒坓塔奕婖字ǃᄱᅢᅳᆄ痠ᆕㄠᆦ迬ᆷ怓毶㔘櫶
+\t\t\t\t\t\t晓痾扃盼爇ŝͭ〦―跺‵ꁂ\t\t\t\t挃⌙扃〰爟痾贅∙猂ŝ〰迼―⾆㔌⾖愃⾦痢⾶⿆恕燠捖晖䀨杖‽桖⍭楖♽橖➍歖⢝汕⦭ǃ⪽ᄱ
+\t\t癪ᨊ㨪婊抓揢狸慃圡猆ꁃ燼抓揢狴慃嘢猅ꀹ燸抓揢狰慃圣猄ꀯ燴抓揢独慃嘤猃ꀥ燰抓揢狨慃圥猂ꀛ燬抓揢狤慃嘦猁ꀑ燨抓狠圧慃ꀉ燤抓狜揢慃嘨燠珿圧ᅧ嘦ᅶ圥ᅥ嘤ᅴ圣ᅣ嘢ᅲ圡ᅡ珸昢⌸ⅲ狠迫燠ᅧꁞ櫢䰭➩毋㜖⊙捃笠贇爄윂żģ\t\t㠬ᰌꀝ狴櫢唢捃堡稂ꀭ珼狰櫢圣捃唢稁ꀝ珸独捃嘤圣ꀏ珴狨櫢堥捃嘤竿珰懋散䢽圣䔝慓
+\tÔÐ✐Ȁ´Ø\tꑐ@紌@ꏐ@ᕤA䛸@帄@謄B府@했B䚤@뼐@ᙠA A颀@꣤@銗叮㋬Į労ㄸ厸燿爄ᬙȗĚㄶ贬ᬙḗꀘ\t
+\t\t\t\t恒兑剒␂ᐑ\vᐢ\t\t\t\t\t\t\t\t\t㔖謎䄅␚䑚윆┚䕚\v\v䑚
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+178.156.202.2
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

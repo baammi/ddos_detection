@@ -1,0 +1,363 @@
+{
+  "scans": {
+    "Bkav": {
+      "detected": false,
+      "version": "1.3.0.9466",
+      "result": null,
+      "update": "20180402"
+    },
+    "MicroWorld-eScan": {
+      "detected": true,
+      "version": "14.0.297.0",
+      "result": "Gen:Variant.Backdoor.Linux.Tsunami.1",
+      "update": "20180402"
+    },
+    "nProtect": {
+      "detected": false,
+      "version": "2018-04-02.02",
+      "result": null,
+      "update": "20180402"
+    },
+    "CMC": {
+      "detected": false,
+      "version": "1.1.0.977",
+      "result": null,
+      "update": "20180402"
+    },
+    "CAT-QuickHeal": {
+      "detected": true,
+      "version": "14.00",
+      "result": "Backdoor.Linux.Tsunami.A",
+      "update": "20180402"
+    },
+    "McAfee": {
+      "detected": false,
+      "version": "6.0.6.653",
+      "result": null,
+      "update": "20180402"
+    },
+    "Malwarebytes": {
+      "detected": false,
+      "version": "2.1.1.1115",
+      "result": null,
+      "update": "20180402"
+    },
+    "VIPRE": {
+      "detected": false,
+      "version": "65698",
+      "result": null,
+      "update": "20180402"
+    },
+    "SUPERAntiSpyware": {
+      "detected": false,
+      "version": "5.6.0.1032",
+      "result": null,
+      "update": "20180402"
+    },
+    "TheHacker": {
+      "detected": false,
+      "version": "6.8.0.5.2591",
+      "result": null,
+      "update": "20180330"
+    },
+    "K7GW": {
+      "detected": false,
+      "version": "10.43.26685",
+      "result": null,
+      "update": "20180402"
+    },
+    "K7AntiVirus": {
+      "detected": false,
+      "version": "10.43.26684",
+      "result": null,
+      "update": "20180402"
+    },
+    "Baidu": {
+      "detected": false,
+      "version": "1.0.0.2",
+      "result": null,
+      "update": "20180402"
+    },
+    "F-Prot": {
+      "detected": false,
+      "version": "4.7.1.166",
+      "result": null,
+      "update": "20180402"
+    },
+    "Symantec": {
+      "detected": true,
+      "version": "1.5.0.0",
+      "result": "Linux.Lightaidra",
+      "update": "20180402"
+    },
+    "ESET-NOD32": {
+      "detected": true,
+      "version": "17155",
+      "result": "a variant of Linux/Tsunami.NAL",
+      "update": "20180402"
+    },
+    "TrendMicro-HouseCall": {
+      "detected": true,
+      "version": "9.950.0.1006",
+      "result": "TROJ_GEN.F04JC00CP18",
+      "update": "20180402"
+    },
+    "Avast": {
+      "detected": true,
+      "version": "18.2.3827.0",
+      "result": "ELF:Gafgyt-BO [Trj]",
+      "update": "20180402"
+    },
+    "ClamAV": {
+      "detected": false,
+      "version": "0.99.2.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "Kaspersky": {
+      "detected": true,
+      "version": "15.0.1.13",
+      "result": "HEUR:Backdoor.Linux.Tsunami.bh",
+      "update": "20180402"
+    },
+    "BitDefender": {
+      "detected": true,
+      "version": "7.2",
+      "result": "Gen:Variant.Backdoor.Linux.Tsunami.1",
+      "update": "20180402"
+    },
+    "NANO-Antivirus": {
+      "detected": true,
+      "version": "1.0.100.22043",
+      "result": "Trojan.Tsunami.exjtlz",
+      "update": "20180402"
+    },
+    "AegisLab": {
+      "detected": true,
+      "version": "4.2",
+      "result": "Backdoor.Linux.Tsunami!c",
+      "update": "20180402"
+    },
+    "Tencent": {
+      "detected": true,
+      "version": "1.0.0.1",
+      "result": "Linux.Backdoor.Tsunami.Wtdi",
+      "update": "20180402"
+    },
+    "Ad-Aware": {
+      "detected": true,
+      "version": "3.0.5.370",
+      "result": "Gen:Variant.Backdoor.Linux.Tsunami.1",
+      "update": "20180402"
+    },
+    "Emsisoft": {
+      "detected": true,
+      "version": "4.0.2.899",
+      "result": "Gen:Variant.Backdoor.Linux.Tsunami.1 (B)",
+      "update": "20180402"
+    },
+    "Comodo": {
+      "detected": false,
+      "version": null,
+      "result": null,
+      "update": "20180402"
+    },
+    "F-Secure": {
+      "detected": false,
+      "version": "11.0.19100.45",
+      "result": null,
+      "update": "20180401"
+    },
+    "DrWeb": {
+      "detected": true,
+      "version": "7.0.28.2020",
+      "result": "Linux.BackDoor.Tsunami.748",
+      "update": "20180402"
+    },
+    "Zillya": {
+      "detected": true,
+      "version": "2.0.0.3525",
+      "result": "Backdoor.Tsunami.Linux.2119",
+      "update": "20180330"
+    },
+    "TrendMicro": {
+      "detected": true,
+      "version": "9.862.0.1074",
+      "result": "TROJ_GEN.F04JC00CP18",
+      "update": "20180402"
+    },
+    "McAfee-GW-Edition": {
+      "detected": false,
+      "version": "v2015",
+      "result": null,
+      "update": "20180402"
+    },
+    "Sophos": {
+      "detected": true,
+      "version": "4.98.0",
+      "result": "Linux/Tsunami-A",
+      "update": "20180402"
+    },
+    "Cyren": {
+      "detected": true,
+      "version": "5.4.30.7",
+      "result": "ELF/Trojan.GQPG-1",
+      "update": "20180402"
+    },
+    "Jiangmin": {
+      "detected": true,
+      "version": "16.0.100",
+      "result": "Backdoor.Linux.xwc",
+      "update": "20180402"
+    },
+    "Avira": {
+      "detected": true,
+      "version": "8.3.3.6",
+      "result": "LINUX/Tsunami.jnxwg",
+      "update": "20180402"
+    },
+    "Fortinet": {
+      "detected": true,
+      "version": "5.4.247.0",
+      "result": "Linux/Tsunami.A!tr",
+      "update": "20180402"
+    },
+    "Antiy-AVL": {
+      "detected": true,
+      "version": "3.0.0.1",
+      "result": "Trojan[Backdoor]/Linux.Tsunami.bh",
+      "update": "20180402"
+    },
+    "Kingsoft": {
+      "detected": false,
+      "version": "2013.8.14.323",
+      "result": null,
+      "update": "20180402"
+    },
+    "Arcabit": {
+      "detected": true,
+      "version": "1.0.0.831",
+      "result": "Trojan.Backdoor.Linux.Tsunami.1",
+      "update": "20180402"
+    },
+    "ViRobot": {
+      "detected": false,
+      "version": "2014.3.20.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "AhnLab-V3": {
+      "detected": true,
+      "version": "3.12.0.20130",
+      "result": "Linux/Tsunami.Gen",
+      "update": "20180402"
+    },
+    "ZoneAlarm": {
+      "detected": true,
+      "version": "1.0",
+      "result": "HEUR:Backdoor.Linux.Tsunami.bh",
+      "update": "20180402"
+    },
+    "Avast-Mobile": {
+      "detected": true,
+      "version": "180402-00",
+      "result": "ELF:Gafgyt-DO [Trj]",
+      "update": "20180402"
+    },
+    "Microsoft": {
+      "detected": true,
+      "version": "1.1.14600.4",
+      "result": "Trojan:Win32/Skeeyah.A!rfn",
+      "update": "20180402"
+    },
+    "TotalDefense": {
+      "detected": false,
+      "version": "37.1.62.1",
+      "result": null,
+      "update": "20180402"
+    },
+    "ALYac": {
+      "detected": true,
+      "version": "1.1.1.5",
+      "result": "Gen:Variant.Backdoor.Linux.Tsunami.1",
+      "update": "20180402"
+    },
+    "AVware": {
+      "detected": false,
+      "version": "1.5.0.42",
+      "result": null,
+      "update": "20180402"
+    },
+    "MAX": {
+      "detected": true,
+      "version": "2017.11.15.1",
+      "result": "malware (ai score=83)",
+      "update": "20180402"
+    },
+    "VBA32": {
+      "detected": false,
+      "version": "3.12.28.0",
+      "result": null,
+      "update": "20180402"
+    },
+    "Zoner": {
+      "detected": false,
+      "version": "1.0",
+      "result": null,
+      "update": "20180401"
+    },
+    "Rising": {
+      "detected": true,
+      "version": "25.0.0.1",
+      "result": "Trojan.VseFlooder/Linux!1.A482 (CLASSIC)",
+      "update": "20180402"
+    },
+    "Yandex": {
+      "detected": false,
+      "version": "5.5.1.3",
+      "result": null,
+      "update": "20180331"
+    },
+    "Ikarus": {
+      "detected": true,
+      "version": "0.1.5.2",
+      "result": "Trojan.Linux.Tsunami",
+      "update": "20180402"
+    },
+    "GData": {
+      "detected": true,
+      "version": "A:25.16588B:25.11937",
+      "result": "Linux.Trojan.Gafgyt.A",
+      "update": "20180402"
+    },
+    "AVG": {
+      "detected": true,
+      "version": "18.2.3827.0",
+      "result": "ELF:Gafgyt-BO [Trj]",
+      "update": "20180402"
+    },
+    "Panda": {
+      "detected": false,
+      "version": "4.6.4.2",
+      "result": null,
+      "update": "20180402"
+    },
+    "Qihoo-360": {
+      "detected": true,
+      "version": "1.0.0.1120",
+      "result": "Win32/Backdoor.225",
+      "update": "20180402"
+    }
+  },
+  "scan_id": "a5b676adc88e4af886870838140e5b883c1d8996b0fe5f5cbd9fe59cb792d990-1522682412",
+  "sha1": "026960ec0a8527df987ed5255e43db2197078f36",
+  "resource": "a5b676adc88e4af886870838140e5b883c1d8996b0fe5f5cbd9fe59cb792d990",
+  "response_code": 1,
+  "scan_date": "2018-04-02 15:20:12",
+  "permalink": "https://www.virustotal.com/file/a5b676adc88e4af886870838140e5b883c1d8996b0fe5f5cbd9fe59cb792d990/analysis/1522682412/",
+  "verbose_msg": "Scan finished, information embedded",
+  "total": 58,
+  "positives": 34,
+  "sha256": "a5b676adc88e4af886870838140e5b883c1d8996b0fe5f5cbd9fe59cb792d990",
+  "md5": "df329eb2f519af54ff6dd02763cceb81"
+}

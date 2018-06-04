@@ -1,0 +1,468 @@
+=============================================================================
+========	BINARY ID :55277a282dc8f3f5e6f1ff20955a5284e7b17e0b==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :9408
+SUPSCPECTED LINES COUNT :418
+SUPSCPECTED STRINGS COUNT (DISTINCT) :26
+SUPSCPECTED STRINGS WEIGHT :96
+SUSPECT STRING SCORE : [96 / 150] 64%
+USER AGENTS STRINGS COUNT :8
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :3
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz./
+ HTTP/1.1\r\nUser-Agent: 
+\r\nHost: 
+http
+https
+HTTP
+GET /g.php HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\n
+jbeupq84v7.2y.net
+GET /cdn-cgi/l/chk_captcha?id=%s&g-recaptcha-response=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET /%s HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: keep-alive\r\n\r\n
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+POST / HTTP/1.1\r\nHost: %s:%d\r\nContent-Length: %d\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\ncookie: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\nq=%s
+GET /cdn-cgi/l/chk_jschl?jschl_vc=%s&pass=%s&jschl_answer=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nCookie: %s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET /%s HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: keep-alive\r\n\r\n
+https://%[^/]/%s
+/proc/net/tcp
+abcdefghijklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ0123456789
+abcdefghijklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvw012345678
+GET /bins/mirai.spc HTTP/1.0\r\n\r\n
+\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bassertion failed: 0
+666666666666666666666666666666666666666666666666\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\assertion failed: data_plus_mac_plus_padding_size < 1024 * 1024
+ssl/s3_msg.c
+assertion failed: s->d1->w_msg_hdr.msg_len + ((s->version == DTLS1_BAD_VER) ? 3 : DTLS1_CCS_HEADER_LENGTH) == (unsigned int)s->init_num
+assertion failed: s->d1->w_msg_hdr.msg_len + DTLS1_HM_HEADER_LENGTH == (unsigned int)s->init_num
+assertion failed: ((long)msg_hdr->msg_len) > 0
+assertion failed: s->init_num == (int)s->d1->w_msg_hdr.msg_len + DTLS1_HM_HEADER_LENGTH
+assertion failed: !(meth->ext_flags & SSL_EXT_FLAG_SENT)
+ssl/d1_msg.c
+tlsext_hostname
+flags
+legacy_server_connect
+no_legacy_server_connect
+CipherString
+dtls1_preprocess_fragment
+dtls1_process_buffered_records
+dtls1_process_record
+dtls_process_hello_verify
+ssl_cipher_process_rulestr
+ssl_scan_clienthello_tlsext
+ssl_scan_serverhello_tlsext
+ssl_start_async_job
+tls_post_process_client_hello
+tls_post_process_client_key_exchange
+tls_process_certificate_request
+tls_process_cert_status
+tls_process_cert_verify
+tls_process_change_cipher_spec
+tls_process_cke_dhe
+tls_process_cke_ecdhe
+tls_process_cke_gost
+tls_process_cke_psk_preamble
+tls_process_cke_rsa
+tls_process_cke_srp
+tls_process_client_certificate
+tls_process_client_hello
+tls_process_client_key_exchange
+tls_process_finished
+tls_process_key_exchange
+tls_process_new_session_ticket
+tls_process_next_proto
+tls_process_server_certificate
+tls_process_server_done
+tls_process_server_hello
+tls_process_ske_dhe
+tls_process_ske_ecdhe
+tls_process_ske_psk_preamble
+tls_process_ske_srp
+connection type not set
+failed to init async
+https proxy request
+http request
+crypto/async/async.c
+crypto/async/async_wait.c
+host=
+\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b
+SECG curve over a 113 bit binary field
+SECG/WTLS curve over a 131 bit binary field
+SECG curve over a 131 bit binary field
+NIST/SECG/WTLS curve over a 163 bit binary field
+SECG curve over a 163 bit binary field
+NIST/SECG curve over a 163 bit binary field
+SECG curve over a 193 bit binary field
+NIST/SECG/WTLS curve over a 233 bit binary field
+SECG curve over a 239 bit binary field
+NIST/SECG curve over a 283 bit binary field
+NIST/SECG curve over a 409 bit binary field
+NIST/SECG curve over a 571 bit binary field
+X9.62 curve over a 163 bit binary field
+X9.62 curve over a 176 bit binary field
+X9.62 curve over a 191 bit binary field
+X9.62 curve over a 208 bit binary field
+X9.62 curve over a 239 bit binary field
+X9.62 curve over a 272 bit binary field
+X9.62 curve over a 304 bit binary field
+X9.62 curve over a 359 bit binary field
+X9.62 curve over a 368 bit binary field
+X9.62 curve over a 431 bit binary field
+WTLS curve over a 113 bit binary field
+\n\tIPSec/IKE/Oakley curve #3 over a 155 bit binary field.\n\tNot suitable for ECDSA.\n\tQuestionable extension field!
+\n\tIPSec/IKE/Oakley curve #4 over a 185 bit binary field.\n\tNot suitable for ECDSA.\n\tQuestionable extension field!
+system library
+random number generator
+ASYNC routines
+system lib
+connect
+ioctlsocket
+bind
+gethostbyname
+assertion failed: ctx->cipher->block_size == 1 || ctx->cipher->block_size == 8 || ctx->cipher->block_size == 16
+localityName
+dhKeyAgreement
+Netscape
+Netscape Communications Corp.
+Netscape Certificate Extension
+Netscape Data Type
+Netscape Cert Type
+Netscape Base Url
+Netscape Revocation Url
+Netscape CA Revocation Url
+Netscape Renewal Url
+Netscape CA Policy Url
+Netscape SSL Server Name
+Netscape Comment
+Netscape Certificate Sequence
+timeStamping
+Time Stamping
+Microsoft Encrypted File System
+Netscape Server Gated Crypto
+SXNetID
+Strong Extranet ID
+localKeyID
+id-qt-unotice
+Policy Qualifier User Notice
+id-smime-mod-msg-v3
+id-smime-aa-msgSigDigest
+id-smime-spq-ets-sqt-unotice
+ac-targeting
+textNotice
+ipsecEndSystem
+IPSec End System
+id-cmc-popLinkRandom
+ad_timestamping
+AD Time Stamping
+targetInformation
+X509v3 AC Targeting
+rFC822localPart
+dNSDomain
+host
+janetMailbox
+set-msgExt
+set-brand
+setct-PIData
+setct-PIDataUnsigned
+setct-AcqCardCodeMsg
+setct-PIDualSignedTBE
+setct-AcqCardCodeMsgTBE
+set-brand-IATA-ATA
+set-brand-Diners
+set-brand-AmericanExpress
+set-brand-JCB
+set-brand-Visa
+set-brand-MasterCard
+set-brand-Novus
+policyMappings
+X509v3 Policy Mappings
+LocalKeySet
+Microsoft Local Key set
+jurisdictionLocalityName
+id-tc26-agreement
+id-tc26-agreement-gost-3410-2012-256
+id-tc26-agreement-gost-3410-2012-512
+ipsec Internet Key Exchange
+RSTUVWX
+OCSP_RESPID
+Proc-Type: 4,
+Proc-Type:
+unable to get local issuer certificate
+unable to verify the first certificate
+proxy certificates not allowed, please set the appropriate flag
+Hostname mismatch
+RDNS
+Autonomous System Numbers
+assertion failed: (a->type == ASIdOrRange_id && a->u.id != NULL) || (a->type == ASIdOrRange_range && a->u.range != NULL && a->u.range->min != NULL && a->u.range->max != NULL)
+assertion failed: (b->type == ASIdOrRange_id && b->u.id != NULL) || (b->type == ASIdOrRange_range && b->u.range != NULL && b->u.range->min != NULL && b->u.range->max != NULL)
+%*sUser Notice:\n
+userNotice
+noticeNumbers
+USERNOTICE
+NOTICEREF
+noticeref
+noticenos
+d.usernotice
+d.dNSName
+Inhibit Policy Mapping
+inhibitPolicyMapping
+POLICY_MAPPING
+POLICY_MAPPINGS
+Netscape SSL server
+crypto/x509v3/v3_sxnet.c
+SXNETID
+SXNET
+length is greater than %ld\n
+NETSCAPE_CERT_SEQUENCE
+Unprocessed type %d\n
+NETSCAPE_SPKAC
+NETSCAPE_SPKI
+crypto/bn/bn_rand.c
+CMS_IssuerAndSerialNumber
+CMS_KeyAgreeRecipientInfo
+suppPubInfo
+CMS_KeyAgreeRecipientIdentifier
+d.issuerAndSerialNumber
+d.allOrFirstTier
+bind_engine
+RAND
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+partially overlapping buffers
+parse_http_line1
+%s %s HTTP/1.0\r\n
+not proc type
+crypto/rand/md_rand.c
+You need to read the OpenSSL FAQ, https://www.openssl.org/docs/faq.html
+RAND_bytes
+/dev/urandom
+/dev/random
+/dev/srandom
+data greater than mod len
+first octet invalid
+sslv3 rollback attack
+TS_MSG_IMPRINT_set_algo
+TS_REQ_set_msg_imprint
+TS_TST_INFO_set_msg_imprint
+UI_process
+processing error
+processing
+NETSCAPE_SPKI_b64_decode
+NETSCAPE_SPKI_b64_encode
+DNS:%s
+Key Agreement
+keyAgreement
+notice_section
+process_pci_value
+SXNET_add_id_asc
+SXNET_add_id_INTEGER
+SXNET_add_id_ulong
+SXNET_get_id_asc
+SXNET_get_id_ulong
+v2i_POLICY_MAPPINGS
+invalid multiple rdns
+first num too large
+async_ctx_new
+ASYNC_init_thread
+async_job_new
+ASYNC_pause_job
+async_start_func
+ASYNC_start_job
+BIO_connect
+BIO_get_host_ip
+BIO_parse_hostserv
+BIO_socket
+BIO_socket_nbio
+addrinfo addr is not af inet
+ambiguous host or service
+connect error
+gethostbyname addr is not af inet
+invalid socket
+malformed host or service
+nbio connect error
+no hostname or service specified
+unable to bind socket
+unable to create socket
+unable to listen socket
+bnrand
+BN_rand
+BN_rand_range
+bad reciprocal
+rndzx
+cms_msgSigDigest_add1
+msgsigdigest error
+msgsigdigest verification failure
+msgsigdigest wrong length
+not key agreement
+no msgsigdigest
+dlfcn_bind_func
+dl_bind_func
+DSO_bind_func
+vms_bind_sym
+win32_bind_func
+could not bind to the requested symbol name
+EC_GROUP_get_degree
+random number generation failed
+ENGINE_get_first
+/lib:/usr/lib
+LD_BIND_NOW
+Not sparc binary
+Unable to process REL relocs
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+mHoIJPqGRSTUVWXL\\s]Yrp|{nzt[D&'()*+,-./0123456789:;<=@A%$FuvwxyE}~l
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Address family for hostname not supported
+Bad value for ai_flags
+No address associated with hostname
+System error
+Processing request in progress
+localhost
+/etc/hosts
+/etc/config/hosts
+!@聿႐␠@繿႐┠@籿႐☠@穿႐✠@硿႐⠠@癿႐⤠@瑿႐⨠@牿႐⬠@灿႐Ⱐ@湿႐ⴠ㼃ႂ쁢
+ ê岣@끻႐✠Ⴖ ႔ࠀ֢ᖀ႒᐀Ҡᭀ@慿႐ကꊀ＿耂匀႒ ӂ糽ꂀѠ耔一႒ @ꁻ႐✠႒᐀႔ࠀ@呿႐ကڰ
+ ê岣@彻႐✠֢ᖀ႔ࠀҠᭀ႒᐀@ᅿ႐ကꊀ＿뼲돿ӂ糽႒ @卻႐☠႒᐀႔ࠀ@ݿ႐ᄀꊀ＿耂႒ @䩻႐☠႒᐀႔ࠀ@ﹾ႐ᄀ\ăք
+ @졸႐㌠႒ࠀ@鱻Ґᑠ@쵸႐㌠뼐႐ᰀ@႐㈠႒ @뱸႐㈠႒ࠀ@遻Ґᑠ@셸႐㈠뼐႐ᰀĀ
+ @ꅵ႐〠႒ࠀ@畸႐ᄀ@ꙵ႐〠뼰翽@쥵႐ㄠ႒ @陵႐ㄠ႒ࠀ@橸႐ᄀ@魵႐ㄠ뼰瓽@빵႐㈠႒ @譵႐㈠႒ࠀ@彸႐ᄀ@遵႐㈠뼰槽
+ @뽲႐⼠႒ࠀ@鍵ސ벼@쑲႐⼠߄䢠ޒÂႠޔ벿⟂႖ᐠՀ㾓႐Ƞކ벸㼃⏆悠ႂ끠㼅
+ @႐〠႒ࠀ@쉳ڐᓠ@႐〠뼐㼃@ᕱ႐ㄠ႒ @႐ㄠ႒ࠀ@뙳ڐᓠ@႐ㄠ뼐
+ @쩰႐㈠႒ࠀ@鹳ڐᓠ@콰႐㈠뼐쇿㼃@႐〠႒ @빰႐〠႒ࠀ@鉳ސ벼@썰႐〠뼐þ߄䢠@႐ㄠ႒ @뉰႐ㄠ႒ࠀ@虳ސ벼@띰႐ㄠ뼐߄䢠@
+ @౯႐ⴠ႒ᔀ႔ࠀ@쁲႐ကꊀ＿耂̀ႂĠ◂氽႒ ◀瀽@o႐Ⱐ႒ᔀ႔ࠀ@둲႐ကꊀ＿耂ⴀ႒ @႐Ⱐ႒ᔀ႔ࠀ@
+ ì炣@扮႐✠Ⴖ ႔ࠀޤᙀ႒ᔀҠᮀ@፲႐ကꊀ＿耂匀႒ ׂ簽ꂀѠ耔一႒ @剮႐✠႒ᔀ႔ࠀ@ٲ႐ကڢ
+ ì炣@ᅮ႐✠ޤᙀ႔ࠀҠᮀ႒ᔀ@썱႐ကꊀ＿뼲돿ׂ簽႒ @ծ႐☠႒ᔀ႔ࠀ@륱႐ሀꊀ＿耂케႒ @ﱭ႐☠႒ᔀ႔ࠀ@끱႐ሀ\ăބࡀ䣂 ᢂ
+ @ꍫ႐〠႒ࠀ@睮Ґᑠ@ꡫ႐〠뼐뻷㼃@쩫႐ㄠ႒ @靫႐ㄠ႒ࠀ@歮Ґᑠ@鱫႐ㄠ뼐닷㼃@빫႐㈠႒ @譫႐㈠႒ࠀ@彮Ґᑠ@遫႐㈠뼐꛷㼃@뉫႐㌠႒ @罫႐㌠႒ࠀ@卮Ґᑠ@葫႐㌠뼐髷㼃@䵮Ґᑠᒄ郢ႂȠޒ벴Ⓜɀᒐ铢@䙮Ґࡀᒐᓣޒ벸@䉮Ґࡀ뼐请㼃@靫႐〠႒ @摫႐〠႒ࠀ@㡮ސ벼@楫႐〠뼐껶߄䢠@譫႐ㄠ႒ @填႐ㄠ႒ࠀ@Ɱސ벼@嵫႐ㄠ뼐ꋶ߄䢠@罫႐㈠႒ @䱫႐㈠႒ࠀ@
+ @葨႐⼠႒ࠀ@填ސ벼@襨႐⼠߄䢠ޒÂႠޔ벿⟂႖ᐠՀ҉႐Ƞކ벸㼃⏆悠ႂ끠㼅
+ @읦႐〠႒ࠀ@魩Ґᑠ@챦႐〠뼐㼃@႐ㄠ႒ @뭦႐ㄠ႒ࠀ@轩Ґᑠ@쁦႐ㄠ뼐
+ @꽦႐㌠႒ࠀ@荩Ґᑠ@둦႐㌠뼐췿㼃@홦႐㈠႒ @ꍦ႐㈠႒ࠀ@睩Ґᑠ@ꡦ႐㈠뼐쇿㼃@쩦႐〠႒ @靦႐〠႒ࠀ@歩ސ벼@鱦႐〠뼐ᓾ߄䢠@빦႐ㄠ႒ @警႐ㄠ႒ࠀ@彩ސ벼@遦႐ㄠ뼐ࣾ߄䢠@뉦႐㌠႒ @罦႐㌠႒ࠀ@卩ސ벼@葦႐㌠뼐ﳽ߄䢠@Ꙧ႐㈠႒ @獦႐㈠႒ࠀ@䝩ސ벼@硦႐㈠뼐߄䢠ӂꂀ`뼢⳽ⳀѠႂРⳂѠႆ＿႒$
+ ê炣@႐✠֦ᗀ႔ࠀҠᇀ႒ᘀ@齧႐ကꊀ＿뼲돿ۂҠ႒ @႐☠႒ᘀ႔ࠀ@镧႐ጀꊀ＿耂㐁႒ @
+ @驠႐㈠႒ࠀ@湣Ґᑠ@齠႐㈠뼐㼃@셠႐㌠႒ @蹠႐㌠႒ࠀ@扣Ґᑠ@鍠႐㌠뼐㼃@屣Ґᑠᒄ郢ႂȠޒ벴Ⓜɀᒐ铢@啣Ґࡀᒐᓣޒ벸@兣Ґࡀ뼐헶㼃@Ꙡ႐〠႒ @獠႐〠႒ࠀ@䝣ސ벼@硠႐〠뼐
+ @杠႐ㄠ႒ࠀ@㭣ސ벼@池႐ㄠ뼐߄䢠@蹠႐㈠႒ @孠႐㈠႒ࠀ@⽣ސ벼@恠႐㈠뼐߄䢠ĀゃĀ沝Ā鲝ĀﲝĀ첝㼃ႂ偢ƀ႔ᔠິ
+ @ﱜ႐ⴠ႒᠀႔ࠀ@끠႐ကꊀ＿耂̀ႂĠ⟂႒ ⟀@႐Ⱐ႒᠀႔ࠀ@ꑠ႐ကꊀ＿耂ⴀ႒ @႐Ⱐ႒᠀႔ࠀ@魠႐က\ăքࠀ䣂ኀᢂ
+ æ岣@剜႐✠Ⴂ ႔ࠀִጀ႒᠀ڠᆀ@͠႐ကꊀ＿耂匀㼇߂РꂀѠ耔一႒ @䉜႐✠႒᠀႔ࠀ@႐ကҶࡀւᬀ䣄ፀꂀ₠耢餀ʐĠ⚂ᄀ₤ࡀ
+ @퉘႐〠႒ࠀ@ꙛҐᑠ@흘႐〠뼐狹֬Ơ@菱႐ㄠ႒ @왘႐ㄠ႒ࠀ@驛Ґᑠ@쭘႐ㄠ뼐曹֬Ơ@႐㌠႒ @멘႐㌠႒ࠀ@蹛Ґᑠ@뽘႐㌠뼐嫹֬Ơ@႐㈠႒ @깘႐㈠႒ࠀ@艛Ґᑠ@던႐㈠뼐仹֬ƠĀ梢Ā좽ĀĀ墾Ā⢾㼃ႂ䡢ƀႂĠິ
+ @ŕ႐ⴠ႒က႔ࠀ@땘႐ᄀꊀ＿耂̀ႂĠ⟂氽ߠ႒ ⟀瀽@႐Ⱐ႒က႔ࠀ@ꡘ႐ᄀꊀ＿耂ⴀߠ႒ @႐Ⱐ႒က႔ࠀ@鹘႐ᄀ\ăքࠀ䣂ኀᢂ
+ @乔႐✠ֲጀ႔ࠀڢᭀ႒က@X႐ᄀꊀ＿耂砀႒ᜀ߂簽ꂀѠ耔琀ߠ႒ @㹔႐✠႒က႔ࠀ@႐ᄀڴ
+ @⍎႐⼠႒ࠀ@ސ벼@⡎႐⼠뼐拿߄䢠@䩎႐〠႒ @ᝎ႐〠႒ࠀ@Ґᑠ@ᱎ႐〠㼅ႄꢠ
+ @륋႐ⴠ႒ᔀ႔ࠀ@浏႐ကꊀ＿耂̀ႂĠ◂氽႒ ◀瀽@굋႐Ⱐ႒ᔀ႔ࠀ@慏႐ကꊀ＿耂ⴀ႒ @ꑋ႐Ⱐ႒ᔀ႔ࠀ@塏႐က\ăք
+ ì炣@ཋ႐✠Ⴖ ႔ࠀ֤ᛀ႒ᔀҠᮀ@쁎႐ကꊀ＿耂匀႒ ׂ簽ꂀѠ耔一႒ @ｊ႐✠႒ᔀ႔ࠀ@덎႐ကڢ
+ ì炣@빊႐✠֤ᛀ႔ࠀҠᮀ႒ᔀ@灎႐ကꊀ＿뼲돿ׂ簽႒ @뉊႐☠႒ᔀ႔ࠀ@晎႐ሀꊀ＿耂拓႒ @ꥊ႐☠႒ᔀ႔ࠀ@嵎႐ሀ\ăք
+ @뽉႐⼠႒ࠀ@鍌ސ벼@쑉႐⼠߄䢠ޒÂႠޔ벿⟂႖ᐠՀ㽪႐Ƞކ벸㼃㼅ႂ끠ႄ꒠
+ @⑈႐〠႒ࠀ@ڐᓠ@⥈႐〠뼐㼃@䭈႐ㄠ႒ @ᡈ႐ㄠ႒ࠀ@ڐᓠ@ᵈ႐ㄠ뼐
+ @ై႐㌠႒ࠀ@ڐᓠ@ᅈ႐㌠뼐췿㼃@㍈႐㈠႒ @H႐㈠႒ࠀ@푊ڐᓠ@Ո႐㈠뼐쇿㼃@❈႐㈠႒ @႐㈠႒ࠀ@졊ސ벼@磊႐㈠뼐㛾߄䢠@ᭈ႐㌠႒ @႐㌠႒ࠀ@뱊ސ벼@႐㌠뼐⫾߄䢠@
+ @❆႐㈠႒ࠀ@רּҐᑠ@ⱆ႐㈠뼐ᇸ㼅@乆႐㌠႒ @ᭆ႐㌠႒ࠀ@Ґᑠ@⁆႐㌠뼐
+ @ཆ႐⼠႒ࠀ@Ґᑠ@ᑆ႐⼠뼐立㼅@㙆႐ㄠ႒ @͆႐ㄠ႒ࠀ@흈Ґᑠ@ࡆ႐ㄠ뼐㼅@텈Ґᑠᒄ郢ႂȠޒ벴Ⓜɀᒐ铢@쩈Ґࡀᒐᓣޒ벸@왈Ґࡀ뼐
+!@籠႐␠@႐┠@႐☠@႐✠@႐⠠@႐⤠@႐⨠@႐⬠@႐Ⱐ@႐ⴠ㼃ႂ쁢
+ @쥁႐⸠႒᐀႔ࠀ@絅႐ကꊀ＿耂̀ႂȠⓂ泽႒ @빁႐ⴠ႒᐀႔ࠀ@牅႐ကꊀ＿耂̀ႂĠⓂ泽႒ Ⓚ烽@뉁႐Ⱐ႒᐀႔ࠀ@晅႐ကꊀ＿耂ⴀ႒ @ꥁ႐Ⱐ႒᐀႔ࠀ@嵅႐က\ăք
+ ê岣@ᑁ႐✠Ⴂ ႔ࠀְᖀ႒᐀ڠᄀ@아႐ကꊀ＿耂匀႒ ӂ糽ꂀѠ耔一႒ @с႐✠႒᐀႔ࠀ@롄႐ကҲࡀւᦀ䣄ᕀꂀ₠耢鈀ʐĠ▂ᄀ₶ࡀ
+ ê岣@썀႐✠ְᖀ႔ࠀڠᄀ႒᐀@畄႐ကꊀ＿뼲돿ӂ糽႒ @띀႐☠႒᐀႔ࠀ@歄႐᠀ꊀ＿耂႒ @김႐☠႒᐀႔ࠀ@扄႐᠀\ăք
+ @㠾႐ㄠ႒ࠀ@ుҐᑠ@㴾႐ㄠ뼐႐ᰀ@弾႐㌠႒ @ⰾ႐㌠႒ࠀ@AҐᑠ@ㄾ႐㌠뼐႐ᰀ@匾႐㈠႒ @‾႐㈠႒ࠀ@Ґᑠ@┾႐㈠뼐훹႐ᰀ㼃ႂ档ƀ႔ᠠ႖Ġິ
+ @䤶႐〠႒ࠀ@ᴹҐᡠ@丶႐〠뼐႐ᬀ@瀶႐ㄠ႒ @㴶႐ㄠ႒ࠀ@ᄹҐᡠ@䈶႐ㄠ뼐
+ @ㄶ႐㌠႒ࠀ@ԹҐᡠ@㘶႐㌠뼐쯿႐ᬀ@堶႐㈠႒ @┶႐㈠႒ࠀ@露Ґᡠ@⨶႐㈠뼐뿿႐ᬀȀⰸȀ鰸Ȁ참ȀⰹȀﰸ㼃ႂ偢ƀႂĠິ
+ @႐㌠႒ࠀ@숴Ґᡠ@႐㌠뼐췿႐ᴀ@ᔲ႐㈠႒ @႐㈠႒ࠀ@똴Ґᡠ@႐㈠뼐쇿႐ᴀȀﰾȀ鱙Ȁ챙ȀﱙȀⱚȀ偙Ȁ屚Ȁ豚Ȁ뱚Ȁ值㼃ႂ
+ @渰႐⼠႒ࠀ@䈳Ґᡠ@猰႐⼠႐ጀ@㴳႒ᴀ֨Ġꖀᓀ뼒黿Ң䡬ꖀ`耂稆㼃@ᠯ႐ᔀ㼇ႆ꣠
+ @ጮ႐⸠႒က႔ࠀ@윱႐ᄀꊀ＿耂̀ႂȠ⛂沽ߠ႒ @ܮ႐ⴠ႒က႔ࠀ@묱႐ᄀꊀ＿耂̀ႂĠ⛂沽ߠ႒ ⛀炽@鶴႐Ⱐ႒က႔ࠀ@긱႐ᄀꊀ＿耂ⴀߠ႒ @႐Ⱐ႒က႔ࠀ@ꐱ႐ᄀք
+ @蠭႐⠠\ă႔ࠀä䣠႒က֢ኀ@㤱႐ᄀꊀ＿耂樂ߠ႒ @笭႐⠠႒က႔ࠀ@⼱႐ᄀք
+ @옩႐〠႒ࠀ@騬Ґᡠ@쬩႐〠뼐姹႐ጀ@႐ㄠ႒ @먩႐ㄠ႒ࠀ@踬Ґᡠ@뼩႐ㄠ뼐䷹႐ጀ@႐㈠႒ @긩႐㈠႒ࠀ@般Ґᡠ@댩႐㈠뼐䇹႐ጀ@픩႐㌠႒ @ꈩ႐㌠႒ࠀ@瘬Ґᡠ@ꜩ႐㌠뼐㗹႐ጀ@줩႐〠႒ @阩႐〠႒ࠀ@樬႐ᨀ@鬩႐〠뼐绸
+ @鈉႐ؠ႒ࠀ@昌႐ᄀ@堌႐ᄀ႒ᔀ@愌Ґࡀ@匌႐ᄀ႒ Ⴀࠀ@萉႐ठ႒ࠀ@堌Ґ၀@䨌႐ᄀ
+ @쳻႐ ŀ쟜႐ကŀǝ႐ሀېꊀ 耂᐀ႂĠː谠ꊀ 耂က႖ ႒뜣ɀ퍹႔ ႔Ƞ႒ࠀႢࠀｿ
+ Â擠Ä㑠袀ࢠ耂ᴀ႐᠀@䬖႒ᐠ뼐䧿ꊀ ኒŠ쒟À႔Ġ뼐诿႐᠀ۂᐡ뼐æ鑠ႂ̠ⓐౠ뼐˿Ⓜၠ႐᠀욟ÀӒၠꊀĠ뼂쇿ⓐၠꊀȠ뼂
+ @掰႐ሀ႒ᄀႤࠀ႔ @庰႐ጀ႒᐀Ⴀࠀ႔ @妰႐ᰀꒀ 耂ꬁႢࠀꒀ 耂ꠁꊀ 耂꜁ႂ倠@
+!Â㡠႐ሀ႒ᘠ႔ ႖ᤀ삟@ႚ 銰 뼄ꒀà꒠᠀뼒ꒀ!뼰뷿ｿꗾ႒Ġ銢 뼂뇿႒ᤀр
+  ﱿꚀᆀ뼈⋾⚄ᆀ҂Рꂀƀ뼊ỾႄᔠⳀ@߂⣄Š߆¢ˠ⟢㲃ࠠ⣂ˠ߄⣠Ơ߂¢ɠ႒ ⟢႐ᄀр䩧႔ကߢҢ၀⟢⒂᥀肂ﹿ뼂죾Ⴐᤀ⻂Š㢃
+"@繧ېТ@籧ېࠢ@穧ېఢ@硧ېဢ@癧ېᐢ@瑧ېᠢ@牧ېᰢႂ$⛀⠢⛀⛀⛀⛀⛀"⛀Т⛀ࠢ⛀ఢ⛀ဢ⛀ᐢ⛀ᠢ⛀ᰢ⛀ﰡ⛀•⛂␢ႄĠ잁
+ @桘႖ ӂ沠ⓐᰡ႐ሀｿ훿àᱡꒀࠀ뼚႐ሀｿ퇿Ӡ沠ⓐᰡｿގ႐ሀ႒⨠ӂ沠႖ Ôᱡ@啘ႰĠ잁
+ @བྷ႖က@㍇႐ကҠൠ႐ᬀ႒ሀ@㵘႔ကꒀࠀ耔ā႐ᬀ႒ଠ႔ ႖ @WႢĠꊀ 耄豈႐ᬀ⛀@႐ᰀ႒ሀ@硘
+`Âೠ誀ŀ뼂Ꞁрꒀ`耂܀ꒀ Âრ貀ŀ뼂Ꞁрꒀ 耂܀ꒀàÂᓠ貀ƀ뼂Ꞁрꒀà耲戀Âᣠꖀ 耲昀Â᳠ꊀ 耲騀ÂⳠꒀ 耲鰀ÂⳠꎀǠ耂⌀ꎀӠ耂笀ꊀà耂㠀ꊀ ǂРꂀ`뼂짿ꞀрꚀӀ耂ᄀꞀЀ耢Ȁ߸ဠǄఠꂀ 耂Ѐǂဠ
+ @戉႒ᤀۂఠႦࠀÄ끠ېဠꊀ 耂ࠀꒀà@刉႒ᤀۂဠႦࠀÄ졠ꒀà耄ࠀꂀ 耂܀㲃ῠۂ
+$1Ѐ@웰ᚖĠꊀ 耄㘀႘ᨀႚᤀ႐က႒＿႔$@뷰ᚖȠꊀ 耄ⴀ႘ᰀႚᬀ႐က႒＿႔$@듰ᚖȠꊀ 耄␀ߘ岠ႚᴀ႐က႒＿႔$@꯰ᚖȠꊀ 耄ᬀߘ撠ߚ悠႐က႒＿႔$@ꋰᚖȠꊀ 耄ሀᚖȠߘ沠ߚ梠႐က႒＿@駰႔$ꊀ 耄ऀߒ碠႐ကޔ@⃬ႰĠꊀ 耔̀
+ @냜Ҡࠠꊀ 耂␀႐ᐠ႐ᔀ႒ठ႔ఠ@叙႖ ꊀ 耂ᰀ႐ᐠ႔က႐ᔀ႒ᄠ@䯙႖ ꊀ 耂᐀႐ᐠ႔ጀ႖ᰀ႐ᔀ@䏙႒ሠꊀ 耂
+ @刐႒ሀۂ@Ⴀࠀ⟂ŀ䮿Ⴆ᠀ꊀؠ耂᠀႐ကŀ䚿Ⴂ頡ꊀР耂܀႐ကŀ䆿Ⴂؠꊀ̠耂ᨀ႒ሀ
+ @紁႒ကꊀ＿耂䔀ႰࠀꚀ`耂㈀႒Ġｿꣷ႐က႒ĠႢࠀｿ韷႐ကꒀ`耂⬀Ⴄࠀꊀ 耢⤀⛀@рᜑ'ĀႠࠀрᐑ႐ᄀᒂ郡ʐȠגǀҐࠀ@
+@Ä@ꂀȀ⟄䂂 ⟀⟂႐က႒ሀ႔᠀ɀ႖ᨀꊀ 耂㜀႐က႒က@砈႔†ꊀ 耢㈀Ⴐ ｿ맻႐ကꊀ 耒
+ )Āᖂ瀢႐ᐠנǀ႔┡@螽႒က銢 耂焀႒က႔⨡⓲@@廠႐ጀ႒ကⓐѠ႔⬡@姠႐ᘀӂѠⓀၠꂀ`耂唀ⓐ
+ @ޒႰࠀꚀ 耂ᬀ႒ᤀ႐ ｿ妹ߔ銲 耢ἀ႐Ԡɀ켆႒ ꊀ 耂∀⛐ᐠｿ႐ᤀ႔᠀ӂఠ႐ကÒ@@隉ႰĠ잁
+ @浾႘ ꊀ 뼢Ⴀ ႐ᄀ@ےѠꊀ 뼤Ⴀ @뱾႐ᄀ႒頣႘ࠀ႔$႐ᨀᒖठ@犎ႚ ꊀ 뼤Ⴀ @兿႐ሀ@ᷕ
+ @ꀝႚ Ꚁ`耂ᔀႠࠀꊀ 耢ጀ႐ကۂ@ꂀ`耂㈀Ⴂ ۔ᰠېఠےဠۖ@႘က@輝ႚ ꊀ 耂ᔀꒀ`耢Ԁۂ@႐က잁
+ @個႐ᨀɀ䌏႐ᔀｿ肸႐ᴀｿ纸႐ᰀｿ粸႐ᬀｿ窸႐ကｿ碸႐ᤀｿ皸ߐꒀ`耂ጀ
+@Ä@袀ʠ耒⨀Ⴐ Ꚁ 耂蠀Ⴌ ɀ⤃႐ᨀɀ鬂႐ᨀႰࠀɀ頂႐ᨀႤࠀɀ锂႐ᨀႦࠀɀ鈂႐ᨀႨࠀɀ輂႐ᨀႪࠀɀ谂႐ᨀ銠 耂欀႒᠀ӂ@႐ᄀÄᱠ႔ሀ႖ጀ삟
+ \tĀ႔ᆂ႐ נǀ႒က@獹Ⴐ ႒က႐ @潹႔뼐⣿⟀֪Š߈낿ꖀр뼒싿ҤҠ߂뢿ꂀ၀耂렀
+@Â鱠ꂀ`耂ሀ႐ᔀӒఠ삟@႔ᬀꊀ 뼂䯿ႂĠ뼐싿Ⓜဠ႒᐀ｿ銔Ðౠꊀ 뼲뿿Ⴂ 뼐䋿Ⴐ Ӑఠｿ쎔႒Ġꊀ 뼂㯿ႂĠ뼐닿Ⓜဠ颿/刅ｿ鷽֮든ۂၠꂀ`耂ЀႢ᠀잁
+ @팊႐᠀Ⴄࠀ@퀊႐᠀Ⴂࠀ@촊႐᠀Ⴀࠀ@숊႐᠀Ғᧀႚࠀ႔ሀڐᎀҖ聠ɀҘ!ҦᓀꚀᏀ뼚
+ !̀႐ठᒂ倣႒笠זǀ႔ഠｿ႘嘠ᒂ倣ߐנǀ႔堠ｿ킽႒က႖夠႔ကߐｿߒ잁
+ ðѠႬ 뼐茶Ⴆ ႒瀠႔†-̀႘렡ᖂ璣Ⴚ זǀｿႪ 뼐짾Ⴆ ႐℠႒瀠႔洠-̀뼐႘쀡႐℠႒瀠႔猠-̀႘ᖂ璣Ⴄ זǀｿႪ 뼐럾Ⴆ ｿ뷞ӐဠʐꊀԠ뼈틿Ⴈ ӄᐠꂀ 뼂컿
+ @㈇႖ ꊀ 뼲ꋿۂᐠ뼐鷿ꖀ ႐℠႒瀠႔†-̀뼐뗿႘켡뼐濾Ⴄ ႒瀠႔鬠-̀뼐拾႘訡
+ @ꡪӐఠꊀ 耄䄀႐ကｿ䳺႒㐠ꊀ 耂嬀႐က႐᐀႒ᘀｿޔꊀ 耂혀႒ᘀ႐ကŀ叾ߔꊀ 耂
+ Öౠｿ볢႔ 銢 耢ကӂ†⛀尠ꒀ 耂㌀႐ሀ⛐搠⛢怠ۂᰠ႐ 삟@႒᠀ꊀ 뼂훿႐ ӂ†袀Š耲ࠀ⛤搠ｿ柺႐᠀ꊀ 뼢췿႐ ⛤搠⛀尠ۂᰠ႒᠀삟@႐Ġ뼐쏿ꊀ ې倠ｿ쇑႒ 뼐濿ႂ䈠ႂᄠ⛤搠⛀尠⛂怠뼐뫿႐＿
+ Ö@႒ሀｿ蓾႐ᨀꊀ 耂儀႐ᨀﹿ茚גᯀ႔＠ۂР႒ሀÖѠｿ秾႐ᨀꊀ 耂䘀႐ᨀג᳀ﹿ眚ҠĠ뼰폿ۖР႐ᨀｿ滾႔ ꊀ 耂㬀႐ᨀۄРÂಠ
+`ÂӠꂀ`耲ጀÄӠꒀà耂ༀꚀ 耂褀႐ ⛪怠⛠尠⛴搠ۂᰠ삟@႒᠀銤 耂䄀Ⴆ Ⴌ ۆ鲠ÄӠꂀ 耢܀ҠĠÂ
+ /퐃ｿ֮ⷿ⟀ｿ㈑႐᠀႒ᰀꊀ 耂倀ႠࠀꚀǠ耂䠀Ꚁˠ耢Ḁ⟀Ⴘ 5Ԁᚂ베႐∠זǀ႒琠႔琠ﹿ趖႘
+ @朅Ӓ@႔ᬀႠࠀזᓀ႘ကגᏀﵿꏡ႐ᨀ႐ကגዀ႔䘠ﹿ僇ڰĠ႐ᨀ@騡ӒѠｿېѠꚀࠀ뼆႒᠀잁
+ @漈႖Ġꊀ 耂⨀႐᠀ﵿ㢌႒ᤀꊀ 뼒႐᠀႐ሀ@鴇႒᐀ꊀ 耂ἀ႐᠀ﵿຜ႒ةꊀ 耢ᬀႰ ﵿ벋႐ሀ⪑Ƞג
+@ÂრᢂƀংĀᢄƀ⟢䢿⏄@ڢ㰠Âᓠӄ@⟬䒿⟚䲿⟢傿ᢂƀংĀᢄƀڦ䀠Ⓞ@ӄÀÂᣠᢂƀংĀᢄƀڬ䐠ⓄÀׄ
+ )܀ᖂ䐠႐ကצǀ႔⨠ﵿ蟧႒ጀ銢 뼂႐ᤀﵿ႒ᄀꊀ 耂⬀Ꚁ 耂ḀႰᨀ႐ሀ႖က႘ᬀ႒᠀ﵿﭰ႔ᄀꊀ 耂ࠀᖂ䐠႐ᄀגǀﵿ䗧႔䈠잁
+ @ｎ႐ကޤꢿ႐ᬀ႒ሀﵿ뭻႔ ꊀ 뼂Ⴐ ﵿ႐ᴀ銢 뼆뷿ꖀĠ耄㘀ႠĠ耐ሀ႐ᬀ႒ሀﵿ豻႔ᄀꊀ 뼂
+ ;ࠀគꑠ႐Р႒餠႔礠זǀ႘ﵿ╏Ⴐ＿႐᐀គꑠ႔נǀﵿড႒က႐ጀ႒ကﵿ֡႔잁
+ Ò@ޠ梿ޔ@舥႐ကꊀ＿耂鈀ႴࠀⳀࠀ耐ⰀႲက耘ᬀꂀᓠꂀᏠ耒ༀ߂ò@Ꚁ`耂℀
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+GET /g.php HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\n
+GET /cdn-cgi/l/chk_captcha?id=%s&g-recaptcha-response=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+POST / HTTP/1.1\r\nHost: %s:%d\r\nContent-Length: %d\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\ncookie: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: close\r\n\r\nq=%s
+GET /cdn-cgi/l/chk_jschl?jschl_vc=%s&pass=%s&jschl_answer=%s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nReferer: http://%s/\r\nCookie: %s\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET %s HTTP/1.1\r\nUser-Agent: %s\r\nHost: %s\r\nAccept: */*\r\nUpgrade-Insecure-Requests: 1\r\nConnection: keep-alive\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n
+GET /%s HTTP/1.1\r\nHost: %s\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: %s\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: keep-alive\r\n\r\n
+operaton not initialized
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+%d.%d.%d.%d
+%d.%d.%d.%d/%d.%d.%d.%d
+IP Address:%d.%d.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/net/tcp
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

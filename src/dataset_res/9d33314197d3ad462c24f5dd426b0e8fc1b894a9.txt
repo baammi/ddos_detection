@@ -1,0 +1,154 @@
+=============================================================================
+========	BINARY ID :9d33314197d3ad462c24f5dd426b0e8fc1b894a9==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :1637
+SUPSCPECTED LINES COUNT :115
+SUPSCPECTED STRINGS COUNT (DISTINCT) :17
+SUPSCPECTED STRINGS WEIGHT :64
+SUSPECT STRING SCORE : [64 / 150] 42%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :1
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+/etc/hosts
+/etc/config/hosts
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+xyzw牰湩捴慨r牰湩獴瀀楲瑮i牰湩t栯浯⽥楦浲慷敲戯極摬琯浥⵰桳⼴捧ⵣ潣敲术捣振湯楦⽧桳氯扩昱湵獣愮浳琀楲楶污䰀1彟祳捳污彬捦瑮
+fork.c
+getpid.c
+getppid.c
+kill.c
+waitpid.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname_r.c
+connect.c
+socket.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+__socketcall.c
+sigprocmask.c
+inet_aton.c
+dnslookup.c
+get_hosts_byname_r.c
+inet_pton4
+inet_ntop4
+read_etc_hosts_r.c
+spec_flags.4024
+_string_syserrmsgs.c
+__read_etc_hosts_r
+__socketcall
+waitpid
+random
+connect
+numpids
+initConnection
+inet_pton
+__GI_random_r
+getpid
+getHost
+__libc_getpid
+rand_init
+__open_etc_hosts
+__dns_lookup
+random_r
+gethostbyname_r
+socket
+_string_syserrmsgs
+srandom_r
+__GI_srandom_r
+kill
+__GI_sigprocmask
+inet_addr
+connectTimeout
+__GI_kill
+rand_str
+__GI_gethostbyname_r
+__GI_inet_ntop
+fork
+rand_next
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+processCmd
+__GI_socket
+listFork
+srand
+getppid
+__get_hosts_byname_r
+__GI_inet_pton
+gethostbyname
+__libc_waitpid
+__GI_waitpid
+srandom
+__libc_fork
+__GI_connect
+inet_ntop
+__GI_inet_aton
+__GI_inet_addr
+rand_alphastr
+__libc_connect
+pids
+sigprocmask
+\t\t賴@ڸ@ࠐ@懣燸儝愐怜衣譅㋬儠戓爄㏬儱㈖褄惣灀Ḇꀃ\t懣煐Ḗ另戲愣焄僦‒愣愒戜懣然℠懣然戓爁∐懣燸儞拣父搓攣囧埨턝䄋\t凩ㄌḙꀑ\t懣燸儝愐愜戓懣燸儞搓攣턕䄋\t勩爁ḩ拣狸懣燸儝焁ም懣燸儝愐愜℘褁긍\t懣燸儞℘褅懣燸儞戒∐凩怓縸濣伦滶\v\tڸ@ِ@
+\t\t\t\t\t\t\t恣⁋⁛♨贘젃恃ぬ贵㕈ㅧ痿輑捓䘁Ŝ輄珿♨贆—Ŝȼ䘐—迺․\v\t\v恃젃贅⌉䌐Ŝ盿迻—甁挃恓적輋㙳贄젂贬怳ꂪ\t赈怳ꂶ\t젂趃怳꾡\t\t捓ㅧ痼謻䘉䘁Ş輄珸♨贆‖ŞȾ䘐‖迺…\v\t\t\t\t\t\t\t\t\t\t\t\t痼权Ş看☨捓贂珼‖ŞȾぶ‖跺…甃㐀矶褃Ŝぶ跼—\v\t\t\t\t\t\t\t痼挃⌙扃〰爟贏∙Ş전晓盼贄猈젘贆‖Şݮ〰‖迺⁶⾆㔌⾖愃⾦痤⾶偐燠卑噒坓塔奕婖字ǃᄱᅢᅳᆄ痠ᆕㄠᆦ迬ᆷ怓毶㔘櫶
+\t\t\t\t\t\t晓痾扃盼爇ŝͭ〦―跺‵ꁂ\t\t\t\t挃⌙扃〰爟痾贅∙猂ŝ〰迼―⾆㔌⾖愃⾦痢⾶⿆恕燠捖晖䀨杖‽桖⍭楖♽橖➍歖⢝汕⦭ǃ⪽ᄱ
+\t\t癪ᨊ㨪婊抓揢狸慃圡猆ꁃ燼抓揢狴慃嘢猅ꀹ燸抓揢狰慃圣猄ꀯ燴抓揢独慃嘤猃ꀥ燰抓揢狨慃圥猂ꀛ燬抓揢狤慃嘦猁ꀑ燨抓狠圧慃ꀉ燤抓狜揢慃嘨燠珿圧ᅧ嘦ᅶ圥ᅥ嘤ᅴ圣ᅣ嘢ᅲ圡ᅡ珸昢⌸ⅲ狠迫燠ᅧꁞ櫢䰭➩毋㜖⊙捃笠贇爄윂żģ\t\t㠬ᰌꀝ狴櫢唢捃堡稂ꀭ珼狰櫢圣捃唢稁ꀝ珸独捃嘤圣ꀏ珴狨櫢堥捃嘤竿珰懋散䢽圣䔝慓
+\tÔÐ✐Ȁ´Ø\t㋜@唈@㊴@敌@㽒@㽄@ꖘA㽄@쨸A㽒@䒸@晈@晨@⨀@㕬@銗叮㋬Į労ㄸ厸燿爄ᬙȗĚㄶ贬ᬙḗꀘ\t
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+66.172.10.124
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

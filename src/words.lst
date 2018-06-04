@@ -2,6 +2,8 @@ socket;5
 tcp;5
 udp;5
 dns;5
+post;3
+url;3
 http;5
 kill;5
 rand;5
@@ -10,6 +12,8 @@ pid;3
 connect;5
 telnet;5
 host;5
+sock;2
+addr;3
 ping;5
 icmp;5
 flood;5
@@ -26,6 +30,9 @@ target;3
 bot;4
 bin;2
 usr;2
+dev;2
+send;3
+root;2
 local;2
 fork;4
 attack;5
@@ -36,3 +43,5 @@ notice;2
 gre;5
 resolve\.conf;5
 .{100,};1
+watchdog;5
+user.*agent;5

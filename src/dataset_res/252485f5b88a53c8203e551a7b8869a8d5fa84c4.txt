@@ -1,0 +1,190 @@
+=============================================================================
+========	BINARY ID :252485f5b88a53c8203e551a7b8869a8d5fa84c4==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :1098
+SUPSCPECTED LINES COUNT :149
+SUPSCPECTED STRINGS COUNT (DISTINCT) :26
+SUPSCPECTED STRINGS WEIGHT :98
+SUSPECT STRING SCORE : [98 / 150] 65%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :1
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+NOTICE %s :Unable to resolve %s\n
+NOTICE %s :Unable to comply.\n
+/usr/dict/words
+PRIVMSG %s :>bot +std <target> <port> <secs>\n
+PRIVMSG %s :[STD]Hitting %s!\n
+PRIVMSG %s :[STD]Done hitting %s!\n
+PRIVMSG %s :Killing pid %d.\n
+PRIVMSG %s :>bot +unknown <target> <secs>\n
+PRIVMSG %s :[UNK]Hitting %s!\n
+PRIVMSG %s :[UNK]Done hitting %s!\n
+PRIVMSG %s :Nice try...\n
+NOTICE %s :I'm having a problem resolving my host, someone will have to SPOOFS me manually.\n
+PRIVMSG
+PING
+/etc/rc.d/rc.local
+STD IRC Bot
+NICK %s\nUSER %s localhost localhost :%s\n
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+mHoIJPqGRSTUVWXL\\s]Yrp|{nzt[D&'()*+,-./0123456789:;<=@A%$FuvwxyE}~l
+No such process
+Interrupted system call
+No child processes
+Too many open files in system
+Read-only file system
+Level 2 not synchronized
+Machine is not on the network
+Name not unique on network
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Socket type not supported
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+Transport endpoint is already connected
+Transport endpoint is not connected
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+?/sys/devices/system/cpu
+/proc/stat
+/proc/cpuinfo
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+/etc/hosts
+libc/sysdeps/linux/sparc/fork.S
+getppid.c
+getpid.c
+waitpid.c
+kill.c
+spec_flags.4728
+_string_syserrmsgs.c
+inet_makeaddr.c
+gethostbyname.c
+gethostbyname2.c
+hoste.5349
+bind.c
+connect.c
+socket.c
+__malloc_largebin_index
+rand.c
+random.c
+randtbl
+random_r.c
+random_poly_info
+__rt_sigreturn_stub
+__sigreturn_stub
+__socketcall.c
+sigprocmask.c
+inet_aton.c
+gethostbyname2_r.c
+inet_pton4
+inet_ntop4
+dnslookup.c
+get_hosts_byname_r.c
+gethostbyname_r.c
+gethostname.c
+read_etc_hosts_r.c
+__res_sync
+_string_syserrmsgs
+__local_nameserver
+__read_etc_hosts_r
+__socketcall
+waitpid
+random
+connect
+numpids
+inet_pton
+__GI_random_r
+getpid
+killsec
+mfork
+__open_etc_hosts
+__dns_lookup
+random_r
+gethostbyname_r
+socket
+srandom_r
+__GI_srandom_r
+spoofs
+udpTry
+kill
+bind
+__GI_sigprocmask
+inet_addr
+__GI_gethostname
+spoofsm
+__GI_kill
+gethostbyname2_r
+rand
+__GI_gethostbyname_r
+_PRIVMSG
+__GI_inet_ntop
+fork
+__GI_gethostbyname
+__GI_random
+__GI_fork
+__GI_getpid
+inet_aton
+__GI_socket
+srand
+getppid
+host2ip
+__get_hosts_byname_r
+__GI_inet_pton
+gethostbyname
+gethostname
+__libc_waitpid
+__GI_waitpid
+srandom
+__libc_fork
+__GI_gethostbyname2
+msgs
+__GI_connect
+inet_ntop
+gethostbyname2
+__GI_inet_aton
+_PING
+__GI_bind
+__GI_gethostbyname2_r
+__GI_inet_addr
+flooders
+__libc_connect
+pids
+sigprocmask
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+178.156.202.2
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================

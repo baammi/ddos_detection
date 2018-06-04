@@ -1,0 +1,141 @@
+=============================================================================
+========	BINARY ID :a27377f8e0e154b87b0c26edffdd171cb9cc0003==================================================
+================================================================================
+================================================================================
+========	STRINGS SUMMARY : =====================================================
+================================================================================
+TOTAL STRINGS COUNT :1017
+SUPSCPECTED LINES COUNT :101
+SUPSCPECTED STRINGS COUNT (DISTINCT) :21
+SUPSCPECTED STRINGS WEIGHT :86
+SUSPECT STRING SCORE : [86 / 150] 57%
+USER AGENTS STRINGS COUNT :0
+STATIC IPs STRINGS COUNT :0
+DYNAMIC IPs STRINGS COUNT :0
+================================================================================
+========	STRINGS DETAILS : =====================================================
+================================================================================
+================================================================================
+========	SUSPECTED STRINGS : =====================================================
+================================================================================
+ HTTP/1.1\r\nUser-Agent: 
+\r\nHost: 
+http
+/sys/devices/system/cpu
+/proc/stat
+/proc/cpuinfo
+attack.c
+attack_app.c
+attack_gre.c
+attack_tcp.c
+attack_udp.c
+killer.c
+local_bind.4574
+rand.c
+setup_connection
+getppid.c
+kill.c
+sigprocmask.c
+inet_makeaddr.c
+bind.c
+connect.c
+socket.c
+__malloc_largebin_index
+fork.c
+getpid.c
+__rt_sigreturn_stub
+__sigreturn_stub
+__socketcall.c
+inet_aton.c
+register-atfork.c
+fork_handler_pool
+__fork_generation_pointer
+__fork_handlers
+__fork_lock
+__socketcall
+__getpid
+attack_gre_eth
+attack_udp_generic
+connect
+attack_udp_plain
+attack_udp_vse
+getpid
+attack_get_opt_ip
+attack_tcp_ack
+rand_init
+socket
+watchdog_pid
+__libc_disable_asynccancel
+killer_realpath_len
+killer_realpath
+scanner_kill
+attack_init
+kill
+bind
+LOCAL_ADDR
+__GI_sigprocmask
+inet_addr
+__GI_kill
+attack_tcp_stomp
+scanner_init
+killer_init
+fork
+rand_next
+attack_udp_dns
+__GI_fork
+__GI_getpid
+inet_aton
+scanner_pid
+__GI_socket
+util_local_addr
+getppid
+attack_parse
+__libc_enable_asynccancel
+attack_tcp_syn
+attack_app_http
+attack_get_opt_int
+killer_kill_by_port
+__libc_fork
+attack_gre_ip
+killer_kill
+attack_get_opt_str
+killer_pid
+__GI_connect
+scanner_rawpkt
+pending_connection
+checksum_tcpudp
+__GI_inet_aton
+__GI_bind
+__fork
+__GI_inet_addr
+rand_alphastr
+__libc_connect
+sigprocmask
+"@갟႐⬠@ꨟ႐Ⱐ@ꠟ႐ⴠ@ꘟ႐⸠@ꐟ႐⼠@ꈟ႐〠@ꀟ႐ㄠ@鸟႐㈠@鰟႐㌠@騟႐㐠@頟႐㔠႐ᘀ@Ｐ႒䐬㼃ႂ쁢
+ @褛႐⸠Ⴂ ႔ࠀ֠ᅀ႒᐀@ﬞ႐ကꊀ＿耂刀႒ ۂӠꂀѠ耔䴀႒ @稛႐⸠႒᐀႔ࠀ@႐ကʲᄀ䷂᥀ꂀ
+ @㤛႐⸠֠ᅀ႔ࠀ႒᐀@갞႐ကꊀ＿뼲듿ۂӠ႒ @⸛႐ⴠ႒᐀႔ࠀ@ꈞ႐ᔀꊀ＿耂鐀႒ @┛႐ⴠ႒᐀႔ࠀ@餞႐ᔀ䷂ࡀᢂ
+ @묘႐㘠႒ࠀ@唛Ґᑠ@쀘႐㘠뼐쳿႐ᰀ@႐㜠႒ @꼘႐㜠႒ࠀ@䤛Ґᑠ@되႐㜠뼐샿႐ᰀタ႒Р⟀າ｠@㰪႐ᤀຶ￠႔Ƞ႖ ႒ᰀႬࠀｿ⇷႐ᬀ!㼀⿐
+ @렣9ကޤ킿ަ킾ް)耄+䀁ꊀ＿耂唀Ⴂࠀ႒̠@蘙႔ ႒Рኔᰀ@舙႐ᄀႄȠ߂㟄⢅
+ @씊႐ؠ႒ࠀ@弍႐ᄀ@儍႐ᄀ႒᐀@娍ʐᄀ@䰍႐ᄀ႒ Ⴀࠀ@뜊႐ࠠ႒ࠀ@儍Ґᄀ@䌍႐ᄀ႒ᴀ@䰍ʐᄀ@㸍႐ᄀҒ
+ @႐ؠ႒ࠀ@蘌႐ᘀ႒ကʢᘀ@舌႐ᄀ႒ Ⴀࠀ@႐ਠ႒ࠀ@笌Ґᄀ@႐ؠ@႐ਠ႐ᘀ@椢႒ ꊀ＿耂ⴀႤࠀ@Ȋ႐㸠႐ሀ႒ᜀ@ꈢ႔"銠 耄㐀႒ @줉႐㸠႒ Ⴂࠀ@씉႐㸠@同
+ @ԉ႐㬠@锡႒Ƞꊀ＿耂ကႠࠀ–ᔁ႐ကኢգޔ@뼍ኒѣ႐က႒ᄀ@묍႔ @ጡ႐ਠ뼐ﯿ႐က႒ @႐㰠@缡႒Ƞꊀ＿뼒Ⴀࠀ@႐㬠@႐㰠@⨝႐ 
+================================================================================
+========	USER AGENTS STRINGS : =====================================================
+================================================================================
+================================================================================
+========	STATIC IP ADRESSES : =====================================================
+================================================================================
+================================================================================
+========	DYNAMIC IP MASKS : =====================================================
+================================================================================
+================================================================================
+========	/proc FOLDER ACCESS : =====================================================
+================================================================================
+/proc/stat
+/proc/cpuinfo
+================================================================================
+========	HISTORY TEMPERING : =====================================================
+================================================================================
+================================================================================
+========	AUTOINSTALL COMMANDS : =====================================================
+================================================================================
